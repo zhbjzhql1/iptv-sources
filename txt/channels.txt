@@ -1918,7 +1918,7 @@ Music,#genre#
 [HD]山西影视,https://epg.pw/stream/f96d8634d466c4f2220b1c85e0997b47a2c07a9d0771baafb66f7151b3d75ef8.ctv
 [BD]广西影视,https://epg.pw/stream/8cfcbd7359b48553193f700bbb8ee80def1b0e954f3f6721a1b331a38a6f9f0a.m3u8
 [BD]欢笑剧场 8m,https://epg.pw/stream/4e9f40b3cb33dc69757ebed15001d939ce2a2410120779c0aac6694b3d8c8581.ctv
-[SD]河北|武汉电视剧,https://epg.pw/stream/456f2251ba309946a1b4954299fa7941150642941c69ef7224f888c4803834df.m3u8
+[VGA]河北|武汉电视剧,https://epg.pw/stream/456f2251ba309946a1b4954299fa7941150642941c69ef7224f888c4803834df.m3u8
 [SD]河北影视,https://epg.pw/stream/f927788e08949e5333ad97affc4fb4b9649bef97948e0794f1ec0936054bd8c3.m3u8
 [SD]河北影视剧,https://epg.pw/stream/c052b9f414bbbf9c00616f9184da6d11fa730d903171e2ae8d1ef1b80538f600.m3u8
 [BD]福建电视剧,https://epg.pw/stream/a49defbabc41f05d688a9b69b9e46ab330225b1ebb222041470bafb3e4610a9e.ctv
@@ -1977,7 +1977,6 @@ Music,#genre#
 [BD]newtv农业致富,https://epg.pw/stream/bd6594ad39864c74c31e049db66c2249843bda5fb3a1f3f943d25d4a0c09c099.m3u8
 [BD]七彩戏剧 8m,https://epg.pw/stream/087943e13b386f3d4c693b791bd8192d0a6dfad55d58a12a2f73b2e6b8a86830.ctv
 [SD]三沙卫视,https://epg.pw/stream/fc49c564c870b78b1a3655d913ca8a4fe4e31f58db2da34caedc0761a3e51256.ctv
-[SD]优优宝贝,https://epg.pw/stream/03fc4a873abddccb54f01763ae6695d071005b950c8aaea262d401d4618b6dcd.ctv
 [SD]兵团卫视,https://epg.pw/stream/3c1a2c4de27ecb2b3479e6b5483b2c5aba19adc58b3fddfdb03d4a016f7d4efa.ctv
 [BD]北京文艺,https://epg.pw/stream/f9426f635fe4e7f6fc12fdd2ab39f57196afec9428443e600a10c566d8212209.ctv
 [BD]北京科教,https://epg.pw/stream/d9607dea2f8e18d2582700bb5a7943c130bfc731c57ae9615971865692191e70.ctv
@@ -2021,7 +2020,6 @@ Music,#genre#
 [BD]福建旅游,https://epg.pw/stream/980b251972b0f877c229e211c267bb7740cd9b3565fe0e0dc249c81ab253bcf8.ctv
 [BD]西宁生活服务,https://epg.pw/stream/5c7b52287d30bffb55e79759cd3747452ff330381b7de0821457320adbd3013c.m3u8
 [HD]象山新闻综合,https://epg.pw/stream/19c5142ea270b459d4f7b4bd6ee40d94f774a61bfc3ee98a4a41f31e4a2956f6.m3u8
-[SD]车迷频道,https://epg.pw/stream/56f9be5971d62d8cc3e6df1633e0776d764eaabbc1ecc9b3e63dadd78c1e970b.ctv
 [SD]青海|西宁生活,https://epg.pw/stream/ebb284bdfa9c46f0d32785abba28b9ceff5efefde0e722eea947bf5b3a71b377.m3u8
 [HD]青海|青海综合,https://epg.pw/stream/5cb777ff37d8dd005b5912ce19a3c229a89692c66f661e67996f46b1cea13138.m3u8
 
@@ -2065,7 +2063,7 @@ Music,#genre#
 [BD]浙江少儿,https://epg.pw/stream/61763493836696939da31f5856221e08038a6e814dc1fe983cd0d335b284104e.m3u8
 [BD]炫动卡通 8m,https://epg.pw/stream/810098e2dea3a2a4d03e1d9df4ab5d8fcf4ae9d9c1362207552ab5cdcc804eb3.ctv
 [BD]福建少儿,https://epg.pw/stream/08f86e8b78619dbae76929a5f7e3aecc4c784a0542bc747dd822a138e679e28c.ctv
-[SD]金鹰卡通,https://epg.pw/stream/1c8b5cf46200851398c52c4355d49b4ef49fab78c2a0f0c0b69d1669f4792080.ctv
+[SD]金鹰卡通,https://epg.pw/stream/f1aea4946eefe87448db22e01529ab282370435f61d577cfc0e5c0a34b3da54f.m3u8
 [BD]云南少儿,https://epg.pw/stream/a83a92e245f1cd9fde9b4051bf2d6c0e74090d4e3fcf6f68e34a2ac9ecd8c010.m3u8
 电影,#genre#
 [VGA]cctv戏曲,https://epg.pw/stream/ec6ed8646b8ee0dcd7f829c483b8e5e8664a0ace5c98604c943a588c80301e77.ctv
@@ -2369,7 +2367,7 @@ CETV-4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3
 浙江钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 陕西频道,#genre#
-陕西新闻资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8
+陕西新闻资讯,http://[2409:8087:7001:20:3::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8
 陕西都市青春,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8
 陕西生活频道,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8
 陕西影视频道,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/1.m3u8

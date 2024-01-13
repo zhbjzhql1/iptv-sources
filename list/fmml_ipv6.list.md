@@ -127,7 +127,7 @@
 | 121 | 浙江民生休闲 | [浙江民生休闲](https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8) |
 | 122 | 浙江经济生活 | [浙江经济生活](https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8) |
 | 123 | 浙江钱江频道 | [浙江钱江频道](https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8) |
-| 124 | 陕西新闻资讯 | [陕西新闻资讯](http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8) |
+| 124 | 陕西新闻资讯 | [陕西新闻资讯](http://[2409:8087:7001:20:3::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8) |
 | 125 | 陕西都市青春 | [陕西都市青春](http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8) |
 | 126 | 陕西生活频道 | [陕西生活频道](http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8) |
 | 127 | 陕西影视频道 | [陕西影视频道](http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/1.m3u8) |
@@ -185,4 +185,4 @@
 | 179 | 家有购物 | [家有购物](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001244/index.m3u8) |
 | 180 | 快乐购 | [快乐购](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001368/index.m3u8) |
 
-Updated at **Sat Jan 13 2024 20:15:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jan 13 2024 22:14:18 GMT+0000 (Coordinated Universal Time)**
