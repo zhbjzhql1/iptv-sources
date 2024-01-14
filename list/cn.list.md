@@ -11,7 +11,7 @@
 | 5 | [VGA]cctv11 | [VGA cctv11](https://epg.pw/stream/6ba4b8f02bff74ce5171e23abaeba2663203fa82ab49744698d429566f706afe.m3u8) |
 | 6 | [BD]cctv12 | [BD cctv12](https://epg.pw/stream/06025da15ba23cad6264166f6216c1cfb7f9bd2e1e759e6eab92ed6fb62f7daa.m3u8) |
 | 7 | [SD]cctv13 | [SD cctv13](https://epg.pw/stream/40a9e2982bc945aca7ceebc0664c69c3da53d8b7169e7edee6383656ab72004b.m3u8) |
-| 8 | [BD]cctv14 | [BD cctv14](https://epg.pw/stream/81b7797c31f3ca9a91e207b707f88027d93cf50d35999fc2e33c24e9bf30d709.m3u8) |
+| 8 | [BD]cctv14 | [BD cctv14](https://epg.pw/stream/c375661a94c310dd112505c98740c9917785676f84443adf5246edaa1d5de485.m3u8) |
 | 9 | [BD]cctv-15[ipv6] | [BD cctv-15 ipv6](https://epg.pw/stream/037c66158088f065939b1687b2a0cde6f83c5353ad6db4a0f6d08d3ecf63bbe2.m3u8) |
 | 10 | [BD]cctv16 | [BD cctv16](https://epg.pw/stream/3d549f839d8441032ab1a90e8897e7384687d7b39cced4f60ea3e14e436868e9.m3u8) |
 | 11 | [BD]cctv17[ipv6] | [BD cctv17 ipv6](https://epg.pw/stream/dddefc79612b67b3cf82b2c6e138c410f87628a60ce50a269f6e8dec056c23a8.m3u8) |
@@ -42,7 +42,7 @@
 | 36 | [BD]newtv武博世界[ipv6] | [BD newtv武博世界 ipv6](https://epg.pw/stream/6d019e50be5915ce372a1c740b953edfb2ff511cf2ae7976e4d5343b037784ee.m3u8) |
 | 37 | [BD]rt documentary | [BD rt documentary](https://epg.pw/stream/ea7a33d76c07f81ad5b6c6aceaecdb197a95b0a7c231fd7ad62ffc6238c8db95.m3u8) |
 | 38 | [VGA]万州科教 | [VGA 万州科教](https://epg.pw/stream/aff41d9171e19270999335d0346c0dac4a73f76a47f63489ce6e69101b59416a.m3u8) |
-| 39 | [VGA]三明新闻综合 | [VGA 三明新闻综合](https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8) |
+| 39 | [HD]三明新闻综合 | [HD 三明新闻综合](https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8) |
 | 40 | [BD]上海教育 8m | [BD 上海教育 8m](https://epg.pw/stream/8cb39eb80ccfc6035363055a280a0bc32c63a139c055c79b7aace8e0811ade14.ctv) |
 | 41 | [BD]上海纪实 8m | [BD 上海纪实 8m](https://epg.pw/stream/f28c3daae3e7149711c5c045d860b686d12acede278a4e329c86780a264c210e.ctv) |
 | 42 | [BD]上海都市 8m | [BD 上海都市 8m](https://epg.pw/stream/5b1c2a61c3e3111ac288df9a93f89de031da574fb739662b0a89e579ea0b661d.ctv) |
@@ -158,4 +158,4 @@
 | 152 | [SD]黑龙江公共农业 | [SD 黑龙江公共农业](https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8) |
 | 153 | [BD]龙江卫视[ipv6] | [BD 龙江卫视 ipv6](https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8) |
 
-Updated at **Sun Jan 14 2024 06:22:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jan 14 2024 08:18:40 GMT+0000 (Coordinated Universal Time)**
