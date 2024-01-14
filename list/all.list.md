@@ -1690,4 +1690,4 @@
 | 1684 | [BD]龙江卫视[ipv6] | [BD 龙江卫视 ipv6](https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8) |
 | 1685 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Sun Jan 14 2024 16:19:25 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jan 14 2024 18:19:39 GMT+0000 (Coordinated Universal Time)**
