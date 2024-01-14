@@ -2,7 +2,7 @@
 [VGA]cctv戏曲,https://epg.pw/stream/ec6ed8646b8ee0dcd7f829c483b8e5e8664a0ace5c98604c943a588c80301e77.ctv
 
 综合,#genre#
-[HD]cctv-4中文国际,https://epg.pw/stream/e9df8fe337dd6bacbf98516a34c0b0c94b3d2a02339529dea3de3769add35fc9.m3u8
+[SD]cctv-4中文国际,https://epg.pw/stream/e9df8fe337dd6bacbf98516a34c0b0c94b3d2a02339529dea3de3769add35fc9.m3u8
 [SD]cctv-4中文国际,https://epg.pw/stream/c3b4c0fa59357628b823a008e742caa5e3ea18df81216adbc62f3aa7afe556f0.m3u8
 
 其它,#genre#

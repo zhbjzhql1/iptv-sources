@@ -2,8 +2,8 @@ Sport,#genre#
 [BD]hmongusa tv,https://epg.pw/stream/5effa9c47e2905097e172b4b68ad7b55f332ed497b7dade937d44da8eeb8e0f8.m3u8
 [BD]swamiji tv australian,https://epg.pw/stream/83b0529a196db4678bacb41faf3d6e43a41d1f67045ef8aa1f7ab31354a88e9f.m3u8
 [HD]ASSP,https://epg.pw/stream/c74c503a8dcec82333bfc45eb8581e7c4e6acb0b9f5c71e8dac04662d9e8905d.ctv
-[BD]ASSP3,https://epg.pw/stream/39d7a0e1efeadae55df283716c9dfaa7746e497d79c2089a6fe8eaf573be7ed2.ctv
-[HD]ASSP4,https://epg.pw/stream/0f457766080b4073300e470264804c986b8b1b8a9e8b4b1f400da0080bc3ab42.ctv
+[HD]ASSP3,https://epg.pw/stream/39d7a0e1efeadae55df283716c9dfaa7746e497d79c2089a6fe8eaf573be7ed2.ctv
+[HD]ASSP4,https://epg.pw/stream/1d3e9499cfa413bb5b2aa1409c7b16c281c5702f8008e4b535975b7dac78dbc2.ctv
 [SD]ASTROCRICKET,https://epg.pw/stream/96eaff41d11f7980c892cbeb3d1c3b2081fa7e2ea74dbb4f412453e8f2333ec4.ctv
 [BD]on sports+ hd,https://epg.pw/stream/629a301e710c60ffc7d4ee1420a84546b1cd50e51ac8648ac6c06b81a530e759.m3u8
 [HD]ASSP2,https://epg.pw/stream/4549f42e0edfc73b7c4a69ce6daff98762424bc4d0081b613547061cca83a79a.ctv
@@ -118,7 +118,6 @@ Sport,#genre#
 [HD]setanta sports hd_,https://epg.pw/stream/e88c4cd3854ee0a4f7563794f96d806acde4f565ecee241f20462f5e1c9a7290.m3u8
 [BD]sky sport f1 uhd,https://epg.pw/stream/51f596042c7612a6ae42765d83258d035ea59c03640823aec8f9e93ecadc04de.ctv
 [HD]sky sport pl,https://epg.pw/stream/6d6de82973b4af30a7ff519b5669ec6ba87315fa30ae28e7fd337269844d7e10.m3u8
-[HD]skysport f1,https://epg.pw/stream/fb0bb4f8c5006b321aa73f310ae0fc555c75cb0133a518fd5c109fc7d2058c79.ctv
 [HD]sport club,https://epg.pw/stream/f56c508acac01b299ef869ac175f82a0b28e71e7bc511b108ffb58ebd18914e3.m3u8
 [BD]sport tv 3,https://epg.pw/stream/8652d2d016ac773ed954c166e99989e77efb955c136e13544413ac34ae3647af.ctv
 [SD]sport1,https://epg.pw/stream/b5dda13e24860830ea601c88935169dbd460917028d240dcf68bf8c968dfcc16.m3u8
@@ -145,6 +144,7 @@ Sport,#genre#
 [HD]ช่อง fox sports sun,https://epg.pw/stream/6e29c1c283b0f5bb11f98c9d291fd088296bfcf0d090d6f7820ddbdcdc2a773d.m3u8
 [HD]ช่อง golf channel,https://epg.pw/stream/e5c5bb96c0c4d84ca68d542f17a0a1de0fa73d61a4394ef58e6fb639aac00393.m3u8
 [HD]ช่อง red bull tv,https://epg.pw/stream/d03ce6ed52d1adaaf8bce62475e916fac2139d9eb6a57dbdd251dae67ea7a194.m3u8
+[HD]ช่อง sky sports f1,https://epg.pw/stream/89c9b910d3bcb96369eb03b6ec91db78ea30bc51aa30ac0d9a36da221c61601f.m3u8
 [HD]ช่อง sky sports golf,https://epg.pw/stream/795e5fb77aa2594993009f68a01ae2b98bf2dd8f0a04363b56e484a87508df98.m3u8
 [HD]ช่อง sky sports main event,https://epg.pw/stream/b9fc0ef3a2f44bd14068f7517f99f95f218cc14ae86bb16156d407fdc379eb4c.m3u8
 [HD]ช่อง tsn 1,https://epg.pw/stream/90850035fb27d6b760a4be6a6ce8d02c9655dc22d79a657d5cf361342d9cb00c.m3u8
@@ -162,14 +162,14 @@ Sport,#genre#
 [SD]枣庄新闻,https://epg.pw/stream/7996424bc3c1787a3b73efd84dac13f864e07b3bff8353ccfac13dc3f465bb25.m3u8
 [VGA]武汉文体 (480p),https://epg.pw/stream/b5e5c2bf78a8bed49158096472f899ffe30bc2a0ca4ac0471778b117308ec49b.m3u8
 [BD]福建体育,https://epg.pw/stream/d554cfc516cbeadc65a4bb631b464fd6fe6cb5cb844851bef27c5edc0681ec45.ctv
-[HD]纬来体育,rtmp://9sv2.mine.nu/sat/tv721
+[VGA]纬来体育,https://epg.pw/stream/65161be2ecd7c7b2e054dbac30922b2673b4eff6497b77c71bb81215aa826cc4.m3u8
 [HD]钓りビジョン,https://epg.pw/stream/83534a1157dfd15901538e48a13c3ae032b2e4e52700f6ef9124b1d653d41565.m3u8
 [BD]电竞天堂 8m,https://epg.pw/stream/daa0fdadf20e75c5ecb693f2ee2f015c9a24c180de3fb5f88ff9d874bab9c113.ctv
 [BD]5+体育赛事,https://epg.pw/stream/086db2bb0313ea69b64e6c5241778b8b5933b629e4bd09ecab5e744b122ed865.m3u8
 [BD]魅力足球 8m,https://epg.pw/stream/5c6c71d736c0da318cb2bfc204fa6b6178c538be7662570d3c3c736759758f38.ctv
 
 Generic,#genre#
-[BD] WOWOW Prime,https://epg.pw/stream/56a1c9ec1a9ec7f0d9bf283980fe7a4aacb558ca254ce0d436d104a24f1d9255.ctv
+[HD] WOWOW Prime,https://epg.pw/stream/56a1c9ec1a9ec7f0d9bf283980fe7a4aacb558ca254ce0d436d104a24f1d9255.ctv
 [HD]10 channel (720p),https://epg.pw/stream/d5bb634bee3ebbcd779aacebad5f2c8603b7901f12a297fcab705629bb8b448b.m3u8
 [BD]12 канал,https://epg.pw/stream/b9c109cae759459031b112f93ed80cf69420d53b8ea940f50410cb7590c4f977.m3u8
 [BD]24 kitchen ¹⁰⁸⁰ᵖ,https://epg.pw/stream/b0cada1cdc95581f93f442d9c72c497fdc55a531c970d4f1de0b58fd7614703f.ctv
@@ -201,7 +201,7 @@ Generic,#genre#
 [BD]cctv1[ipv6],https://epg.pw/stream/3415b8e289adbdbd4835bbdcd1a9396edbadfb65f276fcece6542d6a44a6605c.m3u8
 [BD]cctv12,https://epg.pw/stream/06025da15ba23cad6264166f6216c1cfb7f9bd2e1e759e6eab92ed6fb62f7daa.m3u8
 [BD]cctv4k超高清[ipv6],https://epg.pw/stream/14061ea886df6edfb76d8015ef8df852acbce8d4d862909db2279d3b3387cd9c.m3u8
-[HD]cctv-4中文国际,https://epg.pw/stream/e9df8fe337dd6bacbf98516a34c0b0c94b3d2a02339529dea3de3769add35fc9.m3u8
+[SD]cctv-4中文国际,https://epg.pw/stream/e9df8fe337dd6bacbf98516a34c0b0c94b3d2a02339529dea3de3769add35fc9.m3u8
 [SD]cctv-4中文国际,https://epg.pw/stream/c3b4c0fa59357628b823a008e742caa5e3ea18df81216adbc62f3aa7afe556f0.m3u8
 [HD]chile channel,https://epg.pw/stream/f4b420136e3d2ce8a6cafcd3d2777a113dc0ba5bd9061973b2ad6a04513a1b57.m3u8
 [BD]eztv1台,https://epg.pw/stream/3a926e192de7a12933f1ee51ef9a94bda57ca0af654ba37abed529211e06a5d3.m3u8
@@ -487,7 +487,7 @@ Generic,#genre#
 [BD]tv 1,https://epg.pw/stream/367e29232a0942ad8198cb262de0b770703a3d273b0a66a87d1b2fa8d18710d3.m3u8
 [VGA]tv 1 (720p),https://epg.pw/stream/8720fdb7116fff749168345fc25cc9b5ade55ae857e3d2621c2bf00c30cffdc2.m3u8
 [BD]tv aparecida,https://epg.pw/stream/14263a5b0cd0582969adb862b45e4815f003d74babf1b1cd2a4d2b56266101aa.m3u8
-[SD]tv brasil,https://epg.pw/stream/98508e21fdc648ea13ff221f28750af9da787f693f3a16afd25ba632e64c35f2.m3u8
+[SD]tv brasil,https://epg.pw/stream/f7f00c8ecd3f21659d456ac614cc5247c4b05b84a57099720cb19f1a99ffc92e.m3u8
 [HD]tv clube,https://epg.pw/stream/905e38ed1df81593fbf94e422ffc956fb03b5eb6f04b2f4138c77135fea61ff3.m3u8
 [VGA]tv gazeta,https://epg.pw/stream/3004a3cf6c7aeb5951170f7a794673fb6fe79dfda67a7bc71ddcfad5322b3ed7.m3u8
 [BD]tv zoom (720p),https://epg.pw/stream/aa0e83a1f75301af9b377a0d4557c71311eadbcdacb606eda2ad36677faaee20.m3u8
@@ -544,7 +544,7 @@ Generic,#genre#
 [BD]上海都市 8m,https://epg.pw/stream/5b1c2a61c3e3111ac288df9a93f89de031da574fb739662b0a89e579ea0b661d.ctv
 [VGA]东森 超视,https://epg.pw/stream/19cb39b5599a5ea2cde824c81f55696b8f505d8ee3c6511ea3f37ea7ef1bf61b.ctv
 [HD]中天亚洲台,https://epg.pw/stream/2e039c5c47f9be7719c34c5d0ced48f66df1928d8267f1c54b71a0affcfe7154.ctv
-[HD]中视,rtmp://9sv2.mine.nu:1935/sat/tv091
+[HD]中视 hd,https://epg.pw/stream/00c0e49f6b0ebf36cf01a6b87955f78c400927f22fac4390ac0838cebd333d11.ctv
 [SD]内蒙古卫视,https://epg.pw/stream/198b7f254d7c0007c10522bdd003db9a5a4940ded56f9f3d997f876f1fb069f8.ctv
 [BD]内蒙古农牧,https://epg.pw/stream/f426a12024c3d2a6271d7b4e1514b8da71aeef77a9033c211e1e49a8386a8668.m3u8
 [VGA]公视3台,https://epg.pw/stream/aa98a9968159ce115f8d1f2abed173e2b7e9d46b96d025167fe3747760bc7603.ctv
@@ -571,7 +571,7 @@ Generic,#genre#
 [BD]山东卫视 8m,https://epg.pw/stream/08d2ab8dac6f54ebe99627578da3772886a1adf7d412c723e0fbcac838c9403c.ctv
 [BD]山东卫视,https://epg.pw/stream/4a343c7c4de4157d46c357cae28382364d74d1884942cf09bd212bfce4beeb7b.ctv
 [HD]山西公共,https://epg.pw/stream/cf835305701c451e7e532c9dd04f082d81e7b46eadd4685d508e665c709fa2fb.ctv
-[SD]山西卫视.720,https://epg.pw/stream/4c472153069c51068d748a0b625f43183bf5335518d1d91e636ebedbf63eec1c.m3u8
+[HD]山西卫视.720,https://epg.pw/stream/4c472153069c51068d748a0b625f43183bf5335518d1d91e636ebedbf63eec1c.m3u8
 [HD]山西|山西社会与法治,https://epg.pw/stream/d4939f0b26efd071f690ea78f655acea45c7b99bc35e835f4f48a136a8876929.m3u8
 [SD]山西卫视,https://epg.pw/stream/2f538e8c3c3dc60b99799fb3331f5f05b5a9c3c574544b4178a57a7de78f6884.m3u8
 [BD]常州公共[ipv6],https://epg.pw/stream/151efb2c916f889ce7332d865d03b62e2a95e896f2adcb137d039e75cea0bcf9.m3u8
@@ -631,7 +631,7 @@ Generic,#genre#
 [BD]福建经济生活,https://epg.pw/stream/0aa42e8a16095929792f32c76f3d6c032d81afdb7d436998919b0dcbed5572bc.ctv
 [HD]绍兴公共频道,https://epg.pw/stream/d7fd5957e80850e238154295e9e8de9d2ff44b78ef37cc3357e8ca4b56d996cf.m3u8
 [VGA]自贡综合,https://epg.pw/stream/19e8bff2178c99aacf62481ac205d6a00c442a9eaf07238a7c6e96d4beaa5da0.ctv
-[HD]华视,rtmp://9sv2.mine.nu/sat/tv111
+[BD]华视,rtmp://9sv2.mine.nu:1935/sat/tv111
 [VGA]华语电视3,https://epg.pw/stream/f9e42adc79e4a9bdae8cb0e53a84ee5015e5c9d9caff8f1f157880efadebe1e9.m3u8
 [SD]西藏卫视,https://epg.pw/stream/cfce8c7266926f66e4c9f1e47e1838772aba6fe9fc594f2b19456351b1f91126.m3u8
 [SD]财富天下,https://epg.pw/stream/8dd4b70af5e76cdb534951ee6c37ee7ac2f7591699482f3a6a76f7450954f5e2.ctv
@@ -661,7 +661,7 @@ Entertainment,#genre#
 [SD]1+1 ukraina,https://epg.pw/stream/1c642659f5ee9e994dbe6fdb1d1d7b73aa78acc73c3a736022309b9436b83d84.ctv
 [HD]9x tashan,https://epg.pw/stream/5b94ef6edb270be3b965f20775917e3099cbfaaaa4aec5cc0df989a9d467ec5d.m3u8
 [VGA]9xm (480p),https://epg.pw/stream/956ab667ac65bc754a89f76540e01b7bfe276c507bd056bd9a2a8ba64b4dfb27.m3u8
-[BD]al rayyan,https://epg.pw/stream/52e9ec3b3b152fe7c3929a464e10dd89bf3081d05400b6f0719c9d03c9a671dd.m3u8
+[VGA]al rayyan,https://epg.pw/stream/52e9ec3b3b152fe7c3929a464e10dd89bf3081d05400b6f0719c9d03c9a671dd.m3u8
 [BD]k-pop,https://epg.pw/stream/14f8a263948c503385d896a7f48267e2f4644fa86e13d61cdee1974492ef843d.m3u8
 [VGA]Astro Ria,https://epg.pw/stream/22d13da57ee20791381d0ef983312a1e1b9130b908720a69a3cfce90cc6d7882.ctv
 [BD]al quran,https://epg.pw/stream/ee520004e36040c3d9c2d7f635ddd931f9c6ab949c55ea78dcc202b3d643738d.ctv
@@ -694,8 +694,8 @@ Entertainment,#genre#
 [HD]ROCK ENTERTAINMENT,https://epg.pw/stream/c7a558e4fa5e964ae9637ac7d9f7b2e114a6d39b24eb9962af3a49af36adc7cd.ctv
 [VGA]rthk35,https://epg.pw/stream/cabd18457f278cda40ac160bccabf77a6b0ad341e50a00bd62620d78819dd220.m3u8
 [SD]sbs,https://epg.pw/stream/a0ba0693a636f5cf96fb2f8286fa425db1ad3743f1670f22012eaa75c4178c4c.m3u8
-[SD]土耳其 semerkand tv,https://epg.pw/stream/39540fc27b4d5593fab770e3099d5415e9227ebcb37a02ded9692e0562e6c427.m3u8
-[BD]SkyArts,https://epg.pw/stream/58e71a9a9e148c0154ef24e6833bc54ffbc10e43b26ed6cd99190360436fa15f.ctv
+[HD]土耳其 semerkand tv,https://epg.pw/stream/39540fc27b4d5593fab770e3099d5415e9227ebcb37a02ded9692e0562e6c427.m3u8
+[HD]SkyArts,https://epg.pw/stream/58e71a9a9e148c0154ef24e6833bc54ffbc10e43b26ed6cd99190360436fa15f.ctv
 [SD]SKY CINEMA DISNEY,https://epg.pw/stream/3d7ada45a03744b5005b2d1e6d1f8e9d78cad93f6d76d48fd681db62fee9a34b.ctv
 [SD]the 360 channel,https://epg.pw/stream/47fdce87139ddc63198443f17434cea26431037889c1e4c1866db328eb4cd192.m3u8
 [BD]テレビ朝日,https://epg.pw/stream/7a54a08482239f62f97dbcd05a1e9d13158cbc640953c78614aace2a1a6e9913.ctv
@@ -709,7 +709,7 @@ Entertainment,#genre#
 [BD]vivo tv (1080p),https://epg.pw/stream/f61319c17f397fbffb9e750ce09b94843a6dd6f3e82fcc8a4225342a0c613254.m3u8
 [HD]waar tv,https://epg.pw/stream/39133453b70cb5184adf4da07a9ed2b89adcbc3d618caee8907aec907e5520bb.m3u8
 [VGA]yol tv,https://epg.pw/stream/2ec593c893173e2906d35d726dbd41d89dc8fca1db4f4af5e1b5c5746c685b6e.m3u8
-[BD][印度尼西亚]transtvhd(720p),https://epg.pw/stream/8a9d2e83201a8fba8780059571c13cd14b5bd87f21443155b266495516eee110.m3u8
+[HD][印度尼西亚]transtvhd(720p),https://epg.pw/stream/8a9d2e83201a8fba8780059571c13cd14b5bd87f21443155b266495516eee110.m3u8
 [SD][美国]the360channel[1280*640][1280*640],https://epg.pw/stream/2eb6639381f901d551384cae064bdb34447043a83a40da925a1c0d10b76e2161.m3u8
 [BD]abn hd,https://epg.pw/stream/fa0a699e9a50942f87c5d27e7dbc75815936d752c94db299b68365181033a185.m3u8
 [HD]abn tv,https://epg.pw/stream/9725549f9133b9130fc36009b63b090c70ace2b22618b5f1d33d4b0cfc913ced.m3u8
@@ -806,7 +806,7 @@ Entertainment,#genre#
 [HD]trt türk (720p),https://epg.pw/stream/ea2f0c9d10b86991ed81cac2ff90fdfd6fac833592994a884c4cdc75514549dd.m3u8
 [HD]true african (720p),https://epg.pw/stream/3390feaa27449c0f9873439ccb3f2e40f277b1efaa01b870963c39ae7fea03a9.m3u8
 [BD]true4u,https://epg.pw/stream/ea3bb3adb0a813f5f1374a8c6f45bb15ee26f4121915fa67b6410ad9f372ecbc.m3u8
-[VGA]tv 2000,https://epg.pw/stream/c24279fb6291ae7cbfee936c59ca8b56fd339dde3836ab518f6a2014c68e54f1.m3u8
+[HD]tv 2000,https://epg.pw/stream/c24279fb6291ae7cbfee936c59ca8b56fd339dde3836ab518f6a2014c68e54f1.m3u8
 [HD]tv digital biriguí (640p),https://epg.pw/stream/5bf66891175ce8ba8e2d01c4fd49970c744e41d29fe4aee6d1a682ca70eb5628.m3u8
 [SD]tv em,https://epg.pw/stream/10272062a99ac3ea421d445923a55e56d2141ac08ace4a541c42b390c516d9a7.m3u8
 [HD]tv romana (720p),https://epg.pw/stream/f0bdb1dc275f627e971ab7f2bee772d013dd7f92ebbe42453dca0d50ebb55da9.m3u8
@@ -971,14 +971,13 @@ Other,#genre#
 [SD]中华特产,https://epg.pw/stream/0166287ede717f795e9b69d8f1705918f649b8b7a61f80c0eb23cf0c7e464ea3.ctv
 [HD]人间卫视,https://epg.pw/stream/05b9099bef592e55129817a0f82b4cc60378970bc856b993ae9e330e85f4351f.m3u8
 [HD]人间卫视,https://epg.pw/stream/b477995b160cdb9c7e4073eb76a5e241dfe20bcfee9faf4528af9377a53bf6c5.m3u8
-[SD]优优宝贝,https://epg.pw/stream/03fc4a873abddccb54f01763ae6695d071005b950c8aaea262d401d4618b6dcd.ctv
 [SD]兵团卫视,https://epg.pw/stream/3c1a2c4de27ecb2b3479e6b5483b2c5aba19adc58b3fddfdb03d4a016f7d4efa.ctv
 [VGA]创世.电视,https://epg.pw/stream/6dd46c6e6c146cc8383089ae906128af3d45cdafbff6b580d3dde1502e9c1d84.m3u8
 [BD]北京文艺,https://epg.pw/stream/f9426f635fe4e7f6fc12fdd2ab39f57196afec9428443e600a10c566d8212209.ctv
 [BD]北京科教,https://epg.pw/stream/d9607dea2f8e18d2582700bb5a7943c130bfc731c57ae9615971865692191e70.ctv
 [HD]南京信息,https://epg.pw/stream/b973cc875b5900f81be46ea3b9196f37fb2ba57ac4068fa5b6c80fe94612f667.m3u8
 [VGA]吉林7频道,https://epg.pw/stream/9e738c006d1bcc6fec64e929dd7507609386fc82555934c08a3f04a1c7ecfae1.m3u8
-[SD]吉林|东北戏曲,https://epg.pw/stream/2fa36e674f72f11ff0e7b2391a60602e441a5708766bfb4b8f6c25830b5642d5.m3u8
+[VGA]吉林|东北戏曲,https://epg.pw/stream/2fa36e674f72f11ff0e7b2391a60602e441a5708766bfb4b8f6c25830b5642d5.m3u8
 [VGA]吉林生活,https://epg.pw/stream/98ab12564b7b628ceb5baa1b37c2b587f3de86e80797d33735883164436a5bc3.m3u8
 [VGA]吉林乡村 (900p) [not 24/7],https://epg.pw/stream/69c843e9479e054c8323b5a23b74f4f70e8fd3d87354bcbef12195bed8043aeb.m3u8
 [VGA]哈尔滨娱乐,https://epg.pw/stream/2fc35c833b23774263a95e84dac67fd36e5f21101d7e3fcb72318ef7a1c6bb23.m3u8
@@ -986,7 +985,7 @@ Other,#genre#
 [VGA]哈尔滨生活,https://epg.pw/stream/71746238db63ed6951b3f0a4cbc42467d1a7b32c1925b4854de68ed71d678c98.m3u8
 [VGA]唯心电视,https://epg.pw/stream/7d651c567d48727fc8f95cef7d2b349246baef656e557211c784bc62024b10d0.m3u8
 [BD]大健康,https://epg.pw/stream/3480b40c51045605a207d4fa48ea507dfd4a46bc8318e3a65de96f5c8747b730.ctv
-[BD]大爱,https://epg.pw/stream/8dab0126668b960d4130c12b25e9278ffda43f5b66fa986287ed34cd97cbd721.m3u8
+[HD]大爱,https://epg.pw/stream/8dab0126668b960d4130c12b25e9278ffda43f5b66fa986287ed34cd97cbd721.m3u8
 [HD]大爱2,https://epg.pw/stream/2b383d639b6b2eade22f2d085141a38ae48a98f24b8a06f485e23f7211bbf909.m3u8
 [BD]大爱二台,https://epg.pw/stream/1f3e158520af1be7f1dfdd5c56fe0393e54fe4bde8d8fbdfe04f74185117e9db.m3u8
 [BD]天元围棋,https://epg.pw/stream/f5d490e9c51505ba99919f48ddb84278cf3e1b10772418182e1b4f93f1a9a9d0.ctv
@@ -1007,7 +1006,6 @@ Other,#genre#
 [BD]东映チャンネル / toei channel,https://epg.pw/stream/7ce45ea3a73bd4f41a771025676708b7d1816d1d5f2f6c2070471360deb3ee82.m3u8
 [SD]枣庄公共,https://epg.pw/stream/322da1913ea0e1d42b658beeda6c2b8b019c8fbf8470dd1a69010da6137507af.m3u8
 [SD]枣庄教育,https://epg.pw/stream/5c9be548faf8b08d6c887f2037065b56dac729995abfb7e9da64ed34c99fec3d.m3u8
-[BD]梨园频道,https://epg.pw/stream/7c85d291d0baca49fa26ef16c9499272c90467f71cb1e8d0da27f4f73ffc9c11.ctv
 [HD]武汉外语频道,https://epg.pw/stream/7d6f0bf46970d632f2114819f82f87d6b6635f78c38f5e060d9cd4012d9b1b4b.m3u8
 [SD]武汉少儿,https://epg.pw/stream/27cd1eac8d351cc84757c70d2e26ed14cb26bb6c81a7c33b569d083b99db4129.m3u8
 [HD]武汉教育,https://epg.pw/stream/c5bc53591db0451f2626ddff43e2de1460de1cbb8d7225d9d8c45e9660e9cb51.m3u8
@@ -1038,7 +1036,6 @@ Other,#genre#
 [BD]茶频道,https://epg.pw/stream/8c4eb92eda7720c4cab96d7844860b9e022c035ab2b6da85baf5e3352b276592.ctv
 [BD]西宁生活服务,https://epg.pw/stream/5c7b52287d30bffb55e79759cd3747452ff330381b7de0821457320adbd3013c.m3u8
 [HD]象山新闻综合,https://epg.pw/stream/19c5142ea270b459d4f7b4bd6ee40d94f774a61bfc3ee98a4a41f31e4a2956f6.m3u8
-[SD]车迷频道,https://epg.pw/stream/56f9be5971d62d8cc3e6df1633e0776d764eaabbc1ecc9b3e63dadd78c1e970b.ctv
 [HD]运城科技教育,https://epg.pw/stream/94c6196cfda87ab8028c092d0a70eb2d80665f52dda1f70a66f4fc691db6c391.m3u8
 [BD]金色学堂 8m,https://epg.pw/stream/e91b0bf6b9cab926dbab1375b76074042572b359e48793db02e598dd41381ece.ctv
 [BD]阿里郎电台,https://epg.pw/stream/f592a0d375966407059e0daa1a72f252e4522cef754eff14091bf8650e378831.m3u8
@@ -1087,7 +1084,7 @@ News,#genre#
 [VGA]FOX NEWS,https://epg.pw/stream/7c4db8c7203a44f5c24e8c69d5a0bfa7d17939c3f1b4024e108beef6d63e634e.ctv
 [HD]fox newsnow,https://epg.pw/stream/516cd8fec2b2c85c5d66b50e360a503ccde03570a6701514765b03e42443d43a.m3u8
 [BD]franceinfo,https://epg.pw/stream/ee0a88941eeb1c2d4948853e62658b0dc36d51f6d8d7cfb52ed09c6c1ecf4940.m3u8
-[BD]hoy tv,https://epg.pw/stream/6de8210e95817bdf51d6cc3b7f36a09de8271534df471f2ead6476a1f79571a5.ctv
+[BD]hoy tv.备用,https://epg.pw/stream/d03f13beaa8f34f0540a8b022400a0ae5f1e6f7e377c2d248bf57053d5c086ea.ctv
 [BD]infowars network (1080p),https://epg.pw/stream/769a561b7a09183ad6174627d14bcd36bfae3c64072dfed23d0bf4053062b15b.m3u8
 [SD]kay tv,https://epg.pw/stream/b0eeb6ba64b55fbbd9e8b590ee29a7aa5dd16a6c3f51aa0fd5fba18e879c17b3.m3u8
 [HD]kanal 26,https://epg.pw/stream/221588d3d9848ec699889f662f06cceb1c21e700c829e1ddd20dffe4ebeca471.m3u8
@@ -1130,7 +1127,7 @@ News,#genre#
 [HD]alhurra iraq,https://epg.pw/stream/c165fec45c2693f63377ec02a0d14d921b7e3b664745486d4ca305dc3a705844.m3u8
 [BD]asharq news (1080p),https://epg.pw/stream/409962e3325684053ebaaf4cb7e48db3d50b72bbcf626b4c0bd02ed156a8a0f3.m3u8
 [HD]ast tv,https://epg.pw/stream/50561a2552f85260933e32e04b2f50773543ce4a4b289d0674bb740438ce6908.m3u8
-[BD]atacama noticias,https://epg.pw/stream/2145efeb47ac9b668a55fecb5ea65c5d2452b63258b800652c97f56c0870b63b.m3u8
+[VGA]atacama noticias,https://epg.pw/stream/2145efeb47ac9b668a55fecb5ea65c5d2452b63258b800652c97f56c0870b63b.m3u8
 [HD]band mg,https://epg.pw/stream/3fc2d83aced2c3d84e882f4b64cc9215bb1affb8efbdcd528afb7867748fe7f3.m3u8
 [SD]bbc news,https://epg.pw/stream/3ff9144f6dcba9eb1bde65774014dbe98ad583e5d953ec3399cde3aa2ea14e61.m3u8
 [BD]berita rtm [geo-blocked][geo-blocked],https://epg.pw/stream/5894cc829fd1272ad6ff86adca0fa2910d7d386d67003cbee71afcd576d6f47e.m3u8
@@ -1246,7 +1243,7 @@ News,#genre#
 [SD]рен тв,https://epg.pw/stream/d2ce8f952a9c2622029b0348c07b8025a146ccbba45321283747a88aaa25ec65.m3u8
 [SD]россия 24,https://epg.pw/stream/e01f27f63cfac6d28bcb23c46d7c5d70fcb553ff989b4679831edcf093dad65c.m3u8
 [VGA]ช่อง weathernews,https://epg.pw/stream/443d555a1303d82424886987126b174cf90f17ac067835bff79e386dcc2833b8.m3u8
-[HD]フジテレビ,https://epg.pw/stream/d8811b80309498d217a3ab93c6c15bcd1df6a5e9eda31bb4b498efd9ecd436c8.m3u8
+[SD]フジテレビ,https://epg.pw/stream/59a095b69e390021e8dd5d62524e265e35fa7ef67a972eb7d0736410d71b675a.m3u8
 [SD]フジテレビnext,https://epg.pw/stream/db56c5ea9e671abeaae6f2f75042fd349b5d14fa289b971f8c1b77fceb365f31.m3u8
 [VGA]三明新闻综合,https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8
 [BD]三立inews,https://epg.pw/stream/a2330bdca96a3420aa2a0558fee3e7a27377acf939e88305f7d3c66e9c5b1a15.ctv
@@ -1268,7 +1265,7 @@ News,#genre#
 [BD]黔南新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
 [BD]台视新闻台,https://epg.pw/stream/4acb9a6c8a472aac28a3fd615726607ef653aba1ec1bd47a4b743365841661b9.m3u8
 [BD]台视新闻 hd,https://epg.pw/stream/323de3953f32eaf0c224d78f1db77be185fa7ce9245786b3bd95d462d86d08d8.m3u8
-[SD]吉林|吉林新闻综合,https://epg.pw/stream/06a492e343a224360fbbc17307f7c052f091bb27a18cb550c6880cab6cf3cd1c.m3u8
+[VGA]吉林|吉林新闻综合,https://epg.pw/stream/06a492e343a224360fbbc17307f7c052f091bb27a18cb550c6880cab6cf3cd1c.m3u8
 [HD]四川|蓬安新闻综合,https://epg.pw/stream/2ee3dbb766acd5cf07af7a7ec948673b819eb6e6076c46eb6acbf7db898b571a.m3u8
 [VGA]壹新闻 hd,https://epg.pw/stream/fa7bfcbeb0cde51e3226ae7dffea72c54049da2b9d96ccd57f604be57fc4f447.ctv
 [HD]テレビ大阪,https://epg.pw/stream/6113afb0683b88d6879aa8ab72033f8ef3f910670a616ec6cffcd3681aa39f49.m3u8
@@ -1320,7 +1317,6 @@ News,#genre#
 [VGA]安徽|六安新闻综合,https://epg.pw/stream/d83c1bb801d30add76788ded84c711ad11e4f94b9a520f14638ef80301c2f384.m3u8
 [BD]西宁新闻综合,https://epg.pw/stream/f9570cb26b1c4c241147bad9dadcadb2a888f24fea2e3de58b43dd4ff20faa74.m3u8
 [HD]読売テレビ,https://epg.pw/stream/82716635696af9c42cd6955e94689655c2182cfdccc19c08bca79d4a5bdbc1f4.m3u8
-[SD]证券服务,https://epg.pw/stream/0d7f27d9c7bb8fc5ea1a7b5c9a969a7f72b1b968a2b2e7c0c1a4790177dee86b.ctv
 [SD]辉南新闻综合,https://epg.pw/stream/08aada616fdc07024873565514926140a61b59ef8226c0870ac5c3277410d34f.m3u8
 [BD]迁安新闻综合,https://epg.pw/stream/0bf6f5d41392177e8e1d388f44bf343cb42d5da7ea3fd3dec587896aa4524780.m3u8
 [HD]运城新闻综合,https://epg.pw/stream/2f96a02a897c3538bb00d6b75de0fa7fda36a23927883755f3913236241930ca.m3u8
@@ -1331,7 +1327,7 @@ News,#genre#
 [VGA]巩义新闻综合,https://epg.pw/stream/f64d67385532dc9668faa3dd3c1e86e4c1a8ca48eebc23ae719550297b7f0ac6.m3u8
 [BD]香港国际财经台,https://epg.pw/stream/edb021b95a130ac49e529d695d5860a198bc98658818bfb40efc94176589c8a6.ctv
 [HD]香港国际财经台,https://epg.pw/stream/d7d42738d28d82242956de378400f29c137bb4844173f1517b19bad0dd5c95d5.m3u8
-[BD]香港有线新闻,https://epg.pw/stream/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv
+[HD]香港有线新闻,https://epg.pw/stream/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv
 [VGA]黑龙江新闻法治,https://epg.pw/stream/96f880b7640f6a9b54b46cc980132e9a824732a85a9b93fba194fb5977735412.m3u8
 [SD]黑龙江|哈尔滨新闻,https://epg.pw/stream/a21c5bac9f70af160171c8746af2abc62e69b596653b7c18517ee945b2e8d157.m3u8
 [VGA]黑龙江新闻,https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8
@@ -1354,7 +1350,7 @@ Movie,#genre#
 [HD]ASRTO PREMIER,https://epg.pw/stream/513fccb78a428cabb7282a12764dc51e53299a61f22e6866d1d1209cfea27c9f.ctv
 [HD]Astro欢喜台,https://epg.pw/stream/ed7e6ba5a639cb1a44efb376a8960c24f18bb4ea286e0bbab7e0e41a90abc29e.ctv
 [SD]B4U PLUS,https://epg.pw/stream/774dc35c09dcb93dd59f6419db52627997aa9219fd494894ddef9025464584df.ctv
-[BD]bolt,https://epg.pw/stream/604db51a3b2eb007e5977f2c67826283d40a002cc9187ec0537f230445147ea0.ctv
+[VGA]bolt,https://epg.pw/stream/604db51a3b2eb007e5977f2c67826283d40a002cc9187ec0537f230445147ea0.ctv
 [HD]BOO,https://epg.pw/stream/bdae52f48a864218c0a2de853f1a25f015446129d4b23ec0c62d936b6d95e772.ctv
 [SD]CBS Action,https://epg.pw/stream/fae4543a25434a838d6a1114aa16fe6108411a8bd4aec53bfa64d51fab73b33c.ctv
 [SD]CBS Drama,https://epg.pw/stream/14c9170d253d9e4c34aa6e3e6fbd753cc8d1fe5e66e463091f99449262bfb17d.ctv
@@ -1395,11 +1391,11 @@ Movie,#genre#
 [HD]HBO HITS,https://epg.pw/stream/56955357f63d5b36f92b249c1fdd63093f770e1315b5f6c6bc888bd00bba7fd5.ctv
 [SD]hbo signature tree,https://epg.pw/stream/d9aa885cfe16554da1d006ade22fd9ee32031c8fe6caf993f5feaa386af432fc.ctv
 [BD]HBO Signature,https://epg.pw/stream/d7b8b4596a5cb6b01a1075f1bf4c38ddaad5d9afcdb9a717d80e6333367cf67b.ctv
-[BD]HBOWEST,https://epg.pw/stream/e3e9ea1ac1750a63e8b74089f4a173979b8e19ef191dce59a36aa29f64feef8a.ctv
+[BD]HBOWEST,https://epg.pw/stream/14df15ffbf5332576e587bdcce450f2193146b553aa45c1b4b52d3901f33ca47.ctv
 [HD]hbo xtreme,https://epg.pw/stream/e215c1e64765b9c7ab6997a384614cff227ca4ef72a79d0b12d2a3a28df2d740.ctv
 [BD]HBOZONEUSA,https://epg.pw/stream/f5e7c6e102d70d634318ce6f06fcb9583e4ea0ed0aaf7912965d1e818e8e7677.ctv
 [HD]HitsMovies,https://epg.pw/stream/aec1f6eb1bf2f0f48c5010d16a1171219c3685e8501373bcf12aca3dce700c99.ctv
-[HD]HALLMARK,https://epg.pw/stream/2c4a16a8692a9c9ba180af8dffc6fa70a4cca5d9eebadf1615e4e05609b03d88.ctv
+[BD]HALLMARK,https://epg.pw/stream/2c4a16a8692a9c9ba180af8dffc6fa70a4cca5d9eebadf1615e4e05609b03d88.ctv
 [HD]hallmark drama,https://epg.pw/stream/f1f6174216d46198ffe838c96ef74463f9cd9b56baddd9d7689de14fc060d1c2.m3u8
 [SD]Horror Channel,https://epg.pw/stream/51c799b9e20346309718915e0784a0ccc114b48851eb4e454ba7e3f4fc413bb9.ctv
 [BD]MGM,https://epg.pw/stream/faf80e74867320a14171d6645bc5f99277c46c244df3555e76d3abd22730fef9.ctv
@@ -1540,9 +1536,9 @@ Movie,#genre#
 [HD]日本映画専门チャンネル,https://epg.pw/stream/4ac6d730dcafe4489bb717443135c990423085e6ebdc8253d61fa8dab568bc32.m3u8
 [VGA]星卫hd电影台,https://epg.pw/stream/139527e97b87c46e23c2c595895faea2b7e94782ce4b561aaab47bd1f2047de9.ctv
 [SD]时代剧専门チャンネル,https://epg.pw/stream/421bc8d08d73cfbf8ded12ef6cf7f0095e542b23545ade5c4946b51c7db009ef.m3u8
-[HD]林正英,https://epg.pw/stream/00cf6667bdc983a095a06ff06e1cecdc5f893d4173cee90c3c93405f585dfd04.ctv
+[SD]林正英,https://epg.pw/stream/00cf6667bdc983a095a06ff06e1cecdc5f893d4173cee90c3c93405f585dfd04.ctv
 [BD]欢笑剧场 8m,https://epg.pw/stream/4e9f40b3cb33dc69757ebed15001d939ce2a2410120779c0aac6694b3d8c8581.ctv
-[SD]河北|武汉电视剧,https://epg.pw/stream/456f2251ba309946a1b4954299fa7941150642941c69ef7224f888c4803834df.m3u8
+[VGA]河北|武汉电视剧,https://epg.pw/stream/456f2251ba309946a1b4954299fa7941150642941c69ef7224f888c4803834df.m3u8
 [SD]河北影视,https://epg.pw/stream/f927788e08949e5333ad97affc4fb4b9649bef97948e0794f1ec0936054bd8c3.m3u8
 [SD]河北影视剧,https://epg.pw/stream/c052b9f414bbbf9c00616f9184da6d11fa730d903171e2ae8d1ef1b80538f600.m3u8
 [BD]福建电视剧,https://epg.pw/stream/a49defbabc41f05d688a9b69b9e46ab330225b1ebb222041470bafb3e4610a9e.ctv
@@ -1567,7 +1563,7 @@ Cartoon,#genre#
 [HD]3abn kids network,https://epg.pw/stream/3e1861d0b18a0ba69eace78b51168c7d8b440ce36a880390a6286becf84a1181.m3u8
 [VGA]animax卡通,https://epg.pw/stream/756e371755dd94d6963615a5683f04780ba494c8b5d99933545f6790afabc660.ctv
 [HD]ANIMAX.,https://epg.pw/stream/86139cd1c8a06fd4e3f7942ca86f34d74aa26fdd63448d011c02ffd4cdf04c1e.ctv
-[HD]Animax,https://epg.pw/stream/c48e13c6d2f733e8c7a437ba90fc988c20d96d27ae3176efe0ec89dcda6f1a40.ctv
+[HD]Animax,https://epg.pw/stream/e1e0321995ce0fad64ce25f8f2d8bfee36cbdb89b7362581fdc17cce18ca389f.ctv
 [HD]anime all day,https://epg.pw/stream/24ed266eff555213de6e7f03deae8e658f45f667e21e1c25a74edb63681eea80.m3u8
 [VGA]anime tv,https://epg.pw/stream/1d6445e7f7a11a3b649007a9a6b3ebe3b85113eca7e9e886ecc4b1c1b6c40d9d.m3u8
 [SD]BBC 3,https://epg.pw/stream/2337fbb3ffccee684ac1c69ea3c9de6107ab9b6ba5d62b6d391655f4a1e1ebea.ctv
@@ -1602,7 +1598,7 @@ Cartoon,#genre#
 [HD]duck tv,https://epg.pw/stream/0ae6ecdd1af4d02b3c80c7b7ba11b154807b3b9aecf8d5c488f1faf6c6ff2485.m3u8
 [HD]gloob,https://epg.pw/stream/23de07e1e905d791fbef9b7023b61c9286d69258f51025539c1f79154b0afd35.ctv
 [VGA]kbs kids,https://epg.pw/stream/5779afa722e1634c61422728d02494bf76bdd5a08539013809b3b4befb6f586b.ctv
-[VGA]Kids TV,https://epg.pw/stream/dd6e2bd2698b1066e2778970ebbaf73759011cc31efb080d5592816caa69ecbc.ctv
+[VGA]KidsTV,https://epg.pw/stream/29d2d6b1642e27646f0d2ba961551c37d16376f2b3a0cde6347e437ace33bf0d.ctv
 [SD]kika,https://epg.pw/stream/636dc914cff4215d29fb773f92ae9b071a5875a0ffe32a9dea40888638c9d43e.m3u8
 [BD]koogi tv (1080p),https://epg.pw/stream/327293d97c19c2fac64bc04a27a6ceb472d04f9eee8fa978c29fe3c32760f2ff.m3u8
 [HD]nickelodeon australia (576p),https://epg.pw/stream/cbca7941f3913838e87f3b5d10b5b99039480a7f1c9d5c20b63b43154e4f2ff9.m3u8
@@ -1638,7 +1634,7 @@ Cartoon,#genre#
 [BD]淘baby,https://epg.pw/stream/3eabb59343a1bda716db61f13a09c68180ec6f2e12ca582857105de0caf6b3b8.ctv
 [BD]炫动卡通 8m,https://epg.pw/stream/810098e2dea3a2a4d03e1d9df4ab5d8fcf4ae9d9c1362207552ab5cdcc804eb3.ctv
 [BD]福建少儿,https://epg.pw/stream/08f86e8b78619dbae76929a5f7e3aecc4c784a0542bc747dd822a138e679e28c.ctv
-[SD]金鹰卡通,https://epg.pw/stream/1c8b5cf46200851398c52c4355d49b4ef49fab78c2a0f0c0b69d1669f4792080.ctv
+[SD]金鹰卡通,https://epg.pw/stream/f1aea4946eefe87448db22e01529ab282370435f61d577cfc0e5c0a34b3da54f.m3u8
 [BD]云南少儿,https://epg.pw/stream/a83a92e245f1cd9fde9b4051bf2d6c0e74090d4e3fcf6f68e34a2ac9ecd8c010.m3u8
 
 Documentary,#genre#
@@ -1666,7 +1662,7 @@ Documentary,#genre#
 [HD]smithsonian channel selects,https://epg.pw/stream/611bbf7596efa3735fca21c423fe63b77b1fe97c4921fcaefb8acde6e4484573.m3u8
 [BD]travel channel,https://epg.pw/stream/4294eb516d30ded8c5f8102815c37b75f52affe3093e287ead6873bf9b19ec77.m3u8
 [SD]ahsan tv,https://epg.pw/stream/5608dc06ddb41677732e56d33c3c4c14869ea3accda73f316f31d7a6590969f8.m3u8
-[HD]asharq discovery,https://epg.pw/stream/290316838c66f7325c997195b5f5c564dfd995d2e7cd7fe00cca7ab263082aa6.m3u8
+[BD]asharq discovery,https://epg.pw/stream/290316838c66f7325c997195b5f5c564dfd995d2e7cd7fe00cca7ab263082aa6.m3u8
 [BD]axs tv,https://epg.pw/stream/7a6628a8d5f6c2abf25bfacbbd5ae08e1f920354f8d4e80b5f6bd3dde20c5058.m3u8
 [BD]bbc earth,https://epg.pw/stream/7ab314dffe41c2c850533b7b9aa28c97704b751eee651e6c7c57aac886707985.m3u8
 [SD]cali tv,https://epg.pw/stream/40015e65dc9b3ce5c1e6f5f552ec83daee96d05699a94e007453f6911f3ed059.m3u8
@@ -1741,7 +1737,7 @@ Test,#genre#
 [BD]北京淘电影,https://epg.pw/stream/6f130950f894020e7c200ad6a3183b966cfea6c325f51a24b6e3075f441a2397.ctv
 [VGA]哈尔滨影,https://epg.pw/stream/4761681fab1275b2d0237e83813c4845effdd80a8575a346ed32a092aaab0872.m3u8
 [BD]爱上4k,https://epg.pw/stream/3c0311108820220e015646ae9e51579e2a9899eb349471933ece11480331e2a6.ctv
-[HD]林正英,https://epg.pw/stream/00cf6667bdc983a095a06ff06e1cecdc5f893d4173cee90c3c93405f585dfd04.ctv
+[SD]林正英,https://epg.pw/stream/00cf6667bdc983a095a06ff06e1cecdc5f893d4173cee90c3c93405f585dfd04.ctv
 [BD]精彩电视剧,https://epg.pw/stream/928ec61fb7568b106f35028dcf4575c4fc9c32522617d35d026abc83ac23687c.m3u8
 [BD]纯享4k[ipv6],https://epg.pw/stream/6c8d76f2b98de6934fa07b46c9da8e06fe83a1a1c4301ab3af13c547d419acfb.m3u8
 [BD]纯享4k[ipv6],https://epg.pw/stream/2cdf81ef11aac50068bac9c269fc115bc526a2040ecdea4f4cc6227daae38e12.m3u8
@@ -1772,7 +1768,7 @@ Test,#genre#
 [BD]安徽导视,https://epg.pw/stream/a7246583550aa4f39c3c5c71f7aaee412061387be1b7e5b57ad7c11513507106.m3u8
 [BD]安徽卫视,https://epg.pw/stream/1553d046a4b85ec519b01fc432bcfb3d515c38bb093aed80b99423da6d08547f.m3u8
 [BD]山东卫视 8m,https://epg.pw/stream/08d2ab8dac6f54ebe99627578da3772886a1adf7d412c723e0fbcac838c9403c.ctv
-[SD]山西卫视.720,https://epg.pw/stream/4c472153069c51068d748a0b625f43183bf5335518d1d91e636ebedbf63eec1c.m3u8
+[HD]山西卫视.720,https://epg.pw/stream/4c472153069c51068d748a0b625f43183bf5335518d1d91e636ebedbf63eec1c.m3u8
 [BD]常州公共[ipv6],https://epg.pw/stream/151efb2c916f889ce7332d865d03b62e2a95e896f2adcb137d039e75cea0bcf9.m3u8
 [BD]广东卫视,https://epg.pw/stream/88869bbe44812d4aec4de520feed223e11c309bbe9fb7024556de45e3fa92383.m3u8
 [HD]延边卫视,https://epg.pw/stream/694dae873b77a8719bd2de5311d0957608729903cc46e1d5f71f76c55b587c3b.m3u8
@@ -1817,12 +1813,11 @@ Test,#genre#
 [VGA]东北戏曲频道,https://epg.pw/stream/2927c0c65ac9d2bdfa9100c2a0bd9b61b088088feb4b76d5f1ca14a20c4d81c0.m3u8
 [SD]中华特产,https://epg.pw/stream/0166287ede717f795e9b69d8f1705918f649b8b7a61f80c0eb23cf0c7e464ea3.ctv
 [VGA]吉林7频道,https://epg.pw/stream/9e738c006d1bcc6fec64e929dd7507609386fc82555934c08a3f04a1c7ecfae1.m3u8
-[SD]吉林|东北戏曲,https://epg.pw/stream/2fa36e674f72f11ff0e7b2391a60602e441a5708766bfb4b8f6c25830b5642d5.m3u8
+[VGA]吉林|东北戏曲,https://epg.pw/stream/2fa36e674f72f11ff0e7b2391a60602e441a5708766bfb4b8f6c25830b5642d5.m3u8
 [VGA]吉林生活,https://epg.pw/stream/98ab12564b7b628ceb5baa1b37c2b587f3de86e80797d33735883164436a5bc3.m3u8
 [BD]大健康,https://epg.pw/stream/3480b40c51045605a207d4fa48ea507dfd4a46bc8318e3a65de96f5c8747b730.ctv
 [HD]广东文化,https://epg.pw/stream/8f3b867126266339ab049e15358c81e9e41f37658ed7080584c6993395fff5e3.m3u8
 [BD]早期教育,https://epg.pw/stream/700e053a177a2edf245bc06b20b07efc7c8467d1a0d7acd6662cce25ef1fe633.ctv
-[BD]梨园频道,https://epg.pw/stream/7c85d291d0baca49fa26ef16c9499272c90467f71cb1e8d0da27f4f73ffc9c11.ctv
 [SD]江津文化旅游 (576p),https://epg.pw/stream/8eadeef75a4a287a1af020c033ad553ecca3422c44274b384dfaaa50826132a6.m3u8
 [BD]环球奇观,https://epg.pw/stream/d443d28e02a336b1ea90fafcfac5cb8e5470bc6bb372e0fd72b33f639d310013.ctv
 [SD]百姓健康,https://epg.pw/stream/a6b7f3617b62ba336483ec619f7fa2834339bb4e356f6ee05a6afeb9fd39e746.m3u8
@@ -1843,7 +1838,7 @@ Test,#genre#
 [SD]云南|丘北新闻综合,https://epg.pw/stream/e41280c9ed59d4ce20daf5dde13807df95f14cb7e20e6483f5a21dd86fbcb297.m3u8
 [HD]云南|怒江新闻综合,https://epg.pw/stream/8b8a3bb9f8e192134e044784d4143ba39be81bf453c3a8523f5aea21162f4824.m3u8
 [BD]云南都市,https://epg.pw/stream/1ca2457b9bd7a0905af48485803ac1357abc261d2ad96158b1970d5edde59ab3.m3u8
-[SD]吉林|吉林新闻综合,https://epg.pw/stream/06a492e343a224360fbbc17307f7c052f091bb27a18cb550c6880cab6cf3cd1c.m3u8
+[VGA]吉林|吉林新闻综合,https://epg.pw/stream/06a492e343a224360fbbc17307f7c052f091bb27a18cb550c6880cab6cf3cd1c.m3u8
 [HD]四川|蓬安新闻综合,https://epg.pw/stream/2ee3dbb766acd5cf07af7a7ec948673b819eb6e6076c46eb6acbf7db898b571a.m3u8
 [BD]山西|灵石新闻综合,https://epg.pw/stream/57649e6879edcc39737c4bab54dfbb792d5b8aff119baa8b0b4d5c067c245549.m3u8
 [BD]广西新闻,https://epg.pw/stream/597b16418e43bcc202797d8d78faf9a0139b0c4cc7de59796c8aa4c46b805cf1.m3u8
@@ -1863,7 +1858,6 @@ Test,#genre#
 [BD]石家庄新闻综合,https://epg.pw/stream/e7cb9300d09219cdf7e4a4c39ab0c9328f0abe0e2b9272d3a2f5afb1576d9a68.m3u8
 [BD]舟山新闻综合,https://epg.pw/stream/ca9727bb9f7ba55539357b8eb0f25c3497e325c9d53e2530818df07e213e3699.m3u8
 [BD]荆门新闻综合,https://epg.pw/stream/fec6f84163995a26addc2f96b85410ac26cb8faec86be555742636476b5a136e.m3u8
-[SD]证券服务,https://epg.pw/stream/0d7f27d9c7bb8fc5ea1a7b5c9a969a7f72b1b968a2b2e7c0c1a4790177dee86b.ctv
 [SD]辉南新闻综合,https://epg.pw/stream/08aada616fdc07024873565514926140a61b59ef8226c0870ac5c3277410d34f.m3u8
 [BD]迁安新闻综合,https://epg.pw/stream/0bf6f5d41392177e8e1d388f44bf343cb42d5da7ea3fd3dec587896aa4524780.m3u8
 [HD]运城新闻综合,https://epg.pw/stream/2f96a02a897c3538bb00d6b75de0fa7fda36a23927883755f3913236241930ca.m3u8
@@ -1951,7 +1945,6 @@ Music,#genre#
 [BD]生活时尚 8m,https://epg.pw/stream/60d1ded64834180f0734eb9d915784eaa79f675969b84b49a756de142307f719.ctv
 [BD]福建公共,https://epg.pw/stream/0501c350d1f916503cf3d09a768aeed9fa267fe66db776242f37cd882602605f.ctv
 [BD]福建综合,https://epg.pw/stream/0ce807f41f83b2b3b4249311777103af711067fd1707a3ec87c60add9124b6c3.ctv
-[BD]福建经济生活,https://epg.pw/stream/0aa42e8a16095929792f32c76f3d6c032d81afdb7d436998919b0dcbed5572bc.ctv
 [VGA]自贡综合,https://epg.pw/stream/19e8bff2178c99aacf62481ac205d6a00c442a9eaf07238a7c6e96d4beaa5da0.ctv
 [SD]财富天下,https://epg.pw/stream/8dd4b70af5e76cdb534951ee6c37ee7ac2f7591699482f3a6a76f7450954f5e2.ctv
 [SD]辽宁生活,https://epg.pw/stream/6003ebe7422af4e1af16d9e332704e53764c66ea88648d89df5137c50a208d8f.m3u8
@@ -1970,7 +1963,6 @@ Music,#genre#
 [BD]快乐垂钓,https://epg.pw/stream/f985e0b6d1331e8a6ebe2cd52fc775e56778a8c59df71272881179c511e256cb.ctv
 [SD]枣庄新闻,https://epg.pw/stream/7996424bc3c1787a3b73efd84dac13f864e07b3bff8353ccfac13dc3f465bb25.m3u8
 [VGA]武汉文体 (480p),https://epg.pw/stream/b5e5c2bf78a8bed49158096472f899ffe30bc2a0ca4ac0471778b117308ec49b.m3u8
-[BD]福建体育,https://epg.pw/stream/d554cfc516cbeadc65a4bb631b464fd6fe6cb5cb844851bef27c5edc0681ec45.ctv
 [BD]魅力足球 8m,https://epg.pw/stream/5c6c71d736c0da318cb2bfc204fa6b6178c538be7662570d3c3c736759758f38.ctv
 
 其它,#genre#
@@ -1992,7 +1984,6 @@ Music,#genre#
 [SD]山东教育,https://epg.pw/stream/04300495cb221d18863a0d3719b6696f9d2f0c2520eb7078562086ca94315067.ctv
 [HD]开化新闻综合,https://epg.pw/stream/3bbb603477d99145f17fd829b0c986cc487070e09e0ca75d4617ed3cad784c5f.m3u8
 [SD]弈坛春秋[ipv6],https://epg.pw/stream/763d7c5759a8e53b24815f268656af286ed0fc9afcae30cfdfd88a4d68639bf4.m3u8
-[SD]快乐购物,https://epg.pw/stream/35a71d4f492a423c6f2e7d1c259b4077ac8d369fa7ddb4ab23a7257574171262.ctv
 [BD]收藏天下,https://epg.pw/stream/06721d102fff6bee9be6bc1afc6fcc7b98152ae725c268a17b41b5502b3c7b5c.ctv
 [BD]文物宝库,https://epg.pw/stream/e8a4d9f6d3ba5e1e6ff4c1a48e190d72f245bd2afedb8ee0cca017934c8e2830.m3u8
 [VGA]新乡县电视台,https://epg.pw/stream/d9d1c8e6c64452086c295fdf725781e589ec6a8f913a416cf3c881ab5df14edc.m3u8
@@ -2058,6 +2049,7 @@ Music,#genre#
 [VGA]黑龙江新闻,https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8
 
 动画,#genre#
+[SD]优漫卡通,https://epg.pw/stream/463d06a4b38da16e5d7ba7abd2dff09fc60298d5111cdf57aa3eaeaea9714449.m3u8
 [BD]动漫秀场 8m,https://epg.pw/stream/7ba0752683fc49f8715081030b98293d59722fba7329d74f5e92db6f367f2d73.ctv
 [SD]新动漫,https://epg.pw/stream/187f95234d2d67e9f3d4447ceb6f838e19e31279748c6dd9b5091d92a2f1cff1.ctv
 [BD]浙江少儿,https://epg.pw/stream/61763493836696939da31f5856221e08038a6e814dc1fe983cd0d335b284104e.m3u8
@@ -2069,7 +2061,7 @@ Music,#genre#
 [VGA]cctv戏曲,https://epg.pw/stream/ec6ed8646b8ee0dcd7f829c483b8e5e8664a0ace5c98604c943a588c80301e77.ctv
 
 综合,#genre#
-[HD]cctv-4中文国际,https://epg.pw/stream/e9df8fe337dd6bacbf98516a34c0b0c94b3d2a02339529dea3de3769add35fc9.m3u8
+[SD]cctv-4中文国际,https://epg.pw/stream/e9df8fe337dd6bacbf98516a34c0b0c94b3d2a02339529dea3de3769add35fc9.m3u8
 [SD]cctv-4中文国际,https://epg.pw/stream/c3b4c0fa59357628b823a008e742caa5e3ea18df81216adbc62f3aa7afe556f0.m3u8
 
 其它,#genre#
@@ -2569,7 +2561,9 @@ Undefined,#genre#
 3 Stones TV (240p) [Not 24/7],https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8
 4aceTV,https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/N55LT0GGXOUT6SC3GJN7/hls3/now_-1m_15s/m.m3u8
 4AceTV Classic Hits,https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/VFEHH3ML20PMYQM0QEPB/hls3/now_-1m_15s/m.m3u8
+4 Adventure (1080p),https://lnc-4adventure.tubi.video/playlist.m3u8
 4E (720p),http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
+4 Emergency (1080p),https://lnc-4emergency.tubi.video/playlist.m3u8
 4FUN TV (576p) [Not 24/7],https://stream.4fun.tv:8888/hls/4f.m3u8
 4Kurd HD (720p) [Not 24/7],http://51.210.199.23/hls/stream.m3u8
 5AAB TV (720p) [Not 24/7],http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
@@ -2651,6 +2645,7 @@ AMC All Weddings,https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d
 Amé 47 (720p),https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
 Amedia 2,http://moobl.ru/hls/Amedia_2.m3u8
 Amen TV Sat (1080p),http://89.163.146.99/AMEN_TV/index.m3u8
+America's Dumbest Criminals (720p),https://lnc-americas-dumbest-criminals.tubi.video/index.m3u8
 Amozhgary TV (1080p),https://media.streambrothers.com:1936/8248/8248/playlist.m3u8
 Anaadi TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCK1Sl8bNLay45FeL30BFdxQ.m3u8
 Ananda TV (720p) [Not 24/7],https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/playlist.m3u8
@@ -2658,6 +2653,7 @@ ANC (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCE2606prvXQc_noEqKxVJX
 Andisheh TV (360p),https://2nbyjjx7y53k-hls-live.5centscdn.com/atvweb/d23299de099088e7444868cd0814f1c7.sdp/playlist.m3u8
 Ang Dating Daan (720p) [Not 24/7],https://ythls.armelin.one/channel/UCFRj7FPKTthzA_gfE2PsGJQ.m3u8
 Anger Management Channel (720p),https://lnc-anger-management.tubi.video/playlist.m3u8
+Anger Management en Espanol (1080p),https://lnc-anger-management-espanol.tubi.video/playlist.m3u8
 Anixe + (360p),https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
 Anixe HD Serie (360p),https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 Anjan (720p) [Not 24/7],https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
@@ -3014,6 +3010,7 @@ Corfu TV (576p) [Not 24/7],https://itv.streams.ovh/corfuchannel/corfuchannel/pla
 Cornea TV (720p) [Not 24/7],http://89.149.30.158:1935/CorneaTV/myStream/playlist.m3u8
 Corrientes TV (CTV) (720p),https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 CorTV (800p),https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
+Cosmos (720p),https://lnc-cosmos.tubi.video/index.m3u8
 Cosmos TV (720p),https://v1.tustreaming.cl/cosmostv/index.m3u8
 Cosmovision (720p),https://videohls2.cosmovision.tv/hls/sd.m3u8
 Costa Mesa's Municipal Access Channel CMTV 3 (720p),https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8
@@ -3062,6 +3059,8 @@ Dove TV (576p),https://webstreaming-7.viewmedia.tv/web_093/Stream/live93_3/high/
 DR1 (1080p),https://drlive01hls.akamaized.net/hls/live/2014185/drlive01/master.m3u8
 DR2 (1080p),https://drlive02hls.akamaized.net/hls/live/2014187/drlive02/master.m3u8
 DR Ramasjang (720p),https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master.m3u8
+Dr. G Medical Examiner (720p),https://lnc-dr-g-filmrise.tubi.video/index.m3u8
+Drag Race Universe (1080p),https://lnc-dragrace.tubi.video/playlist.m3u8
 Dragon TV International (360p),http://210.210.155.37/x6bnqe/s/s29/index.m3u8
 Dream Türk (720p),https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 Dream TV (480p),http://128.199.114.2:8080/hls/stream.m3u8
@@ -3097,6 +3096,7 @@ E!,https://cdn-01.bonus-tv.ru/gsl/playlist.m3u8
 EarthxTV (720p),https://ov.ottera.tv/live/master.m3u8?channel=earth_et
 Eawaz TV (720p) [Not 24/7],https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
 Ebenezer TV (1080p),https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
+Ebony TV (1080p),https://lnc-ebony-tv.tubi.video/playlist.m3u8
 EBS 1 (400p) [Not 24/7],https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 EBS 2 (400p) [Not 24/7],https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 EBS+ 1 (400p),https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
@@ -3189,6 +3189,8 @@ FightBox HD,http://moobl.ru/hls/FightBox_hd.m3u8
 FightTVPlus,https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/ZXY8N7D0P26W4DNY1WHH/hls3/now_-1m_15s/m.m3u8
 Fiji TV (720p) [Not 24/7],https://api.new.livestream.com/accounts/19514369/events/6947821/live.m3u8
 FilmRise Binge Watch France (720p),https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/channel-hls/v2/56f5b5ceafba4a8b/9991728/master.m3u8?ads.xumo_channelId=9991728
+Filmrise Black TV (720p),https://lnc-filmrise-blacktv.tubi.video/index.m3u8
+Filmrise Horror (720p),https://lnc-filmrise-horror.tubi.video/index.m3u8
 FilmRise Séries France (720p),https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/channel-hls/v2/77dc314fd75541ff/9991729/master.m3u8?ads.xumo_channelId=9991729
 FilmStream Europe (1080p),https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
 Filstalwelle (1080p),https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
@@ -3198,6 +3200,7 @@ FiredUp Network,https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.a
 Food TV by Binge,https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/VXRZC2P7GTRKJSEK9TA0/hls3/now_-1m_15s/m.m3u8
 Formula (1080p),https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 Fortune TV (480p),http://183.89.246.119:8881/play/a082/index.m3u8
+Four in a Bed (1080p),https://lnc-four-in-a-bed.tubi.video/playlist.m3u8
 Foursquare TV (360p),https://webstreaming-3.viewmedia.tv/web_033/Stream/playlist.m3u8
 FOX 2 San Francisco CA (KTVU) (720p),https://lnc-ktvu.tubi.video/index.m3u8
 FOX 4 Dallas / Fort Worth TX (KDFW) (720p),https://lnc-kdfw.tubi.video/index.m3u8
@@ -3223,6 +3226,7 @@ FOX 47 Jacksonville FL (WJAX) (720p),https://lnc-wjax.tubi.video/playlist.m3u8
 FOX 47 Lansing MI (WSYM) (720p),https://lnc-wsym.tubi.video/playlist.m3u8
 Fox 54.1 Huntsville,https://livevideo01.rocketcitynow.com/hls/live/2011659/elvs/live.m3u8
 Fox 61 News Hartford CT (WTIC-TV),https://livevideo01.fox61.com/hls/live/2011658/elvs/live.m3u8
+Fox Sports en Espanol (720p),https://lnc-fox-sports-espanol2.tubi.video/index.m3u8
 France 3 Alpes,http://livetv.ktv.zone/210/play.m3u8
 France 3 Alsace,http://livetv.ktv.zone/211/play.m3u8
 France 3 Aquitaine,http://livetv.ktv.zone/212/play.m3u8
@@ -3271,6 +3275,7 @@ Galicia TV Europa (720p),https://europa-crtvg.flumotion.com/playlist.m3u8
 Galveston County TV (720p) [Not 24/7],https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8
 Galxy TV (720p),https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 Ganj e Hozour TV (720p),https://topfi.ios.internapcdn.net/topfi/live_1/Test/Test.m3u8
+Gardening With Monty Don (720p),https://lnc-gardening-monty-don.tubi.video/playlist.m3u8
 Garshom TV (360p) [Not 24/7],https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 Garuda TV (1080p),http://stream.garuda.tv/live/garudatv/playlist.m3u8
 Gawahi TV (720p),https://livecdn.live247stream.com/gawahi/tv/playlist.m3u8
@@ -3342,6 +3347,7 @@ Gospel (720p),https://origin3.afxp.telemedia.co.za/PremiumFree/gospellife/playli
 GoTV (576p) [Not 24/7],https://nstream17.gotv.at:1443/live/gotvlive/manifest.mpd
 GPR TV (720p),https://wowza.convergen.co/gprtv/myLive/playlist.m3u8
 Grand Genève TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCXFfYlxx1CDljLyXwXFbL1A.m3u8
+Great British Menu (720p),https://lnc-great-british-menu.tubi.video/playlist.m3u8
 Great Commission TV (468p),http://45.32.115.103/live/livestream/index.m3u8
 Greek TV London (720p) [Not 24/7],https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 Green Channel (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
@@ -3392,6 +3398,7 @@ HBTV (406p) [Not 24/7],http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playl
 Healing Center TV (480p),https://dcunilive258-lh.akamaihd.net/i/dclive_1@348579/master.m3u8
 Healing Jesus TV (576p),https://webstreaming-3.viewmedia.tv/web_041/Stream/playlist.m3u8
 Health Media TV (720p),https://6n3yowknl9ok-hls-live.5centscdn.com/HMN/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
+Heartland (720p),https://lnc-heartland.tubi.video/index.m3u8
 Hebron TV (432p),https://account20.livebox.co.in/charleshls/live.m3u8
 Hechicera TV (720p),https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
 Hechos Ecuador (480p) [Not 24/7],https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
@@ -3567,6 +3574,7 @@ LON TV (Lokale Omroep Nuenen) (720p),https://streamingserver02.omroepnuenen.nl/l
 Loreto TV (720p),https://stmv1.voxplayer.com.br/vidieg12/vidieg12/playlist.m3u8
 Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
 Love and Hip Hop (720p) [Not 24/7],https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+Love Quest (1080p),https://lnc-all-real.tubi.video/playlist.m3u8
 Love Stories TV (720p),https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/18a65393-ba3b-4912-90d5-7188c128ac66/3.m3u8
 Lóverseny közvetítés (420p),http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8
 LoveWorld Persia (480p),https://bus-asia-east-1-cimzmgnuu-cdn.sa.metacdn.com/live/ngrp:lxp22_main_all_transcode/playlist.m3u8
@@ -3649,6 +3657,7 @@ Natural TV (720p) [Not 24/7],http://broadcasttr.com:1935/naturaltv/bant1/playlis
 Nautistyles Luxury Yachts,https://ssai.castify.ai/media/cbe59a36-2334-4f34-bca0-6c7c2ae5989c/mainManifest.m3u8
 Navo (480p),http://gohoski.fvds.ru:3000/mediabay/254/playlist.m3u8
 Nazali's HDTV (1080p),http://194.163.135.238:5080/WebRTCApp/streams/590264631485484547459082.m3u8
+NBA G-League (1080p),https://lnc-nba-g.tubi.video/playlist.m3u8
 NBC 2 Tulsa OK (KJRH) (720p),https://lnc-kjrh.tubi.video/playlist.m3u8
 NBC 4 Greenville SC (WYFF) (720p),https://lnc-wyff.tubi.video/playlist.m3u8
 NBC 5 Cincinnati OH (WLWT) (720p),https://lnc-wlwt.tubi.video/playlist.m3u8
@@ -3715,6 +3724,7 @@ One TV (720p),https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u
 One TV Asia (576p),http://210.210.155.37/uq2663/h/h143/index.m3u8
 Ou-Mun Macau Satellite Ch. 96 (720p),https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 OUN (1080p),https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+Outersphere (1080p),https://lnc-outersphere.tubi.video/playlist.m3u8
 Oviedo TV (720p) [Not 24/7],https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/playlist.m3u8
 Oxygen Music (1080p),https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 Ózdi Városi TV (720p) [Not 24/7],http://stream.nmih.hu:7980/live.m3u8
@@ -4079,6 +4089,7 @@ Super! Danger and Thunder Italy (720p),https://stitcher-ipv4.pluto.tv/v1/stitch/
 Super! Rugrats Italy (720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8ddbbaed0390007b258a6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 Super! Victorious Italy (720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63c012504faf1c0007abfa93/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 SuperChannel Orlando (WACX-DT1) (720p),https://6305c8676ce84.streamlock.net/live/live/playlist.m3u8
+Supermarket Sweep (1080p),https://lnc-supermarket.tubi.video/playlist.m3u8
 Supreme Master TV (720p),https://lbs-us1.suprememastertv.com/720p.m3u8
 Suram TV (1080p),https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
 T-Vinet (480p),https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
@@ -4426,20 +4437,29 @@ Wazobia Max TV Port Harcourt (720p),https://wazobia.live:8333/channel/wmaxph.m3u
 WB Kids Français,https://ythls.armelin.one/channel/UCqvIdlrnd4DCcqp2DZwaZYw.m3u8
 WBBJ (Jackson TN) (432p),https://dai.google.com/linear/hls/event/HZ3JdLVcQ463l3b1BLXmmQ/master.m3u8
 WBC TV (1080p),https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
-WBTV All Together,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-All-Together-Now.m3u8
-WBTV At the Movies,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-At-The-Movies.m3u8
-WBTV Crime scenes,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Crime-Scenes.m3u8
-WBTV Family Rules,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Family-Rules.m3u8
-WBTV How To,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-How-To.m3u8
-WBTV Keeping It Real,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Keeping-It-Real.m3u8
-WBTV Love and Marriage,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Love-Marriage.m3u8
-WBTV Mysteries,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Mysteries.m3u8
-WBTV Paws and Claws,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Paws-Claws.m3u8
-WBTV Slice of Life,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Slice-Life.m3u8
-WBTV Supernatural,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Supernatural.m3u8
-WBTV Sweet Escapes,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Sweet-Escapes.m3u8
-WBTV Watchlist,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Watch-List.m3u8
-WBTV Welcome Home,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Welcome-Home.m3u8
+WBTV All Together,https://lnc-wbd-all-together-now.tubi.video/playlist.m3u8
+WBTV At the Movies,https://lnc-wbd-at-the-movies.tubi.video/playlist.m3u8
+WBTV Chasing Criminals,https://lnc-wbd-chasing-criminals.tubi.video/playlist.m3u8
+WBTV Classic Cinema,https://lnc-wbd-classic-cinema.tubi.video/playlist.m3u8
+WBTV Crime scenes,https://lnc-wbd-crime-scenes.tubi.video/playlist.m3u8
+WBTV Family Rules,https://lnc-wbd-family-rules.tubi.video/playlist.m3u8
+WBTV Generation Drama,https://lnc-wbd-generation-drama.tubi.video/playlist.m3u8
+WBTV How To,https://lnc-wbd-how-to.tubi.video/playlist.m3u8
+WBTV In The Garage,https://lnc-wbd-in-the-garage.tubi.video/playlist.m3u8
+WBTV Keeping It Real,https://lnc-wbd-keeping-it-real.tubi.video/playlist.m3u8
+WBTV Living With Evil,https://lnc-wbd-living-with-evil.tubi.video/playlist.m3u8
+WBTV Love and Marriage,https://lnc-wbd-love-marriage.tubi.video/playlist.m3u8
+WBTV Mysteries,https://lnc-wbd-mysteries.tubi.video/playlist.m3u8
+WBTV Nikita,https://lnc-wbd-nikita.tubi.video/playlist.m3u8
+WBTV On The Telly,https://lnc-wbd-on-the-telly.tubi.video/playlist.m3u8
+WBTV Paws and Claws,https://lnc-wbd-paws-claws.tubi.video/playlist.m3u8
+WBTV Slice of Life,https://lnc-wbd-slice-life.tubi.video/playlist.m3u8
+WBTV Supernatural,https://lnc-wbd-supernatural.tubi.video/playlist.m3u8
+WBTV Sweet Escapes,https://lnc-wbd-sweet-escapes.tubi.video/playlist.m3u8
+WBTV The FBI,https://lnc-wbd-the-fbi.tubi.video/playlist.m3u8
+WBTV Travel and Adventure,https://lnc-wbd-travel-and-adventure.tubi.video/playlist.m3u8
+WBTV Watchlist,https://lnc-wbd-watch-list.tubi.video/playlist.m3u8
+WBTV Welcome Home,https://lnc-wbd-welcome-home.tubi.video/playlist.m3u8
 WCBI (Columbus MI) (720p),https://dai.google.com/linear/hls/event/qLrnhs3RQUa2zMw9UBkroQ/master.m3u8
 WCCA 194 Worcester MA (WCCA-TV) (480p),https://worcester.vod.castus.tv/live/ch1.m3u8
 WCGtv Public (720p),https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
@@ -6889,6 +6909,7 @@ A1,http://31.148.48.15/A1/index.m3u8
 Andromeda Italy (720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802d37ee238e0007c94e64/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 AVA Series (720p),https://avaserieshls.wns.live/hls/stream.m3u8
 Consulenze Illegali Italy (720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b9dc99521a1400079bdfba/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+Filmrise Hunter (720p),https://lnc-hunter-filmrise.tubi.video/index.m3u8
 Fox Life,http://moobl.ru/hls/Fox_Life.m3u8
 Fox Türkiye (720p),https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 GEM Series + (720p),https://gg.hls2.xyz/live/IR+-+GEM+Series+Plus/playlist.m3u8
@@ -7022,6 +7043,7 @@ Canal Rural (1080p),https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.sm
 Chacra TV (480p) [Not 24/7],https://s8.stweb.tv/chacra/live/playlist.m3u8
 Hunt Channel (1080p),https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+Love Nature (1080p),https://lnc-love-nature.tubi.video/playlist.m3u8
 Outdoor America (720p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/playlist.m3u8
 Outdoor Channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 Outside TV (1080p),https://outsidetv-roku-us.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetv/CDN/playlist.m3u8
@@ -7076,6 +7098,7 @@ Zee Business (720p),https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f4431
 Documentary,#genre#
 48 Hours (Pluto TV) (720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6176f39e709f160007ec61c3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 Asharq Documentary (1080p),https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+BritBox Mysteries (1080p),https://lnc-bbc-britbox-mysteries.tubi.video/playlist.m3u8
 CCTV-9 (1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CGTN Documentary (576p) [Not 24/7],https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 Court TV,https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
@@ -7214,6 +7237,7 @@ Fight Night (720p),https://origin3.afxp.telemedia.co.za/PremiumFree/fightnight/p
 FIGHT SPORTS (1080p),https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 FightBox,http://stream01.vnet.am/Fightbox/mono.m3u8
 Fighting Spirit (720p),https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
+Fox Sports (720p),https://lnc-fox-sports2.tubi.video/index.m3u8
 FTF (720p),https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
 FTV (720p),https://master.tucableip.com/ftv/index.m3u8
 fubo Sports Network (720p),https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
