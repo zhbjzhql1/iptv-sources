@@ -78,7 +78,7 @@
 | 72 | [HD]ASSP2 | [HD ASSP2](https://epg.pw/stream/4549f42e0edfc73b7c4a69ce6daff98762424bc4d0081b613547061cca83a79a.ctv) |
 | 73 | [BD]AstroSupersports1 | [BD AstroSupersports1](https://epg.pw/stream/539443bad7c068504d51e8d1d65774b2279e6137ac4743038e0195868df9ebdc.ctv) |
 | 74 | [VGA]Astro Supersports 2 | [VGA Astro Supersports 2](https://epg.pw/stream/79d191a7d8ff2b7c8dbbe56e33ac90d77ed8faffba501128cf7667ba3d8cd542.ctv) |
-| 75 | [BD]Astro Supersports 3 | [BD Astro Supersports 3](https://epg.pw/stream/47ede744d2f5d02f925bbb6302cdf7b32c42c1e9f9f106b96d97b9008985c156.ctv) |
+| 75 | [SD]Astro Supersports 3 | [SD Astro Supersports 3](https://epg.pw/stream/02c84bbd84c519f27405ad3fc1054e601f5dfe8bbbce8169f0cb2be4f6a3fb3c.ctv) |
 | 76 | [SD]astrotv | [SD astrotv](https://epg.pw/stream/61b47eb5e7551f99a32454d3ba9b9baf0f579ea58e697ed0e65db4983302caa5.m3u8) |
 | 77 | [HD]KPLUS HD | [HD KPLUS HD](https://epg.pw/stream/72d02f95933ca84c7bb2e09ed82d953b040fe92c9b6c09706b98b3a2cc11fc08.ctv) |
 | 78 | [BD]AstroSupersports4 | [BD AstroSupersports4](https://epg.pw/stream/fa72a3c8e6c9467e0af7fbb5d52eed38593925f79d8b46299f2161a8984a59b9.ctv) |
@@ -1702,4 +1702,4 @@
 | 1696 | [BD]龙江卫视[ipv6] | [BD 龙江卫视 ipv6](https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8) |
 | 1697 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Sun Jan 14 2024 02:32:28 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jan 14 2024 04:18:38 GMT+0000 (Coordinated Universal Time)**
