@@ -1065,7 +1065,7 @@ Mediaset Italia,https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/c
 Medjugorje Italia TV (480p),https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
 Meer TV (720p) [Not 24/7],https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8
 Mega (480p),https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-MEGA TV (720p),http://streamcdnb7-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+MEGA TV (720p),https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 Mega TV (720p) [Not 24/7],https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 Mega TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCsJgeHqYFzBzQRa5ZmhJo7w.m3u8
 Mega TV Arequipa (720p) [Not 24/7],https://hls.servidor.stream/storage/megatv.m3u8
@@ -1453,7 +1453,6 @@ Sextavisión (720p),https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8
 Sfera TV (480p) [Not 24/7],http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
 Shabab FM (720p) [Not 24/7],https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
 Shabakeh 7 (576p),https://t.northtelecom.org/Shabakeh.m3u8
-Shamshad TV (240p),https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/index.m3u8
 Sheffield Live TV (360p) [Not 24/7],http://tv.sheffieldlive.org/hls/main.m3u8
 Shekinah TV (1080p),https://ythls.armelin.one/channel/UCHtYUfPnQci6GoUpPlWfrOg.m3u8
 Shemaroo Marathi Bana (720p),https://livetv-channels.b-cdn.net/8042/chunklist0.m3u8
@@ -4623,7 +4622,6 @@ W Shopping (720p),https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k
 Science,#genre#
 .sci-fi,http://moobl.ru/hls/SciFi.m3u8
 Explosión Creativa (720p) [Not 24/7],https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
-Smithsonian Channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-smithsoniannz-samsungnz/playlist.m3u8
 山东农科 (406p),http://livealone302.iqilu.com/iqilu/nkpd.m3u8
 
 Culture,#genre#
