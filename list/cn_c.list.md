@@ -28,7 +28,7 @@
 | 22 | [SD]三沙卫视 | [SD 三沙卫视](https://epg.pw/stream/fc49c564c870b78b1a3655d913ca8a4fe4e31f58db2da34caedc0761a3e51256.ctv) |
 | 23 | [BD]上海新闻综合[ipv6] | [BD 上海新闻综合 ipv6](https://epg.pw/stream/373127a928c6188e77353eae10f69c6f57d5965425c9829b9d1e8e3538d544f4.m3u8) |
 | 24 | [BD]上海纪实人文[ipv6] | [BD 上海纪实人文 ipv6](https://epg.pw/stream/a39d2f506a1d61aff55547242c58f67499e74fd9cc0b6560f2cefd3409d4df29.m3u8) |
-| 25 | [BD]五星体育[ipv6] | [BD 五星体育 ipv6](https://epg.pw/stream/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.m3u8) |
+| 25 | [BD]五星体育[ipv6] | [BD 五星体育 ipv6](https://epg.pw/stream/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bbed79b2.m3u8) |
 | 26 | [SD]优漫卡通 | [SD 优漫卡通](https://epg.pw/stream/463d06a4b38da16e5d7ba7abd2dff09fc60298d5111cdf57aa3eaeaea9714449.m3u8) |
 | 27 | [BD]内蒙古农牧 | [BD 内蒙古农牧](https://epg.pw/stream/f426a12024c3d2a6271d7b4e1514b8da71aeef77a9033c211e1e49a8386a8668.m3u8) |
 | 28 | [SD]兵团卫视 | [SD 兵团卫视](https://epg.pw/stream/3c1a2c4de27ecb2b3479e6b5483b2c5aba19adc58b3fddfdb03d4a016f7d4efa.ctv) |
@@ -159,4 +159,4 @@
 | 153 | [BD]黑龙江都市[ipv6] | [BD 黑龙江都市 ipv6](https://epg.pw/stream/7f0506c053e2d595749fd2c67c83e4abd7b5115ab0d735ae6eb8519dd9624bf6.m3u8) |
 | 154 | [VGA]黑龙江新闻 | [VGA 黑龙江新闻](https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8) |
 
-Updated at **Tue Jan 16 2024 04:19:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jan 16 2024 06:21:03 GMT+0000 (Coordinated Universal Time)**
