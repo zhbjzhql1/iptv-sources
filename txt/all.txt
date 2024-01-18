@@ -56,7 +56,7 @@ Sport,#genre#
 [HD]tv max,https://epg.pw/stream/65b185687defc41c286e353b6f8f2425e9d599909083ba8c841bc574802503cd.m3u8
 [HD]tempo tv,https://epg.pw/stream/39f8ccbf5a9d40cf8d4fdb79f704471e0514a62a809d3ed6ec10a447d441a6a6.m3u8
 [HD]tea tv,https://epg.pw/stream/d091c6275582813d2d89260bd12ee14bda8a305cf4b28175d509a4ac99195323.m3u8
-[HD]WWE,https://epg.pw/stream/956c2259e4fce0ccb7e515a72cd7a0cd5c08b16340a91dbbc06d5c88a564b2fb.ctv
+[HD]WWE,https://epg.pw/stream/00748f62450ef842d3d247a0adfa5ce181c5d7ba871718fa0e1701c6d6d4536f.ctv
 [HD][意大利]telenod(576p),https://epg.pw/stream/9348dc43d70dd433429ec0a44269ca2cef35366c7fad395d5386b89a8c7a1364.m3u8
 [BD]abu dhabi sports 1,https://epg.pw/stream/6e4ddc7c086729df13e2d0fdcdc0dc06a2c9846ad029cbbbe90974edd79be975.m3u8
 [BD]abu dhabi sports 2,https://epg.pw/stream/ec38534b190a177c985e3f8fc0d30a6b89a2fcbd671506f10150e3350db8a9a4.m3u8
@@ -1389,7 +1389,7 @@ Movie,#genre#
 [SD]SKYSHOWCASE,https://epg.pw/stream/a915dba8e597d0168bdaf49d0b619675c0f468e0acb1932ecb2f95b5120ad425.ctv
 [VGA]STARZ CINEMA,https://epg.pw/stream/3361be0b051baa41078c1b869c3c1e63c981349acbb029cb8d38985c7e8cf816.ctv
 [VGA]STARZ EDGE,https://epg.pw/stream/2fc39ce13472063fb1f655181a141d195da1a6621e83f1d6ec0f6eeff4011220.ctv
-[BD]SYFY HD USA,https://epg.pw/stream/a9d4ec767ab473b34d41c7820c3b862db7b651e5d5e4d165559232c127bf03ad.ctv
+[BD]SYFY HD USA,https://epg.pw/stream/660887a7a72253f0a7c92062e1f1e18355899e5ddbcf9e5abfb526af6accc75d.ctv
 [BD]Showtime,https://epg.pw/stream/e30f77c310ff8f7086eaaff78cdf6b2cd6dc2039ebfb4d7454d80963df6559fa.ctv
 [BD]Sky Movies Comedy,https://epg.pw/stream/cf1a2f6766963d83bbd6352893136f1ec2172958ca2b2985a5a98c2f2e76b1bc.ctv
 [HD]Sky Movies Premiere,https://epg.pw/stream/c1384f0bdec2d05626a94e6d7b62939580eb7b88571e1cf8c0b1e9013f8d6481.ctv
@@ -1540,7 +1540,7 @@ Cartoon,#genre#
 [HD]bs朝日,https://epg.pw/stream/ef54ab9bb6cc2b57d918c7caec5a0d7b24b2dba3461290b5261ea5dc82783287.m3u8
 [BD]brtv卡酷少儿,https://epg.pw/stream/87c7d64450a0d80c85933b6caaea95a315accc0d1c765938e6b24b61f71b20ca.ctv
 [BD]cctv14[ipv6],https://epg.pw/stream/81b7797c31f3ca9a91e207b707f88027d93cf50d35999fc2e33c24e9bf30d709.m3u8
-[HD]Cartoon Network,https://epg.pw/stream/86e25ddbd25b90455b5ed8eebd2c74b8d24260d33095d916d41cbbe2b306eb52.ctv
+[SD]Cartoon Network,https://epg.pw/stream/67057121d5933fe13b076e8e83dca0e952bef9476dafbf4e4e5065ceb140adfc.ctv
 [VGA]concord tv (concord ca) (720p),https://epg.pw/stream/fbc0730f248ec08e2883e834a51925773d44af6431c4cb393363edad72b0b1ec.m3u8
 [HD]DISNEY XD,https://epg.pw/stream/2e76be8008d92ccb51c534b98bc7a7ee101a11bb7c10b995dc983c07d9818cd4.ctv
 [HD]DISNEYJR,https://epg.pw/stream/504f3e8099a8c4ff7de6fc597b4ecee0aece5d476868c36e11616d7ec7aecb99.ctv
@@ -1619,7 +1619,7 @@ Documentary,#genre#
 [HD]DISCOVERYHD,https://epg.pw/stream/c7c8c3fae5d575b115b820b8dafde91fa39fb3efe1b492910056d49bc5055159.ctv
 [BD]FYI,https://epg.pw/stream/937ba3e674a25bae49f1a6c2c75b453cb7c2890efdd22aa21e8d6830b4b61321.ctv
 [BD]INVESTIGATION DISCOVERY,https://epg.pw/stream/c72b7789cf44c93e0e3688497ffc8b8e1d8b33ec4aadf2476b2c14900d4d78ce.ctv
-[HD]NAT GEO,https://epg.pw/stream/51b7a126e809a6b6045db9df78be90c0f77a4e1bc69beadb1bce06d1789ca853.ctv
+[HD]NAT GEO,https://epg.pw/stream/706b3d1e525f4b2420373fc050bf0c6fca91f5224463360ec2036ad37dccdb40.ctv
 [BD]newtv精品纪录,https://epg.pw/stream/3745626b332353d3a3b029f2c86d2be6025b392c11261585cee511bd1dffdf63.m3u8
 [HD]NatGeoHD,https://epg.pw/stream/ba8147aee0841997e0211fe6652e5b7fbb8d91015d03e4698972d666214d4991.ctv
 [BD]national geographic abu dhabi,https://epg.pw/stream/49689475716d93fcdbcc44ef2e38e779f7ebfe2fdd7769ad870de22612876b2b.m3u8
