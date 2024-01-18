@@ -56,7 +56,7 @@
 | 50 | [HD]云南怒江新闻综合 | [HD 云南怒江新闻综合](https://epg.pw/stream/8b8a3bb9f8e192134e044784d4143ba39be81bf453c3a8523f5aea21162f4824.m3u8) |
 | 51 | [BD]云南都市 | [BD 云南都市](https://epg.pw/stream/1ca2457b9bd7a0905af48485803ac1357abc261d2ad96158b1970d5edde59ab3.m3u8) |
 | 52 | [BD]全纪实 8m | [BD 全纪实 8m](https://epg.pw/stream/a705a6147de87b9dd724482486c10078405545d850fb55bffa82b9ad98dbe45f.ctv) |
-| 53 | [VGA]内蒙卫视 | [VGA 内蒙卫视](https://epg.pw/stream/1b883ea5879587ad63629e92ea51aa3717f9168d9e5e84f135dfbb97f2876c47.m3u8) |
+| 53 | [SD]内蒙卫视 | [SD 内蒙卫视](https://epg.pw/stream/1b883ea5879587ad63629e92ea51aa3717f9168d9e5e84f135dfbb97f2876c47.m3u8) |
 | 54 | [BD]刘德华 | [BD 刘德华](https://epg.pw/stream/8848575026ebd3c19258f79bc476986d87d68dd75fc6d2ae65eb99163ca4883d.ctv) |
 | 55 | [BD]北京淘电影 | [BD 北京淘电影](https://epg.pw/stream/6f130950f894020e7c200ad6a3183b966cfea6c325f51a24b6e3075f441a2397.ctv) |
 | 56 | [BD]北京生活 | [BD 北京生活](https://epg.pw/stream/ec19f7e2d8440c4422905d787cd267a2fed33c262dd71dc77a363266d349c25d.ctv) |
@@ -162,4 +162,4 @@
 | 156 | [SD]黑龙江哈尔滨新闻 | [SD 黑龙江哈尔滨新闻](https://epg.pw/stream/a21c5bac9f70af160171c8746af2abc62e69b596653b7c18517ee945b2e8d157.m3u8) |
 | 157 | [SD]黑龙江公共农业 | [SD 黑龙江公共农业](https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8) |
 
-Updated at **Wed Jan 17 2024 22:15:27 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jan 18 2024 01:10:19 GMT+0000 (Coordinated Universal Time)**
