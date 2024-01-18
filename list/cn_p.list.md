@@ -40,4 +40,4 @@
 | 34 | [BD]青海卫视[ipv6] | [BD 青海卫视 ipv6](https://epg.pw/stream/baf5e50a17f574f86c96810d5d2eebbbc3570ca5f5a35d953837040845c89726.m3u8) |
 | 35 | [BD]黑龙江卫视 | [BD 黑龙江卫视](https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.ctv) |
 
-Updated at **Thu Jan 18 2024 02:29:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jan 18 2024 04:19:00 GMT+0000 (Coordinated Universal Time)**
