@@ -241,7 +241,7 @@
 | 235 | [BD]HBOFAMILYUSA | [BD HBOFAMILYUSA](https://epg.pw/stream/c932fd1243712e6ab3981f04904aefd5367153aa369c89d052f913dad8e62d27.ctv) |
 | 236 | [SD]hbo hd | [SD hbo hd](https://epg.pw/stream/c300dc774698a3dee9c053d7b19731f038712a8bf10bf26176f5aa5732475782.ctv) |
 | 237 | [HD]HBO HITS | [HD HBO HITS](https://epg.pw/stream/c1feb7acf247c694cc90af47838acfebf03dbd9288b21ae4b60a3f4cdf321bce.ctv) |
-| 238 | [SD]hbo signature tree | [SD hbo signature tree](https://epg.pw/stream/d9aa885cfe16554da1d006ade22fd9ee32031c8fe6caf993f5feaa386af432fc.ctv) |
+| 238 | [HD]hbo signature | [HD hbo signature](https://epg.pw/stream/5973653763c576ac010e576157ad593db073443e01c32ffece31f3f0e8bc13f5.ctv) |
 | 239 | [BD]HBO Signature | [BD HBO Signature](https://epg.pw/stream/d7b8b4596a5cb6b01a1075f1bf4c38ddaad5d9afcdb9a717d80e6333367cf67b.ctv) |
 | 240 | [BD]HBOWEST | [BD HBOWEST](https://epg.pw/stream/14df15ffbf5332576e587bdcce450f2193146b553aa45c1b4b52d3901f33ca47.ctv) |
 | 241 | [HD]hbo xtreme | [HD hbo xtreme](https://epg.pw/stream/e215c1e64765b9c7ab6997a384614cff227ca4ef72a79d0b12d2a3a28df2d740.ctv) |
@@ -1674,4 +1674,4 @@
 | 1668 | [VGA]龙祥电影台 | [VGA 龙祥电影台](https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.ctv) |
 | 1669 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Fri Jan 19 2024 04:19:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jan 19 2024 06:20:55 GMT+0000 (Coordinated Universal Time)**
