@@ -53,6 +53,8 @@ https://epg.pw/stream/51b8aac49ec3c280ee204075b38542e9a547208c9f6a19b6bd517a333e
 https://epg.pw/stream/2fe10d6406f74f21bd9e99d173a0b225c16b8a67d3aec20056a0c80ca0bcd0d7.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204118595367_23.png" group-title="电影",[BD]chc家庭影院
 https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.ctv
+#EXTINF:-1 tvg-name="CHC高画质电影" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204309711283_40.png" group-title="电影",[BD]chc电影[ipv6]
+https://epg.pw/stream/af3aec594edb1cfb1f1e65e373279c8cc381bdd77f5dbbec5ffdf80ac1faa5a6.m3u8
 #EXTINF:-1 tvg-name="bestv台" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/09/large/20220509003809613839_54.png" group-title="综合",[BD]bestv台
 https://epg.pw/stream/1cc2bd758de391989fa8ddec001232234bf1326d65de6186b373301a9fb04ec5.ctv
 #EXTINF:-1 tvg-name="cctv-11戏曲" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/11/24/large/20211124001035147790_28.png" group-title="电影",[BD]cctv-11戏曲
