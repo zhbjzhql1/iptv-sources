@@ -1666,4 +1666,4 @@
 | 1660 | [VGA]龙祥电影台 | [VGA 龙祥电影台](https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.ctv) |
 | 1661 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Sat Jan 20 2024 06:19:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jan 20 2024 08:18:49 GMT+0000 (Coordinated Universal Time)**
