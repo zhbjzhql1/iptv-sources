@@ -78,7 +78,7 @@
 | 72 | [BD]四川卫视 8m | [BD 四川卫视 8m](https://epg.pw/stream/9f87d97d2600210389a6c517a824e7ee784aab7cde2c7a02560df2ed95f2c75f.ctv) |
 | 73 | [BD]大健康 | [BD 大健康](https://epg.pw/stream/3480b40c51045605a207d4fa48ea507dfd4a46bc8318e3a65de96f5c8747b730.ctv) |
 | 74 | [BD]天元 围棋 | [BD 天元 围棋](https://epg.pw/stream/37dac0e9aa7a8d2f303a803d8d4aa6f672b2b149b2d12fe730974c128c94bfdf.m3u8) |
-| 75 | [BD]天津 卫视 | [BD 天津 卫视](https://epg.pw/stream/9b89f9fbb64cddfb8592c97dcf4a27a17f3aff30063c5429e3f2dcb7f60eb578.m3u8) |
+| 75 | [BD]天津卫视 | [BD 天津卫视](https://epg.pw/stream/a6742c93cfbe45322b12fce389c8b3f1e2d4873b8d8a0a8651fd76d14d8d1ef7.m3u8) |
 | 76 | [BD]安徽 卫视 | [BD 安徽 卫视](https://epg.pw/stream/8cdd7162a7567cbdd53fa82d6bf16d3cb3de3c99404628a3f7cf7e6a74ed69d3.m3u8) |
 | 77 | [BD]安徽导视 | [BD 安徽导视](https://epg.pw/stream/a7246583550aa4f39c3c5c71f7aaee412061387be1b7e5b57ad7c11513507106.m3u8) |
 | 78 | [HD]家庭 理财 | [HD 家庭 理财](https://epg.pw/stream/bb5f4d36f4840a765776f87605dbacde24f6fb79513058ecfed1f28b7f3c2c7a.m3u8) |
@@ -117,7 +117,7 @@
 | 111 | [BD]浙江卫视 | [BD 浙江卫视](https://epg.pw/stream/450a0f7bfc4cbebb6c078a5fda0b0c111c7da9b00a987888634be30b8967af70.m3u8) |
 | 112 | [BD]海南卫视 8m | [BD 海南卫视 8m](https://epg.pw/stream/b60a53b3967c0f5709974d3e1bf079a1d560268f75f367277132ad15ea3f086f.ctv) |
 | 113 | [BD]海宁新闻综合 | [BD 海宁新闻综合](https://epg.pw/stream/430bf9e770302d728d652b25b3c92a9357d50927a734bd8d97aacc47e6c875d3.m3u8) |
-| 114 | [BD]深圳卫视5 | [BD 深圳卫视5](https://epg.pw/stream/afe87ff73fce940c4263330a27d490e5efa6e80635c4bb860004d0f93f9f9b86.m3u8) |
+| 114 | [BD]深圳卫视 | [BD 深圳卫视](https://epg.pw/stream/63ad6d916aa277f8d6f971e7b6e88b644f13ef071a93e92f83adb23e2ef09da3.m3u8) |
 | 115 | [HD]深圳都市 | [HD 深圳都市](https://epg.pw/stream/42922b3bab314ce0217fdf746165de08e00d0556ebf961ee63049811baacc5ac.m3u8) |
 | 116 | [BD]清河新闻综合 | [BD 清河新闻综合](https://epg.pw/stream/47c40494054ea276b23bff99bafbdb2d42f524a7c231cbab180bb50d68376c0d.m3u8) |
 | 117 | [SD]湖北卫视 8m | [SD 湖北卫视 8m](https://epg.pw/stream/13ef1e33f8053afd1469e0e957eff11c5a38dff0410ef13e71b122d565f490de.ctv) |
@@ -164,8 +164,8 @@
 | 158 | [BD]黑莓动画 | [BD 黑莓动画](https://epg.pw/stream/89e7b1ef96dda539de25777630876882df0b78804426054f09f3a2aa677a868e.m3u8) |
 | 159 | [BD]黑莓电影 4m1080[ipv6] | [BD 黑莓电影 4m1080 ipv6](https://epg.pw/stream/7cd2a163028ebcd6e8caffba4408642bb8a5009e13dd97bf5f36706cd75f395e.m3u8) |
 | 160 | [BD]黑莓电影[ipv6] | [BD 黑莓电影 ipv6](https://epg.pw/stream/a106bba49a6159d54ee66205038e678acf94d13e34266e678ee7b08ce650766a.m3u8) |
-| 161 | [BD]黑龙江卫视 | [BD 黑龙江卫视](https://epg.pw/stream/f1007b038f33a03ddf485f4f0d877235ff72518f60e03c66a56657b59585479b.m3u8) |
+| 161 | [BD]黑龙江卫视 | [BD 黑龙江卫视](https://epg.pw/stream/8c996e3d8de40dd0dc1ceb9414ce4347c957c2030c97aaee596fe52034779605.m3u8) |
 | 162 | [SD]黑龙江哈尔滨新闻 | [SD 黑龙江哈尔滨新闻](https://epg.pw/stream/a21c5bac9f70af160171c8746af2abc62e69b596653b7c18517ee945b2e8d157.m3u8) |
 | 163 | [SD]黑龙江公共农业 | [SD 黑龙江公共农业](https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8) |
 
-Updated at **Sun Jan 21 2024 20:16:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jan 21 2024 22:14:24 GMT+0000 (Coordinated Universal Time)**
