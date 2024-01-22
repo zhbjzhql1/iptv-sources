@@ -44,7 +44,7 @@
 | 38 | [VGA]哈尔滨娱乐 | [VGA 哈尔滨娱乐](https://epg.pw/stream/2fc35c833b23774263a95e84dac67fd36e5f21101d7e3fcb72318ef7a1c6bb23.m3u8) |
 | 39 | [VGA]哈尔滨新闻综合 | [VGA 哈尔滨新闻综合](https://epg.pw/stream/ca8f57fc39d536dd721699325e3fc7ac9ca96fbe65f453531c01227f830b12cb.m3u8) |
 | 40 | [VGA]哈尔滨生活 | [VGA 哈尔滨生活](https://epg.pw/stream/71746238db63ed6951b3f0a4cbc42467d1a7b32c1925b4854de68ed71d678c98.m3u8) |
-| 41 | [HD]四海 钓鱼 | [HD 四海 钓鱼](https://epg.pw/stream/3e71b2b0f6a08e35d3dfd62b3d86cd827746a54a1dd7c1cb525027f26e0758cf.m3u8) |
+| 41 | [SD]四海 钓鱼 | [SD 四海 钓鱼](https://epg.pw/stream/3e71b2b0f6a08e35d3dfd62b3d86cd827746a54a1dd7c1cb525027f26e0758cf.m3u8) |
 | 42 | [SD]大湾区卫视 | [SD 大湾区卫视](https://epg.pw/stream/0b369442033524237d3fe856d8e71f5b18cb1be14e29ffdbaf45fc7f5802e165.m3u8) |
 | 43 | [BD]天元围棋 | [BD 天元围棋](https://epg.pw/stream/f5d490e9c51505ba99919f48ddb84278cf3e1b10772418182e1b4f93f1a9a9d0.ctv) |
 | 44 | [HD]安多卫视 | [HD 安多卫视](https://epg.pw/stream/290a71e47606fa713caa0f79a0812e332e24e5ec6d51610020d3031c34fb2857.m3u8) |
@@ -146,4 +146,4 @@
 | 140 | [BD]黑龙江都市[ipv6] | [BD 黑龙江都市 ipv6](https://epg.pw/stream/7f0506c053e2d595749fd2c67c83e4abd7b5115ab0d735ae6eb8519dd9624bf6.m3u8) |
 | 141 | [VGA]黑龙江新闻 | [VGA 黑龙江新闻](https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8) |
 
-Updated at **Mon Jan 22 2024 02:33:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jan 22 2024 04:20:23 GMT+0000 (Coordinated Universal Time)**
