@@ -142,7 +142,7 @@
 | 136 | [SD]cctv-4中文国际 | [SD cctv-4中文国际](https://epg.pw/stream/e9df8fe337dd6bacbf98516a34c0b0c94b3d2a02339529dea3de3769add35fc9.m3u8) |
 | 137 | [SD]cctv-4中文国际 | [SD cctv-4中文国际](https://epg.pw/stream/c3b4c0fa59357628b823a008e742caa5e3ea18df81216adbc62f3aa7afe556f0.m3u8) |
 | 138 | [BD]cctv5+ 8m | [BD cctv5+ 8m](https://epg.pw/stream/992d8f11fad0b775e667a3654463fb1c07cc28d43d6627335360f0927175fc80.ctv) |
-| 139 | [BD]cctv5+[ipv6] | [BD cctv5+ ipv6](https://epg.pw/stream/ef9111cbb989c2ed48759884800cdcda4dcdd561f776aff58b70a31d9d1c9bfa.m3u8) |
+| 139 | [BD]cctv5+ | [BD cctv5+](https://epg.pw/stream/4ac8702f7f5a5b0d972e76862b0bb9b1f43f695fe78adcafcc0f9ecab99e3589.m3u8) |
 | 140 | [BD]cctv6[ipv6] | [BD cctv6 ipv6](https://epg.pw/stream/17a2cd6baf28eea74e93e9c0b1cafec7c77e144ab58c001890a95b7a942db8b4.m3u8) |
 | 141 | [BD]cctv7 | [BD cctv7](https://epg.pw/stream/085cc8320b47039f91c89f261b3bde134c04438bf58155988cdd2120c8ae5c1c.m3u8) |
 | 142 | [BD]cctv8 | [BD cctv8](https://epg.pw/stream/113f0eb04d33840b7642af563255df49292c8d9c7755bf498df78cb7a315f322.m3u8) |
@@ -205,7 +205,7 @@
 | 199 | [HD]E! ENTERTAINMENT | [HD E! ENTERTAINMENT](https://epg.pw/stream/fd78f6f8d6c0812a1b8817d776188a29c64035e91fe27943ea10124b1903fb4f.ctv) |
 | 200 | [VGA]ebs kids (400p) | [VGA ebs kids (400p)](https://epg.pw/stream/0410d7122b0d747831bffdcdc1c3ba4027548b9b4d03125ee9d7d433c0f2112a.m3u8) |
 | 201 | [SD]elta体育1 | [SD elta体育1](https://epg.pw/stream/9bd68652b1c60157167e598cb294b5cf95f8a8de3d635786691fb675cb0b4549.ctv) |
-| 202 | [BD]elta体育2 | [BD elta体育2](https://epg.pw/stream/eabee765a755801060969aaf054288397564c5b375f56b846d8470343ec19df0.ctv) |
+| 202 | [SD]elta体育2 | [SD elta体育2](https://epg.pw/stream/eabee765a755801060969aaf054288397564c5b375f56b846d8470343ec19df0.ctv) |
 | 203 | [HD]ESPN | [HD ESPN](https://epg.pw/stream/b066073d0f96bf9ce208aac7fa28c3da4ded65ebcd8f9109bd8d8790e5446ad7.ctv) |
 | 204 | [HD]ESPNNEWS | [HD ESPNNEWS](https://epg.pw/stream/609f9e6336669d7fe6e4030ea9d5bd0b73d926dc1afaf8f23bc151cdc2f2187f.ctv) |
 | 205 | [VGA]eye 戏剧台 | [VGA eye 戏剧台](https://epg.pw/stream/75aa8ed8d0e347ae2b3d0b30a907c64c246cf5d1b140d3b644c7fa736b8020c9.ctv) |
@@ -963,7 +963,7 @@
 | 957 | [HD]qatar tv 2 (720p) | [HD qatar tv 2 (720p)](https://epg.pw/stream/f5ae50e8648f5fb1b72302107e8fe22e41aa3b70e927fb661d43f7ee290a665d.m3u8) |
 | 958 | [HD]qmusic (720p) | [HD qmusic (720p)](https://epg.pw/stream/703fb0daf8a2489dbfc5a1533745c82c3362fd7cfc6bc21262a2b45feb65f760.m3u8) |
 | 959 | [VGA]quảng bình | [VGA quảng bình](https://epg.pw/stream/d5f03904a828b0c8831812ba2113ecae61dea330e1ffe595c8b72ad75b5baaa0.m3u8) |
-| 960 | [VGA]quốc hội | [VGA quốc hội](https://epg.pw/stream/e5b92d153d87f6fa78bb74ef5e9e0f1dfe7b98bb4619ca61229f40e9e9f2aa51.m3u8) |
+| 960 | [HD]quốc hội | [HD quốc hội](https://epg.pw/stream/e5b92d153d87f6fa78bb74ef5e9e0f1dfe7b98bb4619ca61229f40e9e9f2aa51.m3u8) |
 | 961 | [HD]qvc 3 (1080p) | [HD qvc 3 (1080p)](https://epg.pw/stream/e6d383c9a7ae7bf553883460d2f9d2218d650614022054fb844fdbba26fa200a.m3u8) |
 | 962 | [VGA]qvc japan | [VGA qvc japan](https://epg.pw/stream/d34f9ebda94f7bde1c39be3e90123001ee9c725b64644244624abe1dc79c3267.m3u8) |
 | 963 | [BD]radio weser tv bremen | [BD radio weser tv bremen](https://epg.pw/stream/6b5b02030b4cbde4b0d4b4910ede47c2e28a4796bf4d57c66cb9156c848bc6bf.m3u8) |
@@ -1437,7 +1437,7 @@
 | 1431 | [VGA]吉林都市 | [VGA 吉林都市](https://epg.pw/stream/32692f852b36198fd146650046232b8ac486b39d07d76f3310a8ffb339124da7.m3u8) |
 | 1432 | [VGA]吉林乡村 (900p) [not 24/7] | [VGA 吉林乡村 (900p)  not 24/7](https://epg.pw/stream/69c843e9479e054c8323b5a23b74f4f70e8fd3d87354bcbef12195bed8043aeb.m3u8) |
 | 1433 | [VGA]名侦探柯南 | [VGA 名侦探柯南](https://epg.pw/stream/61348a863d7df447d4185000da78ea9959e0233cfe72297fabe748bb347b17ca.m3u8) |
-| 1434 | [BD]咪咕视频[ipv6] | [BD 咪咕视频 ipv6](https://epg.pw/stream/70f35a2586a8f8b880037235d9106303415545bdf69351ff56c293f43b54ad45.m3u8) |
+| 1434 | [SD]咪咕视频[ipv6] | [SD 咪咕视频 ipv6](https://epg.pw/stream/70f35a2586a8f8b880037235d9106303415545bdf69351ff56c293f43b54ad45.m3u8) |
 | 1435 | [VGA]哈尔滨娱乐 | [VGA 哈尔滨娱乐](https://epg.pw/stream/2fc35c833b23774263a95e84dac67fd36e5f21101d7e3fcb72318ef7a1c6bb23.m3u8) |
 | 1436 | [VGA]哈尔滨影 | [VGA 哈尔滨影](https://epg.pw/stream/4761681fab1275b2d0237e83813c4845effdd80a8575a346ed32a092aaab0872.m3u8) |
 | 1437 | [VGA]哈尔滨新闻综合 | [VGA 哈尔滨新闻综合](https://epg.pw/stream/ca8f57fc39d536dd721699325e3fc7ac9ca96fbe65f453531c01227f830b12cb.m3u8) |
@@ -1738,4 +1738,4 @@
 | 1732 | [HD]龙华日韩 | [HD 龙华日韩](https://epg.pw/stream/9be8c74cea1e54e9531896a759e3b04c3457ca5a65632435b5d8af830f7780ae.ctv) |
 | 1733 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Mon Jan 22 2024 08:21:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jan 22 2024 10:17:53 GMT+0000 (Coordinated Universal Time)**
