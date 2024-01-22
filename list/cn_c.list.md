@@ -5,7 +5,7 @@
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
 | 1 | [BD]chc动作电影[ipv6] | [BD chc动作电影 ipv6](https://epg.pw/stream/b8dfd242761b6471da5a06f188500dbb93ff307905c80d3c440b503252b24561.m3u8) |
-| 2 | [BD]chc高清电影[ipv6] | [BD chc高清电影 ipv6](https://epg.pw/stream/0fc644caf6205b2dd46b84766084d0a90eff010686f75b2fd646bdcf1943883d.m3u8) |
+| 2 | [BD]chc高清电影[ipv6] | [BD chc高清电影 ipv6](https://epg.pw/stream/3b471ad5f1aa57bac299045428922c098b2f6204a72ef8428b398db14eaa5c96.m3u8) |
 | 3 | [BD]newtv中国功夫[ipv6] | [BD newtv中国功夫 ipv6](https://epg.pw/stream/6c9d54cf76a2d2246f6ffca3c1bc194b5e23e716247f9b29a49279278188a1fb.m3u8) |
 | 4 | [BD]newtv动作电影[ipv6] | [BD newtv动作电影 ipv6](https://epg.pw/stream/6fdbeaebf72d19e82c4db2858a3ad1c5deddf612acf750303519cddc2086be84.m3u8) |
 | 5 | [BD]newtv家庭剧场[ipv6] | [BD newtv家庭剧场 ipv6](https://epg.pw/stream/9dbfd6b109c89e7116ac828be8ad37a39096e1c2ec54efe040476e53d89ee4a7.m3u8) |
@@ -146,4 +146,4 @@
 | 140 | [BD]黑龙江都市[ipv6] | [BD 黑龙江都市 ipv6](https://epg.pw/stream/7f0506c053e2d595749fd2c67c83e4abd7b5115ab0d735ae6eb8519dd9624bf6.m3u8) |
 | 141 | [VGA]黑龙江新闻 | [VGA 黑龙江新闻](https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8) |
 
-Updated at **Mon Jan 22 2024 04:20:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jan 22 2024 06:22:03 GMT+0000 (Coordinated Universal Time)**

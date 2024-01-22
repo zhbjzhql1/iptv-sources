@@ -66,7 +66,7 @@
 | 60 | [HD]ANIMALPLANET | [HD ANIMALPLANET](https://epg.pw/stream/482000d4b9c33580e311557fe6e24fcaafeb59a322be5b1e8f5375e2a9ad8d53.ctv) |
 | 61 | [VGA]animax卡通 | [VGA animax卡通](https://epg.pw/stream/756e371755dd94d6963615a5683f04780ba494c8b5d99933545f6790afabc660.ctv) |
 | 62 | [HD]ANIMAX. | [HD ANIMAX.](https://epg.pw/stream/67bad1d50057c86b11bdf33d03b7a0477b95f71fa4d815a4cdf5bcc9b80daf7d.ctv) |
-| 63 | [HD]Animax | [HD Animax](https://epg.pw/stream/e1e0321995ce0fad64ce25f8f2d8bfee36cbdb89b7362581fdc17cce18ca389f.ctv) |
+| 63 | [HD]Animax | [HD Animax](https://epg.pw/stream/d8a8a20312f02461f0713c6394b2de574ac72ba16ef7aec6b6030f5872ffb516.ctv) |
 | 64 | [HD]anime all day | [HD anime all day](https://epg.pw/stream/24ed266eff555213de6e7f03deae8e658f45f667e21e1c25a74edb63681eea80.m3u8) |
 | 65 | [VGA]anime tv | [VGA anime tv](https://epg.pw/stream/1d6445e7f7a11a3b649007a9a6b3ebe3b85113eca7e9e886ecc4b1c1b6c40d9d.m3u8) |
 | 66 | [HD]arise news (576p) | [HD arise news (576p)](https://epg.pw/stream/10210a2d2a6ab12f36b3f9c77b49eafe76ba4f304372098b8e74a83e561eab60.m3u8) |
@@ -111,7 +111,7 @@
 | 105 | [BD]brtv卡酷少儿 | [BD brtv卡酷少儿](https://epg.pw/stream/87c7d64450a0d80c85933b6caaea95a315accc0d1c765938e6b24b61f71b20ca.ctv) |
 | 106 | [HD]ช่อง bally sports sun | [HD ช่อง bally sports sun](https://epg.pw/stream/e9b739ee16fec8cb79263313eb3fd6f1eedd3799003a7fc74cfb8b33e8d63f83.m3u8) |
 | 107 | [SD]bein sports 1 | [SD bein sports 1](https://epg.pw/stream/5533389f8dac0613b48d4b93af5b9d4edaa73092c848bf9b847298e8cc8e38e7.ctv) |
-| 108 | [BD]bein sports 2 | [BD bein sports 2](https://epg.pw/stream/073409ccfe1baca569fa72db270633db48476e456e007c7ad4d1cafca102c9f5.m3u8) |
+| 108 | [VGA]bein sports 2 | [VGA bein sports 2](https://epg.pw/stream/aa796e0fdcd194735e441c631417053b56529065dbca8ea5294879c4a443fd99.ctv) |
 | 109 | [HD]bein sports 6 | [HD bein sports 6](https://epg.pw/stream/11c89e5ed3a9defa010cf4345e5f905ab36f1269290c42139047abbe791b9c11.ctv) |
 | 110 | [SD]bernama tv | [SD bernama tv](https://epg.pw/stream/bd533de64226b8c9f4345b2b8f408ecc7347105f67adbafe5489225629f1aeb4.ctv) |
 | 111 | [HD]euro tv (720p) [not 24/7] | [HD euro tv (720p)  not 24/7](https://epg.pw/stream/ed1899e919fd64841d7c716060359cacc806170f28fc08236bca9c7880a2e2a5.m3u8) |
@@ -164,7 +164,7 @@
 | 158 | [BD]CINEMAX THRILLERMAX | [BD CINEMAX THRILLERMAX](https://epg.pw/stream/4aa552cd8d5a5d725179435ad8761ef46d0ff8d88baa6d4c46b60c9d117577b9.ctv) |
 | 159 | [HD]CNA | [HD CNA](https://epg.pw/stream/12ba12792aba4763069ef2fe2ed1c54360598302ea70d4b72d220056183036b4.ctv) |
 | 160 | [SD]cnbc | [SD cnbc](https://epg.pw/stream/62a93999e7f3b655444ff047ffe82d27a6fce8f0485a78e07401292b8949f738.m3u8) |
-| 161 | [HD]cnn go | [HD cnn go](https://epg.pw/stream/bf9c7383dcea9ef705a2779742a6a1b2aae2ff582e0103bd2a7ecfba56f12c5d.m3u8) |
+| 161 | [SD]cnn j | [SD cnn j](https://epg.pw/stream/533b37c28f3b05aaa8e0eb5635c89a50f6be6b9bb9e637c00387ae05b225b4ac.m3u8) |
 | 162 | [BD]CNNHD | [BD CNNHD](https://epg.pw/stream/b4c01add83341bc8823a1054c2b66e4b8d1cec51461f28a34d4ead5858851623.ctv) |
 | 163 | [HD]hln | [HD hln](https://epg.pw/stream/32960459932c42fc75b417bd52b788d195d72c289c5a07a3db3df42e08b27e00.m3u8) |
 | 164 | [SD]cn卡通频道 | [SD cn卡通频道](https://epg.pw/stream/a420d7e58a39d3c9a01d00783c3f7dd5d3db7f83d5f9a7592def0e151b6a8043.ctv) |
@@ -174,7 +174,7 @@
 | 168 | [VGA]noticias canal 10 | [VGA noticias canal 10](https://epg.pw/stream/daea0a8c026f696b8b4819fe77a2d43c5b0f42aa1fced0d2ccf594c0ff53d697.m3u8) |
 | 169 | [HD]regional mx | [HD regional mx](https://epg.pw/stream/7a1e2fd10c8936e7f5d1c32d8c765b124100da31dcd8030ec63ee07dd58c7c23.m3u8) |
 | 170 | [BD]eduvision (1080p) | [BD eduvision (1080p)](https://epg.pw/stream/1df97f260e326e268a6d2060eb0ceeb4937fe99f1dd4281438423d51b0f72667.m3u8) |
-| 171 | [BD]CartoonNetwork | [BD CartoonNetwork](https://epg.pw/stream/1569822f944b507ca58f08198bcce0a02628646fb9eb1571b5865fbf342c2054.ctv) |
+| 171 | [BD]CartoonNetwork | [BD CartoonNetwork](https://epg.pw/stream/a9f12900b5bafd11f223e45cc9c7b6b4a9000041f6e862d83c3d131e8c2f396d.ctv) |
 | 172 | [HD]chile channel | [HD chile channel](https://epg.pw/stream/f4b420136e3d2ce8a6cafcd3d2777a113dc0ba5bd9061973b2ad6a04513a1b57.m3u8) |
 | 173 | [HD]channel 7 | [HD channel 7](https://epg.pw/stream/6f0bc0a13166087d2a1d80556fbc20d4729d9676e7f804aceef45ffeee641bcf.m3u8) |
 | 174 | [VGA]ช่อง happy channel | [VGA ช่อง happy channel](https://epg.pw/stream/2af08e755cbd4719e3ac71ee4f338109ccea10c30587d8720df4663107b61bee.m3u8) |
@@ -669,7 +669,7 @@
 | 663 | [BD]dltv 10 (1080p) | [BD dltv 10 (1080p)](https://epg.pw/stream/78a132541063880c465d5580ce8b220feda44fe007ce492f574d36da0dd04fcb.m3u8) |
 | 664 | [HD]documentary+ | [HD documentary+](https://epg.pw/stream/fe79c5f6c8ebf1b4e728df6efaf2f89e2fc6dd71fa868354e4c163de7e396583.m3u8) |
 | 665 | [HD]dora tv | [HD dora tv](https://epg.pw/stream/fd0298618cb78d68df621e2f5645615f18c75901a62980c8a87b87977116e7ea.m3u8) |
-| 666 | [HD]dorcel tv hd | [HD dorcel tv hd](https://epg.pw/stream/6cb808fa5ad3611b27129dfeb631034afb1355f6a2fe72cddaff36c42076918a.m3u8) |
+| 666 | [HD]dorcel tv fhd | [HD dorcel tv fhd](https://epg.pw/stream/0e4997be29cec5712cda7438e32b5d5902b980a919ca53595d78045218fd659f.m3u8) |
 | 667 | [HD]dtv | [HD dtv](https://epg.pw/stream/bcb128954cf1a338bdc2ea472b27dac03896cc045938711734ddc021364a439e.m3u8) |
 | 668 | [HD]dua channel hadi tv | [HD dua channel hadi tv](https://epg.pw/stream/eb470833054ba14329b11694107a7bb5b5d42a7a4c6385a6f9830a34e897dbc5.m3u8) |
 | 669 | [VGA]dubai one | [VGA dubai one](https://epg.pw/stream/28188543a69bca20889e67124dcd04b3e77340a796305be2cff2f03a28d411d1.m3u8) |
@@ -1739,4 +1739,4 @@
 | 1733 | [HD]龙华日韩 | [HD 龙华日韩](https://epg.pw/stream/9be8c74cea1e54e9531896a759e3b04c3457ca5a65632435b5d8af830f7780ae.ctv) |
 | 1734 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Mon Jan 22 2024 04:20:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jan 22 2024 06:22:03 GMT+0000 (Coordinated Universal Time)**
