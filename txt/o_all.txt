@@ -130,7 +130,6 @@ Aqtóbe (576p),https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
 Aradana TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCMnz0yLX3afzFc8y822YO5g.m3u8
 Aragón TV (720p) [Not 24/7],https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 ARAS TV (576p) [Not 24/7],http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
-Árbol de Vida TV (240p) [Not 24/7],https://www.yupi.live:1936/livearbol/livearbol/playlist.m3u8
 Architectural Digest (720p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8
 ARD-alpha (720p),http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
 Are we there Yet?,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8
@@ -1561,7 +1560,6 @@ TBN Україна (720p),https://5d23269b3ec0c.streamlock.net/WEB_Ukraine24/ngr
 TBS (720p),http://203.162.235.41:17097
 TBS Seoul (720p),https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 TCI (1080p),https://tbn-jw.cdn.vustreams.com/live/tci/live.isml/2b7d53c5-b504-4d26-b25f-a70deb8d0faf.m3u8
-TCS+ (480p) [Not 24/7],https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/playlist.m3u8
 TCSM (1080p),https://stream.internet.one/RadioCaboVerde/video.m3u8
 TDM Info. Macau (720p) [Not 24/7],https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 TDM Ou Mun Macau Ch. 91 (720p),http://61.244.22.4/ch1/ch1.live/playlist.m3u8
@@ -1684,7 +1682,6 @@ TV Ferrol (576p),https://directo.tvferrol.es/tv.m3u8
 TV Filopoli (360p) [Not 24/7],http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 TV Galega Blumenau (720p) [Not 24/7],https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 TV Gazeta (720p),https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
-TV Getsemaní (720p),https://serversv.com:8080/hls/tvgetsemani.m3u8
 TV Girona (1080p),http://ventdelnord.tv:8080/girona/directe.m3u8
 TV Guará (720p) [Not 24/7],https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 TV Hellín (720p),https://hellin-hls-live.flumotion.com/playlist.m3u8
@@ -1817,7 +1814,11 @@ Vivamóvil (720p),https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/p
 VOX1 (720p) [Not 24/7],https://hls.vox1.live/hls/stream.m3u8
 VoxAfrica,http://188.227.164.31/tsstreamer/VoxAfrica_SD.ts
 VSiN (720p),https://stream.rcncdn.com/live/vsinproxy.m3u8
+VTC1 (1080p),https://1117141481.vnns.net/VTC1/chunks.m3u8
+VTC10 (1080p),https://1117141481.vnns.net/VTC10/chunks.m3u8
 VTC11,https://1117141481.vnns.net/VTC11/chunks.m3u8
+VTC12,https://1117141481.vnns.net/VTC12/chunks.m3u8
+VTC13 (1080p),https://1117141481.vnns.net/VTC13/chunks.m3u8
 VTE 9,https://ctrl.laotv.la/live/VTE9/index.m3u8
 VTM 2 (720p),https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream3.m3u8
 VTM (720p),https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
@@ -2589,6 +2590,7 @@ TBS East (720p),https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/s
 TBS eFM (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCHjDAeTbO4fQilomLD-kaXg.m3u8
 TBS West (720p),https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 Tchaman TV (720p),https://itelema.stream/live/smil:myStream.smil/playlist.m3u8
+TCS+ (480p) [Not 24/7],https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/playlist.m3u8
 TDI Colombia (720p) [Not 24/7],https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 TDN TV (1080p) [Not 24/7],https://liveurestreamingcomlive.cdn.ypt.me/62ec67ea435c6.m3u8
 TDS Televisión Departamental Sololá (1080p),https://tv.ideskhn.com:3343/live/tdssololalive.m3u8
@@ -3483,6 +3485,7 @@ Angel TV Portuguese (720p),https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvclou
 Angel TV Russian (720p),https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelrussia_all/playlist.m3u8
 Angel TV Spanish (720p),https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelspanish_all/playlist.m3u8
 Angelus TV (720p),https://transmisiuni.ro/media/oracatolica/playlist.m3u8
+Árbol de Vida TV (240p) [Not 24/7],https://www.yupi.live:1936/livearbol/livearbol/playlist.m3u8
 Audaz TV (432p),https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8
 BeitolAbbas TV Channel (720p),https://live.beitolabbas.tv/live/beitolabbastv.m3u8
 Bonum TV (360p),https://stream.y5.hu/stream/stream_bonum/stream.m3u8
@@ -3670,6 +3673,7 @@ Three Angels Broadcasting Network International (3ABN) (720p),https://3abn-live.
 TNE (720p) [Not 24/7],https://v2.tustreaming.cl/tnetv/index.m3u8
 TV Evangelizar (480p),https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 TV Fátima (1080p),https://streamer-b02.videos.sapo.pt/live/santuario/playlist.m3u8
+TV Getsemaní (720p),https://serversv.com:8080/hls/tvgetsemani.m3u8
 TV Gideoes (1080p) [Not 24/7],https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
 TV Gracia (720p),https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
 TV Ipiales (1080p),https://movil.ejeserver.com/live/tvipiales.m3u8
