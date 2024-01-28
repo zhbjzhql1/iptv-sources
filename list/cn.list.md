@@ -151,4 +151,4 @@
 | 145 | [SD]黑龙江哈尔滨新闻 | [SD 黑龙江哈尔滨新闻](https://epg.pw/stream/a21c5bac9f70af160171c8746af2abc62e69b596653b7c18517ee945b2e8d157.m3u8) |
 | 146 | [SD]黑龙江公共农业 | [SD 黑龙江公共农业](https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8) |
 
-Updated at **Sat Jan 27 2024 20:09:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jan 28 2024 00:50:30 GMT+0000 (Coordinated Universal Time)**
