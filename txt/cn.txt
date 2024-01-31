@@ -5,7 +5,7 @@
 [BD]黑莓动画[ipv6],https://epg.pw/stream/89e7b1ef96dda539de25777630876882df0b78804426054f09f3a2aa677a868e.m3u8
 
 综合,#genre#
-[BD]cctv1[ipv6],https://epg.pw/stream/960192460e742af597efd712c6fee1c5baf1e90589d2166e6e3f0dd636132070.m3u8
+[BD]cctv1,https://epg.pw/stream/52ab1874369538678151149a6e4a8f78bc0f6c159c17f63a39512a8fdd571c1b.ctv
 [BD]cctv12,https://epg.pw/stream/06025da15ba23cad6264166f6216c1cfb7f9bd2e1e759e6eab92ed6fb62f7daa.m3u8
 [BD]cctv4k超高清[ipv6],https://epg.pw/stream/14061ea886df6edfb76d8015ef8df852acbce8d4d862909db2279d3b3387cd9c.m3u8
 [BD]cctv-4 中文国际 美洲,https://epg.pw/stream/f155e7f2ec34213eaa80c93835daa2ed7d05733a20cecc56042f3ad6c130525c.ctv
@@ -21,7 +21,7 @@
 [BD]北京卫视,https://epg.pw/stream/d73c6843f3a6a315cd30584ac2d52f22981d87e36ec65a33840b4c47c2eee94f.m3u8
 [HD]南京十八 (720p),https://epg.pw/stream/2e20de6b7bc9777faefc9ed64ef069b643911600bf3ede60c8e7111b60309d35.m3u8
 [VGA]吉林公共,https://epg.pw/stream/fbbbc97be37a946dd11f981eddddbaccc3953fa6303541e4485b98a7cdb7783f.m3u8
-[HD]吉林卫视v,https://epg.pw/stream/ba4638b7178314a10cfc89e46f24b0912a8a5a037112f3985b7b2555de859d73.ctv
+[BD]吉林卫视v,https://epg.pw/stream/ba4638b7178314a10cfc89e46f24b0912a8a5a037112f3985b7b2555de859d73.ctv
 [VGA]吉林都市,https://epg.pw/stream/32692f852b36198fd146650046232b8ac486b39d07d76f3310a8ffb339124da7.m3u8
 [BD]天津 卫视,https://epg.pw/stream/9b89f9fbb64cddfb8592c97dcf4a27a17f3aff30063c5429e3f2dcb7f60eb578.m3u8
 [BD]安徽导视,https://epg.pw/stream/a7246583550aa4f39c3c5c71f7aaee412061387be1b7e5b57ad7c11513507106.m3u8
@@ -57,7 +57,7 @@
 [HD]邢台综合频道,https://epg.pw/stream/2458746ec43606d168e6e5a6e8902d3dfce08a87a9ea842e12e8d060af9c4054.m3u8
 [BD]云南康旅,https://epg.pw/stream/dfa3173aad48d81e4bb65e1cd26f95558b31b51add7c5f5cdce6f670069946c2.m3u8
 [HD]青海都市,https://epg.pw/stream/4acd2e75fc0a26c45b41c6808d6eb07039e023cf62c2b24b33767e969eaadc1a.m3u8
-[BD]黑龙江都市,https://epg.pw/stream/26378dd955d409740dae6ca765d8d7ee8316fb22a55af9123f9ebad3efdac9f2.m3u8
+[VGA]黑龙江都市,https://epg.pw/stream/26378dd955d409740dae6ca765d8d7ee8316fb22a55af9123f9ebad3efdac9f2.m3u8
 [SD]黑龙江公共农业,https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8
 
 其它,#genre#
@@ -100,14 +100,15 @@
 [SD]老妖电影,https://epg.pw/stream/816ca72465df24a3a259e57431d34a3fdb1506ec6894a2cd5668c20b8c578b8a.ctv
 [SD]万州影视文艺,https://epg.pw/stream/4fbd9d1e44a192a1b593a0448e0ea3705f04408928e1c1a962c431988503c156.m3u8
 [BD]黑莓电影[ipv6],https://epg.pw/stream/a106bba49a6159d54ee66205038e678acf94d13e34266e678ee7b08ce650766a.m3u8
+[VGA]黑龙江影视,https://epg.pw/stream/305fbc43e5137ac3d2bcbc2a03e032737a15b3ec7d207356b45fe096e14e6ab4.m3u8
 
 新闻,#genre#
 [SD]cctv13,https://epg.pw/stream/40a9e2982bc945aca7ceebc0664c69c3da53d8b7169e7edee6383656ab72004b.m3u8
-[BD]cctv2,https://epg.pw/stream/c4fe654287b623b12ae8998e38958ca0fd85d5359f11587722174cb38b6318c8.m3u8
+[BD]cctv2[ipv6],https://epg.pw/stream/8d9a2d76a0d819bf594bd8698a0ceadca5d3ac2b1b44321ab0cc534ebd1c4cd6.m3u8
 [BD]cctv4[ipv6],https://epg.pw/stream/5ea26961bbc8690cbd372a194e8801249644123feab6354e1f2cdd2b8a0026ca.m3u8
 [BD]cgtn,https://epg.pw/stream/2fe10d6406f74f21bd9e99d173a0b225c16b8a67d3aec20056a0c80ca0bcd0d7.m3u8
 [SD]cetv-4,https://epg.pw/stream/4e84c29e5eca21338465b534b414d6eaf48b61ecd0a43d2a0f53968d8e9096ff.m3u8
-[VGA]三明新闻综合,https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8
+[HD]三明新闻综合,https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8
 [SD]丘北新闻综合,https://epg.pw/stream/34f594424a186a28a9521b8cb3912cdf85b93897313182a9abeaf096b23e9458.m3u8
 [SD]中国 天气,https://epg.pw/stream/540ac3f9354818e3b5801b23742a0dea6b0d6a7183f9b015610351cf302979b4.m3u8
 [SD]云南|丘北新闻综合,https://epg.pw/stream/e41280c9ed59d4ce20daf5dde13807df95f14cb7e20e6483f5a21dd86fbcb297.m3u8
@@ -153,7 +154,7 @@ Music,#genre#
 [BD]5+体育赛事,https://epg.pw/stream/086db2bb0313ea69b64e6c5241778b8b5933b629e4bd09ecab5e744b122ed865.m3u8
 
 综艺,#genre#
-[VGA]cctv3,https://epg.pw/stream/792979f74e697c8690b1c342bd7328698fa5876d61949ac70adf91f52d5931e6.m3u8
+[BD]cctv3[ipv6],https://epg.pw/stream/c7020b88aea35cfa13268ae17e657ef8e234ba0f8d3c87045520f9f12bb9355f.m3u8
 [HD]云南|云南娱乐,https://epg.pw/stream/edd147d04512757d65ae95b40a9472421f524334ecf6ad65a699e57f00b5eb99.m3u8
 
 纪实,#genre#
