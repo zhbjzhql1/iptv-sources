@@ -27,8 +27,8 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | HTTP Protocol | URL | Auto-update Frequence | Latest Updated | IDC | Provider |
 | ------------- | --- | --------------------- | --- | --- | -------- |
 | https | <https://iptv.b2og.com> | per 2h | Get Updated Failed: **Forbidden** | 腾讯云 | [GrandDuke1106](https://github.com/GrandDuke1106) |
-| https | <https://m3u.002397.xyz> | per 2h | Get Updated Failed: **Bad Gateway** | CloudFlare Tunnel | [Eternal-Future](https://github.com/Eternal-Future) |
-| https | <https://iptv.helima.net> | per 2.5h | Wed Jan 31 2024 19:30:10 GMT+0000 (Coordinated Universal Time) | Oracle | [DobySAMA](https://github.com/DobySAMA) |
+| https | <https://m3u.002397.xyz> | per 2h | Thu Feb 01 2024 00:43:48 GMT+0000 (Coordinated Universal Time) | CloudFlare Tunnel | [Eternal-Future](https://github.com/Eternal-Future) |
+| https | <https://iptv.helima.net> | per 2.5h | Wed Jan 31 2024 23:30:07 GMT+0000 (Coordinated Universal Time) | Oracle | [DobySAMA](https://github.com/DobySAMA) |
 
 ## Channel
 
@@ -47,7 +47,7 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | China National | [cn_n.m3u](/cn_n.m3u) <br> [cn_n.txt](/txt/cn_n.txt) | [List for China National](/list/cn_n.list) | 9 | - |
 | China Country | [cn_c.m3u](/cn_c.m3u) <br> [cn_c.txt](/txt/cn_c.txt) | [List for China Country](/list/cn_c.list) | 123 | - |
 | China Province | [cn_p.m3u](/cn_p.m3u) <br> [cn_p.txt](/txt/cn_p.txt) | [List for China Province](/list/cn_p.list) | 34 | - |
-| All | [all.m3u](/all.m3u) <br> [all.txt](/txt/all.txt) | [List for All](/list/all.list) | 1684 | - |
+| All | [all.m3u](/all.m3u) <br> [all.txt](/txt/all.txt) | [List for All](/list/all.list) | 1682 | - |
 | YueChan-Live IPTV | [ycl_iptv.m3u](/ycl_iptv.m3u) <br> [ycl_iptv.txt](/txt/ycl_iptv.txt) | [List for YueChan-Live IPTV](/list/ycl_iptv.list) | 108 | - |
 | YanG-1989 Gather | [y_g.m3u](/y_g.m3u) <br> [y_g.txt](/txt/y_g.txt) | [List for YanG-1989 Gather](/list/y_g.list) | 2319 | - |
 
@@ -61,7 +61,7 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | - |
 | 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
 
-Updated at **Wed Jan 31 2024 20:10:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 01 2024 00:49:59 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
