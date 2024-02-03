@@ -1019,7 +1019,7 @@ Lóverseny közvetítés (420p),http://87.229.103.60:1935/liverelay/loverseny2.s
 LoveWorld Persia (480p),https://bus-asia-east-1-cimzmgnuu-cdn.sa.metacdn.com/live/ngrp:lxp22_main_all_transcode/playlist.m3u8
 LoveWorld Sat (1080p),https://c6v6m6p7.stackpathcdn.com/lwsat/lwsatmobile/playlist.m3u8
 LRT Klasika (1080p),https://radijas.lrt.lt/klasika/master.m3u8
-LRT Lituanica (720p),https://lituanica.lrt.lt/lituanica/master.m3u8
+LRT Lituanica,https://stream-live.lrt.lt/lituanica/stream03/streamPlaylist.m3u8
 LRT Opus (1080p),https://radijas.lrt.lt/opus/master.m3u8
 LRT Radijas (1080p),https://radijas.lrt.lt/radijas/master.m3u8
 LTO Televisión (720p) [Not 24/7],https://ltocatamarca.github.io/ltotv.m3u8
@@ -1643,7 +1643,7 @@ RTM TV 1,https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 RTM TV 2,https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 RTN (Neuquén) (720p) [Not 24/7],https://media.neuquen.gov.ar/rtn/television/media.m3u8
 RTNC (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCip2DNtZUPC82a_xLLTFcgA.m3u8
-RTQ Querétaro (360p) [Not 24/7],http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+RTQ Queretaro,https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
 RTRS Plus (576p) [Not 24/7],https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
 RTRS TV (576p) [Not 24/7],https://uzivo.rtrs.tv/tv/live/index.m3u8
 RTS 1 (720p) [Not 24/7],https://webtvstream.bhtelecom.ba/rts1.m3u8
@@ -5789,7 +5789,7 @@ General;Religious,#genre#
 BX Inspire (720p),https://reflect-stream-bronxnet.cablecast.tv/live-18/live/live.m3u8
 
 Culture;Education,#genre#
-Canal Catorce (XHSPR-TDT1) (720p),https://s6.mexside.net:1936/canal14/canal14/playlist.m3u8
+Canal Catorce,https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 Liceum TV (576p),http://193.225.32.62:8890/live.m3u8
 NTV (720p),https://marine2.miplay.cl/ntv/playlist.m3u8
 TVE RS (1080p),https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
