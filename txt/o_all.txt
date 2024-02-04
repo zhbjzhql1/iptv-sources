@@ -456,7 +456,6 @@ Comedy Central LA,http://stream.flynetwifi.com:1935/live/mobile-001/playlist.m3u
 Comedy Channel (1080p),https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 Comedy Classics,https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/7D8WMUS89AUJL8LS2FEM/hls3/now_-1m_15s/m.m3u8
 Cult Classic Movie Theater (1080p),https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51.m3u8
-Curiquingue TV (720p),https://video2.lhdserver.es/pjtv/live.m3u8
 Cusano Italia TV (720p),https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 Cutlery Corner Network CCN (720p),https://ythls.armelin.one/channel/UCj3dt20MAZcvDN8GKeT2FBg.m3u8
 CVC (720p),https://5d00db0e0fcd5.streamlock.net/7034/7034/playlist.m3u8
@@ -589,6 +588,7 @@ ETV (1080p),http://150.95.66.20:1935/live/livestream/playlist.m3u8
 ETV Manisa (1080p) [Not 24/7],https://broadcasttr.com:446/manisaetv/bant1/playlist.m3u8
 EuroStar TV (720p),https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
 Everyday Heroes (480p),https://a.jsrdn.com/broadcast/7b1451fa52/+0000/c.m3u8
+Everyday Refresh,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8
 EWTN,http://stream.flynetwifi.com:1935/live/mobile-012/playlist.m3u8
 EWTN Africa Asia (720p),https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 Excélsior TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
@@ -850,6 +850,7 @@ High TV (200p) [Not 24/7],http://live.streams.ovh:1935/hightv/hightv/playlist.m3
 HSE24 Extra (1080p),https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
 HSE24 Trend (576p),https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
 HSE (1080p),https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+HSN West,https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
 HTV 1 Houston Television (720p),https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
 HTV 2 Houston Television (720p),https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
 Huánuco en Vivo (480p) [Not 24/7],https://vdo.grupolimalive.com:3810/live/antoniolive.m3u8
@@ -1509,6 +1510,7 @@ Quốc Hội (720p),https://cloudvodqh.tek4tv.vn/live/quochoi_abr.m3u8
 Quran Radio (720p),https://edge.taghtia.com/sa/13.m3u8
 QVC Beauty (German) (540p),https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/live.m3u8
 QVC PLUS (540p),https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/live.m3u8
+QVC West,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
 Qyzyljar (720p),https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
 Qyzylorda (720p),https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
 R9 (720p) [Not 24/7],https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
@@ -1554,7 +1556,6 @@ Radio Radicale TV (240p) [Not 24/7],https://video-ar.radioradicale.it/diretta/pa
 Radio Radio TV (720p),https://api.new.livestream.com/accounts/11463451/events/3679884/live.m3u8
 Radio Rancagua FM (768p) [Not 24/7],https://5eff35271151c.streamlock.net:1936/8056/8056/playlist.m3u8
 Radio Ritmo FM (720p),https://video.streamingchilenos.cl:1936/8040/8040/playlist.m3u8
-Radio Rocafuerte TV (720p),https://stmv.streamingvip.click/rocafuertefm/rocafuertefm/playlist.m3u8
 Radio Studio Delta TV (1080p) [Not 24/7],https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
 Radio Taormina Sicilia (720p) [Not 24/7],https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
 Radio Télé Eclair (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCOvGbDh5biuOqjx6G3CdrQg.m3u8
@@ -1676,7 +1677,6 @@ RTV Oost (720p),https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
 RTV Purmerend (720p),https://ms2.mx-cd.net/dtv-10/268-2641474/RTV_Purmerend_TV.smil/playlist.m3u8
 RTV Rijnmond (1080p),https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8
 RTV Rijnstreek TV (720p) [Not 24/7],https://ms7.mx-cd.net/tv/290-3222276/RTV_Rijnstreek.smil/playlist.m3u8
-RTV Riobamba (720p) [Not 24/7],https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
 RTV Rwanda (480p) [Not 24/7],http://197.243.19.131:1935/rtv/rtv/chunklist.m3u8
 RTV Slingeland (1080p) [Not 24/7],https://ms7.mx-cd.net/dtv-10/105-475831/RTV_Slingeland.smil/playlist.m3u8
 RTV SLOS (720p),https://d3b6teev8t7bb2.cloudfront.net/nlpo/clr-nlpo/rtvslos/index.m3u8
@@ -3169,6 +3169,7 @@ COM Brasil (1080p) [Not 24/7],https://br5093.streamingdevideo.com.br/abc/abc/pla
 Comunicaciones Jiménez (720p) [Not 24/7],https://s1.tvdatta.com:3156/live/jimeneztvlive.m3u8
 Concepción TV (1080p),http://live.mundogo.cl/mundo/concepciontv/index.m3u8
 Cultura Pará (480p) [Not 24/7],http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+Curiquingue TV (720p),https://video2.lhdserver.es/pjtv/live.m3u8
 CUTERVO TV,https://mc.servidor.stream:19360/8256/8256.m3u8
 CVM TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCungvaPJaa_kDLxZBYXzpsQ.m3u8
 DaAi1 (大爱1) (720p),https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -3423,6 +3424,7 @@ RTV Meppel (720p),https://d2eanln3bsfb0d.cloudfront.net/nlpo/clr-nlpo/rtvmeppel/
 RTV Nunspeet (720p),https://ms7.mx-cd.net/tv/262-2600774/RTV_Nunspeet.smil/playlist.m3u8
 RTV Parkstad (1080p),https://live.streamteam.eu:8443/parkstad/parkstad/tv/playlist.m3u8
 RTV Rijnmond Extra (1080p),http://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv-extra/index.m3u8
+RTV Riobamba (720p) [Not 24/7],https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
 RTV Zulthe (720p),http://ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8
 Sor TV (720p),http://188.237.212.16:8888/live/cameraFeed.m3u8
 SOU TV (720p),https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8
@@ -3534,7 +3536,7 @@ TV Aracati (360p),https://livefocamundo.com:8081/tvaracati/index.m3u8
 TV Arad (720p),https://live.djemba.ro/live/tvaradlive/playlist.m3u8
 TV Arapuan (720p),https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 TV Arbëria 1 (720p),https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8
-TV Austro (720p),https://cp.panelchs.com:1936/8148/8148/playlist.m3u8
+TV Austro (720p) [Not 24/7],https://cp.panelchs.com:1936/8148/8148/playlist.m3u8
 TV Azteca Noreste (Info7 Monterrey) (720p),https://live.info7.mx/info7/stream.m3u8
 TV Bajo Cero (804p),https://stmv2.zcasthn.com.br/bajocerotv/bajocerotv/playlist.m3u8
 TV Beltrão (1080p),https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8
@@ -3898,6 +3900,7 @@ Radio Italia Trend,https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8
 Radio Javan TV (1080p),http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8
 Radio JND (1080p),https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8
 Radio Lola (720p) [Not 24/7],https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
+Radio Monumental TV (720p) [Not 24/7],https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
 Radio Onda Digital,https://v4.tustreaming.cl/radioondadigitaltv/index.m3u8
 Radio Piter Pan TV (720p) [Not 24/7],https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 Radio PROS (720p) [Not 24/7],http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
@@ -3905,6 +3908,7 @@ Radio Pykasú TV (720p),https://59ce1298bfb98.streamlock.net/pykasutv/pykasutv/p
 Radio Q (1080p),https://panel.miplay.cl:8081/radioq/index.m3u8
 Radio Realpolitik (720p),https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
 Radio Reforma Se Oye (720p),https://www.streaming507.net:19360/mevo2/mevo2.m3u8
+Radio Rocafuerte TV (720p),https://stmv.streamingvip.click/rocafuertefm/rocafuertefm/playlist.m3u8
 Radio San Borja TV (720p) [Not 24/7],https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 Radio Stad den Haag (720p),https://rsdh.cloud-streams.com/rsdh/rsdh/playlist.m3u8
 Radio Télé Hit (480p),https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8
@@ -4469,6 +4473,7 @@ RTV Naranjal (720p),https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/playlist.
 Sada TV (1080p) [Not 24/7],http://cdn12.henico.net:8080/live/sadatv/index.m3u8
 Sooriyan TV,https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 Super7FM (720p),https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8
+Teledigital (240p) [Not 24/7],https://tv.portalexpress.es:3182/hybrid/play.m3u8
 TeleMIX (720p),https://haititivi.com/haiti/telemix1/index.m3u8
 Teleplay Sureste (720p),https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
 Telerayo (1080p),https://emisoras.hn:8081/telerayo/index.m3u8
@@ -5407,8 +5412,8 @@ Gongyoung Shopping (720p),https://etv.publichs.com/live5.stream/playlist.m3u8
 GS My Shop (1080p),https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
 GS Shop (1080p),https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
 GSTV (720p),https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)
-HSN2,https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
-HSN (720p),https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/hsn_720p/playlist.m3u8
+HSN,https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
+HSN2,https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 Hyundai Home Shopping (720p),https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
 Hyundai Home Shopping Plus (720p),https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
 Ideal World TV (1080p),https://ythls.armelin.one/channel/UCJbgGTpBWuC87VFIKTTO4RQ.m3u8
