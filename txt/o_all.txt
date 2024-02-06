@@ -1118,7 +1118,6 @@ Noroeste TV (1080p) [Not 24/7],https://cloudvideo.servers10.com:8081/8032/index.
 NorSelva RTV (720p) [Not 24/7],https://live.obslivestream.com/norselvatv/index.m3u8
 NORTEvisión (1080p),http://amaru.dyndns.org:8870/0.m3u8
 Northeast Live (720p),https://5b48d7e1b4bce.streamlock.net/myapp/mbrstream/playlist.m3u8
-Nortvisión (720p),https://plataformavideo.com/live/nortvision.m3u8
 Okto TV (1080p),https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 OlayTürk Kayseri (720p),https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
 Old West TV,https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/Y680WOKGZK0LH808PJB1/hls3/now_-1m_15s/m.m3u8
@@ -2837,6 +2836,7 @@ Nisibon TV (480p),https://250weu.bozztv.com/ssh101/ssh101/nisibontv48/playlist.m
 Noor Dubai (576p),https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
 Norte TV Canal 7 (360p),https://video.streamtvradio.com:8443/uv027/uv027/playlist.m3u8
 Nortevisión (720p),https://live.tvcontrolcp.com:1936/nortevision/nortevision/playlist.m3u8
+Nortvisión (720p),https://plataformavideo.com/live/nortvision.m3u8
 Otto Channel (480p),https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8
 OTV (720p) [Not 24/7],http://62.182.82.104/OTV/index.m3u8?token=test
 Pacific Coast TV HMB Coastside Channel 27 (720p),https://pacifica-ca.secure.footprint.net/egress/bhandler/pacificaca/streama/manifest.m3u8
