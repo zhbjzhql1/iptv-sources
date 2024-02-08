@@ -484,6 +484,7 @@ Damac Persian (720p),https://damac-tv.icdndhcp.com/hls/stream.m3u8
 DAN TV (720p) [Not 24/7],http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
 DanceHits80,http://92.255.108.46:8080/index.m3u8
 DanceHits80,http://dancehits80.denvs.ru:8080/index.m3u8
+DanmarkC (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC582CKg7XN_ELMyKiSZ8s9g.m3u8
 Dao Lane Xang (720p) [Not 24/7],https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
 Das Erste (1080p),https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 DASDING 90.8 (720p),https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
@@ -1764,7 +1765,7 @@ TRU TV,http://stream.flynetwifi.com:1935/live/mobile-041/playlist.m3u8
 TV1 KG (1080p),http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 TV 1 Oberösterreich (1080p),https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
 TV2 (1080p),http://146.59.85.40:89/tv2hd/index.m3u8
-TV2/Bornholm (1080p) [Not 24/7],https://live.tv2bornholm.dk/stream/live/playlist.m3u8
+TV2/Bornholm (1080p) [Not 24/7],https://cdn-akamai-live.tv2bornholm.dk/stream/live/playlist.m3u8
 TV5 Kannada (720p) [Not 24/7],https://ythls.armelin.one/channel/UCpzsmNuUEmod64DGgBDPO-Q.m3u8
 TV5 Linares (720p),https://unlimited1-us.dps.live/tv5/tv5.smil/playlist.m3u8
 TV5Monde Pacifique (1080p),https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
