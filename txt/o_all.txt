@@ -4906,7 +4906,7 @@ Dios Te Ve Kids (720p),https://stream.oursnetworktv.com/latin/dD10sT3V3K1dS/play
 
 Science,#genre#
 Explosión Creativa (720p) [Not 24/7],https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
-Hiperconectados Televisión (720p),https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
+Hiperconectados TV,https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
 Milennio TV (720p),https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
 NASA TV (720p),http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 NASA TV ISS Views (480p) [Not 24/7],http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
