@@ -632,6 +632,7 @@ Gold TV Sat (576p),https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/pla
 GOLDEN,http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8
 Golden Boy,https://goldenboy.duckhunting.playout.vju.tv/DuckhuntingTV_GoldenBoy/main.m3u8
 Golden Edge Panregional (576p),https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+Golden Multiplex (576p),https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 Golden Plus (576p),https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 Golden Premier (576p),https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 Golden TV (240p) [Not 24/7],https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
@@ -1798,7 +1799,6 @@ UniRadio TV (720p),https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/pl
 Unirio TV (720p),https://5f700d5b2c46f.streamlock.net/uniriotv/uniriotv/playlist.m3u8
 United Fight Alliance,https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/8L421BQ0E926VLTDD4YE/hls3/now_-1m_15s/m.m3u8
 United TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCA2f1lPcwYpBKA4JBMBHDSQ.m3u8
-Unitel Santa Cruz (1080p) [Not 24/7],https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 Uniteve (720p) [Not 24/7],https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 Univalle Televisión (1080p),https://master.tucableip.com/univalletv/playlist.m3u8
 Univer TV (1080p),https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
@@ -1809,6 +1809,7 @@ Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7],https://unlimited1-us.dps
 UNIVERSO,http://stream.flynetwifi.com:1935/live/mobile-065/playlist.m3u8
 Univision DFW,https://unidfp-nlds138.global.ssl.fastly.net/nlds/univisionnow/univision_dal2/as/live/univision_dal2_hd_pc.m3u8?t1=
 Univision East,https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_pc.m3u8?t1=
+Univision Panregional (576p),https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 Uppera Balkan (720p),http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
 Uranio TV (Yurimaguas) (720p) [Not 24/7],https://live.obslivestream.com/uraniotv/index.m3u8
 Urban Action Channel,https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/0YRJL9FV095EDJ1JBBI6/hls3/now_-1m_15s/m.m3u8
@@ -3130,6 +3131,7 @@ TVC (1080p),http://31.146.5.178:8087/play/a009/index.m3u8
 UDG TV Canal 44 (720p) [Not 24/7],https://d1sx1b16qowo88.cloudfront.net/out/v1/c278fcc434d1437eb31ff105c6b4a538/index.m3u8
 Unare TV (392p),https://srv.panelcast.net/yohancarlos/yohancarlos/playlist.m3u8
 Unitel (Huancayo) (720p) [Not 24/7],https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
+Unitel Santa Cruz (1080p) [Not 24/7],https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 UNTV (576p),https://untv.mmdlive.lldns.net/untv/0251dac212a94932ae3563150cbb3788/untvweb.m3u8
 Urola Telebista (416p),https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8
 USIL TV (720p) [Not 24/7],https://per01-lim01.servidor.stream/usiltv/index.m3u8
