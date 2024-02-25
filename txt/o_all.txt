@@ -1157,7 +1157,6 @@ GDMTV (720p) [Not 24/7],https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
 GDNS Ludhiana (1080p) [Not 24/7],http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
 Geb Tv (KBPX LD5) (1080p),https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
 GEGAR (720p) [Not 24/7],https://ythls.armelin.one/channel/UCd4d3fL-QZPCd9vMiUFhXLQ.m3u8
-GEM,https://code.vthanhtivi.pw/getlink/eazie/242918/playlist.m3u8
 GemeindeTV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCbGaZEFvBLMe8eNgoBFDRZg.m3u8
 Generations TV (576p),https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 Genios TV (720p) [Not 24/7],https://live.obslivestream.com/geniostvmux/index.m3u8
@@ -1621,7 +1620,6 @@ Olelo Community Media Channel 54 (720p),https://cdn3.wowza.com/5/RXJNMFI3VlVkOEF
 Olelo Community Media Channel 55 (720p),https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/olelo/G0125_013/playlist.m3u8
 One (1080p),https://mcdn.one.ard.de/ardone/hls/master.m3u8
 One Channel (1080p),https://til.pp.ua:3391/live/channeln9live.m3u8
-One HD,https://code.vthanhtivi.pw/getlink/eazie/243114/playlist.m3u8
 One TV (720p),https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
 One TV Asia (576p),http://210.210.155.37/uq2663/h/h143/index.m3u8
 Ou-Mun Macau Satellite Ch. 96 (720p),https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8
@@ -3280,7 +3278,6 @@ Memorias TV (480p),https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m
 Memorias TV Classic (480p),https://rpn3.bozztv.com/ssh101/ssh101/memoriasc2/playlist.m3u8
 Metropoli Medios TV (720p),https://eu1.servers10.com:8081/8214/index.m3u8
 Metropolitana FM (720p),https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/playlist.m3u8
-MTV 90's,https://code.vthanhtivi.pw/getlink/eazie/243116/playlist.m3u8
 MTV Beats (1080p),https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
 Music Box Gold (576p),https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
 Music India (576p) [Not 24/7],http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
@@ -4911,7 +4908,6 @@ Animation,#genre#
 Animax (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 Anime TV (360p) [Not 24/7],https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 Anime Zone TV (480p),http://animezonetv.net/hls/stream.m3u8
-AniPlus (1080p),https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 CONtv Anime (1080p),https://contvanime-roku-ingest.cinedigm.com/master.m3u8
 DreikoTv (720p) [Not 24/7],https://cloudvideo.servers10.com:8081/8138/index.m3u8
 EnerGeek (720p) [Not 24/7],https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
