@@ -552,7 +552,7 @@ Zurquí TV (720p),https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpam
 РТР Планета Евро,https://player.smotrim.ru/iframe/stream/live_id/4941
 РТР Планета СНГ,https://player.smotrim.ru/iframe/stream/live_id/63253
 РТР Планета США,https://player.smotrim.ru/iframe/stream/live_id/63250
-УТРК (720p),https://64e5ed58c00d4.streamlock.net/live/smil:utrk.smil/playlist.m3u8
+УТРК (480p) [Not 24/7],https://st2.mediabay.tv/KG_KTRK-UTRK/index.m3u8
 北京卫视 [Not 24/7],http://ivi.bupt.edu.cn/hls/btv1.m3u8
 
 Undefined,#genre#
@@ -3430,7 +3430,7 @@ Zona Music TV (720p),https://srv.panelcast.net/zonatv2023/zonatv2023/playlist.m3
 ZWEI2 Music (1080p),https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8
 БелМузТВ,http://178.124.179.122:8088/BelMuzTV/index.m3u8
 Жар Птица (404p),http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
-УТРК Музыка (720p),https://64e5ed58c00d4.streamlock.net/live/smil:music.smil/playlist.m3u8
+УТРК Музыка (480p) [Not 24/7],https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
 
 News,#genre#
 1Yes News (720p) [Not 24/7],https://ythls.armelin.one/channel/UC3mHciwDcBC8XucNnRt9C6A.m3u8
@@ -3753,7 +3753,7 @@ Zerouno TV News (720p),https://5db313b643fd8.streamlock.net/ZerounoTVEventi/Zero
 Крым 24,https://streaming.televizor-24-tochka.ru/live/28.m3u8
 Телеканал Репортер Одесса (720p),http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
 Тернопіль 1 (720p),https://ott.columbus.te.ua/ternopil1/index.m3u8
-УТРК Ала-Тоо 24 (720p),https://64e5ed58c00d4.streamlock.net/live/smil:alatoo24.smil/playlist.m3u8
+УТРК Ала-Тоо 24 (480p) [Not 24/7],https://st2.mediabay.tv/KG_KTRK-Ala-too/playlist.m3u8
 滁州市广播电视台 新闻综合频道 (1080p),http://live.cztv.cc:85/live/xwpd.m3u8
 舟山新闻综合 (240p),http://live.wifizs.cn/xwzh/sd/live.m3u8
 萍乡新闻综合 (576p) [Not 24/7],http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
@@ -4844,7 +4844,7 @@ WAPA-DT2 (WAPA Deportes) (1080p),https://live.field59.com/wapa/wapa2/playlist.m3
 Беларусь 5 (1080p) [Not 24/7],https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 Беларусь 5 Интернет (1080p) [Not 24/7],https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 Бокс ТВ,http://stream01.vnet.am/BoksTv/mono.m3u8
-УТРК Спорт (720p),https://64e5ed58c00d4.streamlock.net/live/smil:sport.smil/playlist.m3u8
+УТРК Спорт (480p) [Not 24/7],https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
 Футбольный,https://woobl.ru/hls987/Futbolniy_hd.m3u8
 山东体育 (1080p),http://livealone302.iqilu.com/iqilu/typd.m3u8
 
