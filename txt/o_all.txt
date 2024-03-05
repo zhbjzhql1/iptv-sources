@@ -1465,8 +1465,8 @@ KaufBei TV (576p),https://api.alpaca.t62a.com/hls/9103/index.m3u8
 Kaumudy TV (720p),https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
 Kay TV (576p),https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
 Kayhan TV (720p),https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
-KBS 1 UHD (720p),http://202.60.106.14:8080/200/playlist.m3u8
-KBS2 (720p) [Not 24/7],https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
+KBS 1TV [Not 24/7],http://mytv.dothome.co.kr/ch/public/1.php
+KBS 2TV [Not 24/7],http://mytv.dothome.co.kr/ch/public/3.php
 KBS Joy (480p),http://mytv.dothome.co.kr/ch/catv/3.php
 KBS Life (480p),http://mytv.dothome.co.kr/ch/catv/5.php
 KBS LiveCam DokDo (540p),http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
@@ -1588,7 +1588,7 @@ Microvision 10 (720p) [Not 24/7],https://streaming.telecablecentral.com.do/live/
 Midpen Media Center Government etc Channel 26 (720p),https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8
 Mijas 3.40TV (720p),https://streaming004.gestec-video.com/hls/MIJAS.m3u8
 Mikuba TV (480p) [Not 24/7],http://51.254.199.122:8080/MIKUBATV/index.m3u8
-Milenio Televisión (720p) [Not 24/7],https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+Milenio Television,https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 Milenium TV (720p),https://stmv5.livecastv.com/milleniumtv/milleniumtv/playlist.m3u8
 Millenium 109 FM (720p) [Not 24/7],https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 Millennium TV 24 (1080p) [Not 24/7],https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mnews24.stream/playlist.m3u8
@@ -2664,7 +2664,6 @@ Ve Plus (720p),https://veplus.akamaized.net/hls/live/2101013/VEPLUS/master.m3u8
 Vechtdal TV (480p),https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
 Vedia,https://tvlocales-live.freecaster.com/95d2f480-3c9f-48ba-ba4e-af64b58431ef/95d2f480-3c9f-48ba-ba4e-af64b58431ef.isml/master.m3u8
 VegaTeve (1080p) [Not 24/7],https://kali.vdopanel.com:3396/live/arseniolive.m3u8
-Velayat TV (480p),https://nl.livekadeh.com/hls2/velayattv.m3u8
 Vinh Phuc TV (1080p),http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 VIO TV (480p),http://slovanet-livestream.ceelabs.com:1935/live/VioTV.stream_transcoded/playlist.m3u8
 Vision 4 (360p),https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
@@ -2677,7 +2676,6 @@ Vive TV Colombia (1080p),http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
 ViX español,http://stream.flynetwifi.com:1935/live/mobile-045/playlist.m3u8
 Vizyon 58 TV (720p),https://live.artidijitalmedya.com/artidijital_vizyon58/vizyon58/playlist.m3u8
 VNews (TTXVN) (1080p),https://zjizeoupprliv.vcdn.cloud/live/vnews/chunklist.m3u8
-VOA Persian,https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 VoA TV Indian Ocean (240p) [Not 24/7],https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voa.stream/playlist.m3u8
 Vocea Basarabiei TV (720p) [Not 24/7],https://storage.voceabasarabiei.md/vocea/vocea.m3u8
 Vogue Europe,https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883060
@@ -3408,6 +3406,7 @@ VBC News (576p),https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8
 Venad News (360p),https://5a1178b42cc03.streamlock.net/8222/8222/playlist.m3u8
 Vísir (1080p),https://live.visir.is/hls-live/visir.smil/playlist.m3u8
 VNP,https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+VOA Persian,https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 VOA TV Africa (1080p),https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 Voice News (720p),https://cdn.bmstudiopk.com/vop/live/playlist.m3u8
 WPVI ABC 6 News (Philadelphia PA) (720p),https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
@@ -3677,6 +3676,7 @@ TVCa Televisión Católica Arquidiocesana (720p),https://ssh101.bozztv.com/ssh10
 TVCARiB Gospel (480p) [Not 24/7],https://tvc.mediacaribstream.com:5443/LiveApp/streams/102810068706751773675303.m3u8
 TVS Soft Winds Network (480p),https://rpn.bozztv.com/36bay2/gusa-tvssoftwinds/index.m3u8
 UBN (720p),https://mn-nl.mncdn.com/commectv_live/UBNTV/index.m3u8
+Velayat TV (480p),https://nl.livekadeh.com/hls2/velayattv.m3u8
 Visión Latina (480p),https://5940924978228.streamlock.net/8095/8095/playlist.m3u8
 VOICI L'HOMME TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UChinnBvzSaDcPjRhSBqMjzQ.m3u8
 WWXY-DT3 (Maranatha Radio Ministries) (720p),https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
