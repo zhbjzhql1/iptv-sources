@@ -180,6 +180,7 @@ FTV One (民视第一台) (720p) [Not 24/7],http://seb.sason.top/ptv/ftv.php?id=
 Fuerteventura TV (1080p),https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
 Gabon Premiére TV,https://vps73918.serveur-vps.net/hls/ggtv.m3u8
 Galicia TV América (720p),https://america-crtvg.flumotion.com/playlist.m3u8
+Ganj e Hozour TV (720p),https://media.parvizshahbazi.com/ganjehozour/Main_tv/playlist.m3u8
 Garabito TV (720p),https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 GBS TV (720p) [Not 24/7],https://goliveafrica.media:9998/live/647460ac1ddd6/index.m3u8
 GHtv Holland (720p),http://37.48.120.77:8080/hls/ghtvonline.m3u8
@@ -486,6 +487,7 @@ Türkmenistan (226p) [Not 24/7],https://alpha.tv.online.tm/legacyhls/ch007.m3u8
 TV 1 (720p),https://tv1.cloudcdn.bg:8081/stream.m3u8
 TV3V (720p),https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
 TV 10 San Juan (720p),https://cloud2.streaminglivehd.com:1936/8024/8024/playlist.m3u8
+TV15 (1080p) [Not 24/7],http://gohoski.fvds.ru:3000/mediabay/655/playlist.m3u8
 TV2040 (720p) [Not 24/7],https://ythls.armelin.one/channel/UC9-eDX-ZzjriryVPE2VnEfQ.m3u8
 TV Aberta (1080p) [Not 24/7],https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
 TV Aldeia (720p),https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
@@ -894,6 +896,7 @@ Bolivia Radio TV (720p) [Not 24/7],https://rpn3.bozztv.com/ssh101/ssh101/bolivia
 Boreal (720p),https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 Bouke,https://tvlocales-live.freecaster.com/live/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f70d-9229-478b-9aed-bc4fa220316d.isml/master.m3u8
 Bounty,https://bountyfilms-bounty-1-nz.samsung.wurl.tv/playlist.m3u8
+Canal 10 Durango,https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
 Canal 10 Empordà (360p) [Not 24/7],http://ventdelnord.tv:8080/escala/directe.m3u8
 Canal 10 ES,http://stream.flynetwifi.com:1935/live/mobile-037/playlist.m3u8
 Canal 12 Puerto Madryn (720p) [Not 24/7],https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
@@ -1217,7 +1220,6 @@ Galaxy TV (576p),https://5d846bfda90fc.streamlock.net:1935/live/galaxytv/playlis
 Gali Kurdistan (720p) [Not 24/7],https://live.bradosti.net/live/GaliKurdistan_playlist.m3u8
 Galicia TV Europa (720p),https://europa-crtvg.flumotion.com/playlist.m3u8
 Galveston County TV (720p) [Not 24/7],https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8
-Ganj e Hozour TV (720p),https://media.parvizshahbazi.com/ganjehozour/Main_tv/playlist.m3u8
 Gardening With Monty Don (720p),https://lnc-gardening-monty-don.tubi.video/playlist.m3u8
 Garshom TV (360p) [Not 24/7],https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 Garuda TV (720p),https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
@@ -1622,7 +1624,6 @@ MNB Монголын Мэдээ (576p),https://live.mnb.mn/live/mn2.stream/playl
 MNM (720p),https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
 MO Channel,https://cloudvideo.servers10.com:8081/8070/index.m3u8
 Modo Cine,http://stream.flynetwifi.com:1935/live/mobile-140/playlist.m3u8
-Mohabat TV (540p),http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
 Mohona TV (1080p),https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/playlist.m3u8
 Mojitv,https://odmedia-mojitv-1-nl.samsung.wurl.tv/playlist.m3u8
 Molière TV (576p) [Not 24/7],https://tv1.isi-broadcast.tech/MOLIERETV-STREAM1/index.m3u8
@@ -2050,7 +2051,6 @@ Radio 350 (360p) [Not 24/7],https://stream.radio350.nl/hls/radio350.m3u8
 Radio 538 (270p),https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
 Radio Aalsmeer TV (720p) [Not 24/7],https://radioaalsmeer.nl:4443/live/tv.m3u8
 Radio Albalad TV (720p),http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
-Radio Alkul TV (1080p) [Not 24/7],https://ffs.gulfsat.com/AlkulTV/video.m3u8
 Radio Birikina TV (720p) [Not 24/7],https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
 Radio Bremen Fernsehen (1080p),https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 Radio Caracas Radio 750 (720p) [Not 24/7],https://ythls.armelin.one/channel/UC5AA3XP4_pXIELctSsH_L7w.m3u8
@@ -3324,6 +3324,7 @@ Kerala Vision News (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCuo69XR
 Kompas TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8
 Libya's Channel (480p),https://master.starmena-cloud.com/hls/libyas.m3u8
 Life TV (720p) [Not 24/7],https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+Like TV,https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
 Lion's TV+ (480p) [Not 24/7],http://connectiktv.ddns.me:8080/live/61fe1f9101424/index.m3u8
 Living India News (360p),https://livelegitpro.in/hls14/livingindia/index.m3u8
 Lokshahi News (720p) [Not 24/7],https://ythls.armelin.one/channel/UC2ut_DrUZvO0BzUxZ_g9fXQ.m3u8
@@ -3378,6 +3379,7 @@ Public News (720p) [Not 24/7],https://ythls.armelin.one/channel/UCElJZvY_RVra6qj
 Publika TV (720p),https://livebeta.publika.md/LIVE/P/6810.m3u8
 Puranoticia TV (720p),https://pnt.janusmedia.tv/hls/pnt.m3u8
 Puthiya Thalaimurai (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCmyKnNRH0wH-r8I-ceP-dsg.m3u8
+Radio Alkul TV (1080p) [Not 24/7],https://ffs.gulfsat.com/AlkulTV/video.m3u8
 Radio Ancón (720p),https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
 Radio Isla TV (720p),https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
 Radio Uno Tacna (720p) [Not 24/7],https://ythls.armelin.one/channel/UCK0lpuL9PQb3I5CDcu7Y7bA.m3u8
@@ -3626,6 +3628,7 @@ MISEC TV (720p),https://stream.it-innov.com/misec/index.m3u8
 Mission TV (1080p) [Not 24/7],https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
 MOGPA TV (720p),https://media.mogpapublication.com/website/stream/playlist.m3u8
 Mohabat TV (540p),http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+Mohabat TV (540p),http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
 MOP TV Kenya (720p) [Not 24/7],https://ythls.armelin.one/channel/UC_TKzHKWqX7sAjx4UPZoAPA.m3u8
 More Grace TV (410p) [Not 24/7],https://atechgroupuk.site/ETV.m3u8
 Mouride TV (720p),http://51.81.109.113:1935/Livemouridetv/mouridetv/playlist.m3u8
