@@ -1676,7 +1676,6 @@ Naşul TV (720p) [Not 24/7],https://5ab29cc78f681.streamlock.net/NasulTV/livestr
 NBS Korea Agricultural Broadcasting (720p),https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 NBS TV (480p),https://readymedia.moderntv.cloud:8092/distribute/readymedia/NBS_Live_stream_ze/5-20-hls/live.m3u8
 NBT 11 Central (720p),https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR=
-Nos Païs (720p) [Not 24/7],http://highvolume04.streampartner.nl/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
 Notele (576p) [Not 24/7],https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
 Nothing Scripted (720p),https://30a-tv.com/NothingScripted.m3u8
 Noti Uno Puerto Rico (854p) [Not 24/7],https://59a564764e2b6.streamlock.net/notiunotv/notiunotv/playlist.m3u8
@@ -3809,6 +3808,7 @@ MTV HD,http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 MTV Japan (720p),http://jp.vthanhnetwork.com/MTV/index.m3u8
 MyTVplus (Dresden) (576p),https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
 N31,https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/N31.m3u8
+Nos Païs (720p) [Not 24/7],http://highvolume04.streampartner.nl/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
 NUBAR Plus TV (720p),http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8
 NUBAR TV (1080p),http://stream.nubar.tv:1935/private/NUBARtv/playlist.m3u8
 Nuova TV 1 (1080p),https://nuovatv.net:8443/tv/stream.m3u8
@@ -4837,7 +4837,6 @@ Pluto TV Animaux (720p),https://service-stitcher.clusters.pluto.tv/stitch/hls/ch
 Pluto TV Travel (480p),https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 Radio Rutas del Perú (360p) [Not 24/7],https://tv.portalexpress.es:3731/stream/play.m3u8
 RTG (1080p),https://strm.yandex.ru/kal/rtg/rtg0.m3u8
-Tunisie Immobilier TV (720p) [Not 24/7],https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/playlist.m3u8
 Turistik TV (720p),https://5fa5de1a545ae.streamlock.net/8030/8030/.m3u8
 TV Paraná Turismo (720p) [Not 24/7],http://200.189.113.201/hls/tve.m3u8
 TVS Travel Network (720p) [Not 24/7],https://rpn1.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
@@ -4974,6 +4973,9 @@ Vatican News Português (720p) [Not 24/7],https://ythls.armelin.one/channel/UCGY
 
 Documentary;Entertainment;News,#genre#
 Trust TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCTlqstA2Wrt4fimd_VWKr8g.m3u8
+
+Business;Travel,#genre#
+Tunisie Immobilier TV (720p) [Not 24/7],https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/playlist.m3u8
 
 Entertainment;Music;News,#genre#
 TV A7 Plus (1080p),https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
