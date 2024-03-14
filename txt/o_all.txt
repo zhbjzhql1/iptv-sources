@@ -965,6 +965,7 @@ Corfu TV (576p) [Not 24/7],https://itv.streams.ovh/corfuchannel/corfuchannel/pla
 Cornea TV (720p) [Not 24/7],http://89.149.30.158:1935/CorneaTV/myStream/playlist.m3u8
 Corrientes TV (CTV) (720p),https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 CorTV (800p),https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
+COSMO (1080p),https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.m3u8
 Cosmos (720p),https://lnc-cosmos.tubi.video/index.m3u8
 Cosmos TV (720p),https://v1.tustreaming.cl/cosmostv/index.m3u8
 Cosmovision (720p),https://videohls2.cosmovision.tv/hls/sd.m3u8
@@ -4509,6 +4510,7 @@ Wapp (1080p),https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3
 Series,#genre#
 13 Teleseries (720p),https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 Always Funny Videos (720p),https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/alwaysfunny_720p/playlist.m3u8
+Atreseries (720p),https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
 AVA Series (720p),https://avaserieshls.wns.live/hls/stream.m3u8
 Consulenze Illegali Italy (720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b9dc99521a1400079bdfba/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 Filmrise Hunter (720p),https://lnc-hunter-filmrise.tubi.video/index.m3u8
