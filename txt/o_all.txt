@@ -4392,6 +4392,7 @@ Boing (432p),https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_
 Boing Italy,https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
 Bolajon (486p),https://st1-allplay-uz.b-cdn.net/3/iptv-58/index.m3u8
 CBeebies (Poland) (576p),https://cdn-nvm-chicago.lolokoko.tv/CBeebies.stream/playlist.m3u8
+CBeebies Asia (720p),http://198.16.100.90:8278/Cbeebies/playlist.m3u8?tid=ME5E7901951779019517&ct=19225&tsum=03bb5bab7f669081444ce37cda408b8d
 CBeebies HD (720p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd
 Cocoro (1080p),https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
 Eureka (1080p),https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
