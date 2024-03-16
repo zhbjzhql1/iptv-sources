@@ -178,7 +178,7 @@
 | 172 | [BD]天津卫视 | [BD 天津卫视](https://epg.pw/stream/851329efba96e41290e0de9cf7d926f06496f98010159f86bb1407c4166da2e7.m3u8) |
 | 173 | [VGA]太原影视 | [VGA 太原影视](https://epg.pw/stream/1c126c689d4bae18d88b54f99c232b264d6b44736bc852ab7ed1eabb307956d6.ctv) |
 | 174 | [VGA]太原文体 | [VGA 太原文体](https://epg.pw/stream/66483273ae5f9116d09786e942388b1b41354e56c41560d538885387c5c156ba.ctv) |
-| 175 | [VGA]太原新闻综合 | [VGA 太原新闻综合](https://epg.pw/stream/359eb3ce750ac7e6f69e70a838dbb87a1abcb2f1d2b1ae6bc0603f57e96af45b.ctv) |
+| 175 | [BD]太原新闻综合 | [BD 太原新闻综合](https://epg.pw/stream/359eb3ce750ac7e6f69e70a838dbb87a1abcb2f1d2b1ae6bc0603f57e96af45b.ctv) |
 | 176 | [VGA]如东新闻综合 | [VGA 如东新闻综合](https://epg.pw/stream/5e29e3486ba8cb09c6b25d831c6d47c3e7b0b9eeee4d70cb7d017dc216cb8f43.m3u8) |
 | 177 | [VGA]孝感公共频道 | [VGA 孝感公共频道](https://epg.pw/stream/0a0699b4d52d9c944c8e9bb7ec09b97d351e5d2be8fbae6c4a2843ccb7d34f9c.m3u8) |
 | 178 | [SD]安多卫视[ipv6] | [SD 安多卫视 ipv6](https://epg.pw/stream/8e4f0385cec55d0651e098bc548a52dd8948995d4c052205c8667df425adb6c9.m3u8) |
@@ -232,7 +232,7 @@
 | 226 | [BD]广西都市 | [BD 广西都市](https://epg.pw/stream/ae3d3280f53207850f9680fb5b490dde80ba29c95db39f5c6bb69212c1e48a64.m3u8) |
 | 227 | [HD]延边卫视 | [HD 延边卫视](https://epg.pw/stream/24327018edd6090d5d0fdcd7966a0902b684df2132f9a4d8307bbb1d6afb84fd.m3u8) |
 | 228 | [HD]开化新闻综合 | [HD 开化新闻综合](https://epg.pw/stream/3bbb603477d99145f17fd829b0c986cc487070e09e0ca75d4617ed3cad784c5f.m3u8) |
-| 229 | [VGA]开封公共 | [VGA 开封公共](https://epg.pw/stream/46d6152c9c1bf9897fdca449dd6d18c90a6e5f2f9dee42b0eb03e3185963ea20.m3u8) |
+| 229 | [SD]开封公共频道 | [SD 开封公共频道](https://epg.pw/stream/f7ca6529f8fa1162fa604b5f748b013040891165788c1a5809b4f0a48dc94e8a.m3u8) |
 | 230 | [SD]弈坛春秋[ipv6] | [SD 弈坛春秋 ipv6](https://epg.pw/stream/30f944128b104acbf2c203ed41cacc74d5ff3c04461dcde500da89986262c242.m3u8) |
 | 231 | [BD]德阳新闻综合 | [BD 德阳新闻综合](https://epg.pw/stream/9a0ac741c616714bd84f497d566c39f4ea76e9b1dbb23aa046eb25b8f43c556d.m3u8) |
 | 232 | [BD]快乐垂钓[ipv6] | [BD 快乐垂钓 ipv6](https://epg.pw/stream/31392b9a161ad37ff6ea8cc4ffbe0712099d562a9fc828cae0d873ca280b88ad.m3u8) |
@@ -329,7 +329,7 @@
 | 323 | [BD]海南公共[ipv6] | [BD 海南公共 ipv6](https://epg.pw/stream/c56c49c74a804c2b8ed6467da5257d3f9185d87de349573e07b7585120d9c38f.m3u8) |
 | 324 | [BD]海南卫视[ipv6] | [BD 海南卫视 ipv6](https://epg.pw/stream/468b29e1bee51764e3cf09ee70bf730e44aaeead942f39c43e9010e9da7b7a4a.m3u8) |
 | 325 | [BD]海南少儿[ipv6] | [BD 海南少儿 ipv6](https://epg.pw/stream/baa68e39d43dc2d8018de7894fd858915089c371cf58c93057400af002c04e10.m3u8) |
-| 326 | [BD]海南文旅[ipv6] | [BD 海南文旅 ipv6](https://epg.pw/stream/eff83cf7adf27992ed131fdad98dc60adebbda15330194d29c67f12371fa20d4.m3u8) |
+| 326 | [BD]海南文旅[ipv6] | [BD 海南文旅 ipv6](https://epg.pw/stream/c426e5fb9813b610831383afd95840974ff7b3b4cc677baf83bec2a18d78856d.m3u8) |
 | 327 | [BD]海南新闻[ipv6] | [BD 海南新闻 ipv6](https://epg.pw/stream/ca0b9ca23c22a4f142cecbe38cd36a32539ca471108ac54d4d78549cebd23b90.m3u8) |
 | 328 | [BD]海南卫视 | [BD 海南卫视](https://epg.pw/stream/22aa0b37fd04208f0a6507e4e214bd9f1981336671af5428e897e314d11b3b28.m3u8) |
 | 329 | [VGA]海安新闻综合 | [VGA 海安新闻综合](https://epg.pw/stream/e12fc750b8094b8cde970ed847fa1563cc259ccd485f94cc640e50c84b508df8.m3u8) |
@@ -398,7 +398,7 @@
 | 392 | [HD]绍兴文化影院 | [HD 绍兴文化影院](https://epg.pw/stream/69e2feb3fc54896357a380d344242de12ee1bd360a98ab33d465e8688593081e.m3u8) |
 | 393 | [SD]绍兴新闻综合 | [SD 绍兴新闻综合](https://epg.pw/stream/0c479cc20f3eb20b09af243763f3f347b95748ccf86126cf662483e9a75c2e3c.m3u8) |
 | 394 | [SD]置业频道[ipv6] | [SD 置业频道 ipv6](https://epg.pw/stream/7c484fd904a4276d7f8e607ac3271a34248a3629a6db886f7c144a1183524e83.m3u8) |
-| 395 | [BD]老妖电影 | [BD 老妖电影](https://epg.pw/stream/816ca72465df24a3a259e57431d34a3fdb1506ec6894a2cd5668c20b8c578b8a.ctv) |
+| 395 | [SD]老妖电影 | [SD 老妖电影](https://epg.pw/stream/816ca72465df24a3a259e57431d34a3fdb1506ec6894a2cd5668c20b8c578b8a.ctv) |
 | 396 | [BD]聚鲨环球精选 | [BD 聚鲨环球精选](https://epg.pw/stream/d73d37a1ae485a85b33dcee0f4161aba6fa586b18b416b99696cbc1f238241a6.ctv) |
 | 397 | [VGA]自贡公共 | [VGA 自贡公共](https://epg.pw/stream/a58ab1e69f0c46b04a9a86e5339d71b0f1e2d1ca3ef22cb6634b64578a65547f.ctv) |
 | 398 | [VGA]自贡综合 | [VGA 自贡综合](https://epg.pw/stream/19e8bff2178c99aacf62481ac205d6a00c442a9eaf07238a7c6e96d4beaa5da0.ctv) |
@@ -491,4 +491,4 @@
 | 485 | [VGA]黑龙江影 | [VGA 黑龙江影](https://epg.pw/stream/b1e87c5318118574ee4080e897630a936b1dd9113e95ea0c0d41c4072d32a0d1.m3u8) |
 | 486 | [HD]点掌财经 | [HD 点掌财经](https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8) |
 
-Updated at **Fri Mar 15 2024 20:12:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 16 2024 00:45:31 GMT+0000 (Coordinated Universal Time)**
