@@ -142,7 +142,7 @@
 | 136 | [HD]南京信息 | [HD 南京信息](https://epg.pw/stream/3b410af631ef86077685d36ae62eccce5a427aba62be65c39edfa08ccb2c7965.m3u8) |
 | 137 | [HD]南宁公共频道 | [HD 南宁公共频道](https://epg.pw/stream/ba5325155e0be49993321f976b6b8ca09627d7872ab62fcea28536aa93120ef8.m3u8) |
 | 138 | [HD]南宁影视娱乐频道 | [HD 南宁影视娱乐频道](https://epg.pw/stream/f3ce05c4688d29f5f5a33287b828ec3b919eb73f65c17eabf2a70fc3804903f9.m3u8) |
-| 139 | [VGA]遂宁新闻综合 | [VGA 遂宁新闻综合](https://epg.pw/stream/84edd786ecfaf13eb419762b0f946ec4fca46e2d1959302d58eae96c42da44c3.m3u8) |
+| 139 | [BD]黔南新闻综合 | [BD 黔南新闻综合](rtmp://tv.qntv.net/channellive/ch1?zguizd) |
 | 140 | [HD]南宁都市生活频道 | [HD 南宁都市生活频道](https://epg.pw/stream/b88dce93757224c81c0b7cff4b276be147011588c24712add4fdd9c6e6eb59d5.m3u8) |
 | 141 | [VGA]吉林7频道 | [VGA 吉林7频道](https://epg.pw/stream/9e738c006d1bcc6fec64e929dd7507609386fc82555934c08a3f04a1c7ecfae1.m3u8) |
 | 142 | [VGA]吉林公共 | [VGA 吉林公共](https://epg.pw/stream/fbbbc97be37a946dd11f981eddddbaccc3953fa6303541e4485b98a7cdb7783f.m3u8) |
@@ -365,7 +365,7 @@
 | 359 | [BD]精彩体育 4m1080[ipv6] | [BD 精彩体育 4m1080 ipv6](https://epg.pw/stream/4bf3b369136edd530ec6493d4683a85d609d0b8ab56ae93e97bd70a821da5d75.m3u8) |
 | 360 | [BD]精彩影视 | [BD 精彩影视](https://epg.pw/stream/d307c9cd8ca9bfccb256d05361a226e8186b4a7096856d7c699a3d7ce7214269.m3u8) |
 | 361 | [BD]精彩电影 10m1080[ipv6] | [BD 精彩电影 10m1080 ipv6](https://epg.pw/stream/09ca0b7acc616a9f4328cd6e887bab3c0a7415041e7ee31db71ee27886647bcf.m3u8) |
-| 362 | [BD]精彩电视剧 | [BD 精彩电视剧](https://epg.pw/stream/93ffd63d2d18ebb1e9cb628d9028325d54f2e18dd7c3e69095aa2ccc9e03121f.m3u8) |
+| 362 | [HD]精彩电视剧 | [HD 精彩电视剧](https://epg.pw/stream/93ffd63d2d18ebb1e9cb628d9028325d54f2e18dd7c3e69095aa2ccc9e03121f.m3u8) |
 | 363 | [BD]精彩综艺 10m1080[ipv6] | [BD 精彩综艺 10m1080 ipv6](https://epg.pw/stream/39d64dac8565e2aa61beaaddcecd2886a4f137a4b36aa4d8ee45d8c9d404d735.m3u8) |
 | 364 | [HD]绍兴公共频道 | [HD 绍兴公共频道](https://epg.pw/stream/d7fd5957e80850e238154295e9e8de9d2ff44b78ef37cc3357e8ca4b56d996cf.m3u8) |
 | 365 | [HD]绍兴文化影院 | [HD 绍兴文化影院](https://epg.pw/stream/69e2feb3fc54896357a380d344242de12ee1bd360a98ab33d465e8688593081e.m3u8) |
@@ -462,4 +462,4 @@
 | 456 | [VGA]黑龙江影 | [VGA 黑龙江影](https://epg.pw/stream/b1e87c5318118574ee4080e897630a936b1dd9113e95ea0c0d41c4072d32a0d1.m3u8) |
 | 457 | [HD]点掌财经 | [HD 点掌财经](https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8) |
 
-Updated at **Sun Mar 17 2024 20:10:27 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Mar 18 2024 00:48:03 GMT+0000 (Coordinated Universal Time)**
