@@ -37,6 +37,7 @@ Al Ittihad (552p) [Not 24/7],http://185.105.4.151:8080/_defapp_/ittihad/index.m3
 Al Khalij (720p) [Not 24/7],https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
 Al Maghribia (360p),https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt.m3u8
 Al Mamlaka TV (1080p),https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
+Al Quds Today TV (360p),http://live.alqudstoday.tv:8080/hls/alqudstv/alqudstv.m3u8
 Al Rabiaa TV (1080p),https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.fmp4.m3u8
 Al Rasheed (408p) [Not 24/7],https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
 Al Rayyan (1080p),https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
@@ -115,6 +116,7 @@ Caribe TV CR (720p),https://rpn3.bozztv.com/ssh101/ssh101/sinart/playlist.m3u8
 Cariñosa TV (720p) [Not 24/7],https://cdn.streamhispanatv.net:3110/live/carinosatvlive.m3u8
 Carlsbad City TV Channel (Carlsbad CA) (720p),https://edge-f.swagit.com/live/carlsbadca/live-3-a-1/playlist.m3u8
 Cartago Medios TV (720p),https://tvdatta.com:3384/live/cartagomedioslive.m3u8
+CBC (720p) [Not 24/7],https://ythls.armelin.one/channel/UCUHq39HXLyAjjMPIjsNRLpw.m3u8
 CBN TV (720p),https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8
 CBTV Internacional (1080p),https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 CCTV-1 (1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
@@ -361,6 +363,7 @@ PTV Córdoba (1080p),https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
 PTV Granada (720p),https://streamer.zapitv.com/PTV-granada/index.m3u8
 PTV Linares (720p),https://streamer.zapitv.com/ptv-linarez/index.m3u8
 PTV Sevilla (1080p),https://streamer.zapitv.com/PTV_sevilla/index.m3u8
+Puntland TV (720p),http://cdn.mediavisionuae.com:1935/live/putlandtv2.stream/playlist.m3u8
 Puringla TV (720p),https://stmv1.srvif.com/puringla/puringla/playlist.m3u8
 Putnok Városi TV (720p),http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null
 Qafqaz TV,https://str1.yodacdn.net/qafkaz/playlist.m3u8
@@ -469,6 +472,7 @@ Telewizja Relax (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCZvmZep3wk
 Telewizja Sudecka (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC2vPjreaN9Jpan45p66H7hA.m3u8
 Telewizja Zabrze (480p) [Not 24/7],https://ythls.armelin.one/channel/UCyQL0IjtptnQ9PxmAfH3fKQ.m3u8
 Temiscaming-Kipawa Community television in Québec Canada,https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvctklive.m3u8
+TeN TV (720p),https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 TEVEKA (1080p) [Not 24/7],https://www.teveka.net:8443/show/teveka/index.m3u8
 The Channel TV (1080p) [Not 24/7],https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/thechanneltv.stream/playlist.m3u8
 The Library Channel TV18 (360p),https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8
@@ -714,8 +718,6 @@ Al Nahar TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCzKamNFKCvzLOrq
 Al Najah News (720p),https://streaming.najah.edu:8443/hls/AlNajah.m3u8
 Al Nujaba,http://63b03f7689049.streamlock.net:1935/live/3/playlist.m3u8
 Al Qamar TV (360p),https://pull-cdnw.anystream.uk/live/d84d4809018b100059f000f600000000/playlist.m3u8
-Al Quds Open University (1080p),https://streaming2.qou.edu/hls/stream.m3u8
-Al Quds Today TV (360p),http://live.alqudstoday.tv:8080/hls/alqudstv/alqudstv.m3u8
 Al Rafidain (720p) [Not 24/7],https://cdg8.edge.technocdn.com/arrafidaintv/source/playlist.m3u8
 Al Rahma (720p),https://ythls.armelin.one/channel/UCY9j0n2-prtlMHUnnLA9dTw.m3u8
 Al Riyadh Radio (720p),https://edge.taghtia.com/sa/12.m3u8
@@ -881,7 +883,6 @@ CarinaTV (720p),https://stream7.zivoli.it/carinatv/carinatv/playlist.m3u8
 Carivision (1080p),https://ss5.domint.net:3174/car_str/carivision/playlist.m3u8
 Cartoon Network,https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_CARTOON_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
 Cartoon Network,http://viettel.nekocdn.xyz/CartoonNetwork/index.m3u8
-CBC (720p) [Not 24/7],https://ythls.armelin.one/channel/UCUHq39HXLyAjjMPIjsNRLpw.m3u8
 CBC Calgary (CBRT-DT),https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
 CBC Comedy (1080p),https://webtelly-streams.akamaized.net/prod-cbc-comedy-rtp/hls/master.m3u8
 CBC Edmonton (CBXT-DT),https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
@@ -1679,7 +1680,6 @@ OK Weinstraße (Neustadt) (432p),https://s.ok54.de/okweinstrasse/okweinstrasse/p
 OK Wernigerode (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
 OK-TV Ludwigshafen (720p),https://s.ok54.de/oklu/livestream/playlist.m3u8
 Oman Althakafia (1080p),https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
-Oman Mubashir (1080p),https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
 Omg Channel (720p) [Not 24/7],http://media6.smc-host.com:1935/omgchannel.net/omgtv/playlist.m3u8
 Omid Javedan (720p) [Not 24/7],http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/index.m3u8
 Omroep Brabant (1080p),https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
@@ -1926,7 +1926,6 @@ Punjabi Zindabad (360p) [Not 24/7],http://stream.pztv.online/pztv/playlist.m3u8
 PUNKTum Fernsehen (1080p) [Not 24/7],http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
 Punt 3 Vall Uixó (1080p),https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
 Punta Cana TV (720p) [Not 24/7],https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
-Puntland TV (720p),http://cdn.mediavisionuae.com:1935/live/putlandtv2.stream/playlist.m3u8
 Pura Palabra (718p) [Not 24/7],https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
 Puro Romance,https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
 Puruwa TV (720p),https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
@@ -2296,7 +2295,6 @@ Tempe Channel 11,https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/tempe/G0355_003/chunk
 Tempo TV,https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
 Temuco Television,https://tv.streaming-chile.com:19360/temucotelevision/temucotelevision.m3u8
 TEN Canal 10 (720p) [Not 24/7],https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/hn/tentv.m3u8
-TeN TV (720p),https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 Tendencias Prime (T31 | Ñuñoa) (1080p) [Not 24/7],https://v2.tustreaming.cl/tendenciastv/index.m3u8
 test Channel 1 (1080p),https://adultswim-vodlive.cdn.turner.com/live/test-1/stream_de.m3u8
 test Channel 1 (1080p),https://adultswim-vodlive.cdn.turner.com/live/test-1/stream.m3u8
@@ -3785,6 +3783,7 @@ O'zbekiston 24 (480p),http://gohoski.fvds.ru:3000/mediabay/393/playlist.m3u8
 OAN (1080p),https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 OAN Encore (720p),https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
 Observator News (720p),https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+Oman Mubashir (1080p),https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
 ON Medya Haber (720p),http://live.arkumedia.com:1935/marmaratv/marmaratv/playlist.m3u8
 Ora News (720p),https://live1.mediadesk.al/oranews.m3u8
 Phoenix InfoNews Channel (凤凰卫视资讯) (1080p),https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
@@ -5072,6 +5071,47 @@ Wedding TV,https://stream.cp.ets-sistemi.it:1936/profservtv/profservtv/playlist.
 Zaire TV (720p) [Not 24/7],https://5caf24a595d94.streamlock.net:1937/kcvugnzbpu/kcvugnzbpu/playlist.m3u8
 УТРК Маданият (480p) [Not 24/7],https://st2.mediabay.tv/KG_KTRK-Madaniyat/playlist.m3u8
 
+Education,#genre#
+Al Quds Open University (1080p),https://streaming2.qou.edu/hls/stream.m3u8
+ALTV (1080p),https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
+Canal 15 Nicaragüense (1080p) [Not 24/7],https://cootv.cootel.com.ni:8095/Canal15_CooTel/playlist.m3u8
+CCTV-10 (1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+Collier County Public Schools CCPS Education Channel (Naples FL) (480p),https://watch.collierschools.com/EducationChannel/educhannel.stream/playlist.m3u8
+CreaTV Classrooms Channel 28 (San Jose CA) (720p),https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8
+Educanal (720p) [Not 24/7],https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
+Education Channel (480p),http://183.89.246.119:8881/play/a07s/index.m3u8
+EducaTV (720p) [Not 24/7],https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
+Eduvision (1080p),https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
+Fresno CMAC 2 Education Channel (720p),https://reflect-vod-cmac.cablecast.tv/live-12/live/live.m3u8
+Haddam Killingworth High School TV (HKTV) (1080p),https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8
+iSTUFF (720p) [Not 24/7],https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
+Kan Kids (720p),https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+KBEV Spectrum Channel 6 [Beverly Hills] (1080p),https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8
+Los Angeles Local Television Channel 36 (1080p),https://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8
+Marin TV Educational Channel (San Rafael CA) (1080p),https://dacastmmd.mmdlive.lldns.net/dacastmmd/bc1fcf000e4e48a6a490d2af1f6added/playlist.m3u8
+Midpen Media Center Youth Education and Sports Channel 28 (720p),https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
+MINEDU IPTV 1 (320p) [Not 24/7],http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
+MINEDU IPTV 2 (320p) [Not 24/7],http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
+Mobile County Public Schools TV Network (MCPSS),https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8
+MOSOBR.TV (720p),http://retj.educom.ru/mosobrtv/tv1/index.m3u8
+Napa Valley TV Education Access Channel 27 (480p),https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/napatv/G0360_003/playlist.m3u8
+NASA TV Media (720p),https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+NASA TV Public (720p),https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+Nashua ETV Channel 22 Nashua NH,https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+Oceanside Community Television (KOCT) Education and Government Channel 19 (720p),https://securestream6.champds.com/hlssstc/KOCTCALIVE2/KOCTCALIVE2.m3u8
+Once México (1080p),https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+Orange County Vision TV (Orange County FL) (720p),https://otv3.ocfl.net/VisionTV/smil:VisionTV.smil/playlist.m3u8
+Platzi TV (1080p),https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+Pluto TV Misterios (480p),https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+Pluto TV Natureza (720p),https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+Pluto TV Vida Real (720p),https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+The Southeastern Channel (540p),http://147.174.13.196/live/live.m3u8
+UCTV University of California (720p) [Not 24/7],https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+UEBI TV Online (720p) [Not 24/7],https://cloud2.streaminglivehd.com:1936/uebi/uebi/playlist.m3u8
+UniTV Porto Alegre (480p),http://unitvaovivo.ufrgs.br:8080/live.ogg
+Vyas NIC (576p),https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
+WIKI TV (720p),http://206.189.93.160:1935/live/myStream_720p/playlist.m3u8
+
 Animation,#genre#
 Alan Becker TV,https://ythls.armelin.one/channel/UCbKWv2x9t6u8yZoB3KcPtnw.m3u8
 CONtv Anime (1080p),https://contvanime-roku-ingest.cinedigm.com/master.m3u8
@@ -5157,46 +5197,6 @@ TV Câmara Salvador (288p) [Not 24/7],https://596639ebdd89b.streamlock.net/8114/
 Uruguay Presidencia (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCz1Li9JcQB9XP-HfgN0IYLQ.m3u8
 Wolcott Governmental TV (Wolcott CT) (720p),https://5a5c57d042315.streamlock.net/live11704001/ngrp:government_all/playlist.m3u8
 Дума ТВ,https://dumatv.iptv2022.com/index.m3u8
-
-Education,#genre#
-ALTV (1080p),https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
-Canal 15 Nicaragüense (1080p) [Not 24/7],https://cootv.cootel.com.ni:8095/Canal15_CooTel/playlist.m3u8
-CCTV-10 (1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-Collier County Public Schools CCPS Education Channel (Naples FL) (480p),https://watch.collierschools.com/EducationChannel/educhannel.stream/playlist.m3u8
-CreaTV Classrooms Channel 28 (San Jose CA) (720p),https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8
-Educanal (720p) [Not 24/7],https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
-Education Channel (480p),http://183.89.246.119:8881/play/a07s/index.m3u8
-EducaTV (720p) [Not 24/7],https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
-Eduvision (1080p),https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
-Fresno CMAC 2 Education Channel (720p),https://reflect-vod-cmac.cablecast.tv/live-12/live/live.m3u8
-Haddam Killingworth High School TV (HKTV) (1080p),https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8
-iSTUFF (720p) [Not 24/7],https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
-Kan Kids (720p),https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
-KBEV Spectrum Channel 6 [Beverly Hills] (1080p),https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8
-Los Angeles Local Television Channel 36 (1080p),https://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8
-Marin TV Educational Channel (San Rafael CA) (1080p),https://dacastmmd.mmdlive.lldns.net/dacastmmd/bc1fcf000e4e48a6a490d2af1f6added/playlist.m3u8
-Midpen Media Center Youth Education and Sports Channel 28 (720p),https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
-MINEDU IPTV 1 (320p) [Not 24/7],http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
-MINEDU IPTV 2 (320p) [Not 24/7],http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
-Mobile County Public Schools TV Network (MCPSS),https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8
-MOSOBR.TV (720p),http://retj.educom.ru/mosobrtv/tv1/index.m3u8
-Napa Valley TV Education Access Channel 27 (480p),https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/napatv/G0360_003/playlist.m3u8
-NASA TV Media (720p),https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-NASA TV Public (720p),https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-Nashua ETV Channel 22 Nashua NH,https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-Oceanside Community Television (KOCT) Education and Government Channel 19 (720p),https://securestream6.champds.com/hlssstc/KOCTCALIVE2/KOCTCALIVE2.m3u8
-Once México (1080p),https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-Orange County Vision TV (Orange County FL) (720p),https://otv3.ocfl.net/VisionTV/smil:VisionTV.smil/playlist.m3u8
-Platzi TV (1080p),https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-Pluto TV Misterios (480p),https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-Pluto TV Natureza (720p),https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-Pluto TV Vida Real (720p),https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-The Southeastern Channel (540p),http://147.174.13.196/live/live.m3u8
-UCTV University of California (720p) [Not 24/7],https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
-UEBI TV Online (720p) [Not 24/7],https://cloud2.streaminglivehd.com:1936/uebi/uebi/playlist.m3u8
-UniTV Porto Alegre (480p),http://unitvaovivo.ufrgs.br:8080/live.ogg
-Vyas NIC (576p),https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
-WIKI TV (720p),http://206.189.93.160:1935/live/myStream_720p/playlist.m3u8
 
 Culture;Travel,#genre#
 Aunar (720p),https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/.m3u8

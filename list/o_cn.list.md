@@ -17,7 +17,7 @@
 | 11 | Bloomberg TV Asia (720p) | [Bloomberg TV Asia (720p)](https://bloomberg.com/media-manifest/streams/asia.m3u8) |
 | 12 | Bloomberg TV Asia Live Event (720p) | [Bloomberg TV Asia Live Event (720p)](https://bloomberg.com/media-manifest/streams/asia-event.m3u8) |
 | 13 | Bread TV面包台 (720p) | [Bread TV面包台 (720p)](https://video.bread-tv.com:8091/hls-live24/online/index.m3u8) |
-| 14 | BRTV Kaku Childrens Channel [Not 24/7] | [BRTV Kaku Childrens Channel  Not 24/7](http://office.gofaraway.top:888/udp/238.125.2.216:5140) |
+| 14 | BRTV Kaku Childrens Channel | [BRTV Kaku Childrens Channel](http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8) |
 | 15 | CCTV5+ | [CCTV5+](https://pull-f5-spe.ixigua.com/live/YesLiveTV-7d098b36-c7e5-4941-8eb0-6af0f5ad3f8d.flv) |
 | 16 | CCTV+ 1 (600p) [Not 24/7] | [CCTV+ 1 (600p)  Not 24/7](https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8) |
 | 17 | CCTV+ 2 (600p) [Not 24/7] | [CCTV+ 2 (600p)  Not 24/7](https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8) |
@@ -641,4 +641,4 @@
 | 635 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 636 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Mon Mar 18 2024 20:11:39 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 19 2024 00:46:43 GMT+0000 (Coordinated Universal Time)**
