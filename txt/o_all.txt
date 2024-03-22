@@ -2637,7 +2637,6 @@ Wontumi TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCn7CnwFDT3wXBE3x
 Zalaegerszegi TV (360p),https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
 Zaracay TV (1080p) [Not 24/7],https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 Zarok TV (720p),https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
-Zarok TV Sorani (720p),https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 ZDF (720p),https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 ZDFinfo (720p),https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 ZDFneo (720p),https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
@@ -5403,6 +5402,9 @@ US Weekly TV,https://a360-usweeklytv-1-us.plex.wurl.tv/playlist.m3u8
 
 Culture;Education;Lifestyle,#genre#
 Woman TV (1080p),https://embedlp.becdn.net/womantv.m3u8
+
+Animation;Education;Family;Kids;Music,#genre#
+Zarok TV Sorani (720p),https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 
 Education;Science,#genre#
 滁州科教 (450p),http://183.167.193.45:1935/live/cztvkj/playlist.m3u8
