@@ -55,7 +55,6 @@ Almahriah TV (1080p),https://master.starmena-cloud.com/hls/almahriah.m3u8
 Alpha Channel (720p),https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
 Altyn Asyr (406p) [Not 24/7],https://alpha.tv.online.tm/hls/ch001.m3u8
 Alvin Channel TV (360p) [Not 24/7],https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
-Alwasat TV (1080p) [Not 24/7],https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_1080p/chunks.m3u8
 AM Canal (720p) [Not 24/7],https://v2.tustreaming.cl/amtv/index.m3u8
 ATV (720p),https://videos.rtva.ad/live/rtva/playlist.m3u8
 ATV (720p) [Not 24/7],https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
@@ -405,6 +404,7 @@ RTA (720p),https://hls.rta.live/hls/stream.m3u8
 RTC Quarta Rete (720p),https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8
 RTD,https://ythls.armelin.one/channel/UCB0NxICFmGabAalD46J2i4A.m3u8
 RTH-TV1 (1080p),https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4203440/playlist.m3u8
+RTV Herceg-Bosne (576p) [Not 24/7],https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 RTV LOVE (720p),https://d2o8iss0ldenh4.cloudfront.net/nlpo/clr-nlpo/rtvlove/index.m3u8
 Sor TV (720p),http://188.237.212.16:8888/live/cameraFeed.m3u8
 SOU TV (720p),https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8
@@ -764,6 +764,7 @@ Alternativa TV (Huasco) (720p) [Not 24/7],https://5eaccbab48461.streamlock.net:1
 Althaqalayn TV,http://63b03f7689049.streamlock.net:1935/live/16/playlist.m3u8
 Althaqalayn TV,http://77.36.160.164:1935/live4/thaghalayn/playlist.m3u8
 Alto Adige TV (720p),https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
+Alwasat TV (1080p) [Not 24/7],https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_1080p/chunks.m3u8
 ALWifak News TV (720p),http://alwifaklive.info:1935/live/myStream/playlist.m3u8
 Attica TV (1080p),http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 ATV (360p) [Not 24/7],https://movil.ejeserver.com/live/verteve.m3u8
@@ -2143,7 +2144,6 @@ RTP (404p),https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 RTP (720p) [Not 24/7],http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 RTV Focus TV (720p),https://wowza3.videostreamingwowza.com/rtvfocuszwolle/rtvfocuszwolle/playlist.m3u8
 RTV GO! (1080p) [Not 24/7],http://59132e529e3d1.streamlock.net:1935/Groningen1/Groningen1/playlist.m3u8
-RTV Herceg-Bosne (576p) [Not 24/7],https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 RTV Horizon (720p),https://tv.rtvhorizon.nl/hls/horizon/1_2/index.m3u8
 RTV Maastricht (720p) [Not 24/7],http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
 RTVCE (1080p),https://cdnlivevlc.codev8.net/rtvcelive/smil:channel1.smil/playlist.m3u8
