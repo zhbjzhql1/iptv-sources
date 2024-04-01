@@ -1290,7 +1290,7 @@ Channel 9 (540p) [Not 24/7],http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=
 Channel 9 (720p),https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel9hd.stream/playlist.m3u8
 Channel 9 Melbourne (720p),https://9now-livestreams.akamaized.net/hls/live/2008322/ch9-mel/master.m3u8
 Channel 9 Sydney (720p),https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
-Channel 13 (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCevtg3pYdyr0EaWSAQMwUgA.m3u8
+Channel 13 [Not 24/7],https://stream.theyraonline.com/live/channel13@live/index.m3u8
 Channel 24 Saudi (720p),https://ythls.armelin.one/channel/UCQeyQKc5p0d4B89K-DCzX5Q.m3u8
 Channel 44 (480p),https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
 Channel Divya (720p),https://mcncdndigital.com/divyatv/index.fmp4.m3u8
@@ -4514,6 +4514,7 @@ EBC Foreign Movie (东森洋片) (1080p),https://ctrl.laotv.la/live/DongsenForei
 EBC Movie (东森电影) (1080p),https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 EBS Cinema (720p),https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
 EvaRetro (Corporación Eva) (600p) [Not 24/7],https://stmv2.zcasthn.com.br/evaretro/evaretro/playlist.m3u8
+HBO (1080p),https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
 Hollywood,http://stream01.vnet.am/ParamountChannel/mono.m3u8
 Horrify (1080p),https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 iFilm 2,https://cdnlive.presstv.ir/ifilmlive/smil:ifilm2.smil/playlist.m3u8
@@ -5007,6 +5008,7 @@ Sun Channel (720p) [Not 24/7],https://vcndistroscale.teleosmedia.com/linear/sun/
 Teletur (1080p),https://cloudflare.streamgato.us:3227/live/teleturtvlive.m3u8
 Turistik TV (720p),https://5fa5de1a545ae.streamlock.net/8030/8030/.m3u8
 TV Paraná Turismo (720p) [Not 24/7],http://200.189.113.201/hls/tve.m3u8
+TV Sayohi (1080p),https://live.teleradiocom.tj/16/3m.m3u8
 TVS Travel Network (720p) [Not 24/7],https://rpn1.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
 
 Entertainment;Music,#genre#
@@ -5106,6 +5108,7 @@ earthTV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWm
 Science,#genre#
 Explosión Creativa (720p) [Not 24/7],https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
 Hiperconectados TV,https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
+Ilm va Tabiat (1080p),https://live.teleradiocom.tj/15/3m.m3u8
 TEC TV (720p) [Not 24/7],https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 TechScience 365 (360p),https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
 YTN Science (720p),https://ythls.armelin.one/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8
