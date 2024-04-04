@@ -868,6 +868,7 @@ BBC Doctor Who,https://bbceu-doctorwho-3-fr.samsung.wurl.tv/playlist.m3u8
 BBC Doctor Who Classic (720p),https://lnc-dr-who.tubi.video/playlist.m3u8
 BBC Drama,https://bbceu-bbcdrama-2-it.samsung.wurl.tv/playlist.m3u8
 BBC Earth (720p),https://lnc-bbc-earth.tubi.video/playlist.m3u8
+BBC First (Poland) (720p),https://cdn.lolokoko.tv/BBCHD.stream/playlist.m3u8
 BBC Four HD (720p),https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
 BBC Red Button 1 (720p),https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_01/iptv_hd_abr_v1.mpd
 BBC Red Button 2 (720p),https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_02/iptv_hd_abr_v1.mpd
@@ -1904,6 +1905,7 @@ Number 1 Dance (720p),https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlf
 Number 1 Türk (720p),https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
 Number 1 TV (720p),https://mn-nl.mncdn.com/blutv_nr12/live.m3u8
 Nusantara TV (720p),https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+Nuta TV (720p),https://cdn.lolokoko.tv/nuta.stream/chunks.m3u8
 Nyota TV (360p) [Not 24/7],http://51.254.199.122:8080/noyaTV/index.m3u8
 NYXT (1080p),https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8
 Oasis RTV (720p) [Not 24/7],https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
@@ -2158,6 +2160,9 @@ Podium.TV (1080p) [Not 24/7],https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&fi
 Pogo,https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 Polar TV (1080p),https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
 Police TV (1080p),https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
+Polo TV (720p),https://cdn.lolokoko.tv/PoloTV.stream/playlist.m3u8
+Polsat 2 (720p),https://cdn.lolokoko.tv/Polsat2.stream/playlist.m3u8
+Polsat (720p),https://cdn.lolokoko.tv/Polsat.stream/playlist.m3u8
 Pomona Internet Streaming Channel (Pomona CA) (720p),https://live.pomonaca.gov/live-3/live/live.m3u8
 Pon TV (360p) [Not 24/7],http://122.248.43.138:1935/ch15/myStream/playlist.m3u8
 POP Max (576p),https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
@@ -2180,6 +2185,7 @@ Pucón TV (1080p) [Not 24/7],https://pantera1-100gb-cl-movistar.dps.live/pucontv
 Puissance Télévision (720p) [Not 24/7],https://ythls.armelin.one/channel/UCxSUslP_JMH3Bb50oXd1Nnw.m3u8
 Puja TV Aceh (1080p) [Not 24/7],https://v6.siar.us/pujatv/live/chunks.m3u8
 Pulari TV (720p),https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
+Puls 2 (720p),https://cdn.lolokoko.tv/TVPuls2.stream/playlist.m3u8
 Pulse (720p),https://origin3.afxp.telemedia.co.za/PremiumFree/pulse/playlist.m3u8
 Pulse TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungnz/playlist.m3u8
 Punjabi Zindabad (360p) [Not 24/7],http://stream.pztv.online/pztv/playlist.m3u8
@@ -4109,6 +4115,8 @@ Pluto TV News (720p),https://service-stitcher.clusters.pluto.tv/stitch/hls/chann
 Pluto TV TYT Network (720p) [Not 24/7],https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5331d5fb753499095a00045a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 PNN News (720p),https://cdn.bmstudiopk.com/pnn/smil:PNN.smil/playlist.m3u8
 Polimer News (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
+Polsat News 2 (576p),https://cdn.lolokoko.tv/PolsatNews2.stream/playlist.m3u8
+Polsat News (720p),https://cdn.lolokoko.tv/PolsatNews.stream/playlist.m3u8
 Prudent Media (1080p),https://prudentmcdn.rixcast.com/prudentm.m3u8
 PTC News (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCQLEbraENUGWh6p1Rv664rQ.m3u8
 PTV 4 (480p) [Not 24/7],https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
@@ -5100,6 +5108,7 @@ Pluto TV Telemundo Telenovelas (720p),https://service-stitcher.clusters.pluto.tv
 Pluto TV Terror (720p) [Not 24/7],https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 Pluto TV TV Land Drama (720p),https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d40bebc5e3d2750a2239d7e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=130&terminate=false&userId=
 Pluto TV Westerns (720p),https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8df4bc16e34700077e77d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=526&terminate=false&userId=
+Polsat Film (720p),https://cdn.lolokoko.tv/PolsatFilm.stream/playlist.m3u8
 Rai Movie (576p),https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
 Rakuten Action Movies,https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 Rakuten Action Movies,https://rakuten-actionmovies-6-it.samsung.wurl.tv/playlist.m3u8
