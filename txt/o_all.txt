@@ -4231,7 +4231,7 @@ Al Maaref (350p),https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_a
 Al Quran Al Kareem TV (Mecca) (1080p) [Not 24/7],https://edge.taghtia.com/sa/7.m3u8
 Al Sunnah Al Nabawiyah TV (Medina) (1080p) [Not 24/7],https://edge.taghtia.com/sa/6.m3u8
 Al Wilayah (720p) [Not 24/7],https://alwilayah.tv/cdn/alwilayah_tv-manifest.m3u8
-Al-Iman TV (720p),https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8
+Al-Iman TV (720p),https://tv.aliman.id/aliman/live.m3u8
 Al-Jawadain TV (1080p) [Not 24/7],https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
 Alcance TV (720p),https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
 Alfa Omega TV (720p) [Not 24/7],http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
