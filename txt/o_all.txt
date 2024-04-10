@@ -305,12 +305,6 @@ Kass TV (720p) [Not 24/7],https://goliveafrica.media:9998/live/62f643cdca8cf/ind
 KassouaTV (480p),https://tgn.bozztv.com/ssh101/ssh101/kassouatvstream/playlist.m3u8
 KBC Channel 1 (720p) [Not 24/7],https://ythls.armelin.one/channel/UCypNjM5hP1qcUqQZe57jNfg.m3u8
 KBRI Brighton Channel 8 (Brighton CO) (720p),https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/brightonco/G0883_001/playlist.m3u8
-KBS1 (720p),https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
-KBS1 (Busan) (720p),https://code.vthanhtivi.pw/getlink/kbs/10_11/playlist.m3u8
-KBS1 (Daegu) (720p),https://code.vthanhtivi.pw/getlink/kbs/30_11/playlist.m3u8
-KBS1 (Daejeon) (720p),https://code.vthanhtivi.pw/getlink/kbs/60_11/playlist.m3u8
-KBS1 (Gwangju) (720p),https://code.vthanhtivi.pw/getlink/kbs/40_11/playlist.m3u8
-KBS1 (Ulsan) (720p),https://code.vthanhtivi.pw/getlink/kbs/11_11/playlist.m3u8
 KBS World,http://mytv.dothome.co.kr/ch/catv/7.php
 KCAT Public Media TV (1080p),https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8
 KempenTV (480p),http://ms7.mx-cd.net/tv/Omroep_de_Kempen.smil/playlist.m3u8
@@ -1118,7 +1112,6 @@ Canal Sierra de Cádiz (1080p) [Not 24/7],https://s.emisoras.tv:8081/sierradecad
 Canal Siete (720p) [Not 24/7],https://vivo.solumedia.com:19360/canalsiete/canalsiete.m3u8
 Canal Sur Andalucía (1080p) [Not 24/7],https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 Canal Sur Patagonia (720p),https://v1.tustreaming.cl:19360/canalsurpatagoniatv/canalsurpatagoniatv.m3u8
-Cartoon Network,http://viettel.nekocdn.xyz/CartoonNetwork/index.m3u8
 Cartoon Network Español,http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
 Cáscara TV (1080p),https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
 Catamarca TV (720p),https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
@@ -1169,7 +1162,6 @@ Cine en Espanol (720p),https://amg02724-somos-amg02724c1-klowdtv-us-2002.playout
 Cine Estrella (1080p),https://lnc-cine-estrella.tubi.video/playlist.m3u8
 Cinema Classic,https://api.alpaca.t62a.com/hls/9114/index.m3u8
 CINEMAX,http://170.254.18.106/CINEMAX/index.m3u8
-Cinemax Asia (Vietnam),http://viettel.nekocdn.xyz/Cinemax/index.m3u8
 Cinevault Classics (720p),https://lnc-cinevault-classics.tubi.video/playlist.m3u8
 CineView,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
 Citra Bioskop (720p),http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8
@@ -1473,7 +1465,6 @@ GOOD TV CH50 国际讲员 中文发音 (720p) [Not 24/7],https://live.streamingf
 Goodness TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCvSkU6Ut85o2B34fD5F1Fyw.m3u8
 Gospel (720p),https://origin3.afxp.telemedia.co.za/PremiumFree/gospellife/playlist.m3u8
 GoTV (576p) [Not 24/7],https://nstream17.gotv.at:1443/live/gotvlive/manifest.mpd
-GPR TV (720p),https://wowza.convergen.co/gprtv/myLive/playlist.m3u8
 Grand Genève TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCXFfYlxx1CDljLyXwXFbL1A.m3u8
 Great British Menu (720p),https://lnc-great-british-menu.tubi.video/playlist.m3u8
 Great Commission TV (468p),http://45.32.115.103/live/livestream/index.m3u8
@@ -4065,7 +4056,6 @@ Kanal Turan (576p),https://donvolga.com/Turan-TV/index.m3u8
 Kanali 7 (576p),https://fe.tring.al/delta/105/out/u/1200_1.m3u8
 Kashish News (720p),https://kashishnews.livebox.co.in/kashishnewshls/live.m3u8
 KBC News (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCS8ZQejq2CL-nZcnRWZCA5Q.m3u8
-KBS News D (720p),https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
 Kerala Vision News (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCuo69XR8nCP4Ss8ko_5Xbuw.m3u8
 Kompas TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8
 Libya's Channel (480p),https://master.starmena-cloud.com/hls/libyas.m3u8
@@ -4745,7 +4735,6 @@ HappyKids Junior (720p),https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 Jojko (1080p),https://st01-2.iptv.joj.sk/104-tv-pc.m3u8
 kabillion (720p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 Kartoon Channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
-KBS Kids (480p),https://code.vthanhtivi.pw/getlink/kbs/N96/playlist.m3u8
 Ketnet Junior (720p),https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 Kidoodle TV,https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
 Kids Station (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
@@ -5139,7 +5128,6 @@ Rakuten TV Top Films (720p),https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlis
 Rotana Cinema KSA (1080p),https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
 Rotana Cinema KSA (1080p),https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 The Film Detective,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
-Thrill (720p),https://code.vthanhtivi.pw/getlink/eazie/242921/playlist.m3u8
 Top Cine (1080p),https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 TV Cinec (240p) [Not 24/7],http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
 Viasat Kino (576p),http://89.254.128.5:22280/viasat_kino/index.m3u8
@@ -5641,7 +5629,6 @@ Education;General,#genre#
 Canal FDR (1080p),https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 
 Animation;Kids,#genre#
-Cartoon Network Asia (Vietnam Feed) (1080p),http://fpt.vthanhtivi.pw/cartoon/index.m3u8
 Cartoon Network FreeLive Brazil 2 (720p),https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8
 Cartoon Network FreeLive Brazil (720p),https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
 Cartoon Network FreeLive Latam 2 (720p),https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
