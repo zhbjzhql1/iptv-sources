@@ -857,6 +857,7 @@ Bayu TV Nganjuk (720p),https://5bf7b725107e5.streamlock.net/bayutvpersada/bayutv
 Bayyinat TV (404p),https://nl2.livekadeh.com/hls2/Bayyinat.m3u8
 BB 24 (720p) [Not 24/7],https://edge15.vedge.infomaniak.com/livecast/ik:bb24-1/playlist.m3u8
 BBC Alba (720p),https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.mpd
+BBC ALBA HD (1080p),http://83.97.18.189:4224/bysid/8927
 BBC America East (720p),https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 BBC Doctor Who,https://bbceu-doctorwho-3-fr.samsung.wurl.tv/playlist.m3u8
 BBC Doctor Who Classic (720p),https://lnc-dr-who.tubi.video/playlist.m3u8
@@ -3930,6 +3931,7 @@ ATV+,https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 Avenues Khabar (720p) [Not 24/7],https://ythls.armelin.one/channel/UCMDzPE_7fcZSRJgpwIVor_A.m3u8
 Bansal News (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCL_3_9PhDyZXu1oexm8gtFQ.m3u8
 BBC Arabic (720p),https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+BBC News (North America) (1080p),https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 BBC News Arabic (1080p),https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8
 BBC News Asia Pacific (720p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 BBC News HD (720p),https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
@@ -4182,7 +4184,7 @@ ZBC News (720p) [Not 24/7],https://ythls.armelin.one/channel/UCxiW1iTMYgjyh7Qgki
 Zee Delhi NCR Haryana (720p) [Not 24/7],https://ythls.armelin.one/channel/UCG6L5cIg2XZvXVksq5B9edw.m3u8
 Zee Kannada News (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCUSY2EZK7_2_1-wsZVbdzsQ.m3u8
 Zee Nepal (720p),http://43.245.85.211:5563/live/zeenepaltv/playlist.m3u8
-Zee News (720p) [Not 24/7],https://ythls.armelin.one/channel/UCIvaYmXn910QMdemBG3v1pQ.m3u8
+Zee News,https://news.codeautoplay.workers.dev/?codeby=nd&channel=zeenews
 Zee News Malayalam (720p),https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/index_4.m3u8
 Zee Telugu News (720p) [Not 24/7],https://ythls.armelin.one/channel/UCfWo0Z5PKYd86JfQ5ZE5cWg.m3u8
 Zerouno TV News (720p),https://5db313b643fd8.streamlock.net/ZerounoTVEventi/ZerounoTVEventi/playlist.m3u8
@@ -4722,6 +4724,7 @@ Brat TV (1080p),https://brat-rakuten.amagi.tv/playlist.m3u8
 BRTV Kaku Childrens Channel,http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
 Camp Spoopy (576p),https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 CBBC HD (720p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd
+CBBC HD (1080p) [Not 24/7],http://83.97.18.189:4206/bysid/6972
 Chinola TV (480p),https://streaming.ath.cx:1936/chinolatv/chinolatv/playlist.m3u8
 Clan TVE (1080p),https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
 Clan TVE Internacional (1080p),https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
@@ -5198,7 +5201,7 @@ NW Economie (576p),https://hls.newworldtv.com/nw-economie/video/live.m3u8
 Telewizja Biznesowa (1080p),https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
 Tevex (720p) [Not 24/7],https://v4.tustreaming.cl/tevexinter/index.m3u8
 TV Finance,https://strhlslb01.streamakaci.tv/str_tvfinance_tvfinance/str_tvfinance_multi/playlist.m3u8
-Zee Business (720p),https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_5.m3u8
+Zee Business,https://news.codeautoplay.workers.dev/?codeby=nd&channel=zeebusiness
 徐州经济生活 (1080p),http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
 浙江经济生活 (1080p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 点掌财经 (712p),http://cclive.aniu.tv/live/anzb.m3u8
