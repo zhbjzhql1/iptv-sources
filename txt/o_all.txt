@@ -284,6 +284,7 @@ Gyöngyösi TV (576p),https://cloudfront41.lexanetwork.com:1344/relay02/livestre
 H1 Fernsehen (1080p),https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/playlist.m3u8
 Haina Vision (720p),https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
 Hala London (1080p),https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
+Hang Meas HDTV (1080p),http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 Hau Giang TV (720p),https://60acee235f4d5.streamlock.net/HGTV/d1/playlist.m3u8
 HTR TV (720p),https://ms7.mx-cd.net/tv/286-3043214/HTR_Media_TV.smil/playlist.m3u8
 HTS Słubice (720p) [Not 24/7],https://ythls.armelin.one/channel/UCENo4wEDe_59Bb8rGGMZl_w.m3u8
@@ -459,6 +460,7 @@ Ràdio Bocairent TV (1080p) [Not 24/7],http://185.81.77.4/BocairentTV/index.m3u8
 Radio Caazapá Poty 98.1 FM (480p) [Not 24/7],https://ssh101.bozztv.com/ssh101/caazapapotytv/playlist.m3u8
 Radio Coatán Canal 21 (720p),https://tv.portalexpress.es:3571/hybrid/play.m3u8
 Radio Coop Online (576p),https://59ce1298bfb98.streamlock.net/cooptv/cooptv/playlist.m3u8
+Radio e Televisao Timor Leste (RTTL.EP) [Not 24/7],https://ythls.armelin.one/channel/UCtwMP_IzEm3r9PDuaYRUKLA.m3u8
 Radio La Original TV (1080p),https://cloudvideo.servers10.com:8081/8216/index.m3u8
 Radio Puerto TV (720p),https://cloudvideo.servers10.com:8081/8256/index.m3u8
 Radio San Roque FM 87.5 (480p),https://rpn3.bozztv.com/ssh101/ssh101/sanroquearegua/playlist.m3u8
@@ -745,7 +747,6 @@ Al Binaa TV (720p),https://master.antosatriani.workers.dev/channel/UCdq-DJ5MS7qj
 Al Eshraq TV,http://63b03f7689049.streamlock.net:1935/live/19/playlist.m3u8
 Al Ghadye (576p),http://82.212.74.3:8000/live/hls/7512.m3u8
 Al Haqiqa (576p),https://jmc-live.ercdn.net/alhaqiqa/alhaqiqa.m3u8
-Al Huda TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCdTAsRrQEp-IVoMzKoRG4ZQ.m3u8
 Al Janoub TV,http://63b03f7689049.streamlock.net:1935/live/18/playlist.m3u8
 Al Jazeera Live (English),http://80.79.6.221:25461/smash/public/30
 Al Kahera Wal Nas (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8
@@ -1480,7 +1481,6 @@ Halom TV (576p),http://stream.battanet.hu:8080/hls/livestream1/1_2/index.m3u8
 Hamaika Telebista (1080p),https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
 Hamburg 1 (1080p),https://stream.hamburg1.de/live_abr/hamburg1_abr/playlist.m3u8
 Handystar (404p) [Not 24/7],https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
-Hang Meas HDTV (1080p),http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 HanoiTV1 (1080p),https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/playlist.m3u8
 HanoiTV2 (1080p),https://cecex9g5cpliv.vcdn.cloud/live/smil:HN2.smil/playlist.m3u8
 Hare Krsna TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCZ8S3qwowiFztAQBRTawWfA.m3u8
@@ -2201,7 +2201,6 @@ Radio Albalad TV (720p),http://streaming.zaytonatube.com:8080/radioalbalad/radio
 Radio Birikina TV (720p) [Not 24/7],https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
 Radio Bremen Fernsehen (1080p),https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 Radio Caracas Radio 750 (720p) [Not 24/7],https://ythls.armelin.one/channel/UC5AA3XP4_pXIELctSsH_L7w.m3u8
-Radio e Televisao Timor Leste (RTTL.EP) [Not 24/7],https://ythls.armelin.one/channel/UCtwMP_IzEm3r9PDuaYRUKLA.m3u8
 Radio Fann Jordan: City View (180p) [Not 24/7],http://188.247.86.66/RadioFann/CityView1/playlist.m3u8
 Radio Fann Jordan: Control Studio (220p) [Not 24/7],http://188.247.86.66/RadioFann/ControlStudio1/playlist.m3u8
 Radio Fann Jordan: Studio (180p) [Not 24/7],http://188.247.86.66/RadioFann/OnAirStudio1/playlist.m3u8
@@ -4244,6 +4243,7 @@ Al Aqsa Channel (416p) [Not 24/7],https://live-1.linuxway.info/aqsatv/live/tv/pl
 Al Ehsaan TV (720p),https://cdn.bmstudiopk.com/alehsaan/live/playlist.m3u8
 Al Hayat TV (720p),http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
 Al Horreya TV (1080p),http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
+Al Huda TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCdTAsRrQEp-IVoMzKoRG4ZQ.m3u8
 Al Maali TV (1080p),https://kali.vdopanel.com:3986/live/mbashalive.m3u8
 Al Maaref (350p),https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/playlist.m3u8
 Al Quran Al Kareem TV (Mecca) (1080p) [Not 24/7],https://edge.taghtia.com/sa/7.m3u8
