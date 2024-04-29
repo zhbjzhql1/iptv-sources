@@ -308,6 +308,7 @@ ISTV (720p) [Not 24/7],https://stmv1.srvstm.com/sistema7933/sistema7933/playlist
 ITV HD,http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
 Jacal Canal 5 (720p) [Not 24/7],https://stream.oursnetworktv.com/latin/jacaltv/playlist.m3u8
 Jahonnamo (1080p),https://live.teleradiocom.tj/4/3m.m3u8
+Jamaica Online TV (1080p) [Not 24/7],https://tvsw7-hls.secdn.net/tvsw7-chorigin/play/prod-bb11dd0e11ca45229a3f58aeff5213d8/playlist.m3u8
 JČ1 (1080p),https://stream.jc1.cz/hls/jc1.m3u8
 JonmoBhumi TV (720p) [Not 24/7],https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/playlist.m3u8
 Jordan Satellite Channel (1080p),https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
@@ -1682,7 +1683,6 @@ Jacksonville Freedom Fountain Camera Live,https://reflect-jacksonville.cablecast
 Jai Maharashtra (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCmBLIcqOLWwrrAJ-jaCttqw.m3u8
 Jak TV (480p),http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/index.m3u8
 Jalisco TV (720p),https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
-Jamaica Online TV (1080p) [Not 24/7],https://tvsw7-hls.secdn.net/tvsw7-chorigin/play/prod-bb11dd0e11ca45229a3f58aeff5213d8/playlist.m3u8
 Jambi TV (576p) [Not 24/7],http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
 Jambyl (360p) [Not 24/7],https://stream.kaztrk.kz/regional/taraztv/index.m3u8
 Janata TV (1080p) [Not 24/7],https://streaming.tvnepal.com:19360/janatatv/janatatv.m3u8
@@ -4494,6 +4494,7 @@ Entertainment,#genre#
 5 Plus (480p),http://183.89.246.119:8881/play/a07w/index.m3u8
 7/8 TV (1080p),https://ms4.sedemosmi.tv/live/M3E5ajhtdjJkaXBscmZubmUxMmh1cjN1bjZrbm5wZW8/index.m3u8
 7 TV,http://v4.proofix.ru/7tv-live/tracks-v1a1/index.m3u8
+8TV (1080p),https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
 9Gem (720p),https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
 9 Волна (Черкесск),http://cdn-01.bonus-tv.ru/9volna/playlist.m3u8
 10 Channel (720p),https://tv.mediacp.eu:8081/10channel/index.m3u8
