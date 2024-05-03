@@ -5757,4 +5757,4 @@
 | 5751 | Ю | [Ю](https://cdn-01.bonus-tv.ru/u/playlist.m3u8) |
 | 5752 | Առաջին ալիք (1080p) | [Առաջին ալիք (1080p)](https://amtv1.livestreamingcdn.com/am2abr/index.m3u8) |
 
-Updated at **Fri May 03 2024 00:52:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri May 03 2024 10:12:03 GMT+0000 (Coordinated Universal Time)**
