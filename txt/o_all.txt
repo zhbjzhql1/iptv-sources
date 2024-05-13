@@ -4118,6 +4118,7 @@ Maxima TV (540p),https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
 Maxivisión TV (720p),https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
 Mazhavil Manorama (396p),https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 MBC 2 (720p) [Not 24/7],https://rpn3.bozztv.com/ssh101/ssh101/2onthego/playlist.m3u8
+Merit Street (1080p),https://tbn-jw.cdn.vustreams.com/live/merit-dev/live.isml/playlist.m3u8
 MetaVersus CR (480p),https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
 Metro TV (720p),https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 Metro TV (720p),https://s.emisoras.tv:8081/metrotv/index.m3u8
@@ -4324,6 +4325,7 @@ TNT Kids (288p),https://restreamer1.tnt.ba/hls/tntkids.m3u8
 Toon Goggles en Espanol,https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 Toonmax TV (576p),http://210.210.155.37/qwr9ew/s/s50/index.m3u8
 TRT Çocuk (720p),https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+TRT Diyanet Çocuk (720p),https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 Zoo Moo (Australia) (1080p),https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 Карусель,http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
 Лёва (1080p),https://strm.yandex.ru/kal/leva/leva0.m3u8
@@ -4618,6 +4620,7 @@ Animation,#genre#
 Alan Becker TV,https://ythls.armelin.one/channel/UCbKWv2x9t6u8yZoB3KcPtnw.m3u8
 DreikoTv (720p) [Not 24/7],https://cloudvideo.servers10.com:8081/8138/index.m3u8
 EnerGeek (720p) [Not 24/7],https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
+Fanpop TV,https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
 LatinoKids (480p) [Not 24/7],https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 Leader Phoenix (480p) [Not 24/7],http://connectiktv.ddns.me:8080/live/63ab4eb0ac1a5/index.m3u8
 Locomotion TV (480p) [Not 24/7],http://51.222.85.85:81/hls/loco/index.m3u8
