@@ -1038,7 +1038,7 @@
 | 1032 | [SD]rotana music | [SD rotana music](https://epg.pw/stream/5cc0b10a35d5eb4966185f9e8cd7d98516f103059e81aa85fcba283aec60e229.ctv) |
 | 1033 | [SD]rotana drama | [SD rotana drama](https://epg.pw/stream/dff59113b4f5cacc2fa342cbc2486c39c914dcdcce797317c0ade0999db883ba.ctv) |
 | 1034 | [BD][伊拉克]rudawtv(1080p) | [BD  伊拉克 rudawtv(1080p)](https://epg.pw/stream/fac6baa69d25028580438a5acc4261aeaebc0f3155b66097e44c6c98da22fd25.m3u8) |
-| 1035 | [HD]rudaw tv | [HD rudaw tv](https://epg.pw/stream/220d1a855c9f6356eb10d8b7568a291f209d76dfa2ebeb46e32fbd214ccfe19d.m3u8) |
+| 1035 | [BD]rudaw tv | [BD rudaw tv](https://epg.pw/stream/220d1a855c9f6356eb10d8b7568a291f209d76dfa2ebeb46e32fbd214ccfe19d.m3u8) |
 | 1036 | [HD]runtime ação | [HD runtime ação](https://epg.pw/stream/b9c6bde401b0710f5fa17c65fb6ddaa6203d4be784324bcc746cc6a631392a3e.m3u8) |
 | 1037 | [BD]russia today | [BD russia today](https://epg.pw/stream/4d7697b8989b06294a65c0812eb1d7e67d66c546b3c3a9267d34d5220f9c8777.m3u8) |
 | 1038 | [HD]russian tv | [HD russian tv](https://epg.pw/stream/d7e5a88ecd943e194829df107372f7f8940e87b652aafc2cd3725a7ffea5fdda.m3u8) |
@@ -1097,7 +1097,7 @@
 | 1091 | [HD]star channel 3 | [HD star channel 3](https://epg.pw/stream/d5be925db554f89fd5faae1df741e0b5d155bcbc48e545c9295e611f26b24959.m3u8) |
 | 1092 | [HD]star (720p) | [HD star (720p)](https://epg.pw/stream/f24adf3ae738b4720ff1599714fc3ba70607c0f3ceea78303f37d5b4aa1dcf0d.m3u8) |
 | 1093 | [BD]studio universal hd | [BD studio universal hd](https://epg.pw/stream/8ab1902ff8467408b107ee36e59937ccbc2291177d6de37a2c179f9b5453e0f0.ctv) |
-| 1094 | [SD]stv | [SD stv](https://epg.pw/stream/3ee504695cdd55a45eecf744740c8f81a8d8e690860f3199a5a33bcce7a477b6.ctv) |
+| 1094 | [BD]istv | [BD istv](https://epg.pw/stream/17df60c7176900a6638d68427be5484424b7de8bafdb2403e4c02a0b77a0239f.m3u8) |
 | 1095 | [HD]astro supersport 1_ stl | [HD astro supersport 1_ stl](https://epg.pw/stream/2ee3a82ea3a2c2b159fef24e6bfbd38ce7102a445f1e62c8108069b348fd34d4.ctv) |
 | 1096 | [HD]tastemade deutschland (720p) | [HD tastemade deutschland (720p)](https://epg.pw/stream/372cec4602bcfa4de18c42f1f3782bd24a0cf2d1a0f8576c107ad162780349e4.m3u8) |
 | 1097 | [VGA]abai tv | [VGA abai tv](https://epg.pw/stream/01d6c88a4a3c095dd372c6587ad2c84ac282394364c55452999cad6411088071.m3u8) |
@@ -2004,4 +2004,4 @@
 | 1998 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 | 1999 | [BD]연합뉴스tv | [BD 연합뉴스tv](https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8) |
 
-Updated at **Thu May 16 2024 20:11:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri May 17 2024 00:51:08 GMT+0000 (Coordinated Universal Time)**

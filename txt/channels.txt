@@ -343,7 +343,7 @@ Entertainment,#genre#
 [HD]salto 1 (720p),https://epg.pw/stream/3b10a03c79adef0b570d2bc9ac041ad47eae0e9c3b1082a97131e7446c78b4c0.m3u8
 [BD]sbs 빽드,https://epg.pw/stream/6137d4cc9a2a2a26e680f8823d5bb2e63fd916b4965bd55cd8d4a45b374a2872.m3u8
 [BD]sony max,https://epg.pw/stream/def241336f673d665639222983ed65236b0e8e350bc75fc2f3eab6e62d494a43.ctv
-[SD]stv,https://epg.pw/stream/3ee504695cdd55a45eecf744740c8f81a8d8e690860f3199a5a33bcce7a477b6.ctv
+[BD]istv,https://epg.pw/stream/17df60c7176900a6638d68427be5484424b7de8bafdb2403e4c02a0b77a0239f.m3u8
 [VGA]abai tv,https://epg.pw/stream/01d6c88a4a3c095dd372c6587ad2c84ac282394364c55452999cad6411088071.m3u8
 [SD]saab tv,https://epg.pw/stream/310573e3c1f71eb3b1b0fa19d3cb13d02a6ad7f2346ce95e199ae0b54558aec4.m3u8
 [HD]土耳其 semerkand tv,https://epg.pw/stream/39540fc27b4d5593fab770e3099d5415e9227ebcb37a02ded9692e0562e6c427.m3u8
@@ -726,7 +726,7 @@ Generic,#genre#
 [BD]regio8 tv,https://epg.pw/stream/aa5bdf4764d31220af31c1dc263581eeccc213b9a8f557062351cb82ee64a8f4.m3u8
 [BD]relax,https://epg.pw/stream/21fefe9adbc0227e52ee53e472ed1429e8f39c2a41872ec2bf3bb7bf8cabfcda.m3u8
 [HD]rheinmain tv,https://epg.pw/stream/8ff1a9f3ff9ece34c3ec4f7b519d8916189e35b10e7fca74e1c0bdd89cf2ee80.m3u8
-[HD]rudaw tv,https://epg.pw/stream/220d1a855c9f6356eb10d8b7568a291f209d76dfa2ebeb46e32fbd214ccfe19d.m3u8
+[BD]rudaw tv,https://epg.pw/stream/220d1a855c9f6356eb10d8b7568a291f209d76dfa2ebeb46e32fbd214ccfe19d.m3u8
 [HD]mahar tv,https://epg.pw/stream/2038079bfa6a55b20377a152063d5fd57a70394d8a2b36173b299110f1297bfa.m3u8
 [SD]sat.1,https://epg.pw/stream/543a51e58f8dded1e4304128058359ff57794f721dffe415f796af29c6d6e4b0.m3u8
 [BD]sbn,https://epg.pw/stream/a10545bf7358e90171357e0476d2afd23f8fdf4d6beba0e38213c45b5c6afc7e.m3u8
@@ -4015,7 +4015,6 @@ Dheeran TV (576p),https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
 Dhoho TV (720p),https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 Diavata TV (720p),https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 Didgah TV (280p),https://api.new.livestream.com/accounts/27146356/events/8209491/live.m3u8
-Die Neue Zeit (576p),https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
 Dien Bien TV (406p),https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
 Diez TV Úbeda (1080p),https://streaming.cloud.innovasur.es/mmj/index.m3u8
 DigiOne (720p),https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
@@ -6718,6 +6717,7 @@ Choluteca TV (1080p),https://s.emisoras.tv:8081/cholutecatv/index.m3u8
 Christian Youth Channel (CYC) (1080p),http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 Citra Muslim,http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8
 Clergy TV (720p) [Not 24/7],https://goliveafrica.media:9998/live/650452cf2ddb2/index.m3u8
+Die Neue Zeit (576p),https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
 Dios Te Ve (720p),https://s.emisoras.tv:8081/diostevetv/index.m3u8
 Divya Darshan TV (720p),http://live.divyadarshantv.com/hls/stream.m3u8
 Diyar TV (1080p),https://yayin30.haber100.com/live/diyartv/playlist.m3u8
@@ -9214,103 +9214,103 @@ NewTV 精品记录「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamob
 咪咕直播 𝟛𝟞「IPV6」,http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
 
 •游戏赛事,#genre#
-「虎牙」英雄联盟 𝟙,https://tv.iill.top/huya/660000
-「虎牙」英雄联盟 𝟚,https://tv.iill.top/huya/660001
-「斗鱼」英雄联盟 𝟙,https://tv.iill.top/douyu/288016
-「斗鱼」英雄联盟 𝟚,https://tv.iill.top/douyu/998
-「虎牙」王者荣耀 𝟙,https://tv.iill.top/huya/660002
-「虎牙」王者荣耀 𝟚,https://tv.iill.top/huya/660164
-「斗鱼」王者荣耀 𝟙,https://tv.iill.top/douyu/1863767
-「斗鱼」王者荣耀 𝟚,https://tv.iill.top/douyu/1984839
-「虎牙」绝地求生 𝟙,https://tv.iill.top/huya/660004
-「虎牙」绝地求生 𝟚,https://tv.iill.top/huya/660005
-「斗鱼」绝地求生,https://tv.iill.top/douyu/100
-「虎牙」和平精英,https://tv.iill.top/huya/660006
-「斗鱼」和平精英,https://tv.iill.top/douyu/999
-「虎牙」金铲铲之战,https://tv.iill.top/huya/660579
-「斗鱼」金铲铲之战,https://tv.iill.top/douyu/9715241
-「斗鱼」CSGO,https://tv.iill.top/douyu/601514
-「虎牙」DOTA2,https://tv.iill.top/huya/660118
-「斗鱼」DOTA2,https://tv.iill.top/douyu/3811559
-「斗鱼」云顶之弈,https://tv.iill.top/douyu/522423
-「虎牙」永劫无间,https://tv.iill.top/huya/660115
-「虎牙」使命召唤•手游,https://tv.iill.top/huya/11718629
-「斗鱼」使命召唤•手游,https://tv.iill.top/douyu/9223245
-「虎牙」穿越火线,https://tv.iill.top/huya/660101
-「斗鱼」穿越火线 𝟙,https://tv.iill.top/douyu/605964
-「斗鱼」穿越火线 𝟚,https://tv.iill.top/douyu/5388537
-「虎牙」穿越火线•手游,https://tv.iill.top/huya/660102
-「虎牙」第五人格,https://tv.iill.top/huya/idvesports
-「斗鱼」第五人格 𝟙,https://tv.iill.top/douyu/3226194
-「斗鱼」第五人格 𝟚,https://tv.iill.top/douyu/11030737
-「虎牙」逆战,https://tv.iill.top/huya/nsl2021
-「斗鱼」原神,https://tv.iill.top/douyu/10853239
-「斗鱼」QQ飞车•手游,https://tv.iill.top/douyu/5040227
-「虎牙」无畏契约 𝟙,https://tv.iill.top/huya/660679
-「斗鱼」无畏契约 𝟚,https://tv.iill.top/douyu/4585645
-「斗鱼」JJ斗地主,https://tv.iill.top/douyu/488743
-「斗鱼」我的世界,https://tv.iill.top/douyu/738878
-「斗鱼」FIFA,https://tv.iill.top/douyu/7692166
-「斗鱼」火影忍者,https://tv.iill.top/douyu/1997723
-「斗鱼」跑跑卡丁车,https://tv.iill.top/douyu/7722576
-「斗鱼」跑跑卡丁车•手游,https://tv.iill.top/douyu/6672862
+「虎牙」英雄联盟 𝟙,http://live.iill.top/huya.php?id=660000
+「虎牙」英雄联盟 𝟚,http://live.iill.top/huya.php?id=660001
+「斗鱼」英雄联盟 𝟙,http://live.iill.top/douyu.php?id=288016
+「斗鱼」英雄联盟 𝟚,http://live.iill.top/douyu.php?id=998
+「虎牙」王者荣耀 𝟙,http://live.iill.top/huya.php?id=660002
+「虎牙」王者荣耀 𝟚,http://live.iill.top/huya.php?id=660164
+「斗鱼」王者荣耀 𝟙,http://live.iill.top/douyu.php?id=1863767
+「斗鱼」王者荣耀 𝟚,http://live.iill.top/douyu.php?id=1984839
+「虎牙」绝地求生 𝟙,http://live.iill.top/huya.php?id=660004
+「虎牙」绝地求生 𝟚,http://live.iill.top/huya.php?id=660005
+「斗鱼」绝地求生,http://live.iill.top/douyu.php?id=100
+「虎牙」和平精英,http://live.iill.top/huya.php?id=660006
+「斗鱼」和平精英,http://live.iill.top/douyu.php?id=999
+「虎牙」金铲铲之战,http://live.iill.top/huya.php?id=660579
+「斗鱼」金铲铲之战,http://live.iill.top/douyu.php?id=9715241
+「斗鱼」CSGO,http://live.iill.top/douyu.php?id=601514
+「虎牙」DOTA2,http://live.iill.top/huya.php?id=660118
+「斗鱼」DOTA2,http://live.iill.top/douyu.php?id=3811559
+「斗鱼」云顶之弈,http://live.iill.top/douyu.php?id=522423
+「虎牙」永劫无间,http://live.iill.top/huya.php?id=660115
+「虎牙」使命召唤•手游,http://live.iill.top/huya.php?id=11718629
+「斗鱼」使命召唤•手游,http://live.iill.top/douyu.php?id=9223245
+「虎牙」穿越火线,http://live.iill.top/huya.php?id=660101
+「斗鱼」穿越火线 𝟙,http://live.iill.top/douyu.php?id=605964
+「斗鱼」穿越火线 𝟚,http://live.iill.top/douyu.php?id=5388537
+「虎牙」穿越火线•手游,http://live.iill.top/huya.php?id=660102
+「虎牙」第五人格,http://live.iill.top/huya.php?id=idvesports
+「斗鱼」第五人格 𝟙,http://live.iill.top/douyu.php?id=3226194
+「斗鱼」第五人格 𝟚,http://live.iill.top/douyu.php?id=11030737
+「虎牙」逆战,http://live.iill.top/huya.php?id=nsl2021
+「斗鱼」原神,http://live.iill.top/douyu.php?id=10853239
+「斗鱼」QQ飞车•手游,http://live.iill.top/douyu.php?id=5040227
+「虎牙」无畏契约 𝟙,http://live.iill.top/huya.php?id=660679
+「斗鱼」无畏契约 𝟚,http://live.iill.top/douyu.php?id=4585645
+「斗鱼」JJ斗地主,http://live.iill.top/douyu.php?id=488743
+「斗鱼」我的世界,http://live.iill.top/douyu.php?id=738878
+「斗鱼」FIFA,http://live.iill.top/douyu.php?id=7692166
+「斗鱼」火影忍者,http://live.iill.top/douyu.php?id=1997723
+「斗鱼」跑跑卡丁车,http://live.iill.top/douyu.php?id=7722576
+「斗鱼」跑跑卡丁车•手游,http://live.iill.top/douyu.php?id=6672862
 
 •埋堆堆,#genre#
-埋堆堆 𝟙,https://tv.iill.top/huya/23740156
-埋堆堆 𝟚,https://tv.iill.top/huya/23749096
-埋堆堆 𝟛,https://tv.iill.top/huya/23735126
-埋堆堆 𝟜,https://tv.iill.top/huya/23903123
-埋堆堆 𝟝,https://tv.iill.top/huya/23734169
-埋堆堆 𝟞,https://tv.iill.top/huya/23863804
-埋堆堆 𝟟,https://tv.iill.top/huya/23865080
-埋堆堆 𝟠,https://tv.iill.top/huya/23864973
-埋堆堆 𝟡,https://tv.iill.top/huya/23903130
-埋堆堆 𝟙𝟘,https://tv.iill.top/huya/23860039
-埋堆堆 𝟙𝟙,https://tv.iill.top/huya/23903183
-埋堆堆 𝟙𝟚,https://tv.iill.top/huya/23903196
-埋堆堆 𝟙𝟛,https://tv.iill.top/huya/23728674
-埋堆堆 𝟙𝟜,https://tv.iill.top/huya/23865036
-埋堆堆 𝟙𝟝,https://tv.iill.top/huya/23829543
-埋堆堆 𝟙𝟞,https://tv.iill.top/huya/23865161
-埋堆堆 𝟙𝟟,https://tv.iill.top/huya/23865058
-埋堆堆 𝟙𝟠,https://tv.iill.top/huya/23824164
-埋堆堆 𝟙𝟡,https://tv.iill.top/huya/23863796
-埋堆堆 𝟚𝟘,https://tv.iill.top/huya/23734183
-埋堆堆 𝟚𝟙,https://tv.iill.top/huya/23728660
-埋堆堆 𝟚𝟚,https://tv.iill.top/huya/23865142
-埋堆堆 𝟚𝟛,https://tv.iill.top/huya/23734246
-埋堆堆 𝟚𝟜,https://tv.iill.top/huya/23865171
-埋堆堆 𝟚𝟝,https://tv.iill.top/huya/23734256
-埋堆堆 𝟚𝟞,https://tv.iill.top/huya/23749083
+埋堆堆 𝟙,http://live.iill.top/huya.php?id=23740156
+埋堆堆 𝟚,http://live.iill.top/huya.php?id=23749096
+埋堆堆 𝟛,http://live.iill.top/huya.php?id=23735126
+埋堆堆 𝟜,http://live.iill.top/huya.php?id=23903123
+埋堆堆 𝟝,http://live.iill.top/huya.php?id=23734169
+埋堆堆 𝟞,http://live.iill.top/huya.php?id=23863804
+埋堆堆 𝟟,http://live.iill.top/huya.php?id=23865080
+埋堆堆 𝟠,http://live.iill.top/huya.php?id=23864973
+埋堆堆 𝟡,http://live.iill.top/huya.php?id=23903130
+埋堆堆 𝟙𝟘,http://live.iill.top/huya.php?id=23860039
+埋堆堆 𝟙𝟙,http://live.iill.top/huya.php?id=23903183
+埋堆堆 𝟙𝟚,http://live.iill.top/huya.php?id=23903196
+埋堆堆 𝟙𝟛,http://live.iill.top/huya.php?id=23728674
+埋堆堆 𝟙𝟜,http://live.iill.top/huya.php?id=23865036
+埋堆堆 𝟙𝟝,http://live.iill.top/huya.php?id=23829543
+埋堆堆 𝟙𝟞,http://live.iill.top/huya.php?id=23865161
+埋堆堆 𝟙𝟟,http://live.iill.top/huya.php?id=23865058
+埋堆堆 𝟙𝟠,http://live.iill.top/huya.php?id=23824164
+埋堆堆 𝟙𝟡,http://live.iill.top/huya.php?id=23863796
+埋堆堆 𝟚𝟘,http://live.iill.top/huya.php?id=23734183
+埋堆堆 𝟚𝟙,http://live.iill.top/huya.php?id=23728660
+埋堆堆 𝟚𝟚,http://live.iill.top/huya.php?id=23865142
+埋堆堆 𝟚𝟛,http://live.iill.top/huya.php?id=23734246
+埋堆堆 𝟚𝟜,http://live.iill.top/huya.php?id=23865171
+埋堆堆 𝟚𝟝,http://live.iill.top/huya.php?id=23734256
+埋堆堆 𝟚𝟞,http://live.iill.top/huya.php?id=23749083
 
 •影视,#genre#
-音乐石榴「音乐」,https://tv.iill.top/huya/17091681
-音乐速递「音乐」,https://tv.iill.top/huya/19439762
-治愈•放松「音乐」,https://tv.iill.top/huya/21241811
-阅读•学习「音乐」,https://tv.iill.top/huya/21241813
-电视剧•1「解说」,https://tv.iill.top/huya/21277391
-电视剧•2「解说」,https://tv.iill.top/huya/25018873
-电影•1「解说」,https://tv.iill.top/huya/20289754
-电影•2「解说」,https://tv.iill.top/huya/24983280
-电影•3「解说」,https://tv.iill.top/huya/24396428
-动漫•1「解说」,https://tv.iill.top/huya/19757963
-恐怖电影「解说」,https://tv.iill.top/huya/23419131
-漫威「解说」,https://tv.iill.top/huya/17089779
-美剧「解说」,https://tv.iill.top/huya/20488841
-七龙珠「解说」,https://tv.iill.top/huya/25650806
-止戈电影「解说」,https://tv.iill.top/huya/19863777
-挨饿德•1「其他」,https://tv.iill.top/huya/20985858
-挨饿德•2「其他」,https://tv.iill.top/huya/17693860
-互扇巴掌大赛「其他」,https://tv.iill.top/huya/20072873
-荒野求生「其他」,https://tv.iill.top/huya/593667
-野行者「其他」,https://tv.iill.top/huya/20072663
-跳舞「其他」,https://tv.iill.top/huya/24634408
-茶啊二中「动画」,https://tv.iill.top/huya/11213191
-哆啦A梦「动漫」,https://tv.iill.top/huya/11601963
-航海王「动漫」,https://tv.iill.top/huya/16913382
-七龙珠「动漫」,https://tv.iill.top/huya/11601966
-猫和老鼠「动漫」,https://tv.iill.top/huya/11352879
-中华小当家「动漫」,https://tv.iill.top/huya/11342413
+音乐石榴「音乐」,http://live.iill.top/huya.php?id=17091681
+音乐速递「音乐」,http://live.iill.top/huya.php?id=19439762
+治愈•放松「音乐」,http://live.iill.top/huya.php?id=21241811
+阅读•学习「音乐」,http://live.iill.top/huya.php?id=21241813
+电视剧•1「解说」,http://live.iill.top/huya.php?id=21277391
+电视剧•2「解说」,http://live.iill.top/huya.php?id=25018873
+电影•1「解说」,http://live.iill.top/huya.php?id=20289754
+电影•2「解说」,http://live.iill.top/huya.php?id=24983280
+电影•3「解说」,http://live.iill.top/huya.php?id=24396428
+动漫•1「解说」,http://live.iill.top/huya.php?id=19757963
+恐怖电影「解说」,http://live.iill.top/huya.php?id=23419131
+漫威「解说」,http://live.iill.top/huya.php?id=17089779
+美剧「解说」,http://live.iill.top/huya.php?id=20488841
+七龙珠「解说」,http://live.iill.top/huya.php?id=25650806
+止戈电影「解说」,http://live.iill.top/huya.php?id=19863777
+挨饿德•1「其他」,http://live.iill.top/huya.php?id=20985858
+挨饿德•2「其他」,http://live.iill.top/huya.php?id=17693860
+互扇巴掌大赛「其他」,http://live.iill.top/huya.php?id=20072873
+荒野求生「其他」,http://live.iill.top/huya.php?id=593667
+野行者「其他」,http://live.iill.top/huya.php?id=20072663
+跳舞「其他」,http://live.iill.top/huya.php?id=24634408
+茶啊二中「动画」,http://live.iill.top/huya.php?id=11213191
+哆啦A梦「动漫」,http://live.iill.top/huya.php?id=11601963
+航海王「动漫」,http://live.iill.top/huya.php?id=16913382
+七龙珠「动漫」,http://live.iill.top/huya.php?id=11601966
+猫和老鼠「动漫」,http://live.iill.top/huya.php?id=11352879
+中华小当家「动漫」,http://live.iill.top/huya.php?id=11342413
 央视,#genre#
 CCTV-1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV-2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8

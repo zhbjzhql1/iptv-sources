@@ -1136,7 +1136,6 @@ Dheeran TV (576p),https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
 Dhoho TV (720p),https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 Diavata TV (720p),https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 Didgah TV (280p),https://api.new.livestream.com/accounts/27146356/events/8209491/live.m3u8
-Die Neue Zeit (576p),https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
 Dien Bien TV (406p),https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
 Diez TV Úbeda (1080p),https://streaming.cloud.innovasur.es/mmj/index.m3u8
 DigiOne (720p),https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
@@ -3839,6 +3838,7 @@ Choluteca TV (1080p),https://s.emisoras.tv:8081/cholutecatv/index.m3u8
 Christian Youth Channel (CYC) (1080p),http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 Citra Muslim,http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8
 Clergy TV (720p) [Not 24/7],https://goliveafrica.media:9998/live/650452cf2ddb2/index.m3u8
+Die Neue Zeit (576p),https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
 Dios Te Ve (720p),https://s.emisoras.tv:8081/diostevetv/index.m3u8
 Divya Darshan TV (720p),http://live.divyadarshantv.com/hls/stream.m3u8
 Diyar TV (1080p),https://yayin30.haber100.com/live/diyartv/playlist.m3u8
