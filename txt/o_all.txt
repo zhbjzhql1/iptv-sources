@@ -383,7 +383,6 @@ Latina TV (1080p),https://streamtv.intervenhosting.net:3639/live/latinatvlive.m3
 Latina TV Internacional (720p),https://ss3.domint.net:3156/ltv_str/latinatvint/playlist.m3u8
 Lavras CE TV (480p),https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8
 Lawndale City TV (720p),http://67.53.122.248/live-4/live/live.m3u8
-LBC (1080p),https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
 Le Cronache TV (720p),http://77.68.40.210:8888/hls/cronache.m3u8
 Le Figaro IDF,https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 LEO Middelsé TV (480p),https://ms7.mx-cd.net/tv/238-2061506/Omroep_LEO_TV.smil/playlist.m3u8
@@ -1207,7 +1206,6 @@ DTV Oss & Bernheze (1080p),https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dt
 Dua Channel (720p),https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8
 Duck Hunting TV,https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
 Due Fantagenitori Italy (720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b57a6752a0060008bc65cd/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-Duhk Wa Bas (1080p),https://daiconnect.com/live/hls/rotana/dwbass/.m3u8
 Dukh Nivaran (720p) [Not 24/7],http://cdn12.henico.net:8080/live/dncal/index.m3u8
 Dumskaya TV (720p),http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
 Duna TV (1080p),http://146.59.85.40:89/dunahd/index.m3u8
