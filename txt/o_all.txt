@@ -1600,7 +1600,6 @@ Maimón TV Canal 3 (720p),https://ss3.domint.net:3138/mtv_str/maimon/playlist.m3
 Maison&Travaux,https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/Maison&Travaux.m3u8
 Makan 33 (1080p),https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 Makao TV (360p),https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
-Makedonia TV (1080p),http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
 Málaga 24h (720p) [Not 24/7],https://ythls.armelin.one/channel/UCoMWImnPAur6JhXDK63dpAg.m3u8
 Malta (720p) [Not 24/7],https://webtvstream.bhtelecom.ba/malta.m3u8
 Manas TV (1080p),http://212.42.111.152:8080/hls/manas.m3u8
@@ -4113,6 +4112,7 @@ M Sign Media (720p) [Not 24/7],http://rtmp2.logicwebs.in:1935/msign/msignmedia/p
 Maboke TV (720p),http://51.254.199.122:8080/mabokeTV/index.m3u8
 Magic PowerRadio (288p) [Not 24/7],https://server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playlist.m3u8
 Magna Vision (1080p),https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
+Makedonia TV (1080p),http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
 Malbec Play (1080p),https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
 Maxima TV (540p),https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
 Maxivisión TV (720p),https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
