@@ -135,7 +135,7 @@
 | 129 | [HD]amrita tv (720p) | [HD amrita tv (720p)](https://epg.pw/stream/10b481233810460fae510236ac1284ac1e3f6cbdf4bc7e92a7e0fe241fe8c96c.m3u8) |
 | 130 | [BD]amg tv (1080p) | [BD amg tv (1080p)](https://epg.pw/stream/0f20d0158734a6dc44c5ded43f1fa5de05f24d9351207831e6964b63dc30281b.m3u8) |
 | 131 | [HD]amozhgary tv | [HD amozhgary tv](https://epg.pw/stream/96729c5fb968ecd5dfeef51ab049a16282ff9ba26ebbd7d0f0ec21283cb38c5b.m3u8) |
-| 132 | [VGA]ha giang tv | [VGA ha giang tv](https://epg.pw/stream/a712de26eaa3f42f96fb028ad92ba95c2847107eca4ab4e1c74dd69800de15ab.m3u8) |
+| 132 | [VGA]ha giang tv | [VGA ha giang tv](https://epg.pw/stream/91fbd3dbc3a80063a655868c079322d5026d5b12f6322e7dd662f281527faaf8.m3u8) |
 | 133 | [HD]canal sur andalucía 2 (720p) | [HD canal sur andalucía 2 (720p)](https://epg.pw/stream/e51b14c6718d53c16098eceffae479de79ae7fd7547c7f4f162111f2f2f59997.m3u8) |
 | 134 | [HD]animal planet | [HD animal planet](https://epg.pw/stream/33210aafc6ca01d9c090ab1bda025dacfef5db6da209935511717ddd325edd04.m3u8) |
 | 135 | [BD]animax_hd | [BD animax_hd](https://epg.pw/stream/47d0622368ef1d872665ceba1b76565bcd326eafce6b1817e4b016d51b733327.ctv) |
@@ -451,7 +451,7 @@
 | 445 | [SD]dost tv | [SD dost tv](https://epg.pw/stream/78fea8d095b29bb81d445d846c677bc8ba06d7c90afd670e504dd20bce15492e.m3u8) |
 | 446 | [HD]dotto tv | [HD dotto tv](https://epg.pw/stream/5918f3e6a3744dfb92480240c6f233071d8cf12c7291777cc25f9582d998c732.m3u8) |
 | 447 | [HD]rakuten drama | [HD rakuten drama](https://epg.pw/stream/5896d8e6b996a52a790504e7bd2ccccedb471537ce3c592d4ce31cc24a9dccbe.m3u8) |
-| 448 | [HD]ph dreamworks hd | [HD ph dreamworks hd](https://epg.pw/stream/fa1b0273beb4ebbd04e646ede37c0d53e69504f8df3dea05e370747de7db5afe.ctv) |
+| 448 | [VGA]ph dreamworks (tagalized) | [VGA ph dreamworks (tagalized)](https://epg.pw/stream/d989ed993980c51e8b0f36ac1b09e851cdba7c58fb3eae1d653dc91c49df7620.ctv) |
 | 449 | [BD]dubai one | [BD dubai one](https://epg.pw/stream/f5b6c7d5e7f8a5e1966dcb26afb6f8dc66d27c05e0791592a721cd300ea1d187.m3u8) |
 | 450 | [VGA]dubai racing 2 | [VGA dubai racing 2](https://epg.pw/stream/18a9b05f3d9b89edb848503c42abd3ff8911b75bfe6b26af123bad6ad7d7bcec.m3u8) |
 | 451 | [VGA]dubai racing | [VGA dubai racing](https://epg.pw/stream/cf2ffed2559af6dae582946d1ebd7b5a5112a328dcb8e394067de19b3ecde256.m3u8) |
@@ -580,7 +580,7 @@
 | 574 | [BD]hbo fhd | [BD hbo fhd](https://epg.pw/stream/619d0fc686a38f7e3f11b2347fd408722a907899fcf2d8bb02bcfd12001f4c30.ctv) |
 | 575 | [HD]hbo 2 | [HD hbo 2](https://epg.pw/stream/cdf62fe1971d0d7f812d839d603e58e6766d7adb963d1825f723cba96c711e31.m3u8) |
 | 576 | [HD]hbo 3 | [HD hbo 3](https://epg.pw/stream/73ac749dd962ff6095987bdc252366bf56b0b299676de46928935e9ec98f6ab5.m3u8) |
-| 577 | [BD]ช่อง hbo family | [BD ช่อง hbo family](https://epg.pw/stream/d0eb1c9294187aa5282b570dcf4646b9d35512e3c5aa48af7b528c8e4e82014c.ctv) |
+| 577 | [HD]ph hbo family | [HD ph hbo family](https://epg.pw/stream/965e2d33cb39f9d820527791576af17254ba7f6c608d8b2558c8d94f6cbba3ae.ctv) |
 | 578 | [BD]hbo hd | [BD hbo hd](https://epg.pw/stream/45da6dd2e8207334bc7c9b0d6f688cdd11da8c1e3cc2d53302e641ec3372da58.m3u8) |
 | 579 | [BD]hbo hits tree | [BD hbo hits tree](https://epg.pw/stream/6a9d6485a532bf89d1e2125c76436bf8c1593c268f57ac64603dd6f875445321.ctv) |
 | 580 | [VGA]plus | [VGA plus](https://epg.pw/stream/38d270a6b5979a0523aedca5ad02e0b2a72c0266259cc7f586f944ffe7398006.m3u8) |
@@ -1952,4 +1952,4 @@
 | 1946 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 | 1947 | [BD]연합뉴스tv | [BD 연합뉴스tv](https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8) |
 
-Updated at **Sat May 25 2024 10:12:03 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat May 25 2024 20:11:09 GMT+0000 (Coordinated Universal Time)**
