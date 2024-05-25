@@ -3306,7 +3306,7 @@ Record News,https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 Red de Comunicación Regional (RCR) (720p) [Not 24/7],https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
 Rede Web TV (720p),https://serv3.videovox.pw/alexandre8915/alexandre8915/playlist.m3u8
 Redseat The First (720p),https://redseat-thefirst-klowdtv.amagi.tv/playlist.m3u8
-Relevant TV (1080p),https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/06e44cd7f7e0445fbd669f279c997fd4/index.mpd
+Relevant TV (1080p),https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8
 Report TV (720p),https://deb10stream.duckdns.org/hls/stream.m3u8
 Reporter TV,https://ythls.armelin.one/channel/UCFx1nseXKTc1Culiu3neeSQ.m3u8
 Reuters Now,https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
