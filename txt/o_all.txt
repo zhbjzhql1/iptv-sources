@@ -729,6 +729,7 @@ TVG Channel 28 (528p) [Not 24/7],http://190.80.3.28/TVG/TVG.isml/index.m3u8
 TVGE (480p),http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
 TVI África (480p),https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 TVitapé (720p),https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+TVK (720p),https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 TVM (480p),http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 TVM Internacional (480p) [Not 24/7],http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 TVMarineret (1080p),http://sdream.info:8080/hls/livestream/index.m3u8
@@ -2487,8 +2488,6 @@ TVG Evento 5 (720p) [Not 24/7],https://amodino-crtvg.flumotion.com/playlist.m3u8
 TVG Momentos G (720p),https://momentog-crtvg.flumotion.com/playlist.m3u8
 TVI Ficção (480p),https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 TVIKIM,https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
-TVK 2 (720p),https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
-TVK (720p),https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 TVKU (720p),http://103.30.1.14:8080/hls/live.m3u8
 TVL (720p) [Not 24/7],https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/playlist.m3u8
 TVM3 (1080p),https://edge.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
@@ -3426,6 +3425,7 @@ TV Maya (480p),https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3
 TV Nuevo León Canal 28 (XHMNL-TDT) (720p),https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
 TV UFG (720p) [Not 24/7],http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
 TV UJAT (XHUJAT-TDT) (720p) [Not 24/7],https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
+TVK 2 (720p),https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 TVU Universidad Nacional de La Plata (720p) [Not 24/7],https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 World Channel (1080p),https://world.lls.pbs.org/index.m3u8
 WPS TV (360p),https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
