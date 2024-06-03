@@ -89,7 +89,7 @@
 | 83 | [SD]优优宝贝 | [SD 优优宝贝](https://stream.freetv.fun/eeffafa96aebd81432bf3e780ffd57b0fd655cdefde973c331962fa14fc761ca.ctv) |
 | 84 | [SD]优漫卡通[ipv6] | [SD 优漫卡通 ipv6](https://stream.freetv.fun/57e3fc6914792be5173e3d60559c5e54f9adc80cccf70eaf6994660d3b10297c.m3u8) |
 | 85 | [SD]先锋乒羽 | [SD 先锋乒羽](https://stream.freetv.fun/86902912344ff42b58bf8398920ed2e0978f31f8ae099fa8e659d0deef884e4f.ctv) |
-| 86 | [BD]内蒙古少儿 | [BD 内蒙古少儿](https://stream.freetv.fun/33ee7037f619b5d5d79a42bb19cd57481429793eaf434db6f40e36cd9ff84ab1.m3u8) |
+| 86 | [VGA]内蒙古少儿 | [VGA 内蒙古少儿](https://stream.freetv.fun/33ee7037f619b5d5d79a42bb19cd57481429793eaf434db6f40e36cd9ff84ab1.m3u8) |
 | 87 | [VGA]内蒙古文体娱乐 | [VGA 内蒙古文体娱乐](https://stream.freetv.fun/bf1fdd3406abbd3aa4c357ec7bce781f0a1c61e44bc24497e9b4588c6759eb72.m3u8) |
 | 88 | [VGA]内蒙古新闻综合 | [VGA 内蒙古新闻综合](https://stream.freetv.fun/a7d551bd71fadacf4d42c6096e1c61cfb1af8be662f85b8de02bf1582e696c4f.m3u8) |
 | 89 | [VGA]内蒙古经济生活 | [VGA 内蒙古经济生活](https://stream.freetv.fun/84d6cddfeecc1983c80fb3222360e9838f5122e13c283e4fea1a84a76d648b61.m3u8) |
@@ -284,12 +284,12 @@
 | 278 | [BD]海南新闻[ipv6] | [BD 海南新闻 ipv6](https://stream.freetv.fun/8b98df967ed168dec0a6ccaa4e186dc27c2ffb698be5ef9c00bf6a5c30345a02.m3u8) |
 | 279 | [BD]海南卫视 | [BD 海南卫视](https://stream.freetv.fun/f44c6446ea4bbc088d12f7c5612a0ec629baba3685a7d4286b51547b2436dbf4.m3u8) |
 | 280 | [BD]乌海新闻综合 | [BD 乌海新闻综合](https://stream.freetv.fun/70f34e395a3ad3bed2026b85d131ce4c546c1a90efbace5bdd88fc3ae6c7e27b.m3u8) |
-| 281 | [VGA]深圳公共频道 | [VGA 深圳公共频道](https://stream.freetv.fun/d1f8874e98b53a685b877928c980dfcd76be012a545cbbc86ae9912bdc63cad7.m3u8) |
+| 281 | [BD]深圳公共频道 | [BD 深圳公共频道](https://stream.freetv.fun/d1f8874e98b53a685b877928c980dfcd76be012a545cbbc86ae9912bdc63cad7.m3u8) |
 | 282 | [BD]深圳娱乐频道 | [BD 深圳娱乐频道](https://stream.freetv.fun/bf92f873cd990f56c2f6b5c8b94cd9090f4adb268620710957660e5c3079c0bb.m3u8) |
 | 283 | [BD]深圳少儿频道 | [BD 深圳少儿频道](https://stream.freetv.fun/7291276d0a22b343149c234bbd0341ad65ed4f69422e16c2ca35e2944b331605.m3u8) |
 | 284 | [VGA]深圳卫视 | [VGA 深圳卫视](https://stream.freetv.fun/d379428ff38217ba5212dcd1949647ac1e4382f306b14a380bf60b7b056b4a2b.m3u8) |
 | 285 | [BD]深圳财经生活 | [BD 深圳财经生活](https://stream.freetv.fun/176ad6ff7b513a917c3c8edb76e340c47b0decb84db829bad8bf0dbb1c9f15d1.m3u8) |
-| 286 | [BD]深圳都市频道 | [BD 深圳都市频道](https://stream.freetv.fun/8005e3a6b38f9a5686b9920c35c27547ebda9322e3cd799317c827e5ed1d3402.m3u8) |
+| 286 | [VGA]深圳都市频道 | [VGA 深圳都市频道](https://stream.freetv.fun/8005e3a6b38f9a5686b9920c35c27547ebda9322e3cd799317c827e5ed1d3402.m3u8) |
 | 287 | [BD]深圳电视剧 | [BD 深圳电视剧](https://stream.freetv.fun/7e371d97f588aab4178a9da03f3744e27b161cb04e30fc582dfe8b07cb7aacfe.m3u8) |
 | 288 | [BD]深圳体育健康 | [BD 深圳体育健康](https://stream.freetv.fun/2b04ef6fbc904e6d9917574e4d8f138d4cb04e9a6a0a45357c5176f4343c5d7e.m3u8) |
 | 289 | [BD]清河新闻综合 | [BD 清河新闻综合](https://stream.freetv.fun/47c40494054ea276b23bff99bafbdb2d42f524a7c231cbab180bb50d68376c0d.m3u8) |
@@ -406,4 +406,4 @@
 | 400 | [BD]黑龙江都市[ipv6] | [BD 黑龙江都市 ipv6](https://stream.freetv.fun/9e19975896df3d324b0d0ab4910ef3cbbef123fc70e7371110b3fd53c2d9d2a9.m3u8) |
 | 401 | [HD]点掌财经 | [HD 点掌财经](https://stream.freetv.fun/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8) |
 
-Updated at **Sun Jun 02 2024 20:11:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 03 2024 00:53:21 GMT+0000 (Coordinated Universal Time)**
