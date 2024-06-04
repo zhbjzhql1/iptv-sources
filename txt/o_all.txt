@@ -2266,7 +2266,6 @@ Tele 2 Web (Retiro) (720p) [Not 24/7],https://inliveserver.com:1936/11516/11516/
 Tele Antillas (480p),https://tunzilla.com/http://51.81.93.29:8084/hls/tantillas.m3u8
 Télé Congo (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCOHlkoGLAPzblZ5i-p5dSEA.m3u8
 Tele Liguria Sud (576p),https://5f22d76e220e1.streamlock.net/tls/tls/playlist.m3u8
-Tele Louange (1080p),https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8
 Tele M1 (720p) [Not 24/7],https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8
 Télé MB,https://tvlocales-live.freecaster.com/95d2f6c9-e85f-4388-8e9c-596260a4206f/95d2f6c9-e85f-4388-8e9c-596260a4206f.isml/master.m3u8
 Tele Oriental (720p),https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8
@@ -3686,6 +3685,7 @@ TBN East (720p),https://d7ge95bb03xsu.cloudfront.net/out/v1/0c95a896141949128340
 TBN España (576p),https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
 TBN Inspire (720p),https://tbn-jw.cdn.vustreams.com/live/inspire/live.isml/.m3u8
 TDV TV (240p),https://stream.oursnetworktv.com/latin/TierraDeValientes/playlist.m3u8
+Tele Louange (1080p),https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8
 Televida (1080p),https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 TNE (720p) [Not 24/7],https://v2.tustreaming.cl/tnetv/index.m3u8
 Trust TV (720p),https://panel.freedomflixtv.org:3900/hybrid/play.m3u8
