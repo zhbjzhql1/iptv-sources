@@ -553,4 +553,4 @@
 | 547 | Liangshan TV | [Liangshan TV](http://118.122.2.29:9999/hls/47/index.m3u8) |
 | 548 | CCTV4K | [CCTV4K](http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8) |
 
-Updated at **Thu Jun 06 2024 00:52:11 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 06 2024 10:12:29 GMT+0000 (Coordinated Universal Time)**
