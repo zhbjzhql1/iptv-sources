@@ -3758,7 +3758,6 @@ MTV Hits France (720p),http://178.170.47.109/MTVHITS/index.m3u8
 Music Box Gold (576p),https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
 Music India (576p) [Not 24/7],http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 Music Japan TV (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
-Music+ (1080p),https://hugh.cdn.rumble.cloud/live/4gf18j5s/slot-79/3fqc-ohua/chunklist_DVR.m3u8
 MusicTop (720p),http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 Muzangala TV (1080p),https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
 Mūzikas Video Kanāls (720p),https://stream.onlive-media.com/live/streams/mvk.m3u8
