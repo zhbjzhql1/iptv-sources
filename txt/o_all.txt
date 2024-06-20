@@ -2985,7 +2985,7 @@ Zonda TV (432p),https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 Наука 2.0,http://stream01.vnet.am/Nauka/mono.m3u8
 Наше ТВ (Витебск) (576p),http://95.46.208.8:26259/nashe
 НВК Саха (1080p) [Not 24/7],https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
-Неизвестная Россия,http://cdn.ntv.ru/unknown_russia/playlist.m3u8
+Неизвестная Россия,https://cdn.ntv.ru/unknown_russia/playlist.m3u8
 Нижний Новгород 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-hd/index.m3u8
 Ника ТВ (576p) [Not 24/7],https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 Новое телевидение (576p) [Not 24/7],http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
