@@ -1371,7 +1371,7 @@ Gaki no Tsukai (English Subs) (720p),https://hamada.gaki-no-tsukai.stream/hls/te
 Galavisión East,https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_east/as/live/galavision_east_hd_pc.m3u8?t1=
 Galavision West,https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_west/as/live/galavision_west_hd_pc.m3u8?t1=
 GalaxiaTeVe (360p),https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
-Galaxy (432p),https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
+Galaxy (432p),https://ssh101.bozztv.com/ssh101/galaxygr/playlist.m3u8
 Galaxy TV (576p),https://5d846bfda90fc.streamlock.net:1935/live/galaxytv/playlist.m3u8
 Gali Kurdistan (720p) [Not 24/7],https://live.bradosti.net/live/GaliKurdistan_playlist.m3u8
 Galicia TV Europa (720p),https://europa-crtvg.flumotion.com/playlist.m3u8
@@ -5559,6 +5559,7 @@ Pluto TV Sports,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitc
 Pluto TV Sports (720p),https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf322-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0727f4fb-ea0b-4814-bb58-fdf3c4534220
 Poker Go (1080p),https://lnc-pokergo.tubi.video/playlist.m3u8
 Poker TV (720p),https://hls.pokertvfa.live/hls/stream.m3u8
+PTV Sports,http://121.91.61.106:8000/play/a00l/index.m3u8
 QazSport (480p),https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 Racing America (720p),https://lnc-racing-america.tubi.video/playlist.m3u8
 Racing.com (720p),https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
