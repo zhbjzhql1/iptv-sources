@@ -5029,4 +5029,4 @@
 | 5023 | Ю | [Ю](https://cdn-01.bonus-tv.ru/u/playlist.m3u8) |
 | 5024 | Առաջին ալիք (1080p) | [Առաջին ալիք (1080p)](https://amtv1.livestreamingcdn.com/am2abr/index.m3u8) |
 
-Updated at **Sun Jun 30 2024 00:58:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jun 30 2024 10:11:14 GMT+0000 (Coordinated Universal Time)**
