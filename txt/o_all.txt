@@ -501,6 +501,7 @@ Greensboro TV (Greensboro NC) (720p),https://lin12.isilive.ca/live/greensboro/GT
 Grit Xtra,https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
 Grit Xtra (1080p),https://livetv-fa.tubi.video/grit-extra/playlist.m3u8
 Groningen1 (1080p) [Not 24/7],http://59132e529e3d1.streamlock.net/Groningen1/Groningen1/playlist.m3u8
+Groovezzo,https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/27.m3u8
 GRT (720p),https://live.artidijitalmedya.com/artidijital_grt/grt1/playlist.m3u8
 GSTV,https://owifavo5.rocketcdn.com/gstv/gstv.smil/playlist.m3u8
 GTV (360p) [Not 24/7],http://91.220.221.60/gtv_hls/gtv_03.m3u8
@@ -1323,6 +1324,7 @@ SBT RS (720p) [Not 24/7],https://ythls.armelin.one/channel/UCHDfPYXReWt5EVIzBA6T
 SBT TV (720p),http://202.142.203.28:1935/live/sbt_tv_aac_300/playlist.m3u8
 Schlager Deluxe (1080p),https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 Scientology Network (1080p),https://stream6.scientology.org/master.m3u8
+SCORELIVE 1 HD,https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/3.m3u8
 Scream Factory TV,https://b1570a6919f94bcfa2f061daee64c70f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_ScreamFactoryTV/playlist.m3u8
 SDETV (576p),http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221227019/index.m3u8
 Sea Today (720p),https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
