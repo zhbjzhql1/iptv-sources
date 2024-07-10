@@ -1210,7 +1210,6 @@ RTM TV 1,https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 RTM TV 2,https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 RTN (Neuquén) (720p) [Not 24/7],https://media.neuquen.gov.ar/rtn/television/media.m3u8
 RTNB TV (360p) [Not 24/7],http://185.59.221.131:8081/live/rtnb/playlist.m3u8
-RTNC (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCip2DNtZUPC82a_xLLTFcgA.m3u8
 RTQ Queretaro,https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
 RTRS Plus (576p) [Not 24/7],https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
 RTRS TV (576p) [Not 24/7],https://uzivo.rtrs.tv/tv/live/index.m3u8
@@ -1612,6 +1611,7 @@ Triton Poker,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/h
 TRK Krug (576p),http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
 TRT 1 (1080p),https://d1u68oyra9spme.cloudfront.net/master.m3u8
 TRT 2,https://trt2.blutv.com/blutv_trt2/live.m3u8
+TRT 4K (2160p),https://mn-nl.mncdn.com/blutv_trt4k/live.m3u8
 TRT Avaz (720p),https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 TRT Belgesel (720p),https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 TRT EBA Ilkokul (720p),https://tv-e-okul00.medya.trt.com.tr/master.m3u8
@@ -2578,6 +2578,7 @@ Rotana+ (1080p),https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be4
 Roya TV (1080p) [Not 24/7],https://roya-live.ercdn.net/roya/roya.m3u8
 RPL TV Woerden (720p),https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8
 RTM TV (1080p),https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
+RTNC (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCip2DNtZUPC82a_xLLTFcgA.m3u8
 RTP Internacional Asia (480p),http://210.210.155.37/qwr9ew/s/s38/index.m3u8
 RTS 1 (720p),http://69.64.57.208/rts1/playlist.m3u8
 RTV 527 (1080p),https://wowza3.videostreamingwowza.com/broadcastmediasolutions/broadcastmediasolutions/playlist.m3u8
