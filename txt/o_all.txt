@@ -386,7 +386,6 @@ Free Speech TV (720p),https://edge.fstv-live-linear-channel.top.comcast.net/Cont
 Freebie TV (720p) [Not 24/7],https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
 Freeform East (720p),http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 Fresh (720p),https://origin3.afxp.telemedia.co.za/PremiumFree/freshtv/playlist.m3u8
-Friesischer Rundfunk Friedeburg (720p) [Not 24/7],https://ythls.armelin.one/channel/UCVwFnSaCfUD_UbkmWuZZ7FA.m3u8
 Frii (720p),https://live-fi.tvkaista.net/frii/live.m3u8
 Frikanalen (720p),https://frikanalen.no/stream/index.m3u8
 FS1 Salzburg (720p) [Not 24/7],http://stream.fs1.tv:8080/hls/webstream.m3u8
@@ -724,7 +723,6 @@ L'Effet Papillon,https://amg02162-newenconnect-amg02162c1-rakuten-us-1983.playou
 L'Equipe,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
 L'Equipe Live 1,https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
 L'Equipe Live 2,https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8
-L-TV (720p),https://live2.telvi.de/hls/l-tv_s1.m3u8
 La5,https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
 LA7,https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 LA7d (720p),https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
@@ -1100,7 +1098,6 @@ PBS Nature,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls
 PBS New Jersey NJ (WNJT) (1080p) [Not 24/7],https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
 PBS New York NY (WNET) (1080p) [Not 24/7],https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
 Pearl Diffusion (720p) [Not 24/7],https://ythls.armelin.one/channel/UCvpCjGQASCazC-Vxcp9tgPA.m3u8
-Pearl TV (2160p) [Not 24/7],https://ythls.armelin.one/channel/UCp0urejlDaYz4G8xpTxdIvw.m3u8
 Pelis y Popcorn,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f7b47b7-a2d8-4c61-847a-02818046001b
 Pella TV (576p) [Not 24/7],https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 Pos TV (1080p),https://live.postv.media/stream/index.m3u8
@@ -1176,8 +1173,6 @@ Revry LatinX,https://bcb8278f10bc4ab698cba66524d46b6f.mediatailor.us-west-2.amaz
 RFD-TV,https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
 RFI,https://ythls.armelin.one/channel/UCm4fSpMpPIZ9z6KHoezLUAg.m3u8
 RFM (720p),https://senrtmp.com/hls/rfm.m3u8
-RFO (1080p),https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
-RheinMain TV (720p) [Not 24/7],https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8
 Rialto (1080p),https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
 Riau TV (576p) [Not 24/7],http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
 RiC (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCobxrBytMqM7pWZslb_UEHA.m3u8
@@ -2326,6 +2321,7 @@ France Bleu Elsass,https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/F
 FranceInter,https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/FranceInter.m3u8
 FRATA TV (720p),https://cdn9.streamgato.us:3602/live/fratatvlive.m3u8
 Fresno CMAC 1 Public Channel (720p),https://reflect-vod-cmac.cablecast.tv/live-11/live/live.m3u8
+Friesischer Rundfunk Friedeburg (720p) [Not 24/7],https://ythls.armelin.one/channel/UCVwFnSaCfUD_UbkmWuZZ7FA.m3u8
 FTV (民视) (720p) [Not 24/7],http://seb.sason.top/ptv/ftv.php?id=ms
 FTV One (民视第一台) (720p) [Not 24/7],http://seb.sason.top/ptv/ftv.php?id=dy
 Fuerteventura TV (1080p),https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
@@ -2398,6 +2394,7 @@ Kurdistan TV (720p) [Not 24/7],https://5a3ed7a72ed4b.streamlock.net/live/SMIL:my
 Kurýr TV (1080p) [Not 24/7],https://stream-35.mazana.tv/jc2.jc.m3u8
 KVF (720p) [Not 24/7],https://w1.kringvarp.fo/uttanlands/smil:uttanlands.smil/playlist.m3u8
 L'ubovnianska TV (1080p),https://kamery.kukni.sk:8181/memfs/fb00d981-d2d4-4d69-bb44-a9ff6aa25a76.m3u8
+L-TV (720p),https://live2.telvi.de/hls/l-tv_s1.m3u8
 L@b TV (1080p),http://live.sloode.com:1935/labtv_live/labtv/playlist.m3u8
 La 1 (720p),https://ztnr.rtve.es/ztnr/1688877.m3u8
 La 1 Canarias (720p),https://ztnr.rtve.es/ztnr/5190066.m3u8
@@ -2569,6 +2566,8 @@ Rete 8 VGA (720p),https://604e46ac2bdee.streamlock.net:1936/rete8_1/rete8_1/play
 Rete TV Italia (1080p),https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
 Rewmi TV (720p),https://mamoch.me/hls/rewmitv/index.m3u8
 RFH (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
+RFO (1080p),https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
+RheinMain TV (720p) [Not 24/7],https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8
 Ribera TV (576p),https://common01.todostreaming.es/live/ribera-livestream.m3u8
 Rioja Televisión (360p) [Not 24/7],https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
 RiversideTV (Riverside CA) (720p),https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/riversideca/G0879_001/playlist.m3u8
@@ -2853,6 +2852,7 @@ Laos Planet TV (720p),https://livefta.malimarcdn.com/ftaedge00/laosplanet.sdp/pl
 Lejel Home Shopping (720p) [Not 24/7],https://ythls.armelin.one/channel/UC9q_4Ljmm0C15j25Bqx1ZOw.m3u8
 Leomax 24 (1080p),https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 Mediashop TV (576p),https://mediashop.akamaized.net/hls/live/2032402/Meine_Einkaufswelt/1.m3u8
+Pearl TV (2160p) [Not 24/7],https://ythls.armelin.one/channel/UCp0urejlDaYz4G8xpTxdIvw.m3u8
 Shinsegae Shopping TV (720p),https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
 Shop Ch (720p) [Not 24/7],https://ythls.armelin.one/channel/UCKrzHQD9zTLLhBAR8w4zaxA.m3u8
 Shop Channel (1080p) [Not 24/7],https://stream3.shopch.jp/HLS/master.m3u8
