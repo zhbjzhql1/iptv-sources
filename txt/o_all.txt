@@ -238,6 +238,7 @@ Doctor Who,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls
 Doctor Who Classic,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdad934d73d50007a82472/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0685-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fb357bb3-ec69-4aa3-aa8c-7ad6b7bb3424
 Doctor Who Italy (720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e7f8db27ce19000732d1aa/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 Dog The Bounty Hunter,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6540fee72cf13100085d5a18/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0686-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a785777c-53e9-4fa5-bf8d-22125f05159a
+Doma (1080p),http://88.212.7.11/live/test_doma_hd_hevc/playlist.m3u8
 Dong Thap TV (540p),https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
 Donna TV (480p),https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
 Dora TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e951258a26d40007b3034c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0687-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=697806d6-afc8-4125-a899-6ef54b8526fc
@@ -577,9 +578,7 @@ Hitradio Ö3 (720p) [Not 24/7],https://studiocam-oe3.mdn.ors.at/out/u/studiocam_
 HITZ (720p) [Not 24/7],https://ythls.armelin.one/channel/UCO0sE62ll3AE33q9Tk-mV3w.m3u8
 HK TV (720p),https://streamer12.vdn.dstreamone.net/hktv/hktv/playlist.m3u8
 HKIBC,https://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
-Hmong Star TV (720p) [Not 24/7],https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
 Hmong TV Network (720p),https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
-HmongUSA TV (360p),https://livefta.malimarcdn.com/ftaedge00/hmongusatv.sdp/playlist.m3u8
 HMTV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCNZOrs1QBt8cJnv9ud96qRA.m3u8
 HNC Free (1080p),https://hncfree-vizio.amagi.tv/playlist.m3u8
 HodHod Farsi,https://hls.hodhod.live/hls/stream.m3u8
@@ -1193,6 +1192,7 @@ Rioni TV (720p) [Not 24/7],http://video.rionitv.com:9090/hls/live/rioni.m3u8
 Ritmos Inolvidables,https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
 River Monsters,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65367e914f123d000877d021/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bdb47-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e137c165-f05c-4ec7-8b23-8d14d8c59871
 RMC Découverte (1080p),https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
+RMC Story,https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 RMTV (288p),https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
 Romanza+ Africa (720p),https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
 Ronahi TV,https://ronahi-tv.akamaized.net/hls/ronahi-tv.m3u8
@@ -2202,7 +2202,7 @@ Canale Europa (720p),https://canaleeuropa-canaleeuropa-1-it.samsung.wurl.tv/play
 Canale Italia (720p),https://6e94aeeb1b42461d95f973ae34be5167.msvdn.net/ac115_live/canale1.smil/playlist.m3u8
 CanBangla TV (1080p) [Not 24/7],https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/playlist.m3u8
 Cao Bang TV (480p),http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
-Cape Town TV (720p),https://capetowntv.net/lvod/6107c8d77d6b693df801ae2e/playlist.m3u8
+Cape Town TV,https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/chunklist.m3u8
 Capital TV (1080p),https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
 Capricho TV (720p) [Not 24/7],https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
 CAPS Media Channel 6 (Ventura CA) (480p),https://reflect-stream6-capsmedia.cablecast.tv/live/live.m3u8
@@ -2371,6 +2371,8 @@ Hévízi TV (1080p),https://cloudfront44.lexanetwork.com:1344/relay03/livestream
 Hirshabelle TV,http://ap02.iqplay.tv:8081/iqb8002/h1rshbe1iptv/playlist.m3u8
 HKSTV (香港卫视) (720p) [Not 24/7],https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
 HLC TV (480p) [Not 24/7],https://goliveafrica.media:9998/live/627d06e001aaf/index.m3u8
+Hmong Star TV (720p) [Not 24/7],https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
+HmongUSA TV (360p),https://livefta.malimarcdn.com/ftaedge00/hmongusatv.sdp/playlist.m3u8
 Horizon3 TV (480p) [Not 24/7],http://connectiktv.ddns.me:8080/live/63bae88242fa7/index.m3u8
 IasiTV Life (1080p) [Not 24/7],https://tv.streambox.ro/hls/itv/index.m3u8
 ICI Montreal (720p),https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
@@ -2401,7 +2403,6 @@ Kanal 9 Erzgebirge (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCtd99m_
 Kanal12 Spremberg TV (404p) [Not 24/7],https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
 KANAL 58 (1080p) [Not 24/7],https://edge1.socialsmart.tv/kanal58/bant1/playlist.m3u8
 Kanal D (480p),https://stream1.kanald.ro/iphone/knd-live.m3u8
-KPHTH TV (720p) [Not 24/7],http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 Krem TV,https://kalends.anl.bz/localchannels/kremtel.stream/playlist.m3u8
 Kurdistan TV (720p) [Not 24/7],https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 Kurýr TV (1080p) [Not 24/7],https://stream-35.mazana.tv/jc2.jc.m3u8
@@ -3177,6 +3178,7 @@ News,#genre#
 313 Digital (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCkfPKgTSJljrXmwm1m0iY8Q.m3u8
 360° Новости,https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 360 TV (720p) [Not 24/7],https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+:24 (1080p),http://88.212.7.10/live/test_trojka_25p/playlist.m3u8
 A1 TV Rajasthan (720p),https://5b48d7e1b4bce.streamlock.net/myapp/a1live/playlist.m3u8
 A2 CNN (720p),https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 A24 (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
@@ -3381,7 +3383,6 @@ LaC News 24 (720p),https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S2739
 Lahore News (720p) [Not 24/7],https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
 Libya 218 News (1080p) [Not 24/7],http://95.85.47.43/libya218news/playlist.m3u8
 LN24,https://live-ln24.digiteka.com/1911668011/index.m3u8
-LN24SA (720p),https://cdnstack.internetmultimediaonline.org/lwsat/lwsatnewsStreamx/playlist.m3u8
 LN247 (1080p),https://go5lmb6oyawb-hls-live.5centscdn.com/station/3dfd3752af3d7aec5c53992c2da3a316.sdp/playlist.m3u8
 Lyon Capitale TV,https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/LyonCapitale.m3u8
 M24 TV (720p) [Not 24/7],https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/index.m3u8
@@ -4298,6 +4299,7 @@ Les filles d'à côté,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.t
 MBC Drama (480p),http://mytv.dothome.co.kr/ch/catv/26.php
 MBC Drama USA (1080p),https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index.m3u8
 MTV Dating,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5ae0ea87-0212-4457-893b-bd236028e5de
+Passion Novelas,https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8
 Rescue 911,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21e831e9fe730007706acb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8981-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=829d9eef-9cc5-49ef-9790-7aed2bb2aa09
 SEO TV 3 Novelas (1080p),https://seo.tv.bo/tv/SEOTV3.m3u8
 Serie Teen Italy (720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60940639add5910008c0cdd1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
@@ -4593,6 +4595,7 @@ Wanted: Dead or Alive,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv
 Western TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d102a-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b2ed67fd-7088-4b5b-bf24-daa30ff6efdc
 
 Sports,#genre#
+:Šport (1080p),http://88.212.7.10/live/test_rtvs_sport_hevc/playlist.m3u8
 A Spor (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 Aio Sport 1,https://live.aionet.ir/hls/aiosport/aiosport.m3u8
 Aio Sport 2,https://live.aionet.ir/hls/aiosport2/aiosport2.m3u8
