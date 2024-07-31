@@ -26,16 +26,16 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 
 | HTTP Protocol | URL | Auto-update Frequence | Latest Updated | IDC | Provider |
 | ------------- | --- | --------------------- | --- | --- | -------- |
-| https | <https://iptv.b2og.com> | per 2h | Wed Jul 31 2024 00:40:11 GMT+0000 (Coordinated Universal Time) | 腾讯云 | [GrandDuke1106](https://github.com/GrandDuke1106) |
-| https | <https://m3u.002397.xyz> | per 2h | Wed Jul 31 2024 00:07:02 GMT+0000 (Coordinated Universal Time) | CloudFlare Tunnel | [Eternal-Future](https://github.com/Eternal-Future) |
-| https | <https://iptv.helima.net> | per 2.5h | Tue Jul 30 2024 23:30:25 GMT+0000 (Coordinated Universal Time) | Oracle | [DobySAMA](https://github.com/DobySAMA) |
+| https | <https://iptv.b2og.com> | per 2h | Wed Jul 31 2024 08:40:11 GMT+0000 (Coordinated Universal Time) | 腾讯云 | [GrandDuke1106](https://github.com/GrandDuke1106) |
+| https | <https://m3u.002397.xyz> | per 2h | Wed Jul 31 2024 10:06:26 GMT+0000 (Coordinated Universal Time) | CloudFlare Tunnel | [Eternal-Future](https://github.com/Eternal-Future) |
+| https | <https://iptv.helima.net> | per 2.5h | Wed Jul 31 2024 09:30:10 GMT+0000 (Coordinated Universal Time) | Oracle | [DobySAMA](https://github.com/DobySAMA) |
 
 ## Channel
 
 | channel | url | list | count | isRollback |
 | ------- | --- | ---- | ----- | ---------- |
 | fanmingming/live domainv6 | [fmml_dv6.m3u](/fmml_dv6.m3u) <br> [fmml_dv6.txt](/txt/fmml_dv6.txt) | [List for fanmingming/live domainv6](/list/fmml_dv6.list) | 100 | ✅ |
-| fanmingming/live ipv6 | [fmml_ipv6.m3u](/fmml_ipv6.m3u) <br> [fmml_ipv6.txt](/txt/fmml_ipv6.txt) | [List for fanmingming/live ipv6](/list/fmml_ipv6.list) | 130 | - |
+| fanmingming/live ipv6 | [fmml_ipv6.m3u](/fmml_ipv6.m3u) <br> [fmml_ipv6.txt](/txt/fmml_ipv6.txt) | [List for fanmingming/live ipv6](/list/fmml_ipv6.list) | 140 | - |
 | fanmingming/live v6 | [fmml_v6.m3u](/fmml_v6.m3u) <br> [fmml_v6.txt](/txt/fmml_v6.txt) | [List for fanmingming/live v6](/list/fmml_v6.list) | update failed | ✅ |
 | iptv.org All | [o_all.m3u](/o_all.m3u) <br> [o_all.txt](/txt/o_all.txt) | [List for iptv.org All](/list/o_all.list) | 5098 | - |
 | iptv.org China | [o_cn.m3u](/o_cn.m3u) <br> [o_cn.txt](/txt/o_cn.txt) | [List for iptv.org China](/list/o_cn.list) | 630 | - |
@@ -57,11 +57,11 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | --- | --- | ---------- |
 | 112114.xyz | [112114_xyz.xml](/epg/112114_xyz.xml) | - |
 | fanmingming/live | [fmml.xml](/epg/fmml.xml) | - |
-| 51zmt.top | [51zmt.xml](/epg/51zmt.xml) | update failed |
-| 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | update failed |
-| 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | update failed |
+| 51zmt.top | [51zmt.xml](/epg/51zmt.xml) | - |
+| 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | - |
+| 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
 
-Updated at **Wed Jul 31 2024 00:45:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 31 2024 10:10:11 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
