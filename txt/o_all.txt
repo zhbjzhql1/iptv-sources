@@ -1446,7 +1446,6 @@ Scientology Network (1080p),https://stream6.scientology.org/master.m3u8
 Scooore,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/660e97bce8fba8000853d43f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b20bf11-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2bea8df6-8889-4d5b-92d5-8efb963516a7&serverSideAds=false
 Scooore,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/660e97bce8fba8000853d43f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc861668-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=55465346-19d5-4828-9cf1-a9dc5950fa5e&serverSideAds=false
 Scooore,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/660e97bce8fba8000853d43f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af3cc5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6874b43e-86f9-4252-b693-af5ccc56dd88&serverSideAds=false
-SCORELIVE 1 HD,https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/3.m3u8
 Scream Factory TV,https://b1570a6919f94bcfa2f061daee64c70f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_ScreamFactoryTV/playlist.m3u8
 SDETV (576p),http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221227019/index.m3u8
 Sea Today (720p),https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
@@ -2074,7 +2073,6 @@ World Poker Tour,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stit
 World Poker Tour,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b21a974-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=97bdb4b6-f530-4173-966d-19421ac303a0&serverSideAds=false
 World Poker Tour,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc86d9b4-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=368bc423-6405-40d1-a385-9511861eca6c&serverSideAds=false
 World Turk (1080p),https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/playlist.m3u8
-World-1,https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/7.m3u8
 WörTV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCQ36NJ8-XNhBDvSSsh8gS2Q.m3u8
 WOS TV (1080p),https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
 WOWOW Live (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
@@ -4906,7 +4904,6 @@ Hungry (720p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/pl
 iFood.TV (1080p),https://ft-ifood-roku.amagi.tv/playlist.m3u8
 Samira TV (576p),https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/samira.m3u8
 So Yummy! (1080p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8
-Кулинар HD,https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/14.m3u8
 Кухня ТВ HD,http://stream01.vnet.am/KukhnyaTv/mono.m3u8
 Телекафе,http://stream01.vnet.am/Telekafe/mono.m3u8
 
