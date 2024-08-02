@@ -4204,6 +4204,7 @@ Antares Televisión (720p) [Not 24/7],https://5c3fb01839654.streamlock.net:1963/
 Apna Punjab TV (720p),https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
 Apple68 TV (1080p),http://doxatv.flashmediacast.com:1935/doxatv/livestream/playlist.m3u8
 ARTE (720p),https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+Arte (720p),https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 ArubaTV + (720p),https://5caf24a595d94.streamlock.net:1937/kmdbgtygtx/kmdbgtygtx/playlist.m3u8
 Ascame TV (320p),https://livefocamundo.com:8081/ascametv/index.m3u8
 Asian TV (720p),https://mtlivestream.site/asian/ytlive/index.m3u8
