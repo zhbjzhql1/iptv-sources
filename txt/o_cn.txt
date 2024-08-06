@@ -17,8 +17,6 @@ douyu24,http://epg.112114.xyz/douyu/36337
 douyu25,http://epg.112114.xyz/douyu/8814650
 douyu28,http://epg.112114.xyz/douyu/263824
 douyu44,http://epg.112114.xyz/douyu/323876
-Dragon TV International (360p),http://210.210.155.37/x6bnqe/s/s29/index.m3u8
-EWTN Africa Asia (720p),https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 Fengtai Culture & Life TV,http://60.175.115.119:1935/live/wenhua/playlist.m3u8
 Fengtai News TV,http://60.175.115.119:1935/live/zonghe/playlist.m3u8
 Foochow Children TV,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
@@ -94,7 +92,6 @@ Zhejiang TV International,https://hw-m-l.cztv.com/channels/lantian/channel10/108
 东南卫视 (1080p),http://117.169.120.140:8080/live/dongnanstv/.m3u8
 东南卫视 (1080p),http://223.110.254.205:6610/cntv/live1/n-dongnanstv/n-dongnanstv/1.m3u8
 东乡电视台,http://117.156.28.119/270000001111/1110000131/index.m3u8
-东方卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
 东至影视 (576p) [Not 24/7],http://223.247.33.124:1935/live/yingshi/playlist.m3u8
 东至文化资讯 (576p) [Not 24/7],http://223.247.33.124:1935/live/wenhua/playlist.m3u8
 东至新闻综合 (720p) [Not 24/7],http://223.247.33.124:1935/live/zonghe/playlist.m3u8
@@ -281,7 +278,6 @@ Zhejiang TV International,https://hw-m-l.cztv.com/channels/lantian/channel10/108
 广东 Ⅰ 韶关综合台 (720p) [Not 24/7],https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 广东卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
 广水新闻综合,http://guangshui.live.tempsource.cjyun.org/videotmp/s10146-GSXW.m3u8
-广西卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
 延边卫视 (720p),http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 延边新闻综合,https://stream2.jlntv.cn/jlyb/sd/live.m3u8
 建安电视台 (1080p) [Not 24/7],http://live.dxhmt.cn:9081/tv/11003-1.m3u8
@@ -295,7 +291,6 @@ Zhejiang TV International,https://hw-m-l.cztv.com/channels/lantian/channel10/108
 徐州公共频道 (1080p),http://183.207.248.11/PLTV/3/224/3221225951/index.m3u8
 徐州新闻综合 (1080p),http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225945/index.m3u8
 徐州贾汪旅游 (576p),http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221227389/index.m3u8
-房山电视台 (576p),https://live.funhillrm.com/2/playlist.m3u8
 抚州公共 (270p),http://111.75.179.195:30767/video/live_vide2.m3u8
 抚州综合频道 (270p) [Not 24/7],http://111.75.179.195:30767/video/live_vide.m3u8
 敦煌电视台 (1080p),http://117.156.28.119/270000001111/1110000028/index.m3u8
@@ -430,7 +425,6 @@ Zhejiang TV International,https://hw-m-l.cztv.com/channels/lantian/channel10/108
 无线新闻台,https://pull-f5-spe.ixigua.com/yeslivetv.com/446133069-816601364/index.m3u8
 无线财经·体育·资讯台,https://pull-f5-spe.ixigua.com/yeslivetv.com/944048695-106799677/index.m3u8
 甘肃公共 (540p) [Not 24/7],https://hls.gstv.com.cn/49048r/3t5xyc.m3u8
-甘肃卫视 (1080p),http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8?from=26&hms_devid=685&icpid=88888888
 甘肃移动 (540p) [Not 24/7],https://hls.gstv.com.cn/49048r/y72q36.m3u8
 生活 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227311/index.m3u8
 电白视窗 (360p) [Not 24/7],http://gddb.chinashadt.com:1935/live/video2.stream_360p/playlist.m3u8
@@ -507,7 +501,6 @@ Zhejiang TV International,https://hw-m-l.cztv.com/channels/lantian/channel10/108
 西青新闻综合 (1080p) [Not 24/7],http://221.238.209.44:81/hls/live1.m3u8
 贝爷影厅,http://epg.112114.xyz/douyu/252802
 贵州卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
-贵州卫视 (576p),http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU
 赵县电视一套 (360p),http://hbzx.chinashadt.com:2036/zhibo/stream:zx1.stream_360p/playlist.m3u8
 赵县电视一套 (576p),http://hbzx.chinashadt.com:2036/zhibo/stream:zx1.stream/playlist.m3u8
 赵县电视二套 (360p),http://hbzx.chinashadt.com:2036/zhibo/stream:zx2.stream_360p/playlist.m3u8
@@ -584,6 +577,7 @@ Zhejiang TV International,https://hw-m-l.cztv.com/channels/lantian/channel10/108
 
 Religious,#genre#
 Angel TV Chinese (720p),https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8
+EWTN Africa Asia (720p),https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 EWTN Asia-Pacific (720p) [Not 24/7],https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 
 News,#genre#
@@ -617,10 +611,16 @@ Toonmax TV (576p),http://210.210.155.37/qwr9ew/s/s50/index.m3u8
 General,#genre#
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 CCTV-1 (1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+Dragon TV International (360p),http://210.210.155.37/x6bnqe/s/s29/index.m3u8
 TV BRICS Chinese (1080p) [Not 24/7],https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 РТР Планета Азия,https://player.smotrim.ru/iframe/stream/live_id/63254
+东方卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
 北京卫视 [Not 24/7],http://ivi.bupt.edu.cn/hls/btv1.m3u8
+广西卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
+房山电视台 (576p),https://live.funhillrm.com/2/playlist.m3u8
 滁州市广播电视台 公共频道 (400p),http://live.cztv.cc:85/live/ggpd.m3u8
+甘肃卫视 (1080p),http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8?from=26&hms_devid=685&icpid=88888888
+贵州卫视 (576p),http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU
 
 Sports,#genre#
 CCTV5+,https://pull-f5-spe.ixigua.com/live/YesLiveTV-7d098b36-c7e5-4941-8eb0-6af0f5ad3f8d.flv
