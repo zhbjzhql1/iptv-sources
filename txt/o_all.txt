@@ -4181,7 +4181,7 @@ Mētele News Live 24 (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCWnOK
 Metro1 News (720p) [Not 24/7],https://ythls.armelin.one/channel/UC95lddVg_04jAevVGYknx_w.m3u8
 Metro TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
 Moon TV (720p),https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
-MSNBC,http://fl2.moveonjoy.com/MSNBC/index.m3u8
+MSNBC (720p),http://fl2.moveonjoy.com/MSNBC/index.m3u8
 MTV Uutiset (720p),https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 Naxatra News (720p),https://wearelive.livebox.co.in/naxatratvhls/naxatratv.m3u8
 NBC 2 Orlando FL (WESH) (720p),https://lnc-wesh.tubi.video/playlist.m3u8
@@ -4232,7 +4232,7 @@ News Tamil 24x7,https://ythls.armelin.one/channel/UCtbo6_eDG7zEtaOtcSltJkA.m3u8
 News X (720p) [Not 24/7],https://ythls.armelin.one/channel/UCytSP0M0Jdnw6qIy3Y-nTig.m3u8
 Newsmax2,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b179af994403942f3061d6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5104-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b86b942-5804-4df4-a9a2-24f45aaeb974
 Newsmax TV,https://newsmax.codeautoplaycdn2.workers.dev/
-NewsNation East,http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
+NewsNation,https://news.codeautoplayserver1.workers.dev/?codeby=nd&channel=newsnation
 NewsNet (720p),https://amg01756-newsnet-newsnet-klowdtv-332s1.amagi.tv/playlist/amg01756-newsnet-newsnet-klowdtv/playlist.m3u8
 NewsNet (KCKS-LD2) (480p) [Not 24/7],https://cdn.igocast.com/channel2_hls/channel2_master.m3u8
 Newsy,https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8
@@ -5225,7 +5225,7 @@ Movies,#genre#
 312 Кино (406p),http://176.126.166.43:1935/live/312kino/playlist.m3u8
 34100 TV (720p),https://s1.cystream.net/live/34100/playlist.m3u8
 AMC (1080p),https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
-AMC East,http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+AMC East (1080p),http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 American Classics (432p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
 American Horrors (480p),https://amhorstream.com/playlist/amhor/playlist.m3u8
 ATV Kinoman HD,http://stream02.vnet.am/Kinoman/mono.m3u8
