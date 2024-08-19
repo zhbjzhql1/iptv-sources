@@ -5356,7 +5356,6 @@ Fubo Sports Network (1080p),https://lnc-fubo.tubi.video/master.m3u8
 FUEL TV (1080p),https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8
 Futbol (1080p),https://live.teleradiocom.tj/8/3m.m3u8
 Glory Kickboxing (720p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
-IMPACT Wrestling (1080p),https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 Insight TV (1080p),https://insighttv-vizio.amagi.tv/playlist.m3u8
 Inter TV (720p),https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
 KSA Sports 1 (1080p) [Not 24/7],https://edge.taghtia.com/sa/9.m3u8
@@ -5399,6 +5398,7 @@ Swerve Sports (1080p),https://linear-253.frequency.stream/dist/glewedtv/253/hls/
 Teledeporte (1080p),https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
 Ten Sports Pakistan,http://121.91.61.106:8000/play/a04h/index.m3u8
 Tennis Channel,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+TNA Wrestling (1080p),https://d3mwqwqfak7y2q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/hls/main.m3u8
 Turf Móvil (720p),https://janus.tvturf.cl/playlist/stream.m3u8
 Türkmenistan Sport (406p) [Not 24/7],https://alpha.tv.online.tm/hls/ch004.m3u8
 TV 2 Sport 1 (720p),https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
