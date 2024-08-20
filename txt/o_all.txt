@@ -522,6 +522,8 @@ Il Testimone Italy (720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/cha
 ILTV (720p),https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 Imagen TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 Imagen Universal TV,https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+Imam Ali TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCiE5ev_voWCwuIKfc0k2hOA.m3u8
+Imam Asr TV (720p),https://iptv.imamasrtv.com/asrfa/playlist.m3u8
 Iman TV (480p),https://live.relentlessinnovations.net:1936/imantv/imantv/playlist.m3u8
 Imás TV (1080p) [Not 24/7],https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 IMPACT Plus! (1080p),https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
