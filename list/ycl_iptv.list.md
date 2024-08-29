@@ -155,4 +155,4 @@
 | 149 | New KPOP | [New KPOP](https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8) |
 | 150 | Billiards TV | [Billiards TV](https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8) |
 
-Updated at **Wed Aug 28 2024 20:13:35 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Aug 29 2024 00:58:29 GMT+0000 (Coordinated Universal Time)**
