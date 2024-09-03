@@ -1234,7 +1234,7 @@ Tawaf TV (720p),https://streamtawaf.asfatv.com/hls/tawaftv.m3u8
 Taxi,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e9186f8b685d000773cf58/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c2965-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7ddc6540-3409-4ff3-9e7e-06eb3030f1ea
 TBMM TV (720p),https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 TBN,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d486b2eeddd9576d66f9066/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a3bb369c-6039-4656-a79d-8e87112a8232
-TBN Africa (1080p),https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/cc850928-d0d8-4336-84d0-999581129465.m3u8
+TBN Africa (1080p),https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/master.m3u8
 TBN Enlace,https://tbn-jw.cdn.vustreams.com/live/enlace/live.isml/playlist.m3u8
 TBN Nejat TV (720p),https://hls.nejat.live/hls/stream.m3u8
 TBN Pacific,https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8
@@ -1431,6 +1431,7 @@ TV Berlin (720p),https://live2.telvi.de/hls/tvberlin.m3u8
 TV Brasil Central (720p),https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
 TV Bratislava (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCoLgBFFbzGgYJpmcdV0GT4w.m3u8
 TV Budakalasz (1080p) [Not 24/7],https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8
+TV Canaria (720p) [Not 24/7],https://ythls.armelin.one/channel/UCTQrUTmzCWIfG6h4EVCdOCQ.m3u8
 TV Canção Nova Portugal (720p),https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
 TV Carmona (360p) [Not 24/7],https://ythls.armelin.one/channel/UCRniQmtUlHJedl36F0Mehvw.m3u8
 TV Ceará (1080p),https://cdn.jmvstream.com/w/AVJ-12940/playlist/playlist.m3u8
@@ -2411,6 +2412,7 @@ General,#genre#
 #КТОКУДА,http://camera.global-x.ru/MirUvlecheniy/index.m3u8
 A1 TV (1080p) [Not 24/7],https://stream.a1mediagroep.nl/hls/a1tv.m3u8
 A2i TV (1080p),https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
+A2Z,https://tv-noyzkie.serv00.net/streams/A2Z.m3u8
 A7TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCWZxOfINa92_vDXXsHZygKA.m3u8
 A12 TV (720p),https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8
 A Nove TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC9dfpRzwL7gyukOK0UtnYyQ.m3u8
@@ -2538,7 +2540,7 @@ Canale Italia (720p),https://6e94aeeb1b42461d95f973ae34be5167.msvdn.net/ac115_li
 Cananga TV (720p),https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
 CanBangla TV (1080p) [Not 24/7],https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/playlist.m3u8
 Cao Bang TV (480p),http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
-Cape Town TV,https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/chunklist.m3u8
+Cape Town TV (576p),https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8
 Capital TV (1080p),https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
 Capricho TV (720p) [Not 24/7],https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
 CAPS Media Channel 6 (Ventura CA) (480p),https://reflect-stream6-capsmedia.cablecast.tv/live/live.m3u8
@@ -3127,7 +3129,7 @@ TV5 Tu Canal (768p),https://stream.oursnetworktv.com/latin/encoder48/playlist.m3
 TV Birigui (640p),https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
 TV Brasil Oeste (720p),https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 TV Brezová (540p),http://95.105.193.219:88/hls/tvb.m3u8
-TV BRICS Africa (1080p),https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/chunklist.m3u8
+TV BRICS Africa (1080p),https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
 TV BRICS Chinese (1080p) [Not 24/7],https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 TV BRICS English (1080p),https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
 TV BRICS Portuguese (1080p),https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
@@ -3328,8 +3330,8 @@ W Shopping (720p),https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k
 耀才财经台 (576p),http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 
 Entertainment;Family;General,#genre#
-1KZN TV (576p),https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/chunklist.m3u8
-Tshwane TV (576p),https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/chunklist.m3u8
+1KZN TV (576p),https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
+Tshwane TV (576p),https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
 
 Music,#genre#
 1Music Channel Hungary (576p),http://1music.hu/1music.m3u8
@@ -3572,6 +3574,7 @@ VRT Radio Klara (720p),https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20
 VRT Radio StuBru (720p),https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8
 Wanasah (1080p),https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 Worldwide Muzzik (720p),https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+WVCU-LP Concord University Radio The Cure 97.7 (1080p),https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8
 WZNT (Zeta 93) (1080p) [Not 24/7],https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8
 Xalastra TV (480p),https://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8
 Xite (720p),https://xite-samsung-de.amagi.tv/playlist.m3u8
@@ -4088,7 +4091,7 @@ Exodus TV (720p),https://584943999.r.worldssl.net/584943999/_definst_/vzivo/play
 Expresión TV (1080p),https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m3u8
 Extrema TV (720p),https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 Fadak TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC2ZoBzeCXrZcMz4f82eMe-g.m3u8
-Faith TV (576p),https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/chunklist.m3u8
+Faith TV (576p),https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
 Faith TV Kenya (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCQFnIxX1vwsqW7MPcJdYTeg.m3u8
 Fajar TV (240p) [Not 24/7],http://122.248.43.138:1935/ch27/myStream/playlist.m3u8
 Faro de Santidad TV (720p),https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8
@@ -5342,7 +5345,7 @@ Entertainment;Sports,#genre#
 RightNow TV (720p),https://2-fss-1.streamhoster.com/pl_154/amlst:205448-2145652/rightnowtv.m3u8
 
 Entertainment;Family,#genre#
-Soweto TV (576p),https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/chunklist.m3u8
+Soweto TV (576p),https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
 
 General;Series,#genre#
 Super TV (720p),http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
