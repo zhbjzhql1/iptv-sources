@@ -29,7 +29,7 @@
 | 23 | [BD]cctv5[ipv6] | [BD cctv5 ipv6](https://stream1.freetv.fun/a0a25022e2b5d668273dff5dacdc93d7aa6f5d034bc8dc0c28f37146467ab654.m3u8) |
 | 24 | [BD]cctv-5＋高清 | [BD cctv-5＋高清](https://stream1.freetv.fun/e001ccd85462b008bf59336293fe10aefe0dbe859e0246c5afb813724e9e14d7.ctv) |
 | 25 | [BD]cctv5+[ipv6] | [BD cctv5+ ipv6](https://stream1.freetv.fun/fd949c154a0facf9abb01f395c5d7d09b44a35fd0089da56e0ae57bc6b8d9c97.m3u8) |
-| 26 | [BD]cctv5 plus | [BD cctv5 plus](https://stream1.freetv.fun/a8166e80982436392105303f887832e87af0287cc2de6679b8e2f37513024aaf.ctv) |
+| 26 | [BD]cctv5 plus | [BD cctv5 plus](https://stream1.freetv.fun/5f45303a6d77de9385fd1a97574caa4f005439d3887012b4adf9712be6e8f7e2.ctv) |
 | 27 | [BD]cctv6[ipv6] | [BD cctv6 ipv6](https://stream1.freetv.fun/51d6d337c4cbc6022c79db6d28f1606a876b750df63ed3505cb35ca43f038e4d.m3u8) |
 | 28 | [BD]cctv7 | [BD cctv7](https://stream1.freetv.fun/085cc8320b47039f91c89f261b3bde134c04438bf58155988cdd2120c8ae5c1c.ctv) |
 | 29 | [BD]cctv8[ipv6] | [BD cctv8 ipv6](https://stream1.freetv.fun/ba3b4e36fb922605a51884cd578cbd1d0bdf8c80a5278cd2a400a5facbbfb270.m3u8) |
@@ -163,7 +163,7 @@
 | 157 | [BD]广州竞赛 | [BD 广州竞赛](https://stream1.freetv.fun/c3217266cc75ed76bb805aee90e67ad0b53075de724f41e687f3c0c8d4bcd4a1.ctv) |
 | 158 | [BD]广州综合 | [BD 广州综合](https://stream1.freetv.fun/ccc0bddff57b8c467a86d60eb3d1207f4621bd91628371ced6d794ed1774481c.ctv) |
 | 159 | [HD]广州综合 | [HD 广州综合](https://stream1.freetv.fun/988a45d8ba3a124c3192437a87b76a828c88c529a2b24037a8f3213b6094aecd.ctv) |
-| 160 | [VGA]广东公共高清 | [VGA 广东公共高清](https://stream1.freetv.fun/07ac37bc1597316ee12edac848ed951cf917e99698d53c734b0c78d98a432be2.m3u8) |
+| 160 | [BD]广东公共高清 | [BD 广东公共高清](https://stream1.freetv.fun/07ac37bc1597316ee12edac848ed951cf917e99698d53c734b0c78d98a432be2.m3u8) |
 | 161 | [BD]广东少儿 | [BD 广东少儿](https://stream1.freetv.fun/cb3e1d8fe708cb08a4b3b6476fdffa8e267e5f8af1c8a52b6068f884c2241131.m3u8) |
 | 162 | [BD]广东影视 | [BD 广东影视](https://stream1.freetv.fun/0e5e1a883fa882ec8428eb963ec6a5ba550bb484275c587fc3ac41494acc96c5.ctv) |
 | 163 | [BD]广东新闻高清 | [BD 广东新闻高清](https://stream1.freetv.fun/3adf23f7ec8b5e53956a8b896bd4d0abf12e28e17b8ccbdd16afd4a99f497125.m3u8) |
@@ -184,7 +184,7 @@
 | 178 | [BD]广西都市 | [BD 广西都市](https://stream1.freetv.fun/ae3d3280f53207850f9680fb5b490dde80ba29c95db39f5c6bb69212c1e48a64.m3u8) |
 | 179 | [HD]延边卫视 | [HD 延边卫视](https://stream1.freetv.fun/bd9989061bb69326d2d44cf9c4b26cf9dec60f6a10aaf141fea682fa3b307f13.m3u8) |
 | 180 | [BD]都昌新闻综合 | [BD 都昌新闻综合](https://stream1.freetv.fun/434f908ec0407e4a1ee7639a078b89fdd195e736d4be7b0964ad986418318b6d.m3u8) |
-| 181 | [VGA]揭阳公共 | [VGA 揭阳公共](https://stream1.freetv.fun/5ad596704a7981da0e17e48a8a790aff4e394469f57dd00e683d70329a79769f.m3u8) |
+| 181 | [BD]揭阳公共 | [BD 揭阳公共](https://stream1.freetv.fun/5ad596704a7981da0e17e48a8a790aff4e394469f57dd00e683d70329a79769f.m3u8) |
 | 182 | [BD]揭阳综合 | [BD 揭阳综合](https://stream1.freetv.fun/e90f502e55cbf9bc85df6c5006a78aea592a1509a1aed9c671439e216cfc0413.m3u8) |
 | 183 | [SD]教育 | [SD 教育](https://stream1.freetv.fun/4be3044a2bbaaa8ff1b4c8131e79b35c3e7c7685c985c0d20541306edd5a528c.ctv) |
 | 184 | [SD]新疆卫视 | [SD 新疆卫视](https://stream1.freetv.fun/0723d03126108bc85e530dbb12b7d72c5f6e863378e0dbc5881bc4a096b322d2.ctv) |
@@ -220,9 +220,9 @@
 | 214 | [BD]永嘉新闻综合 | [BD 永嘉新闻综合](https://stream1.freetv.fun/8cb05e5ed567cade53c698c241bceb8b76a7e9dfe92d963b633fd1cc7e24d005.m3u8) |
 | 215 | [BD]永嘉新闻综合频道 | [BD 永嘉新闻综合频道](https://stream1.freetv.fun/29fc67623c9edde852604acf8f0048e7162ad8dda10d4817ea61788ebd4ae7e5.m3u8) |
 | 216 | [BD]求索纪录 | [BD 求索纪录](https://stream1.freetv.fun/ca7a2161e32c51b69025f99041dfccd2cb16223b2bbadf6f96874dd83a8fd210.ctv) |
-| 217 | [BD]汕尾新闻综合 | [BD 汕尾新闻综合](https://stream1.freetv.fun/e9d7ae956b76f8ae3e89ababe9229c0abadc91d8b270928ecabcb377c0de5eff.ctv) |
+| 217 | [BD]汕尾新闻综合 | [BD 汕尾新闻综合](https://stream1.freetv.fun/0ffc4cf1d4464f18f72a8f1252b0378c7d6f163d82b82c8ecc3da0e957c4b073.ctv) |
 | 218 | [BD]汕尾综合 | [BD 汕尾综合](https://stream1.freetv.fun/5c12fa4da706b450002713f3eac531fe21bf754a4049188eeeed30b5f4a0915d.ctv) |
-| 219 | [VGA]汕头3影视文艺 | [VGA 汕头3影视文艺](https://stream1.freetv.fun/bf1848e22638c5d9fa6d54b42f9c55079355e530b61019a8981352c38c0a5d6c.ctv) |
+| 219 | [BD]汕头3影视文艺 | [BD 汕头3影视文艺](https://stream1.freetv.fun/bf1848e22638c5d9fa6d54b42f9c55079355e530b61019a8981352c38c0a5d6c.ctv) |
 | 220 | [BD]新闻综合 | [BD 新闻综合](https://stream1.freetv.fun/be5ce7d687ea1aba7bab0e0bcab040d830a3a0ebc2808f230df3d2c522af1c58.ctv) |
 | 221 | [SD]经济生活 | [SD 经济生活](https://stream1.freetv.fun/2822f717206998d208a5c53de4c3080dcd28bfd9c4ac607fd9963569f520e30b.m3u8) |
 | 222 | [BD]汕头综合 | [BD 汕头综合](https://stream1.freetv.fun/cdf64bf08ac852913d8ab8d6a9a392d2cb832089984a7f7d1aecf63d5c64c5ff.ctv) |
@@ -307,7 +307,7 @@
 | 301 | [BD]禹州新闻综合 | [BD 禹州新闻综合](https://stream1.freetv.fun/a96db5ea3ec24408d11883824abdecae45c713b30b05f0d9fa5cf3ba07ee8a96.m3u8) |
 | 302 | [BD]经济科教 | [BD 经济科教](https://stream1.freetv.fun/195b1fa5345c85cae35b644729418e48b36d0d58a442041b06df518773302044.m3u8) |
 | 303 | [SD]漳浦综合 | [SD 漳浦综合](https://stream1.freetv.fun/ff3549ebf49eb87c7e359aa56d8ad9c10666b06d5be05ec1781068bdc732d745.m3u8) |
-| 304 | [VGA]潮州公共 | [VGA 潮州公共](https://stream1.freetv.fun/6a72030026f25ebb69e8ac618793f77512836eba7d87a0c13b3c0f23e0e79c11.m3u8) |
+| 304 | [BD]潮州公共 | [BD 潮州公共](https://stream1.freetv.fun/6a72030026f25ebb69e8ac618793f77512836eba7d87a0c13b3c0f23e0e79c11.m3u8) |
 | 305 | [BD]潮州综合 | [BD 潮州综合](https://stream1.freetv.fun/75844aaa809f0ff9afed21a3634d8093167f3b1fb2af232f261f39422ccea662.m3u8) |
 | 306 | [SD]济南商务 | [SD 济南商务](https://stream1.freetv.fun/ef11baac7e69ab2e7fb8414cc82856af526234e15e3f651f4ee1897fbef7fb30.m3u8) |
 | 307 | [SD]济南少儿 | [SD 济南少儿](https://stream1.freetv.fun/98b21718745ef4f6ed287544482e5253dd1abfd2e165f2b1869c749f1d09bcad.m3u8) |
@@ -440,4 +440,4 @@
 | 434 | [BD]黑龙江视 | [BD 黑龙江视](https://stream1.freetv.fun/113695d3da46c69b1345add05522320e92e79f9780860615516cf565d247642e.m3u8) |
 | 435 | [BD]黑龙江都市[ipv6] | [BD 黑龙江都市 ipv6](https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8) |
 
-Updated at **Fri Sep 06 2024 20:13:34 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Sep 07 2024 00:57:58 GMT+0000 (Coordinated Universal Time)**
