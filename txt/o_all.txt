@@ -1151,7 +1151,6 @@ Novyi Channel,http://45.153.35.237:8000/play/a02x
 Now 14 (720p),https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifest.m3u8
 NOW TV,http://bozztv.com/gin-trn09/gin-turkfoxtv/tracks-v1a1/mono.m3u8
 Now TV 94.3FM Winnipeg (CHNW-FM),https://videostream.jpbgdigital.com/CHNWTV.m3u8
-Now TV (720p) [Not 24/7],https://delivery.upictv.co.bw/NOW-TV-DNL/index.m3u8
 NRG 91 (720p) [Not 24/7],http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 NRG TV (720p),https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 NRJ 12 (1080p),https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
@@ -4721,6 +4720,7 @@ More TV Drama,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/
 MyTVplus (Dresden) (576p),https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
 NBCLX,https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 Nos Païs (720p) [Not 24/7],http://highvolume04.streampartner.nl/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
+Now TV (720p) [Not 24/7],https://delivery.upictv.co.bw/NOW-TV-DNL/index.m3u8
 NUBAR Plus TV (720p),http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8
 NUBAR TV (1080p),http://stream.nubar.tv:1935/private/NUBARtv/playlist.m3u8
 Nuova TV 1 (1080p),https://nuovatv.net:8443/tv/stream.m3u8
