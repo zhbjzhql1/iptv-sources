@@ -1183,7 +1183,6 @@ Nurse Jackie,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/h
 Nurse Jackie,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67c7a07e03a00088de834/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8504f5-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ae88f7f9-f81b-416b-905d-44a6ec5333d8
 Nurse Jackie,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67c7a07e03a00088de834/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae5262-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ec5a40a8-d64f-4615-99e0-e3e39645f7e3
 Nusantara TV (720p),https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
-Nyota TV (360p) [Not 24/7],http://51.254.199.122:8080/noyaTV/index.m3u8
 NYXT (1080p),https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8
 Oasis RTV (720p) [Not 24/7],https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 Oasis TV (720p) [Not 24/7],https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
@@ -3021,6 +3020,7 @@ Nueva Región TV (720p),http://live.mundogo.cl/mundo/Nuevaregion/index.m3u8
 Nueve TV San Luís Potosí (720p),https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 Ñuka TV (720p),https://cloudvideo.servers10.com:8081/8118/index.m3u8
 Numerica TV (1080p),https://tv1.isi-broadcast.tech/NUMERICA/index.m3u8
+Nyota TV (360p) [Not 24/7],http://51.254.199.122:8080/noyaTV/index.m3u8
 NYTV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCx7cFh63AWsK3cbfgX3GaaQ.m3u8
 O'zbekiston (480p),http://gohoski.fvds.ru:3000/mediabay/140/playlist.m3u8
 Oasis Televisión (720p),http://vcp1.myplaytv.com/oasistv/oasistv/playlist.m3u8
