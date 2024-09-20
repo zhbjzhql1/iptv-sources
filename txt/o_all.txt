@@ -872,7 +872,6 @@ La Voz de María (720p),https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.s
 La Voz de Tucumán (480p),https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
 La Voz del Trópico (480p) [Not 24/7],https://ss2.domint.net:3226/vttv_str/tropicotv/playlist.m3u8
 Label TV (480p),https://live3.acangroup.org:1929/publiclive/labeltv/chunks.m3u8
-Lagos Television (360p) [Not 24/7],https://video.servoserver.com.ng/ltv/livestream.m3u8
 Lakewood Channel 8 (Lakewood CO) (720p),https://live8fd.lakewood.org/live-2/live/live.m3u8
 LaLa TV (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
 Lalegül TV (720p) [Not 24/7],http://lalegultv.netmedya.net/hls/lalegultv.m3u8
