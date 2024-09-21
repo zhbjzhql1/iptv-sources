@@ -5441,7 +5441,7 @@ Essaida TV,https://essaidatv.dextream.com/hls/stream/index.m3u8
 Fox Soul (1080p),https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 GipsyTv Wien (720p) [Not 24/7],https://ythls.armelin.one/channel/UCDQ8ziK0-ANT-F906M71dJg.m3u8
 GTV (360p) [Not 24/7],http://91.220.221.60/gtv_hls/gtv_03.m3u8
-Guaymate TV (360p),https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8
+Guaymate TV (1080p) [Not 24/7],https://glb.bozztv.com/glb/ssh101/guaymatetv/index.m3u8
 Hamaika Telebista (1080p),https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
 Himalaya TV,http://103.213.31.243:8081/livepull/ottHIMALAYA480.stream/playlist.m3u8
 Holvoet TV (Copiapó) (720p) [Not 24/7],https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
