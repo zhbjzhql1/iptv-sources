@@ -1099,7 +1099,6 @@ PRIDEtv,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/ch
 PRIDEtv,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65ef002b4e01740008d2d5c1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc85ef54-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65564500-bca6-43f9-8ba2-3e750e3d2523
 PRIDEtv,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65ef002b4e01740008d2d5c1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af15b2-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71c50db3-cdb3-4851-8f6a-c9adb2a77fb1
 Prime Asia TV (1080p),http://primeasia.selfip.net/Samsung/index.m3u8
-Prime Media (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCsSQyY8qqoyImIYFmz1uyDw.m3u8
 Primocanale (1080p) [Not 24/7],https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 Prodotel TV (720p),https://ss3.domint.net:3140/ptv_str/prodoteltv/playlist.m3u8
 Real Wild,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
@@ -3174,6 +3173,7 @@ Prima TV Sicilia (720p),https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/pla
 PrimaFree,https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
 PrimAntenna TV (720p),https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
 Primavera 15 (720p),https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
+Prime Media (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCsSQyY8qqoyImIYFmz1uyDw.m3u8
 Primer TV (1080p),http://200.194.238.229:8383/live/primer/playlist.m3u8
 PROFI 24 TV (576p),https://profi24-u3391.vm.elestio.app/hls/stream.m3u8
 PromarTV (1080p) [Not 24/7],http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
