@@ -38,7 +38,7 @@ Shaanxi Agroforestry Satellite TV,http://49.113.179.174:4022/udp/238.125.4.154:5
 TV5Monde Pacifique (1080p),https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 TVE Internacional Europe-Asia,https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
 VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
-Xinjiang TV 2,http://222.80.13.33:4022/udp/238.125.3.175:5140
+Xinjiang TV 2,http://49.113.179.174:4022/udp/238.125.3.175:5140
 Xinjiang TV 3,http://49.113.179.174:4022/udp/238.125.7.147:5140
 Xinjiang TV 5,http://49.113.179.174:4022/udp/238.125.7.149:5140
 Xinjiang TV 8,http://49.113.179.174:4022/udp/238.125.3.181:5140
@@ -544,7 +544,7 @@ CCTV13 (1080p),http://bl.dchwtq.asia:10000/rtp/239.254.96.161:9040
 CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 Lanzhou Comprehensive News Channel,https://liveplus.lztv.tv/xwzh/HD/live.m3u8
-NHK Chinese Vision (720p),https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+NHK Chinese Vision (720p),https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 QTV-1,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
 Weihai Comprehensive News Channel,http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
 滁州市广播电视台 新闻综合频道 (1080p),http://live.cztv.cc:85/live/xwpd.m3u8
@@ -564,7 +564,7 @@ World Economy Channel,http://49.113.179.174:4022/udp/238.125.2.205:5140
 西安商务资讯 (180p) [Not 24/7],http://stream2.xiancity.cn/xatv3/playlist.m3u8
 
 Kids,#genre#
-BRTV Kaku Childrens Channel,http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
+BRTV Kaku Childrens Channel,http://49.113.179.174:4022/udp/238.125.2.216:5140
 CCTV14 (1080p),http://bl.dchwtq.asia:10000/rtp/239.69.1.107:10280
 JiaJia Cartoon,http://49.113.179.174:4022/udp/238.125.0.158:5140
 Toonmax TV,http://49.113.179.174:4022/udp/238.125.4.28:5140

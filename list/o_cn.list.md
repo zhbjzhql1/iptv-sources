@@ -13,7 +13,7 @@
 | 7 | Bloomberg TV Asia (720p) | [Bloomberg TV Asia (720p)](https://bloomberg.com/media-manifest/streams/asia.m3u8) |
 | 8 | Bloomberg TV Asia Live Event (720p) | [Bloomberg TV Asia Live Event (720p)](https://bloomberg.com/media-manifest/streams/asia-event.m3u8) |
 | 9 | Bread TV面包台 (720p) | [Bread TV面包台 (720p)](https://video.bread-tv.com:8091/hls-live24/online/index.m3u8) |
-| 10 | BRTV Kaku Childrens Channel | [BRTV Kaku Childrens Channel](http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8) |
+| 10 | BRTV Kaku Childrens Channel | [BRTV Kaku Childrens Channel](http://49.113.179.174:4022/udp/238.125.2.216:5140) |
 | 11 | BRTV Science & Education Channel | [BRTV Science & Education Channel](http://49.113.179.174:4022/udp/238.125.3.121:5140) |
 | 12 | CCTV1 (1080p) | [CCTV1 (1080p)](http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?Contentid=reallive-hdcctv1&channel-id=ystenlive&livemode=1&stbId=3) |
 | 13 | CCTV2 (1080p) | [CCTV2 (1080p)](http://bl.dchwtq.asia:10000/rtp/239.69.1.102:10250) |
@@ -83,7 +83,7 @@
 | 77 | Laughter Theater | [Laughter Theater](http://49.113.179.174:4022/udp/238.125.2.159:5140) |
 | 78 | Liangshan TV [Not 24/7] | [Liangshan TV  Not 24/7](http://118.122.2.29:9999/hls/47/index.m3u8) |
 | 79 | Nei Monggol TV | [Nei Monggol TV](http://49.113.179.174:4022/udp/238.125.7.93:5140) |
-| 80 | NHK Chinese Vision (720p) | [NHK Chinese Vision (720p)](https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8) |
+| 80 | NHK Chinese Vision (720p) | [NHK Chinese Vision (720p)](https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8) |
 | 81 | QTV-1 | [QTV-1](http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8) |
 | 82 | QTV-2 | [QTV-2](http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8) |
 | 83 | QTV-3 | [QTV-3](http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8) |
@@ -104,7 +104,7 @@
 | 98 | Weihai Ocean Channel | [Weihai Ocean Channel](http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8) |
 | 99 | Weihai Public Channel | [Weihai Public Channel](http://l2.weihai.tv:8081/hls/g16E3482eM.m3u8) |
 | 100 | World Economy Channel | [World Economy Channel](http://49.113.179.174:4022/udp/238.125.2.205:5140) |
-| 101 | Xinjiang TV 2 | [Xinjiang TV 2](http://222.80.13.33:4022/udp/238.125.3.175:5140) |
+| 101 | Xinjiang TV 2 | [Xinjiang TV 2](http://49.113.179.174:4022/udp/238.125.3.175:5140) |
 | 102 | Xinjiang TV 3 | [Xinjiang TV 3](http://49.113.179.174:4022/udp/238.125.7.147:5140) |
 | 103 | Xinjiang TV 5 | [Xinjiang TV 5](http://49.113.179.174:4022/udp/238.125.7.149:5140) |
 | 104 | Xinjiang TV 8 | [Xinjiang TV 8](http://49.113.179.174:4022/udp/238.125.3.181:5140) |
@@ -628,4 +628,4 @@
 | 622 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 623 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Sun Oct 13 2024 20:13:35 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Oct 14 2024 01:04:23 GMT+0000 (Coordinated Universal Time)**
