@@ -1322,7 +1322,7 @@ Romana TV Canal 42 (480p),https://videoserver.tmcreativos.com:19360/cvmhbyrcat/c
 Romance 365,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb6cd97b90e60007bc318a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bdb48-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dc1c4c08-8f65-4478-b529-e20763cbfc28
 RTA Education (1080p),https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA4)/index.m3u8
 RTA News (1080p),https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/index.m3u8
-RTB (360p) [Not 24/7],https://edge.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8
+RTB [Not 24/7],https://edge20.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8
 RTC Télé Liège,https://tvlocales-live.freecaster.com/live/95d2f6eb-6f01-4d1d-8543-d14966de7b04/95d2f6eb-6f01-4d1d-8543-d14966de7b04.isml/master.m3u8
 RTC Telecalabria (720p) [Not 24/7],http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8
 RTC Televisión,https://5eae379fb77bb.streamlock.net/rtctelevision/rtctelevision/playlist.m3u8
