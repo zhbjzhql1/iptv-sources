@@ -131,7 +131,6 @@ CBS 3 Great Falls MT (KRTV) (720p),https://apollo.production-public.tubi.io/live
 CBS 3 Norfolk VA (WTKR) (720p),https://apollo.production-public.tubi.io/live/ac-wtkr.m3u8
 CBS 5 Nashville TN (WTVF) (720p),https://apollo.production-public.tubi.io/live/ac-wtvf2.m3u8
 CBS 6 Richmond VA (WTVR) (720p),https://apollo.production-public.tubi.io/live/ac-wtvr.m3u8
-CBS 8 Missoula MT (KPAX) (720p),https://apollo.production-public.tubi.io/live/ac-kpax.m3u8
 CBS 9 Oklahoma City OK (KWTV-DT1) (720p) [Not 24/7],https://live.field59.com/kwtv/kwtv1/playlist.m3u8
 CBS 12 KWCH Weather Channel / Always On Storm Team 12,https://d2jni005khp8n7.cloudfront.net/out/gray-kwchwx-rtmp-v3/live.m3u8
 CBS News Philadelphia,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1b05ea168cc000767ba67/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a12d4db0-b63f-41f2-8f0d-d4faab762d0a
@@ -397,7 +396,6 @@ Global Social TV (720p),https://ss9.domint.net:3042/gstv_str/globalsocialtv/play
 GLORY Kickboxing,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f178-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df3ca9c7-d700-4719-be3f-74dd169206f8
 GO-TV (720p),https://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/playlist.m3u8
 Goal TV (1080p),https://lte.wiseplayout.com/WiseM3U8_1/master.m3u8
-God's Learning Channel (480p),https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
 Godzilla,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c8cee1979c0008608e27/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f179-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b8acb59-44f0-4bc0-9505-e2409188cc93
 Gogo Play TV (720p),https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8
 Goiena Eus (720p),https://zuzenean.goienamedia.eus/goiena-telebista.m3u8
@@ -553,7 +551,6 @@ Just Tattoo of Us,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/sti
 Just.fishing,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e2704-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40e61b35-9683-4394-86ae-756247e07690
 Just.fishing,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8441a4-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4054ebe5-daab-4ba7-b43b-a2cf1cd66202
 Just.fishing,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad8f17-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d06cb634-30f9-492b-b1b6-c1c3af23164b
-K+ (Indonesian subtitle) (576p),http://210.210.155.37/uq2663/h/h08/index.m3u8
 K-TV (720p),https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 Kajou TV (480p) [Not 24/7],https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
 KBS LiveCam DokDo (540p),http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
@@ -568,17 +565,6 @@ KienGiangTV (1080p),https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 King of Queens,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f414c2ba130007f8b24e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7ac9d7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4a0db601-9852-43bd-90bd-3b44aed929f7
 Kitchen Battles,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb66c867976d0007647e54/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7ac9d8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7365288d-1759-489b-ada9-95b3a3131d09
 KNLJ-DT1 (720p),https://cvtv.cvalley.net/hls/KNLJ/KNLJ.m3u8
-KOKI-DT1 (1080p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8
-Kókshe (720p) [Not 24/7],https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
-Kolkata TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCNvCQpcafnbW4KQ8X7oQ9kg.m3u8
-Komala TV (1080p),https://live.tvkomala.com/live/komala/playlist.m3u8
-Komlós TV (1080p) [Not 24/7],https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8
-KOMU-DT1 (720p),https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
-KOMU-DT3 (720p),https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
-Kon Tum TV (720p),https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
-Kon TV (720p),https://mn-nl.mncdn.com/blutv_kontv2/live.m3u8
-Kontra Channel (1080p),https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
-Konya Olay TV (720p),https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
 Kordia TV (1080p),https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
 Lido Channel (720p),https://n-edge-1-th.v2h-cdn.com/lido/lido/playlist.m3u8
 Life & Legend of Wyatt Earp,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62b97c5f0d8c8e0007cf48b9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7af0e3-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f66a46a0-fa84-4e4f-864f-8427e9e6f97f
@@ -788,7 +774,6 @@ Navo (480p),http://gohoski.fvds.ru:3000/mediabay/254/playlist.m3u8
 Nazali's HDTV (1080p),http://194.163.135.238:5080/WebRTCApp/streams/590264631485484547459082.m3u8
 NBC 4 Greenville SC (WYFF) (720p),https://apollo.production-public.tubi.io/live/ac-wyff.m3u8
 NBC 5 Cincinnati OH (WLWT) (720p),https://apollo.production-public.tubi.io/live/ac-wlwt.m3u8
-NBC 5 Colorado Springs CO (KOAA) (720p),https://apollo.production-public.tubi.io/live/ac-koaa.m3u8
 NBC 6 New Orleans LA (WDSU) (720p),https://apollo.production-public.tubi.io/live/ac-wdsu.m3u8
 NBC 8 Lima OH (WLIO-DT1) (720p) [Not 24/7],https://live.field59.com/wlio/wlio1/playlist.m3u8
 NBC 10 Providence MA (1080p),https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8
@@ -2791,7 +2776,7 @@ General,#genre#
 360°,https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 A1 TV (1080p) [Not 24/7],https://stream.a1mediagroep.nl/hls/a1tv.m3u8
 A2i TV (1080p),https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
-A2Z (360p),https://tv-noyzkie.serv00.net/streams/A2Z.m3u8
+A2Z [Not 24/7],https://wag.ika.lat/stream/944313137​
 A7TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCWZxOfINa92_vDXXsHZygKA.m3u8
 A12 TV (720p),https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8
 A Nove TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC9dfpRzwL7gyukOK0UtnYyQ.m3u8
@@ -2930,6 +2915,7 @@ CBN TV (720p),https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8
 CBS 3 Omaha NE (KMTV-TV) (720p),https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 CBS 7 Bozeman MT (KBZK) (720p),https://apollo.production-public.tubi.io/live/ac-kbzk.m3u8
 CBS 8 Des Moines IA (KCCI) (720p),https://apollo.production-public.tubi.io/live/ac-kcci.m3u8
+CBS 8 Missoula MT (KPAX) (720p),https://apollo.production-public.tubi.io/live/ac-kpax.m3u8
 CBS 11 Houston TX (KHOU) (1080p),https://livevideo.tegnadigital.com/khou/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KHOU/elvs/live.m3u8
 CCTV1 (1080p),http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?Contentid=reallive-hdcctv1&channel-id=ystenlive&livemode=1&stbId=3
 CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -3265,8 +3251,16 @@ KMIZ-DT1 (720p),https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
 KMTV (576p),https://dk7psf0dh3v1r.cloudfront.net/KMTV/playlist.m3u8
 Knal 4 Quiché (720p) [Not 24/7],https://cdn.streamhispanatv.net:3482/live/knal4gtlive.m3u8
 KNR1 (720p) [Not 24/7],https://ythls.armelin.one/channel/UCIjOAtv53RHerlfl98fZmcQ.m3u8
+KOKI-DT1 (1080p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8
+Kókshe (720p) [Not 24/7],https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
 Komáromi Televízió (400p),https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8
+Komlós TV (1080p) [Not 24/7],https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8
 Kommu TV (720p) [Not 24/7],http://31.10.19.12:8066/live/999/0.m3u8
+KOMU-DT1 (720p),https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
+Kon Tum TV (720p),https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
+Kon TV (720p),https://mn-nl.mncdn.com/blutv_kontv2/live.m3u8
+Kontra Channel (1080p),https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
+Konya Olay TV (720p),https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
 Korea Economy TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCF8AeLlUbEpKju6v1H6p8Eg.m3u8
 Libya Al Hadath (576p) [Not 24/7],http://82.212.74.100:8000/live/8103.m3u8
 Libya Mostakbal (408p),https://media1.livaat.com/Libyah-Mostaqbal/index.m3u8
@@ -3327,6 +3321,7 @@ Nativa TV Satipo (720p) [Not 24/7],https://7.innovatestream.pe:19360/nativatv/na
 Nayarit Comunica,https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 NBC 2 Tulsa OK (KJRH) (720p),https://apollo.production-public.tubi.io/live/ac-kjrh.m3u8
 NBC 3 Sacramento CA (KCRA) (720p),https://apollo.production-public.tubi.io/live/ac-kcra.m3u8
+NBC 5 Colorado Springs CO (KOAA) (720p),https://apollo.production-public.tubi.io/live/ac-koaa.m3u8
 NBC 5 Seattle WA (KING-DT1) (1080p),https://livevideo.tegnadigital.com/king/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KING/elvs/live.m3u8
 NBC West (San Diego) (1080p) [Not 24/7],https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
 Nos TV Bonaire (1080p),http://streaming.flamingotv.net/nostv/live.m3u8
@@ -4363,7 +4358,7 @@ Foro TV (1080p),https://channel02-notusa.akamaized.net/hls/live/2023914/event01/
 FOX 2 Detroit MI (WJBK) (720p),https://apollo.production-public.tubi.io/live/ac-wjbk.m3u8
 FOX 5 Atlanta GA (WAGA-TV) (720p),https://apollo.production-public.tubi.io/live/ac-waga.m3u8
 FOX 26 Houston TX (KRIV) (720p),https://apollo.production-public.tubi.io/live/ac-kriv.m3u8
-FOX News Channel (720p),http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
+Fox News Channel (144p),http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 FOX News Now (720p),https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 France 24 Arabic (1080p),https://ythls.armelin.one/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
 France 24 English (1080p),http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
@@ -4439,6 +4434,7 @@ Kerala Vision News (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCuo69XR
 Khabar Fast (720p) [Not 24/7],https://live.gbtechnology.in/khabarfast/khabarfast/index.m3u8
 Khabrain Abhi Tak (480p) [Not 24/7],https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8
 Kibris Genç TV (720p) [Not 24/7],https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8
+Kolkata TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCNvCQpcafnbW4KQ8X7oQ9kg.m3u8
 Kompas TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8
 Libya's Channel (480p),https://master.starmena-cloud.com/hls/libyas.m3u8
 Life TV (720p) [Not 24/7],https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
@@ -4845,6 +4841,7 @@ Glory Christ Channel (720p),https://stream.it-innov.com/gcc/index.m3u8
 GMTV (480p),https://webstreaming-11.viewmedia.tv/web_160/Stream/playlist.m3u8
 GNF TV (576p),https://oqgdrb8my4rm-hls-live.5centscdn.com/GNF02/bcea197d8b00f79cb716c6288a861000.sdp/playlist.m3u8
 GOD TV Africa (576p),https://webstreaming.viewmedia.tv/web_006/Stream/playlist.m3u8
+God's Learning Channel (480p),https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
 Good Shepherd TV (720p),http://162.250.201.58:8032/goodshepherd/web/index.fmp4.m3u8
 GOOD TV CH1 综合台 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech1.m3u8
 GOOD TV CH2 真理台 (720p),https://live.streamingfast.net/osmflivech2.m3u8
@@ -5225,6 +5222,7 @@ ITN (720p) [Not 24/7],https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf4
 ITN (720p) [Not 24/7],https://itnhls.wns.live/hls/stream.m3u8
 Izaura TV (576p),http://146.59.85.40:89/izaura/index.m3u8
 K2,http://212.28.87.173:8000/play/a10y/index.m3u8
+K+ (Indonesian subtitle) (576p),http://210.210.155.37/uq2663/h/h08/index.m3u8
 K-Content by CJ ENM,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6176ff3ba00900000763710f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=783bd025-4cbc-40c4-a742-b70d428fd035
 Kalaignar Murasu (576p) [Not 24/7],https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 Kanade (720p),https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
@@ -5242,6 +5240,7 @@ KMCI-DT1 (720p),https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
 KMIZ-DT2 (720p),https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
 KMIZ-DT3 (720p),https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
 KMTV,https://kmtvnow-samsung-us.plex.wurl.tv/playlist.m3u8
+KOMU-DT3 (720p),https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
 Light Channel (720p),http://streamer1.streamhost.org:1935/salive/hungarian/playlist.m3u8
 Los Altos Televisión (720p),https://stream.oursnetworktv.com/latin/encoder1/playlist.m3u8
 Mandra TV,http://192.99.2.28/mandra_hls/mandra.m3u8
@@ -5629,7 +5628,6 @@ Kiddiwinks (720p),https://origin3.afxp.telemedia.co.za/PremiumFree/kiddiwinks/pl
 Kidoodle TV,https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
 KidsClick (720p),https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8
 KiKA (1080p),https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
-Koogi TV (1080p),https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 Little Stars Universe,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=33174d1f-99cb-4190-85d6-69259af9a54b
 Lolly Kids (480p),http://45.225.95.170:8000/play/a0ei/index.m3u8
 Lovetoons TV (720p),https://kali1.everestcast.com:3674/stream/play.m3u8
@@ -6007,6 +6005,7 @@ Holvoet TV (Copiapó) (720p) [Not 24/7],https://unlimited1-us.dps.live/holvoettv
 IRIB4 (540p),https://live.aionet.ir/hls/tv4/tv4.m3u8
 Kalsan TV (576p),https://ap02.iqplay.tv:8082/iqb8002/ka1s0n/playlist.m3u8
 Khatereh TV (720p),https://khaterehhls.wns.live/hls/stream.m3u8
+Komala TV (1080p),https://live.tvkomala.com/live/komala/playlist.m3u8
 Metro Globe Network (1080p) [Not 24/7],https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 Miras (406p) [Not 24/7],https://alpha.tv.online.tm/hls/ch003.m3u8
 Museum TV Fast,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungse/playlist.m3u8
@@ -6333,6 +6332,7 @@ Choppertown (720p),https://linear-11.frequency.stream/dist/glewedtv/11/hls/maste
 Kids;Religious,#genre#
 Christian Youth Channel (CYC) (1080p),http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 Dios Te Ve Kids (720p),https://s.emisoras.tv:8081/diostevekids/index.m3u8
+Koogi TV (1080p),https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 
 Culture;Education,#genre#
 Çiftçi TV (1080p) [Not 24/7],http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
