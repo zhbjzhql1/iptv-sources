@@ -47,7 +47,6 @@ Awkward,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/ch
 Ax Men,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6540fe4bbdf3cf0008aa2cdd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c794331-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=334b8ad2-5361-4ae2-a1fd-41fb46bc4c2d
 Ayaat (720p),https://ythls.armelin.one/channel/UC89SSMnCKzXdZsIs_GB6QBg.m3u8
 AZM TV (1080p) [Not 24/7],https://live.canalnueve.tv/canal.m3u8
-Azteca Valle (KRGV 5.2),https://stream.krgv.com/krgv-english/krgv-somos.smil/playlist.m3u8
 B1 TV (1080p) [Not 24/7],http://wowza.bihnet.net:88/hls/b1-live.m3u8
 Baby Alive Français,https://ythls.armelin.one/channel/UCj_YP8My20fYnXbe8B0ziUA.m3u8
 Bac Kan TV (406p),http://123.31.36.68/live.m3u8?c=vstv360&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
@@ -127,7 +126,6 @@ CBC Murdoch Mysteries (1080p),https://amagi-streams.akamaized.net/hls/live/21133
 CBC News BC (1080p),https://amagi-streams.akamaized.net/hls/live/2110960/cbcnewsbc/master.m3u8
 CBC News Explore (1080p),https://amagi-streams.akamaized.net/hls/live/2110962/cbcexplore/master.m3u8
 CBC News Toronto (1080p),https://amagi-streams.akamaized.net/hls/live/2110961/cbctoronto/master.m3u8
-CBS 3 Great Falls MT (KRTV) (720p),https://apollo.production-public.tubi.io/live/ac-krtv.m3u8
 CBS 3 Norfolk VA (WTKR) (720p),https://apollo.production-public.tubi.io/live/ac-wtkr.m3u8
 CBS 5 Nashville TN (WTVF) (720p),https://apollo.production-public.tubi.io/live/ac-wtvf2.m3u8
 CBS 6 Richmond VA (WTVR) (720p),https://apollo.production-public.tubi.io/live/ac-wtvr.m3u8
@@ -2167,7 +2165,6 @@ Zylo Emotion' L,https://amg00711-zylo-france-zylo-emotional-rakuten-frukp.amagi.
 Zylo ScreamIN,https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-screamin-rakuten/CDN/master.m3u8
 Εγνατία Τηλεόραση (576p),https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 Εκκλησία (1080p),https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
-Κρήτη TV (720p) [Not 24/7],http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8
 Μεσσάτιδα TV (450p) [Not 24/7],https://vod.streams.ovh:3037/stream/play.m3u8
 Архыз 24 (1080p),https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
 Астрахань.Ru TV (480p),https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
@@ -2912,6 +2909,7 @@ CBC Toronto (CBLT-DT) (720p),https://cbcrclinear-tor.akamaized.net/hls/live/2042
 CBC Vancouver (CBUT-DT) (720p),https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
 CBC Windsor (CBET-DT) (720p),https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
 CBN TV (720p),https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8
+CBS 3 Great Falls MT (KRTV) (720p),https://apollo.production-public.tubi.io/live/ac-krtv.m3u8
 CBS 3 Omaha NE (KMTV-TV) (720p),https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 CBS 7 Bozeman MT (KBZK) (720p),https://apollo.production-public.tubi.io/live/ac-kbzk.m3u8
 CBS 8 Des Moines IA (KCCI) (720p),https://apollo.production-public.tubi.io/live/ac-kcci.m3u8
@@ -3079,6 +3077,7 @@ FOX 4 Dallas / Fort Worth TX (KDFW) (720p),https://apollo.production-public.tubi
 FOX 9 ST Paul Minneapolis MN (KMSP) (720p),https://apollo.production-public.tubi.io/live/ac-kmsp.m3u8
 FOX 13 Seattle WA (KCPQ) (720p),https://apollo.production-public.tubi.io/live/ac-kcpq.m3u8
 FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7],https://live.field59.com/kbsi/kbsi1/playlist.m3u8
+FOX 26 Houston TX (KRIV) (720p),https://apollo.production-public.tubi.io/live/ac-kriv.m3u8
 Fox TV (720p) [Not 24/7],http://stream-live.in:11037/hls/foxtv.m3u8
 France 2 (1080p),https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france2.m3u8
 France 3 (1080p),https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8
@@ -3808,6 +3807,7 @@ ZIZ TV (720p),https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8
 Zjarr TV (720p) [Not 24/7],https://cdn.jwplayer.com/live/events/r2qgHu7W.m3u8
 ZNS TV (240p) [Not 24/7],https://cloud.streamcomedia.com/znstv/smil:znstv_streams.smil/playlist.m3u8
 Zurquí TV (720p),https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
+Κρήτη TV (720p) [Not 24/7],http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8
 Балта ТВ (768p),http://194.50.51.34/playlist.m3u8
 Башкортостан 24 (Уфа),https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/index.m3u8
 Беларусь 1 (1080p),https://edge60.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
@@ -4357,7 +4357,6 @@ Formula (1080p),https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 Foro TV (1080p),https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 FOX 2 Detroit MI (WJBK) (720p),https://apollo.production-public.tubi.io/live/ac-wjbk.m3u8
 FOX 5 Atlanta GA (WAGA-TV) (720p),https://apollo.production-public.tubi.io/live/ac-waga.m3u8
-FOX 26 Houston TX (KRIV) (720p),https://apollo.production-public.tubi.io/live/ac-kriv.m3u8
 Fox News Channel (144p),http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 FOX News Now (720p),https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 France 24 Arabic (1080p),https://ythls.armelin.one/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
@@ -5142,6 +5141,7 @@ AsianCrush,https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/
 Awaz TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCd0sEeyvD_K9YYw0yPTKDhw.m3u8
 AYV TV Channel 34 (720p) [Not 24/7],https://1423954428.rsc.cdn77.org/live/ngrp:stream-1_all/chunklist.m3u8
 Azteca Internacional (1080p),https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+Azteca Valle (KRGV 5.2),https://stream.krgv.com/krgv-english/krgv-somos.smil/playlist.m3u8
 B-One TV (480p),https://tv2.isi-broadcast.tech/ISI-BROADCAST/Bone-tv/index.m3u8
 Best of Dr. Phil,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f760bbdf090700075d7bfe/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2ffa3ab8-f961-4798-abdc-ca98d4ae0e8c
 Best of The Drew Barrymore Show,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61858ac0491af10007f8ce4f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2c352ba7-2c2d-46fb-8d20-825228d05244
@@ -5883,8 +5883,8 @@ DirecTV Sports (480p),http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u
 DT Play (Deporte Total) (720p) [Not 24/7],https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 Dubai Racing 2 (1080p),https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
 Dubai Racing 3 (1080p),https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
-Dubai Racing (1080p),https://dmisvthvllta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
-Dubai Sports 1 (1080p),https://dmitnthfrta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+Dubai Racing (1080p),https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
+Dubai Sports 1 (1080p),https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 Dubai Sports 2 (720p),https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 Dubai Sports 3 (1080p) [Not 24/7],https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 Dunia Games TV (720p) [Not 24/7],https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/index.m3u8

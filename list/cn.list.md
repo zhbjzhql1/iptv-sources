@@ -13,7 +13,7 @@
 | 7 | [BD]cctv11[ipv6] | [BD cctv11 ipv6](https://stream1.freetv.fun/b080c852cb9670eadf04695aab611f33f4519bde026b7ac507c3001ca818ff01.m3u8) |
 | 8 | [BD]cctv12 | [BD cctv12](https://stream1.freetv.fun/61ec8e0d4e9bc58f9bcf51be1930765b2a6a982ecd21f383dc33cb85d1422a72.m3u8) |
 | 9 | [BD]cctv-13 | [BD cctv-13](https://stream1.freetv.fun/34fbc5f05ca6f9ff49d8e4be183757ab5936d39882ca13667ab98c425ffc2f09.m3u8) |
-| 10 | [SD]cctv14 | [SD cctv14](https://stream1.freetv.fun/6cef7d3d168de641b9fa97248d8218d2a9c07e92b96af6a0d921878fe93582a8.m3u8) |
+| 10 | [VGA]cctv14 | [VGA cctv14](https://stream1.freetv.fun/6cef7d3d168de641b9fa97248d8218d2a9c07e92b96af6a0d921878fe93582a8.m3u8) |
 | 11 | [BD]cctv-15 | [BD cctv-15](https://stream1.freetv.fun/d53b8f939b93a60d494c85b94291ca8b151443bd6d16fdb667a8caaf33382c05.m3u8) |
 | 12 | [BD]cctv16[ipv6] | [BD cctv16 ipv6](https://stream1.freetv.fun/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8) |
 | 13 | [BD]cctv17[ipv6] | [BD cctv17 ipv6](https://stream1.freetv.fun/dddefc79612b67b3cf82b2c6e138c410f87628a60ce50a269f6e8dec056c23a8.m3u8) |
@@ -29,10 +29,10 @@
 | 23 | [BD]cctv5+[ipv6] | [BD cctv5+ ipv6](https://stream1.freetv.fun/bda92480f218103f7780b3c808b7ccd2056467b765af74abe6758a73a0fa66f4.m3u8) |
 | 24 | [BD]cctv5 plus | [BD cctv5 plus](https://stream1.freetv.fun/5f45303a6d77de9385fd1a97574caa4f005439d3887012b4adf9712be6e8f7e2.ctv) |
 | 25 | [BD]cctv6[ipv6] | [BD cctv6 ipv6](https://stream1.freetv.fun/51d6d337c4cbc6022c79db6d28f1606a876b750df63ed3505cb35ca43f038e4d.m3u8) |
-| 26 | [BD]cctv7 | [BD cctv7](https://stream1.freetv.fun/9e8311376447893f5373738d1935f31049c07d4bcd73dadf4a02b42502ad839d.m3u8) |
+| 26 | [BD]cctv7 | [BD cctv7](https://stream1.freetv.fun/085cc8320b47039f91c89f261b3bde134c04438bf58155988cdd2120c8ae5c1c.ctv) |
 | 27 | [BD]cctv8[ipv6] | [BD cctv8 ipv6](https://stream1.freetv.fun/ba3b4e36fb922605a51884cd578cbd1d0bdf8c80a5278cd2a400a5facbbfb270.m3u8) |
 | 28 | [SD]cctv9 | [SD cctv9](https://stream1.freetv.fun/3c6125aad8eab2287c7cb76da027f3e9673949eec3709dc9f3fd0e3ae9ab4548.m3u8) |
-| 29 | [BD]cctv第一剧场 | [BD cctv第一剧场](https://stream1.freetv.fun/c8de8673b62004650b7b13fc3e0a27de855dbaf19772232a9bda9b7a394e3eb9.ctv) |
+| 29 | [BD]cctv第一剧场 | [BD cctv第一剧场](https://stream1.freetv.fun/31cbe2ad06dc69104322ab8dc32fd094b5bc855f9e9a7f2efbdb34f91a819be0.ctv) |
 | 30 | [VGA]cctv4美洲 | [VGA cctv4美洲](https://stream1.freetv.fun/3862feb5bd173a9299901f1254e044dcba36106530183c0379c7d698ad070c03.ctv) |
 | 31 | [BD]cctv风云足球 | [BD cctv风云足球](https://stream1.freetv.fun/f5984a4a5c2d0b153f783bfe5878209ce03902d76521ede65c4c52f54d50284b.ctv) |
 | 32 | [BD]cctv风云音乐 | [BD cctv风云音乐](https://stream1.freetv.fun/3c0da85a843df69df06533da90bd9b0c9afbe023f23142b8fe8612aa3d0a0ce6.ctv) |
@@ -54,11 +54,11 @@
 | 48 | [VGA]ebs少儿 | [VGA ebs少儿](https://stream1.freetv.fun/7b369240e011d542225ec2d39a2d746fb66c086f999a9d411d1cd276e1bc7681.m3u8) |
 | 49 | [SD]cetv-4 | [SD cetv-4](https://stream1.freetv.fun/32f526edf68b2b7c04e59c02928d80161e4f3f6faf76a634f7629b1b61550a98.m3u8) |
 | 50 | [SD]三明新闻综合 | [SD 三明新闻综合](https://stream1.freetv.fun/6f5eebbfa2cfa3577d29b0264b5ef82b07675101fc276f407397de165e0e6c4a.m3u8) |
-| 51 | [SD]三沙卫视 | [SD 三沙卫视](https://stream1.freetv.fun/2f29bdf337cfd1004d4deb54a8f7ab4476ca8a0d740651bb6e9f8b71fdbdb60e.ctv) |
+| 51 | [SD]三沙卫视 | [SD 三沙卫视](https://stream1.freetv.fun/fd1abacd02d10bf9e60b98fdc292704eefa30cff9e4eb0816eec3156e687c991.m3u8) |
 | 52 | [BD]上海ics外语 | [BD 上海ics外语](https://stream1.freetv.fun/74be51393d9387c93707fb23fc9cfbffe507a584fb6d89f57103c4b8ebefe697.m3u8) |
 | 53 | [BD]上海新闻综合 | [BD 上海新闻综合](https://stream1.freetv.fun/51b739e6faabca7526d98215ddb22b4c3f221b59c07abe6fab5a3b6ecf8b0def.ctv) |
 | 54 | [SD]上海东方卫视 | [SD 上海东方卫视](https://stream1.freetv.fun/c0d614cc90d085e895f283fb0f6fc21c1ab055babfda00780ca62323f038c395.m3u8) |
-| 55 | [BD]上海都市 | [BD 上海都市](https://stream1.freetv.fun/0e304419acd18f06632242d04ca3e267a9ac00bbb7bc7252fc9775420a18ec64.ctv) |
+| 55 | [BD]上海都市 | [BD 上海都市](https://stream1.freetv.fun/69e9a8ed6d62cec9ec3dfcbe8923a4036cc555c4f3c5bbf0e1946406ae806409.m3u8) |
 | 56 | [BD]上虞文化影院 | [BD 上虞文化影院](https://stream1.freetv.fun/fed964756a0d4e488e79e95415e911f8f4cf3e5c6e66d654736747fa55856154.m3u8) |
 | 57 | [BD]上虞新商都 | [BD 上虞新商都](https://stream1.freetv.fun/617f277b667f4460ab0b21935e30b1a458390006ec88c518ea940ebef16b05f7.m3u8) |
 | 58 | [BD]上虞1新闻综合 | [BD 上虞1新闻综合](https://stream1.freetv.fun/cc9b034338cd7d9d50e7f933bab05f013a19ad08b1afdd3380985b13665e09fe.m3u8) |
@@ -77,9 +77,9 @@
 | 71 | [HD]内江科教 | [HD 内江科教](rtmp://njzb.scnj.tv:1938/live/kjpd_kjpd800) |
 | 72 | [HD]内江综合 | [HD 内江综合](https://stream1.freetv.fun/a2d9af7861b4d6c636b5cbd9e96b2fca4c7ef8d44a663481dcb6abb5a4f00cc8.m3u8) |
 | 73 | [BD]内蒙少儿 | [BD 内蒙少儿](https://stream1.freetv.fun/30162d993ed08b20fc3b6406450360bfe43e35e2b5ed92373619ae12d89c71c9.m3u8) |
-| 74 | [SD]内蒙古卫视 | [SD 内蒙古卫视](https://stream1.freetv.fun/325ee158a9026a625e36ada7cab8bf4606657903a9312e1c19a2af5e7a73d1b7.ctv) |
+| 74 | [SD]内蒙古卫视 | [SD 内蒙古卫视](https://stream1.freetv.fun/1e5dc1f802d7775ea9cde7b7b874b914365797c6718c5e95448aa26648e136e6.ctv) |
 | 75 | [BD]内黄新闻综合频道 | [BD 内黄新闻综合频道](https://stream1.freetv.fun/be7e252270432ee9f17312a39a1f303c3d89f55594ed1d36f9ba46cc61e7a1a5.m3u8) |
-| 76 | [SD]兵团卫视 | [SD 兵团卫视](https://stream1.freetv.fun/7e0d9638f60dca70ddc3a2437eb10e874587f11f9d3efd833e71acfbdf2de2d6.ctv) |
+| 76 | [SD]兵团卫视 | [SD 兵团卫视](https://stream1.freetv.fun/7690729e43cd485b88bcedccb7455292214b740fb52ed0895fe85a03066b9631.m3u8) |
 | 77 | [HD]刘德华 | [HD 刘德华](https://stream1.freetv.fun/145828181728c436be98d67db1031e0e8a7154dfbc7d8357d607be9ad585a268.ctv) |
 | 78 | [BD]动漫秀场 | [BD 动漫秀场](https://stream1.freetv.fun/670c5b1cdfb0effab6e9e09e5c82afcbe22528940ea1c58836e288e4f4bafb03.m3u8) |
 | 79 | [BD]北京卫视[ipv6] | [BD 北京卫视 ipv6](https://stream1.freetv.fun/58ada9296c1cd8c98929d12386749a6748a6ed09bda28980e0909fff792e95fc.m3u8) |
@@ -89,7 +89,7 @@
 | 83 | [HD]南京新闻综合 | [HD 南京新闻综合](https://stream1.freetv.fun/b91a2f184d4562d381e6fee45b5bcdb6e90bdda92a8ab18bd0546b77456fdeff.m3u8) |
 | 84 | [BD]广州南国都市 | [BD 广州南国都市](https://stream1.freetv.fun/6a602a89e0c4b88dd7d8762303fb89b2b96bdd5e578ef935e975f32590f5e39b.m3u8) |
 | 85 | [HD]南宁公共频道 | [HD 南宁公共频道](https://stream1.freetv.fun/ba5325155e0be49993321f976b6b8ca09627d7872ab62fcea28536aa93120ef8.m3u8) |
-| 86 | [SD]南宁影视 | [SD 南宁影视](https://stream1.freetv.fun/49d4d4c805105acce70db0ea7bd25612a1cf7a437b71a6605b53be1ad6058ed3.ctv) |
+| 86 | [SD]南宁影视 | [SD 南宁影视](https://stream1.freetv.fun/fd5056c703d32c18eda04243a61eb44186b73c32de02eaf8d179c8ffc6eddf36.ctv) |
 | 87 | [BD]南宁新闻综合 | [BD 南宁新闻综合](rtmp://tv.qntv.net/channellive/ch1?zguizd) |
 | 88 | [HD]南宁都市生活频道 | [HD 南宁都市生活频道](https://stream1.freetv.fun/b88dce93757224c81c0b7cff4b276be147011588c24712add4fdd9c6e6eb59d5.m3u8) |
 | 89 | [BD]苍南新闻综合频道 | [BD 苍南新闻综合频道](https://stream1.freetv.fun/26867513b7f55113a68877d1621cb693f3a0215871841c667b1eb55924ebafa7.m3u8) |
@@ -99,7 +99,7 @@
 | 93 | [BD]合肥新闻 | [BD 合肥新闻](https://stream1.freetv.fun/009308bf4ff056f22afa71c8357cabb37543048af60e63dafc2a48e80b914501.ctv) |
 | 94 | [BD]吉林卫视 | [BD 吉林卫视](https://stream1.freetv.fun/657b3cc8f2106d0e0b52d0bc7f0e15db544b37b3e86bf5f486f351b9db61fa2e.ctv) |
 | 95 | [VGA]吉林乡村 | [VGA 吉林乡村](https://stream1.freetv.fun/68f640f2cdee48101b0a69e627390343ba0503653b29ec294a2c172a3b742ee8.m3u8) |
-| 96 | [SD]哈哈炫动 | [SD 哈哈炫动](https://stream1.freetv.fun/18b97d80dae6d5df7cf63ec50092e0cf5efeac5f41f1a7178f59c01f710668d0.ctv) |
+| 96 | [BD]哈哈炫动[ipv6] | [BD 哈哈炫动 ipv6](https://stream1.freetv.fun/c609330919935651e0b21a96c1a5e8187a9c928b2ee01aa3143d13fa9ae5a856.ctv) |
 | 97 | [VGA]哈尔滨影 | [VGA 哈尔滨影](https://stream1.freetv.fun/93344c0a22da9dc80692db64845097e1eb720cd480feed493232eae6170bfc04.m3u8) |
 | 98 | [VGA]哈尔滨新闻综合 | [VGA 哈尔滨新闻综合](https://stream1.freetv.fun/ca8f57fc39d536dd721699325e3fc7ac9ca96fbe65f453531c01227f830b12cb.m3u8) |
 | 99 | [VGA]哈尔滨生活 | [VGA 哈尔滨生活](https://stream1.freetv.fun/71746238db63ed6951b3f0a4cbc42467d1a7b32c1925b4854de68ed71d678c98.m3u8) |
@@ -139,7 +139,7 @@
 | 133 | [SD]家庭影院 | [SD 家庭影院](https://stream1.freetv.fun/46f79174cb1a9e6476aec1c94099636cf9831aa64314179e7bda8f7ab00fd79f.ctv) |
 | 134 | [SD]宁夏卫视 | [SD 宁夏卫视](https://stream1.freetv.fun/c3a22585493b5fbb62ab4b873bbf60ce767e779781bf178117fcf0918e2de201.ctv) |
 | 135 | [HD]咸宁经济生活 | [HD 咸宁经济生活](https://stream1.freetv.fun/91aa26e5f08c654b7d2ea59dbfa50d5d5b4bfd4cdd7cbde4eae417575f18f510.m3u8) |
-| 136 | [BD]山东少儿 | [BD 山东少儿](https://stream1.freetv.fun/015dbac308d9da33dad5b4b2991f2fa094de73f086e45f9f3e3356e4e7aa6dc2.m3u8) |
+| 136 | [VGA]山东少儿 | [VGA 山东少儿](https://stream1.freetv.fun/015dbac308d9da33dad5b4b2991f2fa094de73f086e45f9f3e3356e4e7aa6dc2.m3u8) |
 | 137 | [BD]山东影视 | [BD 山东影视](https://stream1.freetv.fun/7cdae1dcbad9b24005d14f254436de3244b06dfe8d45594c44d7dde911f1a930.m3u8) |
 | 138 | [BD]山东教育 | [BD 山东教育](https://stream1.freetv.fun/497dbc858ac950752aedd19e6ab943e3752516e9a937601969741f3a51ed74b2.m3u8) |
 | 139 | [SD]山东教育卫视 | [SD 山东教育卫视](https://stream1.freetv.fun/e6c5a3b4a3abab17ed38ac4d29a75598163f67386dff8689c900f00616fe7842.ctv) |
@@ -148,7 +148,7 @@
 | 142 | [BD]山东卫视高清 | [BD 山东卫视高清](https://stream1.freetv.fun/2f0c12268595ebe65723cfcf1eebe088d467f83f958b5783e8799cde31120914.m3u8) |
 | 143 | [SD]山东体育 | [SD 山东体育](https://stream1.freetv.fun/7662bf20ec19b22bc26a118f1918354e92b986fc3ad7e2a76884fac7791e0021.m3u8) |
 | 144 | [BD]山东齐鲁 | [BD 山东齐鲁](https://stream1.freetv.fun/39855823c03804715a09a0edbb2274a5a73f776010ecd22551bc45159cb5f4e2.m3u8) |
-| 145 | [SD]山西卫视 | [SD 山西卫视](https://stream1.freetv.fun/2f538e8c3c3dc60b99799fb3331f5f05b5a9c3c574544b4178a57a7de78f6884.ctv) |
+| 145 | [SD]山西卫视 | [SD 山西卫视](https://stream1.freetv.fun/26bc11f19d981a15cde7badbe86ce9030af5cb1f8a4bf8c8e454c2b11e14f962.m3u8) |
 | 146 | [SD]岭南戏曲 | [SD 岭南戏曲](https://stream1.freetv.fun/72faa90314d43feda61101b840cc842babb479496b65eae0b776c83e141b463e.m3u8) |
 | 147 | [BD]承德新闻综合 | [BD 承德新闻综合](https://stream1.freetv.fun/5c0dfe6a3638b82d0c95726c165ac0cadb25c696589666af56eecdfe71226435.ctv) |
 | 148 | [BD]康巴卫视高清 | [BD 康巴卫视高清](https://stream1.freetv.fun/af2dac39927b833bcb5a0370424a07acf05f48fd8a33421bb934e39ba4a3cf92.ctv) |
@@ -249,9 +249,9 @@
 | 243 | [SD]浙江国际 | [SD 浙江国际](https://stream1.freetv.fun/996aa49f323eb3be8b4880897f965cee413a36c151c8128058110aa9e7fd274d.m3u8) |
 | 244 | [BD]浙江少儿 | [BD 浙江少儿](https://stream1.freetv.fun/61763493836696939da31f5856221e08038a6e814dc1fe983cd0d335b284104e.m3u8) |
 | 245 | [BD]浙江少儿 | [BD 浙江少儿](https://stream1.freetv.fun/73a1a9fbf604a312da58f407151a6ea7d272138541882a68be32065573496ff1.m3u8) |
-| 246 | [BD]浙江教育 | [BD 浙江教育](https://stream1.freetv.fun/472e87d11e98f96d8255a57f2c0c86205014740b12936723a7267047b3f56c5d.ctv) |
+| 246 | [BD]浙江教育 | [BD 浙江教育](https://stream1.freetv.fun/b76c909932c9f676f0fcf835c8aacb4ac612e1d163ab944c284d05d833a2b656.ctv) |
 | 247 | [BD]浙江新闻 | [BD 浙江新闻](https://stream1.freetv.fun/7fa07158e038a9bae3747a0cb9f8e8ff1aaba32669d28d99a498716f16569c1d.m3u8) |
-| 248 | [BD]浙江民生休闲 | [BD 浙江民生休闲](https://stream1.freetv.fun/e557930ad2b9039ae136a9a13434e42dc05dbf6fd672cb0058a35d7f846b6ddc.m3u8) |
+| 248 | [BD]浙江民生 | [BD 浙江民生](https://stream1.freetv.fun/71fb59aff7f7c60cb9d43d6fd8fc202e91814adac2a6f6d99e201422b81a45f1.ctv) |
 | 249 | [BD]浙江生活 | [BD 浙江生活](https://stream1.freetv.fun/9e56f259b729b01e57c4b00c36ffde7a6b54ea71311b81e6a8a87219a2f255b4.ctv) |
 | 250 | [BD]浙江卫视 | [BD 浙江卫视](https://stream1.freetv.fun/18109b1804a4d4c8acd2a83f3256b7495a047d7f5cf918ef92febd030933bfc2.m3u8) |
 | 251 | [BD]浙江钱江 | [BD 浙江钱江](https://stream1.freetv.fun/35e853057538ed3689017c3319dc6d72cbec58bf5986ea9a99c2280d87fec98d.m3u8) |
@@ -280,15 +280,15 @@
 | 274 | [BD]湖北教育 | [BD 湖北教育](https://stream1.freetv.fun/e0c99472cb6326d5520668312aebbe45ff9b35a6195f62daf631c47fa78dad25.ctv) |
 | 275 | [SD]丘北新闻综合 | [SD 丘北新闻综合](https://stream1.freetv.fun/34f594424a186a28a9521b8cb3912cdf85b93897313182a9abeaf096b23e9458.m3u8) |
 | 276 | [BD]湖北生活 | [BD 湖北生活](https://stream1.freetv.fun/a0b82b4e9481f63d3c5f29ca07af58ccc37a883250cb0434bfe584a7288798fb.ctv) |
-| 277 | [BD]湖北经视 | [BD 湖北经视](https://stream1.freetv.fun/a968f766a86c2a7690ca00cd8d3467ef79b4266675256e0e1f5b356aa8177fd2.ctv) |
+| 277 | [VGA]湖北经视 | [VGA 湖北经视](https://stream1.freetv.fun/5f38ef7389f688cc66a6c05dc6487e9a2f9c00181a3e927bc9cb8c8011984889.m3u8) |
 | 278 | [SD]湖北卫视 | [SD 湖北卫视](https://stream1.freetv.fun/95a48ba741cb55df727c504cdfd501c65310a9ad60fdcdbb36ad8277d5790f27.m3u8) |
 | 279 | [BD]湖南公共 | [BD 湖南公共](https://stream1.freetv.fun/48f53022c7d3e51a964c67143c2f0e819af27ccbd80f771a8df6630df3bc8746.m3u8) |
-| 280 | [BD]湖南国际 | [BD 湖南国际](https://stream1.freetv.fun/ce0e820550a014ed90fc9aadf883f4133c6b5d44a65f4689d68215956ea57748.ctv) |
+| 280 | [SD]湖南国际 | [SD 湖南国际](https://stream1.freetv.fun/aedb6c5e0c4b3c81c4778fbb481c2660e5a8b0b7de98f883328d36df7cec3691.m3u8) |
 | 281 | [BD]湖南娱乐 | [BD 湖南娱乐](https://stream1.freetv.fun/d823f63f178d27fa744c94a23baa86fac9d249923cf03843d769b3bae2e70a8a.m3u8) |
 | 282 | [BD]湖南教育 | [BD 湖南教育](https://stream1.freetv.fun/eb85cfcd2b3557f8d4f5bb8ee7c44ca82d2812a2bfbc8c9722301dfb40ac26e2.m3u8) |
-| 283 | [BD]湖南经视 | [BD 湖南经视](https://stream1.freetv.fun/4dd300e8a9a3c0064ef77c12b02385cd32a4b208c4413105fd92359c1d75a4dd.ctv) |
-| 284 | [BD]湖南卫视 | [BD 湖南卫视](https://stream1.freetv.fun/8f9c1b950218b09e8fb1b0d6b7416bdf4a4635a03c2f67f7880010d106038137.m3u8) |
-| 285 | [BD]湖南都市 | [BD 湖南都市](https://stream1.freetv.fun/fa6c54a189a793267ea76be44fb242398df65caf81ad578d030a708dcc372fad.ctv) |
+| 283 | [BD]湖南经视 | [BD 湖南经视](https://stream1.freetv.fun/40dd8f31430ace26cfeb1151452ff2c819d358dd2b99844f1c4bd80e08930ddf.m3u8) |
+| 284 | [VGA]湖南卫视 | [VGA 湖南卫视](https://stream1.freetv.fun/8f9c1b950218b09e8fb1b0d6b7416bdf4a4635a03c2f67f7880010d106038137.m3u8) |
+| 285 | [SD]湖南都市 | [SD 湖南都市](https://stream1.freetv.fun/a982cf1ae4213afdb1db40ea6137fc43a40c929092e449b5d9b12669d3c9bd59.m3u8) |
 | 286 | [BD]湖南电影 | [BD 湖南电影](https://stream1.freetv.fun/84314710068d51088a7fac2dcac4032ce649b5dd9b8659b4e5b1781cc7ca5dc0.m3u8) |
 | 287 | [BD]湖南电视剧高清 | [BD 湖南电视剧高清](https://stream1.freetv.fun/6a2f87a41833ef815ea54a01c89000e175ac8407b2481d878fab2d4b35361fce.m3u8) |
 | 288 | [HD]湖州公共 | [HD 湖州公共](https://stream1.freetv.fun/94f93241eec509bb5096d7980b36fe86b4c4d7de2ee93272030c2c62d34e9553.m3u8) |
@@ -361,10 +361,10 @@
 | 355 | [SD]芜湖公共 | [SD 芜湖公共](https://stream1.freetv.fun/16023d1b07647546374c6b6555c0b4365e988e02d6a0ea2bd880ad0f7df2c96c.ctv) |
 | 356 | [SD]芜湖新闻综合 | [SD 芜湖新闻综合](https://stream1.freetv.fun/79d67fad0cb0f48d2cb619334c221e618ce8434d2f22dfca65701a966b3b81be.ctv) |
 | 357 | [HD]芜湖生活 | [HD 芜湖生活](https://stream1.freetv.fun/25ebc0f2443ea2a3460a710a71fe4ce38e3904ee74e78101f71d396e17aab6fe.ctv) |
-| 358 | [HD]苏州文化生活 | [HD 苏州文化生活](https://stream1.freetv.fun/3516d79810c910f94a17902f64a82f94cbc576e868c068a24a75b19f2b853e4d.m3u8) |
-| 359 | [HD]苏州新闻综合 | [HD 苏州新闻综合](https://stream1.freetv.fun/8161058adb897274c61359249d6c8909159997699519a5cfe065f4e575672d41.m3u8) |
-| 360 | [HD]苏州生活资讯 | [HD 苏州生活资讯](https://stream1.freetv.fun/1742c62fe64094a075df880f618b4ef3307ddce57dd588c6930093251f835de5.m3u8) |
-| 361 | [HD]苏州社会经济 | [HD 苏州社会经济](https://stream1.freetv.fun/e5b2c37ece89ddca89111fa83d0af3c03233b602007ef08cca51cd2b94ff433e.m3u8) |
+| 358 | [HD]苏州文化生活 | [HD 苏州文化生活](https://stream1.freetv.fun/5128f912b0eb158b8ac807e1562ae6e9b48ffd38e72b608a4b2398e820906322.m3u8) |
+| 359 | [HD]苏州新闻综合 | [HD 苏州新闻综合](https://stream1.freetv.fun/2bea694dc7fb60bb51c48d20463f2b5fdb308679ca6d20e7da6ad47700c5ecfd.m3u8) |
+| 360 | [HD]苏州生活资讯 | [HD 苏州生活资讯](https://stream1.freetv.fun/c408211d1781564a7e71e3cacef67c549058292d67148af96b0075d71d8b6909.m3u8) |
+| 361 | [HD]苏州社会经济 | [HD 苏州社会经济](https://stream1.freetv.fun/5c127511d069ca297dfe7e703974421cfe85b7a986a963c11a0af25dd05637bf.m3u8) |
 | 362 | [VGA]舒兰新闻综合 | [VGA 舒兰新闻综合](https://stream1.freetv.fun/73534dcbce50e3e1dcf470e19df8e01e2824e8c80dd6ef67925b2fd9dd575120.m3u8) |
 | 363 | [SD]蚌埠新闻综合 | [SD 蚌埠新闻综合](https://stream1.freetv.fun/a70c38e6be2530f792ebc3c9d0a1f756776913b794b9fd21a10a842afbde3136.ctv) |
 | 364 | [BD]衡水公共 | [BD 衡水公共](https://stream1.freetv.fun/bc84fb3b67dd2b4a4832613455f49ddad5cec2236ef312d93d506300e9c1a755.ctv) |
@@ -374,7 +374,7 @@
 | 368 | [BD]西宁新闻综合频道 | [BD 西宁新闻综合频道](https://stream1.freetv.fun/7b35edde22feb3c91816dae7cdfe6c9b6858993ac60c99a1219f0753b28bafcc.m3u8) |
 | 369 | [SD]西宁生活 | [SD 西宁生活](https://stream1.freetv.fun/dd5254c5a934c3213ca8601bcff5104bdcf96b9900b18f8ef8cbd6e9844dcd49.m3u8) |
 | 370 | [BD]西宁生活服务 | [BD 西宁生活服务](https://stream1.freetv.fun/c4146a67a9f9ff25b740323faf1c3bc7e34a8766b904599bd51aa26f0283a58a.m3u8) |
-| 371 | [SD]西藏卫视 | [SD 西藏卫视](https://stream1.freetv.fun/a8e83798e1c1f8ffca8b5c81f9b6cfb6290dedebab63c1355662dbb492ba1c2a.ctv) |
+| 371 | [SD]西藏卫视 | [SD 西藏卫视](https://stream1.freetv.fun/0520182fdda930a14ef73fa2ed6221ba95c6ae2ddffa8c93f4b08562ea71c777.m3u8) |
 | 372 | [BD]贵州卫视[ipv6] | [BD 贵州卫视 ipv6](https://stream1.freetv.fun/cc54b485fc3912265c9dbb24fe2b6d1ba2b65412d0ff45b904bc4d53ea02bf67.m3u8) |
 | 373 | [SD]足球 | [SD 足球](https://stream1.freetv.fun/5a4c39e11028d432845a53aef51133d102018dcd83c1a31325a7fc66ccd3113d.ctv) |
 | 374 | [SD]农林卫视 | [SD 农林卫视](https://stream1.freetv.fun/4509b28aa6870b6723880c39a01a00ab539461605d227f22a85ba3d105592ad9.ctv) |
@@ -382,7 +382,7 @@
 | 376 | [BD]连云港新闻综合 | [BD 连云港新闻综合](https://stream1.freetv.fun/045d80238eacbe26e6a10fab68908a34cd55e26fcd729ffd2d618fa7cd4cbe5b.m3u8) |
 | 377 | [HD]运城公共 | [HD 运城公共](https://stream1.freetv.fun/7fa44fad6fafdacff4f8e3a279e1dd471a2a5c78be06214ca012ea605b50983e.m3u8) |
 | 378 | [HD]运城新闻 | [HD 运城新闻](https://stream1.freetv.fun/2b7bc040316e5c20670325551e1ee8f3ad0ff2eafd93903390bb5cf817d9e7b0.m3u8) |
-| 379 | [VGA]运城科技教育 | [VGA 运城科技教育](https://stream1.freetv.fun/94c6196cfda87ab8028c092d0a70eb2d80665f52dda1f70a66f4fc691db6c391.m3u8) |
+| 379 | [HD]运城科技教育 | [HD 运城科技教育](https://stream1.freetv.fun/94c6196cfda87ab8028c092d0a70eb2d80665f52dda1f70a66f4fc691db6c391.m3u8) |
 | 380 | [BD]辽宁卫视 | [BD 辽宁卫视](https://stream1.freetv.fun/4fa75925fb00aa051c6819346628eb0cd8bafd14f8231c9166b8a5209111db07.m3u8) |
 | 381 | [BD]经济生活 | [BD 经济生活](https://stream1.freetv.fun/980aafa2704142b631abe0dcd52723218c17bfa9f5c4b0cac2f0782dfd3d2a63.ctv) |
 | 382 | [HD]邢台综合频道 | [HD 邢台综合频道](https://stream1.freetv.fun/2458746ec43606d168e6e5a6e8902d3dfce08a87a9ea842e12e8d060af9c4054.m3u8) |
@@ -430,4 +430,4 @@
 | 424 | [BD]黑龙江视 | [BD 黑龙江视](https://stream1.freetv.fun/113695d3da46c69b1345add05522320e92e79f9780860615516cf565d247642e.m3u8) |
 | 425 | [BD]黑龙江都市[ipv6] | [BD 黑龙江都市 ipv6](https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8) |
 
-Updated at **Tue Oct 22 2024 20:14:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 23 2024 01:02:32 GMT+0000 (Coordinated Universal Time)**
