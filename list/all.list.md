@@ -40,7 +40,7 @@
 | 34 | [HD]minimini+ | stream1.freetv.fun | <https://stream1.freetv.fun/789cf2058e8bf6a29700c137d6d0eba943c6c29c94c82ac09d0ec0646d84dcc7.m3u8> |
 | 35 | [SD]5 star | stream1.freetv.fun | <https://stream1.freetv.fun/733aa3b8c0d6c17335cbad3d6f81eb82a58d37334e8d2ad917511ea4629d9c60.ctv> |
 | 36 | [SD]5USA UK | stream1.freetv.fun | <https://stream1.freetv.fun/848198812be15390d5e9161d913456045e7d4c9442a4ec1098422e611949a90d.ctv> |
-| 37 | [HD]8 Mediacorp | stream1.freetv.fun | <https://stream1.freetv.fun/ac59c466542a108e3c4a2c443f23a8056cda2bc3324af39684a68e31d17767f9.ctv> |
+| 37 | [HD]8 Mediacorp | stream1.freetv.fun | <https://stream1.freetv.fun/56636bc54db3020e38e6596b6911e4272eb3ac69ea98b5ee817a9b61b5ebd52f.ctv> |
 | 38 | [SD]video calabria | stream1.freetv.fun | <https://stream1.freetv.fun/abba5925fd3fbf939c90e92f6994430ae175ca748652d783f537975584be58a8.m3u8> |
 | 39 | [BD]8tv | stream1.freetv.fun | <https://stream1.freetv.fun/76efb88e65dfba5b28d3913eabe3a4a383a2caf2e53abc78c131d9ab819da1f8.m3u8> |
 | 40 | [BD]9 волна | stream1.freetv.fun | <https://stream1.freetv.fun/c9510f9c84d6933391375a59eeb1f8d1a801fe6e72c359e47acdee9919f5a559.m3u8> |
@@ -523,7 +523,7 @@
 | 517 | [HD]fashion one | stream1.freetv.fun | <https://stream1.freetv.fun/1ac9f22c2f0607d39083d590e7c56028ca23de1c6d1961cbbf421d1e54d3a69a.m3u8> |
 | 518 | [BD]fashiontv asia | stream1.freetv.fun | <https://stream1.freetv.fun/d19bb027d41cab00a6c83b167269b6715be6e9d930c985c4e6fb5486496e9ff9.m3u8> |
 | 519 | [VGA]th hải dương | stream1.freetv.fun | <https://stream1.freetv.fun/bc46e144154a34bd76b145e5a5115989b9594d71d0cbe89ff1bcccfe3d18a7ba.m3u8> |
-| 520 | [VGA]sport fishing tv | stream1.freetv.fun | <https://stream1.freetv.fun/99db6f1858a87aa25ee1af8c988df39004d99045accad003c22d70093d3d7292.m3u8> |
+| 520 | [BD]sport fishing tv | stream1.freetv.fun | <https://stream1.freetv.fun/99db6f1858a87aa25ee1af8c988df39004d99045accad003c22d70093d3d7292.m3u8> |
 | 521 | [BD]lfm tv | stream1.freetv.fun | <https://stream1.freetv.fun/102adbd265ded0ab167fb16a7a419337a9e4af0a8626f6c2d282367a85e05d96.m3u8> |
 | 522 | [SD]4fun tv | stream1.freetv.fun | <https://stream1.freetv.fun/aedeea1f357012b2621a1d65ba0b390bbcfc857e50852fad12c65ead88ecdbaf.m3u8> |
 | 523 | [SD]FOOD NETWORK | stream1.freetv.fun | <https://stream1.freetv.fun/bab198dabfae3e364e0221b5e9497a1597f73d497bb488391251ca7c68251116.ctv> |
@@ -691,7 +691,7 @@
 | 685 | [HD]德国isartv | stream1.freetv.fun | <https://stream1.freetv.fun/957275dda8fd0563564989440d282f1124c4da86a85fafe6c573ed3e39c025a2.m3u8> |
 | 686 | [HD]kiss kiss italia hd | stream1.freetv.fun | <https://stream1.freetv.fun/990e184b889d050c375474b9cbd2bbc8b871ff1e24c84c10d963182c118ed0cc.m3u8> |
 | 687 | [SD]j sports 1 | stream1.freetv.fun | <https://stream1.freetv.fun/58b7a423fa26f3a3921d0dc76445cb8c3bf7db68d7c2f1b03f49641b6687cab0.m3u8> |
-| 688 | [HD]ert sports 2 | stream1.freetv.fun | <https://stream1.freetv.fun/92688e6aeee6357c5c42e6f774668674c8d57a000ba6ca6b928a13fe12cb7a04.ctv> |
+| 688 | [SD]j sports 2 | stream1.freetv.fun | <https://stream1.freetv.fun/4acf274c88fa11e09276ce59070de91e4c5c62e186116acd77a0aec74eb0256d.m3u8> |
 | 689 | [SD]j sports 3 | stream1.freetv.fun | <https://stream1.freetv.fun/ddf6e2ddcf5bc983ae2ca196c0418110c3efd2fd71c830e4ac8f94c5e5d18373.m3u8> |
 | 690 | [HD]sports 4 | stream1.freetv.fun | <https://stream1.freetv.fun/be4ae43f3eb255eab2390c0ad8419ed81eb1b988573121e1a55a73bf7e3d85fc.m3u8> |
 | 691 | [BD]jimjam | stream1.freetv.fun | <https://stream1.freetv.fun/0fa2e892b2950ea9128f01f5e988ad539e55078f94e2746fee5d4505e54c37d8.m3u8> |
@@ -1991,4 +1991,4 @@
 | 1985 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 | 1986 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Tue Apr 15 2025 08:29:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Apr 15 2025 10:17:11 GMT+0000 (Coordinated Universal Time)**
