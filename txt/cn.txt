@@ -4,7 +4,7 @@
 [SD]优漫卡通,https://stream1.freetv.fun/eff0a7c884bde67f455c23a1c4d75feb11048dfc1646f9758c6180f04b28b21e.m3u8
 [BD]内蒙古少儿,https://stream1.freetv.fun/33ee7037f619b5d5d79a42bb19cd57481429793eaf434db6f40e36cd9ff84ab1.m3u8
 [SD]动漫秀场,https://stream1.freetv.fun/670c5b1cdfb0effab6e9e09e5c82afcbe22528940ea1c58836e288e4f4bafb03.m3u8
-[SD]名侦探柯南,https://stream1.freetv.fun/3710efd8cc1ff57be57c545bac0240a43c776df32338262f0896d033783a1859.ctv
+[BD]名侦探柯南,https://stream1.freetv.fun/3710efd8cc1ff57be57c545bac0240a43c776df32338262f0896d033783a1859.ctv
 [SD]哈哈炫动,https://stream1.freetv.fun/d9a16722c4303668abc9aea4c13e51f52951071e4028eaeb6e9639b72d61f063.m3u8
 [BD]嘉佳卡通,https://stream1.freetv.fun/6d228187385d7b8b5b6894f6e0900e4440338aff3e12e1c0c3677a7f2e37667e.ctv
 [BD]山东少儿,https://stream1.freetv.fun/015dbac308d9da33dad5b4b2991f2fa094de73f086e45f9f3e3356e4e7aa6dc2.m3u8
@@ -305,7 +305,6 @@
 [HD]公共应急,rtmp://livein.gstv.com.cn/49048r/2v86i8.flv
 [BD]睛彩河北,https://stream1.freetv.fun/80b7c2cdd95dcc720ed344fc0c21f32c7609bd4e5ae66a5275df881c240555de.m3u8
 [BD]福建旅游,https://stream1.freetv.fun/d81f63a76a3547bd8255c5bffc25a2c4b3868792fcec6304b25de1996a048b3e.m3u8
-[SD]义乌商贸,https://stream1.freetv.fun/349dc8556a70f0ee4e59ac8f38c38dc55ac1a2f8e4d7f1e41b961f60b4a0dd5c.m3u8
 [HD]苏州文化生活,https://stream1.freetv.fun/3516d79810c910f94a17902f64a82f94cbc576e868c068a24a75b19f2b853e4d.m3u8
 [BD]苏州新闻综合,https://stream1.freetv.fun/8161058adb897274c61359249d6c8909159997699519a5cfe065f4e575672d41.m3u8
 [HD]苏州生活资讯,https://stream1.freetv.fun/1742c62fe64094a075df880f618b4ef3307ddce57dd588c6930093251f835de5.m3u8
