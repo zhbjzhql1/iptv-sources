@@ -61,7 +61,7 @@ Movies,#genre#
 [VGA]galaxy,https://stream1.freetv.fun/75b596ff6831243fd2e83ba5d7cc3cc5de4fa4422d6383f1cdf12340f9213e29.m3u8
 [BD]great!_movies,https://stream1.freetv.fun/89607df0b36fed42565eb3368873356d45436a0689f5c0b2550aa2c2fbd1bc7b.m3u8
 [HD]hbo,https://stream1.freetv.fun/0bdcc3a50973b24d87ea727540020cd0b96d6d4ec65751ee18ff86f2e9af5c68.ctv
-[BD]HBO_2,https://stream1.freetv.fun/f17dd751ce69656fc3b73131c0b91b33aef05308d0cee60231c55ef25cd36a50.ctv
+[BD]HBO_2,https://stream1.freetv.fun/4c92dcb7a6842feed641c23585e7c8699f5ed62eeef327a5b9a0d5fb576bd0b7.ctv
 [HD]hbo_3,https://stream1.freetv.fun/73ac749dd962ff6095987bdc252366bf56b0b299676de46928935e9ec98f6ab5.m3u8
 [BD]HBO,https://stream1.freetv.fun/ca38481f4b5ff01e9a6c73d84bfccf2780a942e3970b12a3f2907f1ac402da8d.m3u8
 [BD]HBO_Comedy,https://stream1.freetv.fun/0c667a605546b3754be2f8ef68e1c27d54681d14bca30152b036425a94ac6fda.ctv
@@ -1817,7 +1817,7 @@ Sports,#genre#
 [BD]sport5,https://stream1.freetv.fun/f7d9f335b8f0c4c8c8b00cb764242509571f2c15dcec2bf9a2637c05c8296c71.m3u8
 [HD]sporting_tv,https://stream1.freetv.fun/737a5044bd79f878ce9f280bc41857a019e6cc8a43628b00c3ce2541292e2dce.ctv
 [HD]lsn_-_lax_sports_network,https://stream1.freetv.fun/ce0c8495db4aa92e6d6a3fbbb2fb5acaaaa4dd8bb1701ea32362f7d363335755.m3u8
-[BD]ca-sportsnet,https://stream1.freetv.fun/7d6f02ef9f01d9e4698899569dc8944e03225ecf5fe4e22c15ed4e04b35dd20b.ctv
+[HD]ca-sportsnet,https://stream1.freetv.fun/7d6f02ef9f01d9e4698899569dc8944e03225ecf5fe4e22c15ed4e04b35dd20b.ctv
 [HD]s_sport_+2_tr,https://stream1.freetv.fun/1b15fb209420340a810a4cb68896424575e0e2ca25e96481085ab1c99e9b680f.ctv
 [BD]sukan_rtm,https://stream1.freetv.fun/d23964f2d7344c700bf6fc1fb9e66a23b8b7909a3f423525d9db8d251368666b.m3u8
 [HD]motorsport_fr,https://stream1.freetv.fun/5494870d6e3867e5098cb11cf755bd8899cddb7c58db5b1d1be76acf80fb47cc.m3u8
@@ -1961,7 +1961,7 @@ Kids,#genre#
 [SD]优漫卡通,https://stream1.freetv.fun/57e3fc6914792be5173e3d60559c5e54f9adc80cccf70eaf6994660d3b10297c.ctv
 [BD]内蒙古少儿,https://stream1.freetv.fun/33ee7037f619b5d5d79a42bb19cd57481429793eaf434db6f40e36cd9ff84ab1.m3u8
 [SD]动漫秀场,https://stream1.freetv.fun/670c5b1cdfb0effab6e9e09e5c82afcbe22528940ea1c58836e288e4f4bafb03.m3u8
-[BD]名侦探柯南,https://stream1.freetv.fun/3710efd8cc1ff57be57c545bac0240a43c776df32338262f0896d033783a1859.ctv
+[HD]名侦探柯南,https://stream1.freetv.fun/3710efd8cc1ff57be57c545bac0240a43c776df32338262f0896d033783a1859.ctv
 [SD]哈哈炫动,https://stream1.freetv.fun/d9a16722c4303668abc9aea4c13e51f52951071e4028eaeb6e9639b72d61f063.m3u8
 [BD]嘉佳卡通,https://stream1.freetv.fun/b5db6dd06ad74aead5d8160da6c7b7ec8228136eb26524d9abc66a9d1b16b380.ctv
 [BD]山东少儿,https://stream1.freetv.fun/015dbac308d9da33dad5b4b2991f2fa094de73f086e45f9f3e3356e4e7aa6dc2.m3u8

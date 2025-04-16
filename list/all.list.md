@@ -601,7 +601,7 @@
 | 595 | [BD]nh tv | stream1.freetv.fun | <https://stream1.freetv.fun/ace53939ae82fa9ade48d73c9ffad2d771697b9a4dd9fe7ecb7872a72527131b.ctv> |
 | 596 | [HD]tve 24 h | stream1.freetv.fun | <https://stream1.freetv.fun/c1a7f9a3a5487a024d07c499341ff73da13f8a56660ac1b65625d99de11b1239.m3u8> |
 | 597 | [HD]hbo | stream1.freetv.fun | <https://stream1.freetv.fun/0bdcc3a50973b24d87ea727540020cd0b96d6d4ec65751ee18ff86f2e9af5c68.ctv> |
-| 598 | [BD]HBO 2 | stream1.freetv.fun | <https://stream1.freetv.fun/f17dd751ce69656fc3b73131c0b91b33aef05308d0cee60231c55ef25cd36a50.ctv> |
+| 598 | [BD]HBO 2 | stream1.freetv.fun | <https://stream1.freetv.fun/4c92dcb7a6842feed641c23585e7c8699f5ed62eeef327a5b9a0d5fb576bd0b7.ctv> |
 | 599 | [HD]hbo 3 | stream1.freetv.fun | <https://stream1.freetv.fun/73ac749dd962ff6095987bdc252366bf56b0b299676de46928935e9ec98f6ab5.m3u8> |
 | 600 | [BD]HBO | stream1.freetv.fun | <https://stream1.freetv.fun/ca38481f4b5ff01e9a6c73d84bfccf2780a942e3970b12a3f2907f1ac402da8d.m3u8> |
 | 601 | [BD]HBO Comedy | stream1.freetv.fun | <https://stream1.freetv.fun/0c667a605546b3754be2f8ef68e1c27d54681d14bca30152b036425a94ac6fda.ctv> |
@@ -1100,7 +1100,7 @@
 | 1094 | [HD]tv 6 | stream1.freetv.fun | <https://stream1.freetv.fun/085e2d4f91f231f66d98b6f722edf16d0c15022cba23ece6f0eb5b2a7574e286.m3u8> |
 | 1095 | [HD]sporting tv | stream1.freetv.fun | <https://stream1.freetv.fun/737a5044bd79f878ce9f280bc41857a019e6cc8a43628b00c3ce2541292e2dce.ctv> |
 | 1096 | [HD]lsn - lax sports network | stream1.freetv.fun | <https://stream1.freetv.fun/ce0c8495db4aa92e6d6a3fbbb2fb5acaaaa4dd8bb1701ea32362f7d363335755.m3u8> |
-| 1097 | [BD]ca-sportsnet | stream1.freetv.fun | <https://stream1.freetv.fun/7d6f02ef9f01d9e4698899569dc8944e03225ecf5fe4e22c15ed4e04b35dd20b.ctv> |
+| 1097 | [HD]ca-sportsnet | stream1.freetv.fun | <https://stream1.freetv.fun/7d6f02ef9f01d9e4698899569dc8944e03225ecf5fe4e22c15ed4e04b35dd20b.ctv> |
 | 1098 | [SD]ช่อง star 2 | stream1.freetv.fun | <https://stream1.freetv.fun/61a586671dad13b933372fdecdfcb0ed223e27cce75a1b87506562966072eafa.m3u8> |
 | 1099 | [SD]ช่อง star 3 | stream1.freetv.fun | <https://stream1.freetv.fun/07a624bc9fbfad54cf60e181013f01e7629620e643e76ba52a938f61a01ac6e2.m3u8> |
 | 1100 | [BD]star | stream1.freetv.fun | <https://stream1.freetv.fun/30b0a85cfe3bc1f14f58e67de96dd617654f5f95c9e37100b216edc84bfe01f2.m3u8> |
@@ -1585,7 +1585,7 @@
 | 1579 | [HD]台视 | stream1.freetv.fun | <https://stream1.freetv.fun/3495e9fda12538372cb0ff4079a5463ea9688341dedf1db07b4be4290a0d09aa.ctv> |
 | 1580 | [HD]台视新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/d53ca0c34189f680ae61bf83b52ce3d5dee414238d66518e0243f768738d7724.m3u8> |
 | 1581 | [SD]吉林卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/657b3cc8f2106d0e0b52d0bc7f0e15db544b37b3e86bf5f486f351b9db61fa2e.m3u8> |
-| 1582 | [BD]名侦探柯南 | stream1.freetv.fun | <https://stream1.freetv.fun/3710efd8cc1ff57be57c545bac0240a43c776df32338262f0896d033783a1859.ctv> |
+| 1582 | [HD]名侦探柯南 | stream1.freetv.fun | <https://stream1.freetv.fun/3710efd8cc1ff57be57c545bac0240a43c776df32338262f0896d033783a1859.ctv> |
 | 1583 | [SD]哆啦a梦 | stream1.freetv.fun | <https://stream1.freetv.fun/559216a4ad6e3e905ca6e0b87dd6d600e1a4256ac1cfa6b642af56fe10b875ac.ctv> |
 | 1584 | [SD]哈哈炫动 | stream1.freetv.fun | <https://stream1.freetv.fun/d9a16722c4303668abc9aea4c13e51f52951071e4028eaeb6e9639b72d61f063.m3u8> |
 | 1585 | [VGA]哈尔滨娱乐 | stream1.freetv.fun | <https://stream1.freetv.fun/2fc35c833b23774263a95e84dac67fd36e5f21101d7e3fcb72318ef7a1c6bb23.m3u8> |
@@ -2001,4 +2001,4 @@
 | 1995 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 | 1996 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Wed Apr 16 2025 18:21:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Apr 16 2025 20:17:21 GMT+0000 (Coordinated Universal Time)**

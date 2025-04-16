@@ -86,7 +86,7 @@
 | 80 | [BD]浙江新昌新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/117353e7f349e9841ea7d79852cc8cb8fa4449dd2ddffa9bec27e2babfdba2f9.m3u8> |
 | 81 | [BD]原阳新闻综合频道 | stream1.freetv.fun | <https://stream1.freetv.fun/34035d18278d3b4ea7b4ed4f94547d75a3440e5f74490c99458d9e881c990bf2.m3u8> |
 | 82 | [SD]吉林卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/657b3cc8f2106d0e0b52d0bc7f0e15db544b37b3e86bf5f486f351b9db61fa2e.m3u8> |
-| 83 | [BD]名侦探柯南 | stream1.freetv.fun | <https://stream1.freetv.fun/3710efd8cc1ff57be57c545bac0240a43c776df32338262f0896d033783a1859.ctv> |
+| 83 | [HD]名侦探柯南 | stream1.freetv.fun | <https://stream1.freetv.fun/3710efd8cc1ff57be57c545bac0240a43c776df32338262f0896d033783a1859.ctv> |
 | 84 | [SD]哈哈炫动 | stream1.freetv.fun | <https://stream1.freetv.fun/d9a16722c4303668abc9aea4c13e51f52951071e4028eaeb6e9639b72d61f063.m3u8> |
 | 85 | [VGA]哈尔滨娱乐 | stream1.freetv.fun | <https://stream1.freetv.fun/2fc35c833b23774263a95e84dac67fd36e5f21101d7e3fcb72318ef7a1c6bb23.m3u8> |
 | 86 | [VGA]哈尔滨影视 | stream1.freetv.fun | <https://stream1.freetv.fun/27ca757fe87af150a2076d7f659619d05a24d65e3656f9a85c93a162adf7ab1c.m3u8> |
@@ -378,7 +378,7 @@
 | 372 | [BD]music | stream1.freetv.fun | <https://stream1.freetv.fun/cdcbc055953a402406d3404c517005dea82b566ad8e715d548af80db9352d0e8.m3u8> |
 | 373 | [BD]盐城大丰公共 | stream1.freetv.fun | <https://stream1.freetv.fun/ca28dbf645caea3f5228310ee60bf3385c2cf8d4112a70844f5f00fb5e08dd22.m3u8> |
 | 374 | [BD]永城新闻综合频道 | stream1.freetv.fun | <https://stream1.freetv.fun/f6c03f19692823d066b7bed8d72c52941b3cd675869e6fcc09d82d0a5fae81c8.m3u8> |
-| 375 | [SD]丽水新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/d5c2af1aa1afa4669a3b2d5428ff2ae26d6444966cdbca4c8afce1e260e5bd5a.ctv> |
+| 375 | [BD]溧水新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/abcbea67ce833663a5efd3a596658569e832185ce6c907f151eeb5477c4a0819.m3u8> |
 | 376 | [SD]黑龙江少儿 | stream1.freetv.fun | <https://stream1.freetv.fun/0f800b8b5e9734bb67933337637e463677087c33e1eb8680da514c68170e0e16.m3u8> |
 | 377 | [HD]黑龙江影视 | stream1.freetv.fun | <https://stream1.freetv.fun/6186d8420f7e86d3337615a008072538610d9e9a20c1d01d4087add26fcbe019.m3u8> |
 | 378 | [SD]黑龙江文体 | stream1.freetv.fun | <https://stream1.freetv.fun/b3a16ddbea57d480f22f386d597221cf2322bb740debf5921d2f2b3d90455a57.m3u8> |
@@ -387,4 +387,4 @@
 | 381 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/a10b52e4c438586deca319570f445a4c9ebb6dea4ceb3b204f9bc9ae93fcbc58.m3u8> |
 | 382 | [HD]黑龙江都市 | stream1.freetv.fun | <https://stream1.freetv.fun/dc07729bf522e7df81f1254e9bcd017dfd0d0b30bb423ff51d0a01156017a819.m3u8> |
 
-Updated at **Wed Apr 16 2025 18:21:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Apr 16 2025 20:17:21 GMT+0000 (Coordinated Universal Time)**
