@@ -2001,4 +2001,4 @@
 | 1995 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 | 1996 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Wed Apr 16 2025 20:17:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Apr 16 2025 22:14:03 GMT+0000 (Coordinated Universal Time)**
