@@ -63,7 +63,7 @@ Movies,#genre#
 [HD]filmbox_premium,https://stream1.freetv.fun/2fd86b6f992703eee15a4cf3775bde4d994db28793660794edab0b745a68620b.m3u8
 [BD]GALAXY,https://stream1.freetv.fun/7d3b4ac1e49be035d061569d9b9bcc572170fcad05a90f81366197d672cf9d3c.m3u8
 [BD]great!_movies,https://stream1.freetv.fun/89607df0b36fed42565eb3368873356d45436a0689f5c0b2550aa2c2fbd1bc7b.m3u8
-[HD]hbo,https://stream1.freetv.fun/0bdcc3a50973b24d87ea727540020cd0b96d6d4ec65751ee18ff86f2e9af5c68.ctv
+[SD]hbo,https://stream1.freetv.fun/419f7c8de2912e89d3b53b7f943c0c82a076fdf6846327e4911e8af9b5fd1d18.ctv
 [HD]HBO_2,https://stream1.freetv.fun/f17dd751ce69656fc3b73131c0b91b33aef05308d0cee60231c55ef25cd36a50.ctv
 [HD]hbo_3,https://stream1.freetv.fun/73ac749dd962ff6095987bdc252366bf56b0b299676de46928935e9ec98f6ab5.m3u8
 [BD]HBO,https://stream1.freetv.fun/ca38481f4b5ff01e9a6c73d84bfccf2780a942e3970b12a3f2907f1ac402da8d.m3u8
@@ -1131,7 +1131,7 @@ Knowledge,#genre#
 [VGA]阳光卫视,https://stream1.freetv.fun/5b81ab36a237c87b361817259db04b2a8d645fb46e2a264169ba93dce7486424.m3u8
 
 Other,#genre#
-[BD]tv_100,https://stream1.freetv.fun/187807feb1275dd7af7bcb7da9ba74c64239dfe402a3a9fe3a2c0d3e411cd7d1.m3u8
+[BD]tv_100,https://stream1.freetv.fun/d6ae09d8d982fb09c5218692e139d362db185f39885e0377d5fcb80a3e19bbe4.m3u8
 [BD]神乐影片1,https://stream1.freetv.fun/4bb6cd65c225d9000bfa15a013db79f1068df4d235fb7e2b041dad9ae2b4d1c0.ctv
 [SD]yemen_shabab,https://stream1.freetv.fun/124acdf9f7ed8e0f5910d1a001e1b965f18ff07c923db865aa8ac2f97e17e4d7.m3u8
 [HD]action_24,https://stream1.freetv.fun/3dd6d17d15824219f2a4c7f06925a64059bdd09058a1d892b00cd159d7530f91.m3u8
@@ -1934,7 +1934,7 @@ Kids,#genre#
 [HD]Nick_Jr,https://stream1.freetv.fun/92faccd013eb2f48032d52b97770b26d229d1048c9c3bf71b0572328586bf7b5.ctv
 [VGA]nickmusic_usa,https://stream1.freetv.fun/08e0d07db205685600345e043a70cb849a716d27b47bd4e28c929fe48aad0e55.m3u8
 [BD]NICKELODEON,https://stream1.freetv.fun/a49ac678d35dadba798a328edfacb4471787884a4cd39fae530e2c5a133f885f.ctv
-[HD]nicktoons_east,https://stream1.freetv.fun/85f8925c3224130ae40333cb95c6d7506436faa75adfec5f6c4af1975acd1ffd.m3u8
+[HD]nicktoons,https://stream1.freetv.fun/000de17b430e5719cba41bb934916afc4a0663c9d527c7bdb9cfe34f7a3e519f.m3u8
 [HD]OKEY,https://stream1.freetv.fun/a4e37e6ffc15be3e0a9bead18b35ab717344365fbc2373910443edc3e9ec3f7c.m3u8
 [BD]panc_tv,https://stream1.freetv.fun/629b78981ffb08cd9e8166ba05a48a95c2255b468118822552131e9399cd4c73.m3u8
 [HD]polo_tv,https://stream1.freetv.fun/8ca7f74a1eb0212b52dec9ce68df6d39a194d47b0a13b9cd97aecbf2050b8f58.m3u8
