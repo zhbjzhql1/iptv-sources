@@ -321,7 +321,7 @@
 [BD]cctv6,https://stream1.freetv.fun/74f09b564503549683e4d1da5f68a95f4d34337c3b48004415eec78a1ec0f489.m3u8
 [BD]cctv8,https://stream1.freetv.fun/d4735f1f761ea33c83e2a22929a80fefcb9298f8f47cda8651c62077854306b2.m3u8
 [SD]cctv第一剧场,https://stream1.freetv.fun/31cbe2ad06dc69104322ab8dc32fd094b5bc855f9e9a7f2efbdb34f91a819be0.m3u8
-[HD]celestial_classic_movies,https://stream1.freetv.fun/4263d9fefc263c67ce74fe591bc8defe96bb420d00822203d03d4f31905c02d1.m3u8
+[SD]Celestial_Classic_Movies,https://stream1.freetv.fun/bdecb27a519b967c2baa256816c2987a25fc4bd6cd3dc2cbf69e4e21120a7096.ctv
 [BD]chc动作电影,https://stream1.freetv.fun/413df533cc2d866bacdc87729814e66f4cf836c13b12ed783b54345fd012c6c8.ctv
 [BD]chc家庭影院,https://stream1.freetv.fun/afb1cd96cd286a1e4152279ff4bfbd1b00af04e447d26261cdf2bda778ee1b34.ctv
 [BD]chc影迷电影,https://stream1.freetv.fun/89dcf662d185d8ec04e70c74a9e34e628e584a6482ee0f880fb2dd9729114de0.ctv
