@@ -1038,7 +1038,6 @@ Hours_to_Kill_–_Zeitachse_des_Todes,http://cfd-v4-service-channel-stitcher-use
 Hours_to_Kill_Zeitachse_des_Todes,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656064e74261ca00081812a9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc841a98-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fc6fd09c-f448-42a1-aba4-ead7f641967b
 HOY_Infotainment_(1080p),https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 Hoynet_(360p),https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
-HOY资讯台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8
 HSN_West,https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
 Hudhud_TV,http://63b03f7689049.streamlock.net:1935/live/17/playlist.m3u8
 Hulchul_TV_(720p)_[Not_24/7],http://cdn12.henico.net:8080/live/jbani/index.m3u8
@@ -1105,7 +1104,6 @@ ITSF,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772a
 ITV_Deportes,https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 ITV_Un_Village_Français,https://amg00654-itv-amg00654c32-rakuten-fr-6134.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-unvillagesfrancais-rakutenfr/playlist.m3u8
 Iunior_TV_(720p)_[Not_24/7],https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
-J2,https://pull-f5-spe.ixigua.com/yeslivetv.com/6027316-581799927/index.m3u8
 Jacksonville_Freedom_Fountain_Camera_Live,https://reflect-jacksonville.cablecast.tv/live/stream-2/live.m3u8
 Jak_TV_(480p),http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/index.m3u8
 Jam,https://ncdn.telewebion.com/jam/live/playlist.m3u8
@@ -3086,8 +3084,6 @@ Visión_Plus_TV_(Melipilla)_(720p)_[Not_24/7],https://v2.tustreaming.cl/visionpl
 Vision_TV_(720p),https://5cf4a2c2512a2.streamlock.net/8184/8184/playlist.m3u8
 Visión_TV_(720p),https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 Visual_Radio_(576p)_[Not_24/7],http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
-ViuTV,https://pull-f5-spe.ixigua.com/yeslivetv.com/711923214-581799927/index.m3u8
-ViuTV_Six,https://pull-f5-spe.ixigua.com/yeslivetv.com/154548299-581799927/index.m3u8
 Viva_TV_Yurimaguas_(720p),https://live.obslivestream.com/vivatv/index.m3u8
 Vivaldi_TV_(1080p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01523-mezzo-vivalditv-tcl/playlist.m3u8
 Vivamóvil_(720p),https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
@@ -3712,8 +3708,6 @@ Zylo_ScreamIN,https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/ra
 漳州新闻综合_(720p)_[Not_24/7],https://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
 灵台新闻综合_(1080p),http://117.156.28.119/270000001111/1110000145/index.m3u8
 炫动卡通_(576p),http://223.110.245.139/PLTV/4/224/3221226388/index.m3u8
-无线新闻台,https://pull-f5-spe.ixigua.com/yeslivetv.com/446133069-816601364/index.m3u8
-无线财经·体育·资讯台,https://pull-f5-spe.ixigua.com/yeslivetv.com/944048695-106799677/index.m3u8
 甘肃公共_(540p)_[Not_24/7],https://hls.gstv.com.cn/49048r/3t5xyc.m3u8
 甘肃移动_(540p)_[Not_24/7],https://hls.gstv.com.cn/49048r/y72q36.m3u8
 生活_(576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227311/index.m3u8
@@ -3762,7 +3756,6 @@ Zylo_ScreamIN,https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/ra
 置业_(576p),http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227037/index.m3u8
 美国中文电视_(406p)_[Not_24/7],https://jpts.sinovision.net/livestream.m3u8
 美国狗狗宠物_(1080p),https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
-翡翠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8
 耀才财经,http://202.69.67.66/webcast/bshdlive-pc/playlist.m3u8
 肃州电视台_(1080p),http://117.156.28.119/270000001111/1110000123/index.m3u8
 舟山公共生活_(720p),http://live.wifizs.cn/ggsh/sd/live.m3u8
@@ -3836,7 +3829,6 @@ Zylo_ScreamIN,https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/ra
 靖江新闻综合_(480p)_[Not_24/7],http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
 静宁综合_(1080p),http://117.156.28.119/270000001111/1110000147/index.m3u8
 风尚购物_(1080p),http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw
-香港国际财经台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-312f21aa-d8cf-4d55-bd8f-87069342457d/index.m3u8
 高台电视台_(1080p),http://117.156.28.119/270000001111/1110000146/index.m3u8
 高清电影_(1080p),http://39.134.19.76/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 鹤峰综合,http://hefeng.live.tempsource.cjyun.org/videotmp/s10100-hftv.m3u8
@@ -4754,7 +4746,7 @@ Hirshabelle_TV_(576p),http://ap02.iqplay.tv:8081/iqb8002/h1rshbe1iptv/playlist.m
 HK6_TV_(1080p),https://tnt-television.com/HK6_TV/index.m3u8
 HLC_TV_(480p)_[Not_24/7],https://goliveafrica.media:9998/live/627d06e001aaf/index.m3u8
 Horizon3_TV_(480p)_[Not_24/7],http://connectiktv.ddns.me:8080/live/63bae88242fa7/index.m3u8
-HOY_TV开电视,https://pull-f5-spe.ixigua.com/yeslivetv.com/934973832-202925490/index.m3u8
+HOY_TV_(1080p),https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 hr-fernsehen_(1080p),https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
 HTR_TV_(720p),https://ms7.mx-cd.net/tv/286-3043214/HTR_Media_TV.smil/playlist.m3u8
 HTV1_(720p),https://vc.101vn.com/htv/htvcmb.php?id=2631
@@ -9098,7 +9090,6 @@ CBC_Sport,https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 CBS_Sports_Golazo_Network,https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 CBS_Sports_HQ,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
 CBS_Sports_Network_USA,http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-CCTV5+,https://pull-f5-spe.ixigua.com/live/YesLiveTV-7d098b36-c7e5-4941-8eb0-6af0f5ad3f8d.flv
 CCTV_央视台球,http://117.161.133.51:81/gitv_live/G_TAIQIU-CQ/G_TAIQIU-CQ.m3u8?p=GITV
 CCTV_风云足球,http://117.161.133.51:81/gitv_live/G_FENGSHANGZQ-CQ/G_FENGSHANGZQ-CQ.m3u8?p=GITV
 CCTV-5体育_(1080p),http://1.85.0.62:808/hls/503/index.m3u8
