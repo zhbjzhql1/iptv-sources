@@ -506,4 +506,4 @@
 | 500 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 | 501 | Golden Eagle Cartoon | IPv4 直链 | <http://1.24.190.98:10080/hls/51/index.m3u8> |
 
-Updated at **Wed Apr 30 2025 16:19:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Apr 30 2025 18:21:13 GMT+0000 (Coordinated Universal Time)**
