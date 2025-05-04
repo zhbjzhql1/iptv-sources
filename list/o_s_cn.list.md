@@ -1,4 +1,4 @@
-# List for **iptv.org stream China**
+# List for **iptv.org stream China**(Rollback)
 
 > M3U: [o_s_cn.m3u](/o_s_cn.m3u), TXT: [o_s_cn.txt](/txt/o_s_cn.txt)
 
@@ -506,4 +506,4 @@
 | 500 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 | 501 | Golden Eagle Cartoon | IPv4 直链 | <http://1.24.190.98:10080/hls/51/index.m3u8> |
 
-Updated at **Sun May 04 2025 18:19:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun May 04 2025 20:15:58 GMT+0000 (Coordinated Universal Time)**
