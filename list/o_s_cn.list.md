@@ -511,4 +511,4 @@
 | 505 | Nei Monggol TV Children Channel | play1-qk.nmtv.cn | <http://play1-qk.nmtv.cn/live/1686560464515368.m3u8> |
 | 506 | Nei Monggol TV News Channel | play1-qk.nmtv.cn | <http://play1-qk.nmtv.cn/live/1686560423879174.m3u8> |
 
-Updated at **Thu May 08 2025 04:19:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu May 08 2025 06:23:15 GMT+0000 (Coordinated Universal Time)**
