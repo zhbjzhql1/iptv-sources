@@ -510,5 +510,11 @@
 | 504 | Nei Monggol TV Culture Entertainment Channel | play1-qk.nmtv.cn | <http://play1-qk.nmtv.cn/live/1686561195713372.m3u8> |
 | 505 | Nei Monggol TV Children Channel | play1-qk.nmtv.cn | <http://play1-qk.nmtv.cn/live/1686560464515368.m3u8> |
 | 506 | Nei Monggol TV News Channel | play1-qk.nmtv.cn | <http://play1-qk.nmtv.cn/live/1686560423879174.m3u8> |
+| 507 | Nanchang News & Generalist Channel | play-live-hls.jxtvcn.com.cn | <https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8> |
+| 508 | Jiangxi Children's Channel | play-live-hls.jxtvcn.com.cn | <https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8> |
+| 509 | Jiangxi Movie Channel | play-live-hls.jxtvcn.com.cn | <https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8> |
+| 510 | Jiangxi Public & Agriculture Channel | play-live-hls.jxtvcn.com.cn | <https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8> |
+| 511 | Jiangxi Economy & Life Channel | play-live-hls.jxtvcn.com.cn | <https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8> |
+| 512 | Jiangxi City Channel | play-live-hls.jxtvcn.com.cn | <https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8> |
 
-Updated at **Thu May 08 2025 22:14:35 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri May 09 2025 01:14:21 GMT+0000 (Coordinated Universal Time)**

@@ -7347,6 +7347,8 @@ JČ1_(1080p),https://stream.jc1.cz/hls/jc1.m3u8
 Jednotka_(1080p),https://sktv.plainrock127.xyz/get.php?x=STV1
 Jeevan_TV_(396p),https://yupplivefragcp5.yuppcdn.net/030523/smil:jeevan.smil/playlist.m3u8
 Jek_TV_(720p)_[Not_24/7],http://61.8.64.138:1935/jektv/myStream/playlist.m3u8
+Jiangxi_City_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8
+Jiangxi_Public_&_Agriculture_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8
 Jibek_Joly_(1080p),https://stream.qazcdn.net/jjtv/jjtv/playlist.m3u8
 Jihočeská_televize_(1080p),https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
 JN19_TV2_(1080p)_[Not_24/7],https://servilive.com:3224/live/jn19tv2live.m3u8
@@ -7680,6 +7682,7 @@ MyEncinitasTV_(Encinitas_CA)_(360p),https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/en
 N4_(1080p),http://62.233.57.226:8001/play/a007
 Nacional_Tv_Peru,https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
 naheTV_(720p),https://s.ok54.de/nahetv/webstream/playlist.m3u8
+Nanchang_News_&_Generalist_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8
 Nancy_Web_TV_(394p)_[Not_24/7],https://edge.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8
 Nandighosha_TV_(720p),https://www.nandighoshatvlive.com/hls/stream/index.m3u8
 Napa_Valley_TV_Public_Access_Channel_28_(480p),https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/napatv/G0360_004/playlist.m3u8
@@ -8887,7 +8890,7 @@ Muzzik_POP_STAR_(720p),https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 Muzzik_SENSE_(720p),https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
 Muzzik_TIKTAK_(720p),https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
 Muzzik_ZZ_TV_(720p),https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-MuzzOne_(1080p),https://streams.qazcdn.net/muzzone/muzzone/playlist_dvr.m3u8
+MuzzOne_(576p),https://hls.live.31kz.adapto.kz/muzzone/index.m3u8
 Myx_(720p),https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 Naturescape,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240b7e283aa40008f79f84/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f05-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a5760903-3730-493d-a240-f38538ed67ca
 Navahang_TV_(720p),https://hls.navahang.live/hls/stream.m3u8
@@ -9300,6 +9303,7 @@ America's_Voice_(720p),https://content.uplynk.com/channel/26bd482ffe364a1282bc3d
 America's_Voice_News,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e1f7da4bc7d740009831259/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268075-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c9b5079-e879-44e3-aa61-766a233fb604
 AMX_Noticias_(720p)_[Not_24/7],https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 ANC_(720p),https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
+ANN_News_(720p),https://cdn.ottlive.co.in/annnews/index.m3u8
 Antena_3_CNN,https://live3vox.antenaplay.ro/a3free/a3free.m3u8
 Antena_21_(480p)_[Not_24/7],https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
 APN_(576p),https://cdn.smartstream.video/smartstream-us/apnnews/apnnews/chunks.m3u8
@@ -10212,6 +10216,7 @@ Expresión_TV_(1080p),https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m
 Extrema_TV_(720p),https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 Faith_TV_(576p),https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
 Fajar_TV_(240p)_[Not_24/7],http://122.248.43.138:1935/ch27/myStream/playlist.m3u8
+FarmodaTV_(1080p),https://avr.host247.net/live/FarmodaTV/playlist.m3u8
 Faro_de_Santidad_TV_(720p),https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8
 Fazal_TV_(1080p),http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
 Fe_Viviente_(480p),https://stream.oursnetworktv.com/latin/feVivienteGtm/playlist.m3u8
@@ -10575,6 +10580,7 @@ The_Kingdom_Sat_(720p),https://bcovlive-a.akamaihd.net/0e524e1838ed411dad0a674d1
 The_Now_Network_(480p)_[Not_24/7],https://mediaprod1.nowcast.cc:5443/LiveApp/streams/anZPy7eaVWLyDMZB1697488814699.m3u8
 The_Word_Network_(1080p),https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
 TNE_(720p)_[Not_24/7],https://v2.tustreaming.cl/tnetv/index.m3u8
+towheedtv_(720p),https://avr.host247.net/live/towheedtv/playlist.m3u8
 Trece_TV_(576p),https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
 Trinity_Channel,https://edge66.magictvbox.com/liveApple/trinity/tracks-v1a1/mono.m3u8
 Trinity_TV_(480p)_[Not_24/7],https://5d00db0e0fcd5.streamlock.net/7410/7410/playlist.m3u8
@@ -10934,7 +10940,7 @@ Ficom_Channel_(720p),https://v3.siar.us/ficomchannel/live/playlist.m3u8
 Fidele_TV_(480p),https://59d39900ebfb8.streamlock.net/FIDELETV/FIDELETV/playlist.m3u8
 Fido_TV_(1080p),https://1123112950.rsc.cdn77.org/HLS/FIDO.m3u8
 Flowers_TV_(576p),http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
-Fort_TV_(480p),http://fort.co-works.org:8080/hls/live.stream.m3u8
+FORT_TV_(480p),https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8
 FORTUNE_TV_(720p),http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
 Freebie_TV_(720p)_[Not_24/7],https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
 Freedom_Love_Zone_TV_(720p),https://panel.freedomflixtv.org:3665/hybrid/play.m3u8
@@ -11371,6 +11377,7 @@ iFilm_2,https://live.presstv.ir/hls/ifilm2.m3u8
 iFilm_Arabic,https://live.presstv.ir/hls/ifilmar.m3u8
 iFilm_English,https://live.presstv.ir/hls/ifilmen.m3u8
 iFilm_Persian,https://live.presstv.ir/hls/ifilmfa.m3u8
+Jiangxi_Movie_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8
 Kairali_We_(396p),https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
 Kino_24,http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 Kino_Barrandov_(720p),http://83.167.253.107/hdmi1_ext
@@ -12109,6 +12116,7 @@ FOX_Business_(1080p),http://41.205.93.154/FOXBUSINESS/index.m3u8
 HOY_International_Business_Channel_(1080p),https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 IDTV_(720p)_[Not_24/7],https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 IDX_Channel_(720p),http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch389)/index.m3u8
+Jiangxi_Economy_&_Life_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8
 Job_Plus_TV_(한국직업방송)_(480p),http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 JOB_TV_(720p),https://jobtvvideo.space/hls/stream/index.m3u8
 NDTV_Profit_(480p),https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8
@@ -12583,12 +12591,14 @@ AMG_TV_(1080p),https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist
 AVA_Family,https://ca-rt.onetv.app:8443/AVAFamily/index-0.m3u8
 Canal_IPe_(1080p),https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 Dove_Channel,https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
+EmanTv_(1080p),https://avr.host247.net/live/emantv/playlist.m3u8
 Famili_Channel_(720p),https://cp.panelchs.com:1936/8012/8012/playlist.m3u8
 Family_Time_(1080p),https://amg09501-questar-amg09501c3-stirr-us-3096.playouts.now.amagi.tv/amg09501/AMG09501C3/segmented_playlist/0/35-89-3096.m3u8
 Free_form_East,http://fl3.moveonjoy.com/FREE_FORM/index.m3u8
 Great_Commission_TV_(468p),http://45.32.115.103/live/livestream/index.m3u8
 Hallmark_Channel_East,http://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 MBC_5_(1080p),https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+Mixkurdy_(1080p),https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
 My_Family_Channel_(1080p),http://210.210.155.37/uq2663/h/h194/index.m3u8
 Nambikkai_TV_(576p),https://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8
 Pet_Collective,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92b5fca869f00078f0162/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6617-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4b4fceb2-10ba-4e0e-b055-2002afd89dc2
@@ -12609,6 +12619,7 @@ Animation_Show_Channel,http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?authi
 Disney_Jr._(1080p),https://saran-live.ercdn.net/disneyjunior/index.m3u8
 Disney_Junior_Latin_America_(480p),http://168.181.122.234:8000/play/a037/index.m3u8
 Japanim_TV_(1080p),https://foxkidstv.be:3369/stream/play.m3u8
+Jiangxi_Children's_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
 Multimania_(Latvia)_(576p),https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8
 Pingviin_(576p),https://void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8
 Spacetoon_Arabic_(1080p),https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
@@ -13092,6 +13103,7 @@ Zhejiang_TV_International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 
 Animation;Kids,#genre#
 Animation_Show_Channel,http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?authid=0&key=txiptv&playlive=1
+Jiangxi_Children's_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
 优漫卡通_(576p),http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
 金鹰卡通_(576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
 
@@ -13117,6 +13129,7 @@ Bloomberg_TV_Asia_(720p),https://bloomberg.com/media-manifest/streams/asia.m3u8
 Bloomberg_TV_Asia_Live_Event_(720p),https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 CCTV2_(576p),http://117.161.133.51:81/gitv_live/G_CCTV-2/G_CCTV-2.m3u8
 CNBC_Asia_HD_(720p),https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8
+Jiangxi_Economy_&_Life_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8
 Nei_Monggol_TV_Economic_&_Life_Channel,http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
 World_Economy_Channel,http://49.113.179.174:4022/udp/238.125.2.205:5140
 徐州经济生活_(1080p),http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
@@ -13140,7 +13153,10 @@ Ecology_&_Environment_TV,http://49.113.179.174:4022/udp/238.125.2.175:5140
 General,#genre#
 CCTV1_(1080p),http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?Contentid=reallive-hdcctv1&channel-id=ystenlive&livemode=1&stbId=3
 Dragon_TV_International_(360p),http://210.210.155.37/x6bnqe/s/s29/index.m3u8
+Jiangxi_City_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8
+Jiangxi_Public_&_Agriculture_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8
 Liangshan_TV_[Not_24/7],http://118.122.2.29:9999/hls/47/index.m3u8
+Nanchang_News_&_Generalist_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8
 QTV-4,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 QTV-5,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 STV_City,http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
@@ -13204,6 +13220,7 @@ CCTV_第一剧场,http://117.161.133.51:81/gitv_live/G_DIYIJC-CQ/G_DIYIJC-CQ.m3u
 CCTV_风云剧场,http://117.161.133.51:81/gitv_live/G_FENGYUNJC-CQ/G_FENGYUNJC-CQ.m3u8?p=GITV
 CCTV-6电影_(1080p),http://1.85.0.62:808/hls/6/index.m3u8
 CHC_Action,http://180.213.174.225:9901/tsfile/live/1027_1.m3u8?authid=0&key=txiptv&playlive=1
+Jiangxi_Movie_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8
 QTV-3,http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
 江苏影视_(576p),http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
 高清电影_(1080p),http://39.134.19.76/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
@@ -13756,6 +13773,12 @@ Nei_Monggol_TV_Agriculture_&_Animal_Channel,http://play1-qk.nmtv.cn/live/1686561
 Nei_Monggol_TV_Culture_Entertainment_Channel,http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
 Nei_Monggol_TV_Children_Channel,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
 Nei_Monggol_TV_News_Channel,http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
+Nanchang_News_&_Generalist_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8
+Jiangxi_Children's_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
+Jiangxi_Movie_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8
+Jiangxi_Public_&_Agriculture_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8
+Jiangxi_Economy_&_Life_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8
+Jiangxi_City_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8
 Undefined,#genre#
 douyu8,http://epg.112114.xyz/douyu/4332
 douyu9,http://epg.112114.xyz/douyu/6140589
