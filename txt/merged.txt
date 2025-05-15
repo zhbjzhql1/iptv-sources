@@ -4131,6 +4131,7 @@ Marka_TV,https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8
 Marsh_TV_(720p)_[Not_24/7],http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
 MAV_Select_CANADA,https://d70mb4nkspm3g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vvwqo3j029lz0/playlist.m3u8
 Max_&_Ruby,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb6a4feb32e8000708f4d0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f0-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ef7abed0-920d-4c83-92ed-2a600f6fc6d8
+Max_Middle_East_(720p),https://tv.bdixtv24.com/toffee/live.php?id=b6192dbff21b&e=.m3u8
 Mazandaran,https://lenz.splus.ir/PLTV/88888888/224/3221226786/index.m3u8
 MBC_(1080p),https://cdn8.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/FNTV-CHANNEL_CDN77/index.m3u8
 MBC_Net_(480p),http://mytv.dothome.co.kr/ch/catv/28.php
@@ -5032,6 +5033,8 @@ Sonus_FM_TV_(1080p)_[Not_24/7],http://www.sonus.fm:1935/public/stream_source/pla
 Sony_Canal_Competencias_(1080p),https://spt-competencias-2-us.roku.wurl.tv/playlist.m3u8
 Sony_Canal_Escape_Perfecto,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/605e479d5b8229000763e697/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb095-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e52ea0d7-7d74-4383-8afa-27a135057740
 Sony_Kal_(1080p),https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+Sony_Max_2_(720p),https://tv.bdixtv24.com/toffee/live.php?id=420510be5c17&e=.m3u8
+Sony_Pix_(720p),https://tv.bdixtv24.com/toffee/live.php?id=ea02096b0fbc&e=.m3u8
 Sophia_TV_Español_(720p),https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
 Sophia_TV_Italy_(720p),https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
 Sorozat+_(576p),http://194.76.186.33:8000/play/a05e/index.m3u8
@@ -7194,6 +7197,7 @@ Da_Nang_TV2_(1080p)_[Not_24/7],http://drtdnglive.e49a7c38.cdnviet.com/livestream
 DaAi1_(大爱1)_(720p),https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 DaAi2_(大爱2)_(720p),https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 Dali_TV_(大立电视台)_(720p),http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+Dangal_TV_(720p),https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 Dao_Lane_Xang_(720p)_[Not_24/7],https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
 Daru_TV_(720p),https://5cd03f21c7193.streamlock.net/darutv/darutvlive/playlist.m3u8
 Das_Erste_(1080p),https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
@@ -8336,7 +8340,6 @@ Televisión_Metrópolis_19.2_(1080p)_[Not_24/7],https://5e85d90130e77.streamlock
 Televisión_Tarapoto_(720p)_[Not_24/7],https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 Televízia_Močenok_(720p),https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
 Televizija_M_(1080p),https://live.tv-m.net/hls/stream.m3u8
-Telewizja_Jaslo_(720p),https://cdn01.sesja.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8
 Telewizja_Lubań_(720p)_[Not_24/7],http://stream.herissons.cloud/hls/tvluban.m3u8
 Temiscaming-Kipawa_Community_Television,https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvctklive.m3u8
 TeN_(720p),https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
@@ -11285,6 +11288,8 @@ Shabakeh_7_(576p),https://t.northtelecom.org/Shabakeh.m3u8
 Show_Max,https://canlitvulusal.xyz/live/showmax/index.m3u8
 Simclar_TV_(720p),https://s.emisoras.tv:8081/simclartv/playlist.m3u8
 SolTV_(720p),https://stream.solmediaeg.com/soltv/soltv.m3u8
+Sony_Entertainment_Television_(720p),https://tv.bdixtv24.com/toffee/live.php?id=2bec2112b890&e=.m3u8
+Sony_SAB_(720p),https://tv.bdixtv24.com/toffee/live.php?id=b7167fe646a4&e=.m3u8
 Sooriyan_TV,https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 ST_Europe_Channel_(720p),https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
 Star_Channel_(720p),http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
