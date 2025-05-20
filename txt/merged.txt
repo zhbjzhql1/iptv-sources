@@ -3284,7 +3284,6 @@ Bibel_TV_Impuls_(720p),https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv
 Big_12_Studios,https://amg01258-raycom-amg01258c7-xumo-us-5514.playouts.now.amagi.tv/playlist.m3u8
 Big_Brother_Canada,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655f30c19d5ac4000816e9b3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c796a43-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7100d07b-f28e-45b2-a51d-6e87563b3fba
 Big_Ten_Network,http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-Big_Time_Plus_(1080p),https://big-time-plus-enc.edgenextcdn.net/out/v1/c885383fb76943c98fa223e7fd08b125/index.m3u8
 Big_Time_Rush,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663385cd06839f0008e00e93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc833030-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b826dcb5-d6a4-4aca-9fe8-bfa327685060
 Bigtime_(720p),https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8
 Bike_(720p),http://backup.superstreaming.inaria.me/BikeSmartMobilityDTT/playlist.m3u8
@@ -10997,6 +10996,7 @@ ION_Plus_East_(720p),http://fl3.moveonjoy.com/ION_Plus/index.m3u8
 ION_TV_East,http://fl3.moveonjoy.com/ION_TV/index.m3u8
 Iris,https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
 IskelmäTV_(720p),https://mobiili.livetv.fi/memfs/f1819b9e-90da-408a-9a71-5c54e0cb5c33.m3u8
+Island_Luck_TV,https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/playlist.m3u8
 Italia_2,https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
 ITN_(1080p),https://222103-hls.akamaized.net/668828a00bf80aa436254876/live_aabd3d003af211efadcf7986aa245789/rewind-3600.m3u8
 ITV3,https://x.canlitvapp.com/u-itv3/index.m3u8
