@@ -10005,8 +10005,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="NewsLive.in" tvg-logo="https://i.imgur.com/OvSc7dc.png" group-title="News",News Live (720p)
 https://5b48d7e1b4bce.streamlock.net/myapp/newslive/playlist.m3u8
-#EXTINF:-1 tvg-id="NewsNation.in" tvg-logo="https://i.imgur.com/9xeIWqm.png" group-title="News",News Nation (720p)
-https://livetv-channels.b-cdn.net/8006/playlist.m3u8
 #EXTINF:-1 tvg-id="NewSignal.it" tvg-logo="https://i.imgur.com/UnZoS95.png" group-title="Entertainment",NewSignal (1080p)
 https://5f22d76e220e1.streamlock.net/NewSignalTV/NewSignalTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Newsmax2.us" tvg-logo="https://www.lyngsat.com/logo/tv/nn/newsmax-2-us-ug.png" group-title="News",Newsmax 2 (720p)

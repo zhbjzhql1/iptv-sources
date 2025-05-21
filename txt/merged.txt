@@ -9643,7 +9643,6 @@ News_1st_(1080p)_[Not_24/7],https://932y4563djv8-hls-live.qezycdn.com/newsfirst/
 News_12_New_York,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fff49cfb5cd4f0007c2b0dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5103-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c438c5e4-4d4e-4037-8b44-c6782c44b796
 News_24_(392p)_[Not_24/7],https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 News_Live_(720p),https://5b48d7e1b4bce.streamlock.net/myapp/newslive/playlist.m3u8
-News_Nation_(720p),https://livetv-channels.b-cdn.net/8006/playlist.m3u8
 Newsmax_2_(720p),https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 Newsmax_TV_(720p),https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 NewsNet_(720p)_[Not_24/7],https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
