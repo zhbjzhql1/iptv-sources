@@ -442,4 +442,4 @@
 | 436 | Jiangxi Economy & Life Channel | play-live-hls.jxtvcn.com.cn | <https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8> |
 | 437 | Jiangxi City Channel | play-live-hls.jxtvcn.com.cn | <https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8> |
 
-Updated at **Tue Jun 03 2025 03:13:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 03 2025 04:23:04 GMT+0000 (Coordinated Universal Time)**
