@@ -1,4 +1,4 @@
-# List for **iptv.org stream China CCTV**
+# List for **iptv.org stream China CCTV**(Rollback)
 
 > M3U: [o_s_cn_cctv.m3u](/o_s_cn_cctv.m3u), TXT: [o_s_cn_cctv.txt](/txt/o_s_cn_cctv.txt)
 
@@ -13,4 +13,4 @@
 | 7 | CCTV-6电影 (1080p) | IPv4 直链 | <http://1.85.0.62:808/hls/6/index.m3u8> |
 | 8 | CCTV-13新闻 (1080p) | CCTV | <https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8> |
 
-Updated at **Tue Jun 03 2025 22:15:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jun 04 2025 01:17:19 GMT+0000 (Coordinated Universal Time)**
