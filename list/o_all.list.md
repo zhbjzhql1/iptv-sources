@@ -4446,7 +4446,7 @@
 | 4440 | MBC Jeonju (450p) | 5ee9633b25727.streamlock.net | <https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8> |
 | 4441 | MBC Loud (1080p) | d2lfa0y84k5bwn.cloudfront.net | <https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8> |
 | 4442 | MBC Masr 1 (1080p) | shls-masr-prod-dub.shahid.net | <https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8> |
-| 4443 | MBC Masr 2 (1080p) | shls-masr2-prod-dub.shahid.net | <https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8> |
+| 4443 | MBC Masr 2 (1080p) | shd-gcp-live.edgenextcdn.net | <https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8> |
 | 4444 | MBC Masr Drama (1080p) | shls-live-enc.edgenextcdn.net | <https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8> |
 | 4445 | MBC Masr USA (1080p) | shd-gcp-live.edgenextcdn.net | <https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8> |
 | 4446 | MBC Mokpo (목포 MBC) (720p) [Not 24/7] | vod.mpmbc.co.kr:1935 | <http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8> |
@@ -9639,4 +9639,4 @@
 | 9633 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
 | 9634 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
 
-Updated at **Sat Jun 07 2025 22:14:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jun 08 2025 01:23:30 GMT+0000 (Coordinated Universal Time)**

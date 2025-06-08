@@ -7527,7 +7527,7 @@ MBC_Iraq_(1080p),https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38
 MBC_Jeju_(제주_MBC)_(352p)_[Not_24/7],https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 MBC_Jeonju_(450p),https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8
 MBC_Masr_1_(1080p),https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
-MBC_Masr_2_(1080p),https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+MBC_Masr_2_(1080p),https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 MBC_Masr_USA_(1080p),https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
 MBC_Mokpo_(목포_MBC)_(720p)_[Not_24/7],http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 MBC_Persia_(1080p),https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
