@@ -1000,6 +1000,7 @@ Maimón_Digital_TV_(720p),https://ss9.domint.net:3038/mtvd_str/miamontv/playlist
 Makina_Vision_TV,https://vdopanel.jlahozconsulting.com/p/3303/live/makinalive.m3u8
 Malta_(720p)_[Not_24/7],https://webtvstream.bhtelecom.ba/malta.m3u8
 Mama_Benz_TV,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65f99e10-8d57-460a-a6be-731d90cfe7b1/manifest.m3u8
+Maraya_(1080p),https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
 Marco_Polo_TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65004cf398020f00084ca8bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8468b2-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1057cbe6-1580-4066-9d29-83892f1f476d
 Marka_TV,https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8
 Marsh_TV_(720p)_[Not_24/7],http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
@@ -4316,6 +4317,7 @@ La_C_TV_(720p),https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891
 La_Caleta_TV_(360p),https://rdn.essastream.com:3168/live/lacaletatvlive.m3u8
 La_Fábrica_TV_(720p)_[Not_24/7],https://mejorestrucos.com:5443/LiveApp/streams/854077030689510682594068.m3u8
 La_Pipol_Tv_Sangolquí_(360p)_[Not_24/7],https://cp.panelchs.com:1936/8004/8004/playlist.m3u8
+La_Popular_TV,https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
 La_Red_(720p)_[Not_24/7],https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 La_Télé_(1080p),https://latele.vedge.infomaniak.com/livecast/latele/playlist.m3u8
 La_TR3_Marsala_(720p),https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
@@ -6044,7 +6046,7 @@ Al_Jazeera_English_(1080p),https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e
 Al_Jazeera_Mubasher_24_(1080p),https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
 Al_Jazeera_Mubasher_(1080p),https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
 Al_Jazeera_Mubasher_Broadcast_2_(1080p),https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
-Al_Mamlaka_TV_(1080p),https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
+Al_Mamlaka_TV_(1080p),https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist_dvr.m3u8
 Al_Manar_(576p)_[Not_24/7],https://edge.fastpublish.me/live/index.m3u8
 Al_Masar_TV_(576p),https://starmenajo.com/hls/almasar/index.m3u8
 Al_Mashhad_(1080p),https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
@@ -8840,6 +8842,7 @@ SPOTV_(Indonesia),https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 SSC_Action_Waleed_(1080p)_[Not_24/7],https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
 Stadium_(720p),https://apollo.production-public.tubi.io/live/ac-stadium2.m3u8
 Star_Sports_1_HD,http://41.205.93.154/STARSPORTS1/index.m3u8
+Star_Sports_1_Tamil_HD,https://live20.bozztv.com/akamaissh101/ssh101/vboxsungosttamil/playlist.m3u8
 SuperSport_Rugby,https://live20.bozztv.com/trn03/gin-ssrugby/index.m3u8
 SuperTennis_HD,https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
 Swerve_Sports_(1080p),https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
