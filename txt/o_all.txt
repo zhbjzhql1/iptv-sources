@@ -6853,7 +6853,6 @@ E!_East,https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 Edessa_TV_(720p),https://tv.digitalbox.xyz:19360/edessatv/edessatv.m3u8
 EDN_TV_(1080p)_[Not_24/7],https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 El_75_(720p),https://television.essastream.com:3502/live/bebetotelevisionlive.m3u8
-El_Hormiguero_(1080p),https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
 El_Rey,https://stream.ads.ottera.tv/playlist.m3u8?network_id=1544
 eldo.TV_(1080p),https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8
 Electric_Now_(1080p)_[Not_24/7],https://elec-en.otteravision.com/elec/en/elec_en.m3u8
@@ -8075,7 +8074,6 @@ AMC_East_(1080p),https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 American_Horrors_(480p),http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 Armenia_Premium,https://live20.bozztv.com/gin-trn09/gt-ampremium/index.m3u8
 Astro_Box_Office_Thangathirai_(720p),https://live20.bozztv.com/akamaissh101/ssh101/sungo546/playlist.m3u8
-Atresplayer_Multicine_(1080p),https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
 Aurora_Media_Films_(720p),https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 AXN_Asia_(576p),http://125hvt.ddns.net:21585/axn/index.m3u8
 B4U_Kadak_(576p)_[Not_24/7],http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
@@ -8391,7 +8389,6 @@ Comedy_Dynamics,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenter
 Comedy_Play_(720p),https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
 Comedy_TV,http://31.146.5.178:8087/play/a00b/index.m3u8
 Distrito_Comedia_(576p),https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
-El_Club_de_la_Comedia_(1080p),https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
 Fail_Army_(720p),https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
 Failarmy_International,https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
 FailArmy_Italy_(720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608014d19a26320007c92ab6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
@@ -9506,10 +9503,6 @@ TVS_Travel_Network_(720p)_[Not_24/7],https://bozztv.com/gusa/gusa-tvstravel/inde
 Business;Culture;Lifestyle,#genre#
 apart_TV_(1080p),https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
 
-Classic;Comedy;Series,#genre#
-Aqui_No_Hay_Quien_Viva_(720p),https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
-Atresplayer_Comedia_(1080p),https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
-
 Documentary;Travel,#genre#
 Arcadia_Television_(1080p)_[Not_24/7],https://office.softer.ro/hls/stream.m3u8
 
@@ -9533,7 +9526,6 @@ L'Esprit_Sorcier_TV_(1080p),https://194270.global.ssl.fastly.net/63b43410861d94a
 
 Documentary,#genre#
 Asharq_Documentary_(1080p),https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
-Atresplayer_Inquietos_(1080p),https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
 AXS_TV_NOW,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 Backstage,https://fuse-backstage-xumo.amagi.tv/playlist.m3u8
 BBC_Earth_(1080p),https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
@@ -9552,7 +9544,6 @@ Dokusat_(1080p),https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u
 Dossiers_FBI,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8edad922b10b000753bc37/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057883-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a243842a-2a92-4ca0-bdea-73f35b29bf5c
 Dvojka_STV2_(720p)_[Not_24/7],https://n5.stv.livebox.sk/stv-tv/addfd31846e34200883cc2b4e9e6c855/stv2.smil/playlist.m3u8
 Ecovisión_(720p),https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
-Equipo_de_Investigacion_(1080p),https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
 FBI_Files,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdaa32a1b2fd00076693e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a2d95-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=53708f79-4a2b-4285-8fa6-e950fc36fb48
 Forensic_Files,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92392a3e6270007f562e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a0-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=053b9371-9f0f-4936-9aa9-ae27ee69ae5f
 Francophonie_(360p),http://mv2.tvfrancophonie.org/live/Stream1/playlist.m3u8
@@ -9605,12 +9596,8 @@ AssyriaSat_(720p)_[Not_24/7],http://66.242.170.53/hls/live/temp/index.m3u8
 BX_Inspire_(720p),https://reflect-stream-bronxnet.cablecast.tv/live-18/live/live.m3u8
 Cáritas_TV_(1080p),https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 
-Classic;Entertainment;Series,#genre#
-Atresplayer_Clasicos_(1080p),https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
-
 Classic;Series,#genre#
 AWTV_(1080p),https://acesso.ecast.site:3070/live/awtvlive.m3u8
-Fisica_o_Quimica_(1080p),https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e4607e0d61.m3u8
 
 Culture;Education,#genre#
 Ayeneh_TV,https://live20.bozztv.com/dvrfl05/gin-ayeneh/index.m3u8
@@ -9730,10 +9717,6 @@ Pamir_TV_(1080p)_[Not_24/7],http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d4
 Lifestyle;Shop,#genre#
 Fashion_Finds,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
 
-Entertainment;Series,#genre#
-Flooxer_(1080p),https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
-tvN_Asia_(Indonesian_Subtitle)_(576p),http://210.210.155.37/dr9445/h/h20/index.m3u8
-
 Cooking;Lifestyle,#genre#
 Food_Food_(576p)_[Not_24/7],http://14.199.164.20:4001/play/a0qx/index.m3u8
 
@@ -9829,6 +9812,9 @@ Retro_Crush,https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv
 Music;Sports,#genre#
 RTI_La_3_(1080p)_[Not_24/7],https://www.enovativecdn.com/rticdn/smil:rti3.smil/playlist.m3u8
 
+Entertainment;Movies;Series,#genre#
+Superflix_TV_(720p),https://streaming.cloudecast.com/hls/superflix/index.m3u8
+
 Culture;Family,#genre#
 Superscreen_TV_(412p),https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8
 
@@ -9861,6 +9847,9 @@ TV_Famille_(720p),https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
 
 Entertainment;Family;General;News,#genre#
 TV_Paraense_(720p),https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
+
+Entertainment;Series,#genre#
+tvN_Asia_(Indonesian_Subtitle)_(576p),http://210.210.155.37/dr9445/h/h20/index.m3u8
 
 Comedy;Movies;Series,#genre#
 Universal_Comedy_(480p),http://190.2.212.209:8050/play/a0q4
