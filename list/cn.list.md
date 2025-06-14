@@ -313,4 +313,4 @@
 | 307 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/8db7fe87f56b1781603eca82aa8111cd9a6f7a52cb6648858a6a657a926d5ddf.m3u8> |
 | 308 | [SD]黑龙江都市 | stream1.freetv.fun | <https://stream1.freetv.fun/13c6318a1bb59c0ce70f61aef8e52d0736acc6fa297b05ee2049eb9e316061d2.m3u8> |
 
-Updated at **Sat Jun 14 2025 10:15:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jun 14 2025 12:29:55 GMT+0000 (Coordinated Universal Time)**
