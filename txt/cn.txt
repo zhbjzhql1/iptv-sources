@@ -300,6 +300,7 @@
 [BD]广东体育,https://stream1.freetv.fun/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.ctv
 [BD]广东体育,https://stream1.freetv.fun/215449034a84edf70262158dc798e6923a2484c7efa1a98ad0dc22daa2117945.m3u8
 [HD]江苏体育,https://stream1.freetv.fun/7aee82fc56682d609694854932ea8f72809ffa3760e022241f57baad2cb37a64.ctv
+[BD]福建体育,https://stream1.freetv.fun/f6bb4f0c2c2f92ccfc5505917d5f97aeee8252cba49b03fac53cf5f24c936863.ctv
 
 综艺,#genre#
 [BD]cctv3,https://stream1.freetv.fun/315eb1b1e89b7dc132fb6dd494dcdb3e7a42fdd6d2169a7b3ad31a8da4e31449.m3u8
