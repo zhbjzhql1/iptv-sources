@@ -189,7 +189,7 @@
 | 183 | [BD]astro grandstand *kt | stream1.freetv.fun | <https://stream1.freetv.fun/25eb370f0e0339b95eda8f5c307dc62db6d13dee0791b1a88c8933b6680ee30b.ctv> |
 | 184 | [VGA]hello taste | stream1.freetv.fun | <https://stream1.freetv.fun/173ada532034f786d7bd08ec62516df46c27b2ece716c1fa73edb51fb8ac53b4.m3u8> |
 | 185 | [VGA]kto | stream1.freetv.fun | <https://stream1.freetv.fun/68dad590d67b9a7b7fb7ea0737dbdb1a2776b06ac2dd45012e3a0cbf24f237af.m3u8> |
-| 186 | [HD]astro premier league | stream1.freetv.fun | <https://stream1.freetv.fun/7cb84ad2c2e949392672175bb9369bc58440fd6136d8d57427c192600fc4362b.ctv> |
+| 186 | [HD]astro premier league *kt | stream1.freetv.fun | <https://stream1.freetv.fun/b0f2eb3efe1c1af853180aba69ac6ac53aa88a12edf248d88aa227865705e48a.ctv> |
 | 187 | [BD]supersports 1 *wj | stream1.freetv.fun | <https://stream1.freetv.fun/cc49ab1a3227f28ad11d690d83d51552b9869e81f64836ad21176ca6534e161d.ctv> |
 | 188 | [HD]supersports 2 *wj | stream1.freetv.fun | <https://stream1.freetv.fun/df4399554d4778929e53cc43dc0c407839ba778a4c141a3badad15dccab610cf.ctv> |
 | 189 | [HD]astro qj *kt | stream1.freetv.fun | <https://stream1.freetv.fun/087ec884668c011bc4d15a690797c08e45b40ff84be318b71aca006174641831.ctv> |
@@ -430,7 +430,7 @@
 | 424 | [SD]cinema world *s | stream1.freetv.fun | <https://stream1.freetv.fun/6a499fa55a14bb464b8eacd5515d2479d77f4c58c9b95328dc969eec5e63f737.m3u8> |
 | 425 | [HD]cinemax moviemax east $ | stream1.freetv.fun | <https://stream1.freetv.fun/cfbe3c71f68188d8a9c9f1be59f14e5ece83dc56b29200fadda0d9b9740e4f0e.ctv> |
 | 426 | [BD]cinemax thrillermax= | stream1.freetv.fun | <https://stream1.freetv.fun/16ab51f0f6d7f230e6fbcd60dc58d3577a0f7468f38f274478c56d28b74fe13e.ctv> |
-| 427 | [BD]cinemax | stream1.freetv.fun | <https://stream1.freetv.fun/c944096a4f8db852073f1772f425dd13306be63198cfbf26c5e3e7c7ca8f5cc9.ctv> |
+| 427 | [SD]cinemax | stream1.freetv.fun | <https://stream1.freetv.fun/2522bc434f72688e402ec958f524a78291b7f29b043df92a19ba77f1a711f882.m3u8> |
 | 428 | [BD]lnktv city | stream1.freetv.fun | <https://stream1.freetv.fun/225e990d2a2398088da0f8601bd2b90b36895934126445083eb5a1c46148d0c8.m3u8> |
 | 429 | [BD]classic movies= | stream1.freetv.fun | <https://stream1.freetv.fun/1ca84f4af4ca00b6bf54b6db1d9f8e1a3b8e3abcf79671ce46d11fb39e67744e.ctv> |
 | 430 | [HD]clubbing tv | stream1.freetv.fun | <https://stream1.freetv.fun/368989a28386c24221b62baa86a9e6b488cee6e7b62e45b850df926f7b4f3c7f.m3u8> |
@@ -1058,7 +1058,7 @@
 | 1052 | [HD]rtvc | stream1.freetv.fun | <https://stream1.freetv.fun/ed1787a41eab55f2520d00653784d8af58fa5768a01a60d723ff466fd709794e.m3u8> |
 | 1053 | [BD]rt france | stream1.freetv.fun | <https://stream1.freetv.fun/0d526bc2d2bbfcf332274bd1b2d01d09545067036558f3dca1d2f6e666d1544a.m3u8> |
 | 1054 | [BD]rtg 1 | stream1.freetv.fun | <https://stream1.freetv.fun/ac14ba77df5aa3c151f1a990cbba2e949d900cd2c3eceb17d1bd52aa9b897d8b.m3u8> |
-| 1055 | [BD]rthk31 | stream1.freetv.fun | <https://stream1.freetv.fun/bcd3e759b0c9f8807280e9cb8fc50c6919ffad577b1d5d21f392f601d93301bc.m3u8> |
+| 1055 | [BD]rhk31 | stream1.freetv.fun | <https://stream1.freetv.fun/858c779471221ade23457ba6a51c18c88e18f3697522cfa47731cc25e063d42b.ctv> |
 | 1056 | [BD]rthk32 | stream1.freetv.fun | <https://stream1.freetv.fun/e42fb110283fcb1befbda834ed93046b948ab8ecf4fa35c482c0296e220b7fc0.m3u8> |
 | 1057 | [VGA]rtl de | stream1.freetv.fun | <https://stream1.freetv.fun/5a0ae4de2b218c7d090cb772304f94e1eb47d1258d4f4426d1752a2b5a313845.m3u8> |
 | 1058 | [BD]rta sport | stream1.freetv.fun | <https://stream1.freetv.fun/a156dbcea1ed83d23964536b49d48a65a74f932d74de88cb77c8b77f0efe0cd2.m3u8> |
@@ -2024,4 +2024,4 @@
 | 2018 | [HD]龙华洋片 *kt | stream1.freetv.fun | <https://stream1.freetv.fun/438bdb134766d8e02de96b867f0507a584033ca7564b31903490bb25cf2ce796.ctv> |
 | 2019 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/f3e4792919e603bd0eb00254eb263931dbab92a22578853745d8dbe977714338.m3u8> |
 
-Updated at **Mon Jun 16 2025 14:16:25 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 16 2025 16:20:36 GMT+0000 (Coordinated Universal Time)**
