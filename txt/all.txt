@@ -1058,7 +1058,7 @@ Generic,#genre#
 [BD]广东珠江,https://stream1.freetv.fun/7f7f3d093404d862c4a47c81731ae346d9ad177ccd8c91326ec459db90b8a64a.m3u8
 [HD]广东经济科教,https://stream1.freetv.fun/885e2bf20b8c19a26f67ee11e97e55e42fe965745049a3cad48c47b099bae8e3.m3u8
 [BD]广东卫视,https://stream1.freetv.fun/6787e35b48df7529fb25c86cd92936335e75d68881015ff99c3e969f57177987.ctv
-[SD]广西卫视,https://stream1.freetv.fun/3899ee96bfc51a8e53baa9d48c86b9b9a52907112fffcb33e94df2c05cc02d3c.m3u8
+[SD]广西卫视,https://stream1.freetv.fun/769f22146852e78af58e6a25a46ca80a48e35ccb700ac75e8ab42a72473ba60c.m3u8
 [SD]延边卫视,https://stream1.freetv.fun/2c315ffc8f8501d31b82a47f0e65c47661e4f9fb6e45a5d9026fe47fe0563dba.m3u8
 [SD]新疆卫视,https://stream1.freetv.fun/ff50600dd45b1b1656f2f7535c04f361a6e8c33606e19dbc9b0316bd173f9408.m3u8
 [BD]晋城公共,https://stream1.freetv.fun/8541f17cd6081bc041d504cd6edbc1803cb1162e1ce2207d4d4486a98b3769d2.m3u8
@@ -1930,7 +1930,7 @@ Sports,#genre#
 [HD]kit-tv,https://stream1.freetv.fun/b5b075d8115a55d7bac4788505efe5fc341f76a4d93afa353363ed5b5988ec18.m3u8
 [BD]skysports_cricket_*wj,https://stream1.freetv.fun/ddfbc1871a053c6dea333cb06839d48ef16a0fa937490c915d6ef1ad8196a64a.ctv
 [BD]sky_sports_f1-,https://stream1.freetv.fun/ba9614d980eb61f7d2240671bec3e60453e3c47e2da4f84618c3ecff3638e628.ctv
-[SD]skysports_golf_*wj,https://stream1.freetv.fun/ad29215431cb99295759fa53ddef8b84558ab6223f3ef19bfbe9aeb49f0ccbfd.ctv
+[BD]sky_sports_golf=,https://stream1.freetv.fun/012b19521acdc3034334791806b5082d2ab7f42d8b761b3f8534f0c4c46315e2.ctv
 [SD]skysports_main_event_*wj,https://stream1.freetv.fun/d19df34b34ca43bfcf77f67f8a5accf03bea1941d3ddc0e55f5469f1fdd8288a.ctv
 [BD]sky_sport5_nz,https://stream1.freetv.fun/96e33309e8db67f18f35a2cdb37af7ca6513b63ce847ba248e786b17b0cae9d4.ctv
 [BD]on_sports_news,https://stream1.freetv.fun/2be3dd65de1c4e8c6beafb78ccd45f1f15b4b6353c9548df9a539e0730d5f245.m3u8

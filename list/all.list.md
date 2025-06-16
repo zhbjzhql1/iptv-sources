@@ -1181,7 +1181,7 @@
 | 1175 | [BD]sky sport top event | stream1.freetv.fun | <https://stream1.freetv.fun/701e98ea6281b7dfdfa70812dba9529ae1a771867ae5e740d7c19c8b7190a3a9.m3u8> |
 | 1176 | [BD]skysports cricket *wj | stream1.freetv.fun | <https://stream1.freetv.fun/ddfbc1871a053c6dea333cb06839d48ef16a0fa937490c915d6ef1ad8196a64a.ctv> |
 | 1177 | [BD]sky sports f1- | stream1.freetv.fun | <https://stream1.freetv.fun/ba9614d980eb61f7d2240671bec3e60453e3c47e2da4f84618c3ecff3638e628.ctv> |
-| 1178 | [SD]skysports golf *wj | stream1.freetv.fun | <https://stream1.freetv.fun/ad29215431cb99295759fa53ddef8b84558ab6223f3ef19bfbe9aeb49f0ccbfd.ctv> |
+| 1178 | [BD]sky sports golf= | stream1.freetv.fun | <https://stream1.freetv.fun/012b19521acdc3034334791806b5082d2ab7f42d8b761b3f8534f0c4c46315e2.ctv> |
 | 1179 | [BD]skysports | stream1.freetv.fun | <https://stream1.freetv.fun/8a7314b7753f5c095f71ef755132a09c7753602f9c75d0eae29de3458e9d1aa9.ctv> |
 | 1180 | [SD]skysports main event *wj | stream1.freetv.fun | <https://stream1.freetv.fun/d19df34b34ca43bfcf77f67f8a5accf03bea1941d3ddc0e55f5469f1fdd8288a.ctv> |
 | 1181 | [BD]sky sport5 nz | stream1.freetv.fun | <https://stream1.freetv.fun/96e33309e8db67f18f35a2cdb37af7ca6513b63ce847ba248e786b17b0cae9d4.ctv> |
@@ -1792,7 +1792,7 @@
 | 1786 | [BD]广西国际 | stream1.freetv.fun | <https://stream1.freetv.fun/183f2221f66a05a31ae1c3da27be6554f43b414aba3e4215f15cf9f244e3f24d.m3u8> |
 | 1787 | [BD]广西影视 | stream1.freetv.fun | <https://stream1.freetv.fun/c195e32cc07f3b756e1059536f1a336749ff48cacdd39b0bf69cf72fce5af3ad.m3u8> |
 | 1788 | [BD]广西新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/44a547e17ca72fe25d4c825563853ea2bf27c895c49aeb7932708d5b5709d436.m3u8> |
-| 1789 | [SD]广西卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/3899ee96bfc51a8e53baa9d48c86b9b9a52907112fffcb33e94df2c05cc02d3c.m3u8> |
+| 1789 | [SD]广西卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/769f22146852e78af58e6a25a46ca80a48e35ccb700ac75e8ab42a72473ba60c.m3u8> |
 | 1790 | [SD]延边卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/2c315ffc8f8501d31b82a47f0e65c47661e4f9fb6e45a5d9026fe47fe0563dba.m3u8> |
 | 1791 | [BD]德国之声 | stream1.freetv.fun | <https://stream1.freetv.fun/8c089198e26bda57beaa26852c8da9dcada9d1a634ba3e7828e3cee2407feac7.m3u8> |
 | 1792 | [HD]爱奇艺 *kt | stream1.freetv.fun | <https://stream1.freetv.fun/eed74fec4cad9b78e0f16a0ad0cf3181cdacccb15d9760fc14418f89968cb102.ctv> |
@@ -2029,4 +2029,4 @@
 | 2023 | [HD]龙华洋片 *kt | stream1.freetv.fun | <https://stream1.freetv.fun/438bdb134766d8e02de96b867f0507a584033ca7564b31903490bb25cf2ce796.ctv> |
 | 2024 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/f3e4792919e603bd0eb00254eb263931dbab92a22578853745d8dbe977714338.m3u8> |
 
-Updated at **Sun Jun 15 2025 22:14:29 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 16 2025 01:19:43 GMT+0000 (Coordinated Universal Time)**
