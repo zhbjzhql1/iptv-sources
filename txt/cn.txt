@@ -330,4 +330,4 @@
 [HD]绵阳梓潼综合,https://stream1.freetv.fun/09a87070e2fa6a8a870059ebc61979c59e599cc258fcb8885b3008eae46fe486.m3u8
 [HD]铜陵新闻综合,https://stream1.freetv.fun/54fc69df6293d73d29375a23aa5704b49a8b4aa8ff284c592f21d04bdace9d23.m3u8
 [BD]镇江新闻,rtmp://zjtv-wshls.homecdn.com/live/2aa50
-[HD]电影,https://stream1.freetv.fun/3564e1bd84539a893d9602437dc3f0a080ecd8e2214fa7b2aaaa6dfbc47c2b89.ctv
+[HD]电影,https://stream1.freetv.fun/52ed518ded3a5709aa6e47f85f39d52db99bf7ce3aafd576e830b8ce206d43d0.m3u8

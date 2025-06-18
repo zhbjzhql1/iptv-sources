@@ -311,7 +311,7 @@
 | 305 | [HD]云南影视 | stream1.freetv.fun | <https://stream1.freetv.fun/76d6929ef3145eb85fe264b8f83432ccc076db07698455be65ce53c618477a90.m3u8> |
 | 306 | [BD]云南卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/ec6460f3951bfbaef38cc68bfe9248e1a90afea1f9ff73dfcc3b93812a11b519.m3u8> |
 | 307 | [HD]云南都市 | stream1.freetv.fun | <https://stream1.freetv.fun/c7f89783268c13760aff864a0e464360ea9335ac3ef8a5ef52a354d7fd305ef2.m3u8> |
-| 308 | [HD]电影 | stream1.freetv.fun | <https://stream1.freetv.fun/3564e1bd84539a893d9602437dc3f0a080ecd8e2214fa7b2aaaa6dfbc47c2b89.ctv> |
+| 308 | [HD]电影 | stream1.freetv.fun | <https://stream1.freetv.fun/52ed518ded3a5709aa6e47f85f39d52db99bf7ce3aafd576e830b8ce206d43d0.m3u8> |
 | 309 | [SD]青海卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/6e10a4a54db3f7f59614ab6de9f66a2a0b678e551e77ef9040af1d5fc2ceae2e.m3u8> |
 | 310 | [BD]溧水新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/1a079c059eb130d33f8a0b23c616b77e1390d13bed99002dda920d83163b8808.m3u8> |
 | 311 | [SD]黑龙江少儿 | stream1.freetv.fun | <https://stream1.freetv.fun/b439f03f560a152ddb3465f45d5996d71134f777a063078afeaea7a5d4832f97.m3u8> |
@@ -319,4 +319,4 @@
 | 313 | [SD]黑龙江新闻法治 | stream1.freetv.fun | <https://stream1.freetv.fun/444345a470ca6076502191f98d6c4fd01f893aec9e803c000edc37d07ea554d0.m3u8> |
 | 314 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.m3u8> |
 
-Updated at **Wed Jun 18 2025 14:16:10 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jun 18 2025 16:20:29 GMT+0000 (Coordinated Universal Time)**
