@@ -40,7 +40,7 @@
 | 34 | [HD]chaco tv | stream1.freetv.fun | <https://stream1.freetv.fun/49ac86bea6a7baad9020d2c88679f9c0298362157a68f2a207d762d4ab0ec567.m3u8> |
 | 35 | [SD]三沙卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/2f29bdf337cfd1004d4deb54a8f7ab4476ca8a0d740651bb6e9f8b71fdbdb60e.m3u8> |
 | 36 | [HD]上海新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/0903edb20a77a6dca6936c36d9e303dcd6d3d9a5f4595dc624393f7260694661.ctv> |
-| 37 | [BD]上海卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/cdbc7181f2140141b6098511d199767ac44f0bf9e62900635d8a6e1e6c0f8b82.m3u8> |
+| 37 | [SD]上海卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/5b501e67305cdd8e76db8a9a1faba1608b75aa1db981f713390223182bb08ce0.m3u8> |
 | 38 | [HD]上海都市 | stream1.freetv.fun | <https://stream1.freetv.fun/c51379ba4852f1be15b1a0bc4332b09049cb4df778fff224c8966217566ac38a.ctv> |
 | 39 | [BD]上虞文化 | stream1.freetv.fun | <https://stream1.freetv.fun/a3b95f8cec871798479e1b30f604863644527ac9182220e2ac8650dc0ecbc211.m3u8> |
 | 40 | [BD]上虞新商都 | stream1.freetv.fun | <https://stream1.freetv.fun/3304d40ab080cfdc62386a8b26bd04cdbc7330f96858e3e1a69326aa4a94ed2a.m3u8> |
@@ -319,4 +319,4 @@
 | 313 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.m3u8> |
 | 314 | [SD]黑龙江都市 | stream1.freetv.fun | <https://stream1.freetv.fun/13c6318a1bb59c0ce70f61aef8e52d0736acc6fa297b05ee2049eb9e316061d2.m3u8> |
 
-Updated at **Tue Jun 17 2025 22:14:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jun 18 2025 01:16:51 GMT+0000 (Coordinated Universal Time)**

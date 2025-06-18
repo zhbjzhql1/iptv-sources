@@ -1135,8 +1135,8 @@
 | 1129 | Bolivia TV 7.2 (720p) | 5ca3e84a76d30.streamlock.net | <https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8> |
 | 1130 | Bolivia TV (720p) [Not 24/7] | boliviatv1.srfms.com:5735 | <http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8> |
 | 1131 | Bolivisión LPZ (720p) | alba-bo-bolivision-bolivision.stream.mediatiquestream.com | <https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8> |
-| 1132 | Bollywood Classic (1080p) | shls-live-ak.akamaized.net | <https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8> |
-| 1133 | Bollywood HD (1080p) | shls-live-ak.akamaized.net | <https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8> |
+| 1132 | Bollywood Classic | d35j504z0x2vu2.cloudfront.net | <https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8> |
+| 1133 | Bollywood HD | d35j504z0x2vu2.cloudfront.net | <https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8> |
 | 1134 | Bolt | IPv4 直链 | <http://95.142.88.250:80/Bolt/index.m3u8> |
 | 1135 | Bolton Community Voice Channel (CVC) Education (Bolton CT) (480p) | 亚马逊AWS | <https://s3-us-west-2.amazonaws.com/bolton.castus-vod/live/ch2/video.m3u8> |
 | 1136 | Bolton Community Voice Channel (CVC) Government (Bolton CT) (480p) | 亚马逊AWS | <https://s3-us-west-2.amazonaws.com/bolton.castus-vod/live/ch3/video.m3u8> |
@@ -1455,8 +1455,8 @@
 | 1449 | Canal Sete (1080p) | IPv4 直链 | <http://189.51.193.70:1935/canalsete/xpl-c7/playlist.m3u8> |
 | 1450 | Canal Sierra de Cádiz (1080p) [Not 24/7] | s.emisoras.tv:8081 | <https://s.emisoras.tv:8081/sierradecadiz/index.m3u8> |
 | 1451 | Canal Sol (720p) | 5790d294af2dc.streamlock.net | <https://5790d294af2dc.streamlock.net/sol65/sol65/playlist.m3u8> |
-| 1452 | Canal Sur Andalucía 2 (720p) | cdnlive.codev8.net | <https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8> |
-| 1453 | Canal Sur Andalucía (1080p) [Not 24/7] | cdnlive.codev8.net | <https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8> |
+| 1452 | Canal Sur Andalucia | d35x6iaiw8f75z.cloudfront.net | <https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbwsl0jk1bvoo/canal_sur_andalucia_es.m3u8> |
+| 1453 | Canal Sur Andalucía 2 (720p) | cdnlive.codev8.net | <https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8> |
 | 1454 | Canal Telefamilia (360p) [Not 24/7] | stmv2.voxtvhd.com.br | <https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8> |
 | 1455 | Canal TRV (480p) [Not 24/7] | stream.oursnetworktv.com | <https://stream.oursnetworktv.com/latin/encoder44/playlist.m3u8> |
 | 1456 | Canal TV Radio Maya TGBA (480p) | stream.oursnetworktv.com | <https://stream.oursnetworktv.com/latin/radioTGBAgtm/playlist.m3u8> |
@@ -9628,4 +9628,4 @@
 | 9622 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
 | 9623 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
 
-Updated at **Tue Jun 17 2025 22:14:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jun 18 2025 01:16:53 GMT+0000 (Coordinated Universal Time)**

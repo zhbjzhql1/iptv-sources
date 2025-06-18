@@ -3708,8 +3708,8 @@ Canal_San_Roque_(1080p)_[Not_24/7],https://cdnlivevlc.codev8.net/aytosanroqueliv
 Canal_SCN_(720p),https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8
 Canal_Sete_(1080p),http://189.51.193.70:1935/canalsete/xpl-c7/playlist.m3u8
 Canal_Sierra_de_Cádiz_(1080p)_[Not_24/7],https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
+Canal_Sur_Andalucia,https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbwsl0jk1bvoo/canal_sur_andalucia_es.m3u8
 Canal_Sur_Andalucía_2_(720p),https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
-Canal_Sur_Andalucía_(1080p)_[Not_24/7],https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 Canal_TRV_(480p)_[Not_24/7],https://stream.oursnetworktv.com/latin/encoder44/playlist.m3u8
 Canal_Visof_(720p),https://stream.oursnetworktv.com/latin/Visof/playlist.m3u8
 Canal_Zoom,https://tvlocales-live.freecaster.com/live/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
@@ -8086,7 +8086,7 @@ B4U_Plus_(576p),http://183.89.246.119:8881/play/a08l/index.m3u8
 BIZ_Cinema_(1080p),https://st.biztv.uz/hls/c_hi/index.m3u8
 Black_Cinema,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93605d96-6c9d-457d-a2b4-d26d07474db9
 Bloody_Disgusting_TV,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bloodydisgus-cineverse/playlist.m3u8
-Bollywood_HD_(1080p),https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
+Bollywood_HD,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 Bom_Cine_(576p),http://185.189.225.150:85/BOM/index.m3u8
 Bravo_Farsi_TV_(360p),https://bravoohls.wns.live/hls/stream.m3u8
 CCTV_第一剧场,http://117.161.133.51:81/gitv_live/G_DIYIJC-CQ/G_DIYIJC-CQ.m3u8?p=GITV
@@ -9631,7 +9631,7 @@ Better_Life_Nature_Channel_(480p),https://tgn.bozztv.com/betterlife/betternature
 MyZen_TV_(1080p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
 Classic;Movies,#genre#
-Bollywood_Classic_(1080p),https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
+Bollywood_Classic,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 ZB_Cinema_(720p),https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
 Movies;Series,#genre#
