@@ -2053,6 +2053,7 @@ TeleBielingue_(720p),https://edge20.vedge.infomaniak.com/livecast/ik:telebieling
 TeleCampione,https://5f22d76e220e1.streamlock.net/telecampione/telecampione/playlist.m3u8
 Telecanal_12_(720p)_[Not_24/7],https://rdn.essastream.com:3258/live/telecanal12live.m3u8
 Telecanal_28_(360p)_[Not_24/7],https://vdo2.streamgato.us:3841/live/telecanal28tvlive.m3u8
+Telecanal_(720p),http://190.110.160.210:8000/play/a07s/index.m3u8
 Teleceiba_(1080p),https://astra.teleceiba.com:8443/play/a004/index.m3u8
 Telecentro_(480p),https://ds.tvabierta.net/memfs/278304e6-dc2b-4ebd-a6c0-9b23d08a72f4_output_0.m3u8?session=8z5GX4XSBmjJX2aSwnqP3G
 TeleCibao_(720p)_[Not_24/7],https://vdo2.streamgato.us:3713/live/telecibaotvlive.m3u8
@@ -4185,13 +4186,10 @@ Jiangxi_City_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8
 Jiangxi_Public_&_Agriculture_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8
 Jihočeská_televize_(1080p),https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
 JN19_TV2_(1080p)_[Not_24/7],https://servilive.com:3224/live/jn19tv2live.m3u8
-JOAX-DTV_(720p),http://vthanh.utako.moe/Nippon_TV/index.m3u8
 Jogja_Istimewa_TV_(720p),http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 Jogja_TV_(720p)_[Not_24/7],https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
-JOIX-DTV_(720p),http://luong.utako.moe/ytv/index.m3u8
 Jonack_TV_(360p)_[Not_24/7],https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 Jordan_Satellite_Channel_(1080p),https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-JOTX-DTV_(1080p),http://vthanh.utako.moe/TV_Tokyo/index.m3u8
 Joy_Prime,http://69.64.57.208/joyprime/playlist.m3u8
 JTV_(720p)_[Not_24/7],http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch17)/index.m3u8
 Junco_Tv_(720p),https://mediacp.us:8081/juncotv/index.m3u8
@@ -5547,7 +5545,6 @@ GEM_Mifa,https://ca-rt.onetv.app/gemmifa/index-0.m3u8
 GEM_Mifa_Plus,https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8
 Gigant_FM_(720p),https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
 Good-Sound_(720p),http://148.251.76.72:8081/goodsound/goodsound.sdp/playlist.m3u8
-GoTV_(576p)_[Not_24/7],https://nstream17.gotv.at:1443/live/gotvlive/manifest.mpd
 Ground_TV,https://panel.freedomflixtv.org:3764/hybrid/play.m3u8
 GugakTV_국악방송_(1080p),https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 Guyana_Music_TV_(1080p),https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-59455895b1214d3893e29a4f536fca3d/playlist.m3u8
