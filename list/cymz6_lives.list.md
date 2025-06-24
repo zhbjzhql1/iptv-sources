@@ -64,4 +64,4 @@
 | 58 | 河南电视剧 | IPv4 直链 | <http://1.195.130.27:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 59 | 河南都市 | IPv4 直链 | <http://1.195.130.27:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Mon Jun 23 2025 22:15:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 24 2025 01:17:49 GMT+0000 (Coordinated Universal Time)**

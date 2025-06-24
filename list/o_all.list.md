@@ -4425,7 +4425,7 @@
 | 4419 | MBC Drama KSA (1080p) | mbc1-enc.edgenextcdn.net | <https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8> |
 | 4420 | MBC Drama USA (1080p) | shd-gcp-live.edgenextcdn.net | <https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8> |
 | 4421 | MBC FM (1080p) | dbbv9umqcd7cs.cloudfront.net | <https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8> |
-| 4422 | MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7] | IPv4 直链 | <http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8> |
+| 4422 | MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7] | IPv4 直链 | <http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8> |
 | 4423 | MBC Gwangju (광주 MBC) (1080p)  [Not 24/7] | media.kjmbc.co.kr | <https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8> |
 | 4424 | MBC Gyeongnam (경남 MBC) (1080p) [Not 24/7] | 624a79c87201d.streamlock.net | <https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8> |
 | 4425 | MBC Iraq (1080p) | shd-gcp-live.edgenextcdn.net | <https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8> |
@@ -9597,4 +9597,4 @@
 | 9591 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
 | 9592 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
 
-Updated at **Mon Jun 23 2025 22:15:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 24 2025 01:17:53 GMT+0000 (Coordinated Universal Time)**
