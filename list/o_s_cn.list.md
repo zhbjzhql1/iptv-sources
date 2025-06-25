@@ -450,4 +450,4 @@
 | 444 | Jilin City Channel | lsfb.avap.jilintv.cn | <https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8> |
 | 445 | Guangzhou TV | tencentplaybusiness.gztv.com | <https://tencentplaybusiness.gztv.com/live/zonghes.m3u8> |
 
-Updated at **Wed Jun 25 2025 10:17:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jun 25 2025 12:35:14 GMT+0000 (Coordinated Universal Time)**
