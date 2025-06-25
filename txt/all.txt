@@ -813,6 +813,7 @@ Generic,#genre#
 [HD]翡翠台_*wj,https://stream1.freetv.fun/c6cef1b9a6c4875e459844eee4f9daa41d139965d364d6acd53f14d682bcc8ac.ctv
 [BD]临沂新闻综合频道,https://stream1.freetv.fun/70d9384786a5e1d8f973af3bab5643406bda0c89a7008eb6f322bb4c7ef9eb49.m3u8
 [VGA]自贡综合,https://stream1.freetv.fun/19e8bff2178c99aacf62481ac205d6a00c442a9eaf07238a7c6e96d4beaa5da0.ctv
+[BD]台视_*sm,https://stream1.freetv.fun/ca53a2710c80ed0fd97833ee2dd24e64cb6e804a9029f9dbf3d24469b8e83f4b.ctv
 [HD]华视,rtmp://f13h.mine.nu:1935/sat/tv111
 [BD]华语电视2,https://stream1.freetv.fun/298e7d6961c0bd62835d3e9f757c24510ffc5afc285f1a5d03f195c5392f29b6.m3u8
 [BD]西安商务资讯,https://stream1.freetv.fun/688e335b76bc790ecb97e97267e420f774e68d5a2b2cdaf9e25de63c5982de5c.ctv
