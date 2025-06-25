@@ -441,5 +441,13 @@
 | 435 | Jiangxi Public & Agriculture Channel | play-live-hls.jxtvcn.com.cn | <https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8> |
 | 436 | Jiangxi Economy & Life Channel | play-live-hls.jxtvcn.com.cn | <https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8> |
 | 437 | Jiangxi City Channel | play-live-hls.jxtvcn.com.cn | <https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8> |
+| 438 | Panzihihua Culture Tourism & Life Channel | live.pzhkai.com | <https://live.pzhkai.com/wlshtl/sd/live.m3u8?_upt=f156a1051729836828> |
+| 439 | Panzihihua News Channel | live.pzhkai.com | <https://live.pzhkai.com/xwzhtl/sd/live.m3u8?_upt=6a1ad5741729836768> |
+| 440 | Tonghua TV | lsfb.avap.jilintv.cn | <https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8> |
+| 441 | Jilin Rural Channel | lsfb.avap.jilintv.cn | <https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8> |
+| 442 | Jilin Movie Channel | lsfb.avap.jilintv.cn | <https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8> |
+| 443 | Jilin Lifestyle Channel | lsfb.avap.jilintv.cn | <https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8> |
+| 444 | Jilin City Channel | lsfb.avap.jilintv.cn | <https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8> |
+| 445 | Guangzhou TV | tencentplaybusiness.gztv.com | <https://tencentplaybusiness.gztv.com/live/zonghes.m3u8> |
 
-Updated at **Tue Jun 24 2025 22:16:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jun 25 2025 01:18:33 GMT+0000 (Coordinated Universal Time)**
