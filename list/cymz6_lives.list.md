@@ -38,4 +38,4 @@
 | 32 | 海看大片 | IPv4 直链 | <http://123.129.70.178:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 33 | 相声小品 | IPv4 直链 | <http://221.13.235.38:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Thu Jun 26 2025 06:24:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 26 2025 08:21:54 GMT+0000 (Coordinated Universal Time)**
