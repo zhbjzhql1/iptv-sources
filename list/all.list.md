@@ -321,7 +321,7 @@
 | 315 | [BD]cctv4中文国际欧洲 | stream1.freetv.fun | <https://stream1.freetv.fun/a2ed661a78a56612b57fac4cb28f7edb1d3930e3173eddb1fc07918d66e35c86.m3u8> |
 | 316 | [BD]cctv5 | stream1.freetv.fun | <https://stream1.freetv.fun/8ca3e123a0d74e87f21a305af77f712600ac07ae33200d2c5c017f8d01751f36.m3u8> |
 | 317 | [BD]cctv5 | stream1.freetv.fun | <https://stream1.freetv.fun/0e67c24133bbf121a8f74e59353f4e2a8932983d3fedfee00fcf4e1dfd35bf11.m3u8> |
-| 318 | [BD]cctv5 plus | stream1.freetv.fun | <https://stream1.freetv.fun/260b9f0cb939ff667a7a848531eb1e3074055eaa25b95d639a7bdc148e6ba471.m3u8> |
+| 318 | [BD]cctv5 plus | stream1.freetv.fun | <https://stream1.freetv.fun/a738860ec7fcaf655c7db23c3d6ef52d023e652b5486379db530287184dad292.m3u8> |
 | 319 | [HD]cctv-5 plus体育赛事 | stream1.freetv.fun | <https://stream1.freetv.fun/46426c5508230b3191d6e2f8741db45084d30a8dff4b789fbcf7ec48bdce110a.m3u8> |
 | 320 | [BD]cctv6 | stream1.freetv.fun | <https://stream1.freetv.fun/fe5b09b81dbdecdff1016b2aa7a56c78bb78b23c9f0cea4e3fdb85a42152fb80.m3u8> |
 | 321 | [BD]cctv7 | stream1.freetv.fun | <https://stream1.freetv.fun/085cc8320b47039f91c89f261b3bde134c04438bf58155988cdd2120c8ae5c1c.m3u8> |
@@ -1954,4 +1954,4 @@
 | 1948 | [HD]龙华戏剧 ==1 | stream1.freetv.fun | <https://stream1.freetv.fun/07dfcf0be6d973d28d650d098d0a1b874fd601c10a078c4ed85b548848b7121c.m3u8> |
 | 1949 | [HD]龙华电影 *wj | stream1.freetv.fun | <https://stream1.freetv.fun/e8f1cfb3b98c9c5c4a47633aef0e92600acaadfcce17aa4390bcb09eb518abcd.ctv> |
 
-Updated at **Sat Jun 28 2025 01:15:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jun 28 2025 03:11:27 GMT+0000 (Coordinated Universal Time)**
