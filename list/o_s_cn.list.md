@@ -451,4 +451,4 @@
 | 445 | Guangzhou TV | tencentplaybusiness.gztv.com | <https://tencentplaybusiness.gztv.com/live/zonghes.m3u8> |
 | 446 | Harbin Movie Channel | stream.hrbtv.net | <https://stream.hrbtv.net/yspd/playlist.m3u8> |
 
-Updated at **Sat Jun 28 2025 03:11:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jun 28 2025 04:19:57 GMT+0000 (Coordinated Universal Time)**
