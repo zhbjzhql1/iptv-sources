@@ -112,7 +112,7 @@ https://stream1.freetv.fun/c0a7c86521c0d80a8b9c500d4aa2468baf31673e0029a311f9f16
 #EXTINF:-1 tvg-name="兵团卫视" tvg-id="378869" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128061107039210_54.png" group-title="其它",[SD]兵团卫视
 https://stream1.freetv.fun/7e0d9638f60dca70ddc3a2437eb10e874587f11f9d3efd833e71acfbdf2de2d6.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/07/28/large/20240728160943951323_78.png" group-title="儿童",[BD]动漫秀场
-https://stream1.freetv.fun/01338fd08b1718f396da23e41d0f2ac8781b971adb8fb69e48b9f365f2f68470.ctv
+https://stream1.freetv.fun/2924fa4ccbfef033bf3c223fe17d6310171a27a54764d1a019a430d9df7048fa.ctv
 #EXTINF:-1 tvg-name="北京卫视" tvg-id="378847" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/10/29/large/20241029101351559578_45.png" group-title="综合",[HD]北京卫视
 https://stream1.freetv.fun/58ada9296c1cd8c98929d12386749a6748a6ed09bda28980e0909fff792e95fc.m3u8
 #EXTINF:-1 tvg-name="十堰新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722144516190872_41.png" group-title="新闻",[HD]十堰新闻
@@ -267,8 +267,8 @@ https://stream1.freetv.fun/ccc0bddff57b8c467a86d60eb3d1207f4621bd91628371ced6d79
 https://stream1.freetv.fun/3183ffae76f69a89a698cf293df8078d71389ae0305c7c457a65fe1a1db0a6de.ctv
 #EXTINF:-1 tvg-name="广东少儿" tvg-id="" tvg-country="中国大陆" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721133553685102_74.png" group-title="儿童",[SD]广东少儿
 https://stream1.freetv.fun/1dbd8204fbeb0335a3a6d1850f3bcca44933fee4ff6595e362d7583cdbd5e7f3.ctv
-#EXTINF:-1 tvg-name="广东影视" tvg-id="" tvg-country="中国大陆" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130217262909_90.png" group-title="电影",[SD]广东影视
-https://stream1.freetv.fun/befb766cccc3f4aea99c123080b37aaadd09e409aaad63a496f1e970d7ecfcfd.ctv
+#EXTINF:-1 tvg-name="广东影视" tvg-id="" tvg-country="中国大陆" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130217262909_90.png" group-title="电影",[BD]广东影视
+https://stream1.freetv.fun/14aee7ac3331e19df1a911e1d6290415ee8a6c46ec11668fc100a9f7d58d42a1.ctv
 #EXTINF:-1 tvg-name="广东新闻" tvg-id="" tvg-country="中国大陆" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114131740840005_79.png" group-title="新闻",[SD]广东新闻
 https://stream1.freetv.fun/566b660ec1dca1eeb9240a2670ed7faa6f9989dbc20845436cc253de73b91704.m3u8
 #EXTINF:-1 tvg-name="广东民生" tvg-id="" tvg-country="中国大陆" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="综合",[BD]广东民生
