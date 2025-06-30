@@ -210,4 +210,4 @@
 | 204 | 金鹰卡通 | IPv4 直链 | <http://101.66.199.57:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 205 | 金鹰卡通 | IPv4 直链 | <http://101.66.199.90:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **Mon Jun 30 2025 16:20:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 30 2025 18:22:42 GMT+0000 (Coordinated Universal Time)**
