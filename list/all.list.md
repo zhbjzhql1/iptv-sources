@@ -7,8 +7,8 @@
 | 1 | [BD]wild planet | stream1.freetv.fun | <https://stream1.freetv.fun/d7a386593f633d7bd3ec889b3cc3c72cffb1593a681006488e9f1fce863cdcfc.m3u8> |
 | 2 | [BD]samuel goldwyn films | stream1.freetv.fun | <https://stream1.freetv.fun/3b49084dbf17d505bf35ea36f5c8edf2d8260ecfe1f1e83d4437c2c02606a008.m3u8> |
 | 3 | [BD]rt-doc | stream1.freetv.fun | <https://stream1.freetv.fun/4fb0de9531463f93c6bd54ab7abc7b2dabff2cab3c1dfd195424288a2b44bf9c.m3u8> |
-| 4 | [VGA]астрахань 24 | stream1.freetv.fun | <https://stream1.freetv.fun/027a4b34b44bb4f4851bfff86ef5cc992b8ccb2828831a463f7aa443947a04e9.m3u8> |
-| 5 | [BD]tv 100 | stream1.freetv.fun | <https://stream1.freetv.fun/554f789257fa815d5ab3341db63e9a361be70ebafa5dc907b25e1dd4e7b09fdd.m3u8> |
+| 4 | [HD]астрахань 24 | stream1.freetv.fun | <https://stream1.freetv.fun/ebb11e4df55de6fa19f7ea397bf48902be55049a084519465879aad56dd4ae89.m3u8> |
+| 5 | [BD]tv 100 | stream1.freetv.fun | <https://stream1.freetv.fun/dbeb9e7bd1226ee15a0ad9d1f1265028d084a6696e280d31b2acd3fd559c4256.m3u8> |
 | 6 | [BD]ми україна | stream1.freetv.fun | <https://stream1.freetv.fun/43a67aeea8f14f7498ca464aacace117aedceba37d489f8da857ca3490721dc4.ctv> |
 | 7 | [BD]「新疆」兵团八师石河子经济生活 | stream1.freetv.fun | <https://stream1.freetv.fun/a29ba2a4077fadda7271f9196d93073850de7b69cae5be8467b20fd906de21ba.m3u8> |
 | 8 | [BD]12 канал | stream1.freetv.fun | <https://stream1.freetv.fun/1a8b76e8e51f1b2568528ff2273d887b55e1b0f341a4cbe383305c33097dc972.m3u8> |
@@ -315,7 +315,7 @@
 | 309 | [SD]cctv13 | stream1.freetv.fun | <https://stream1.freetv.fun/032077fd8a5e5858db68e56df3e76063f55f5ad7e4e61c01ee7c736c8b260e07.m3u8> |
 | 310 | [BD]cctv14 | stream1.freetv.fun | <https://stream1.freetv.fun/5d7dfa5ebfe90c78b537cdc5dd77be50a3ed19ffe163aa50de5f4d79dd2ab3db.m3u8> |
 | 311 | [SD]cctv15 | stream1.freetv.fun | <https://stream1.freetv.fun/658ddc6e789ce16786ad546cf9f8be98fe107f282b045ab77998da6caf499a0d.m3u8> |
-| 312 | [BD]cctv16 | stream1.freetv.fun | <https://stream1.freetv.fun/8d9ae8021a0bf9cb1aa70e03149b01d1aa4bbe2f34886a7f07579aab8addb659.m3u8> |
+| 312 | [BD]cctv16 | stream1.freetv.fun | <https://stream1.freetv.fun/e48a1dccf8e46a6ff6d6c3f16ecb266622e67ea7ad05003389743c7c6a988b5b.m3u8> |
 | 313 | [BD]cctv17 | stream1.freetv.fun | <https://stream1.freetv.fun/fc81fbbacfb04b0ae81bfbc0af49b5e3fbdbf25db51c927dcf1d3b4221651cdc.m3u8> |
 | 314 | [BD]cctv2 | stream1.freetv.fun | <https://stream1.freetv.fun/ccc77f9724e786676ba5afe0965ea489e0a72bf472625688b404670f479f6f8a.m3u8> |
 | 315 | [BD]cctv3 | stream1.freetv.fun | <https://stream1.freetv.fun/315eb1b1e89b7dc132fb6dd494dcdb3e7a42fdd6d2169a7b3ad31a8da4e31449.m3u8> |
@@ -1136,7 +1136,7 @@
 | 1130 | [HD]sky movies select uk *e | stream1.freetv.fun | <https://stream1.freetv.fun/bbbb4ba6e62d6c1aa91c87b2777dc90949a81ce3fb9128e6390d5bf6efcd8c1d.ctv> |
 | 1131 | [BD]sky sports action== | stream1.freetv.fun | <https://stream1.freetv.fun/2982f87baa8f2dc97997934b4dc89e755129bbb0eedc752cd34295ee5348ee1c.ctv> |
 | 1132 | [BD]skysports cricket *wj | stream1.freetv.fun | <https://stream1.freetv.fun/af8fb80df59583342557104a69a5c507e8242895b6ea526098a40ac2208ac0cd.ctv> |
-| 1133 | [BD]sky sports f1== | stream1.freetv.fun | <https://stream1.freetv.fun/b8585573fe5437a2de4e7be1c05365ffaa6545a3b89408b01a3a017a7263a247.ctv> |
+| 1133 | [BD]skysports f1 *wj | stream1.freetv.fun | <https://stream1.freetv.fun/7d956863cf968271a2ce71dcadd20c3f4882fec99bb7c476c78f03e1c1c86265.ctv> |
 | 1134 | [SD]skysports golf *wj | stream1.freetv.fun | <https://stream1.freetv.fun/fcdc2725d949e96ff27f8be493fac27aa8228ad6379a6211e3ca7205ef3e4d44.ctv> |
 | 1135 | [BD]skysports | stream1.freetv.fun | <https://stream1.freetv.fun/8a7314b7753f5c095f71ef755132a09c7753602f9c75d0eae29de3458e9d1aa9.ctv> |
 | 1136 | [BD]sky sport5 nz | stream1.freetv.fun | <https://stream1.freetv.fun/96e33309e8db67f18f35a2cdb37af7ca6513b63ce847ba248e786b17b0cae9d4.ctv> |
@@ -1943,4 +1943,4 @@
 | 1937 | [HD]龙华戏剧 *t | stream1.freetv.fun | <https://stream1.freetv.fun/ed0e3027a65cf015cd63030de0015454f2d64616afbd3353b969ecf3578e4969.ctv> |
 | 1938 | [HD]龙华电影 *wj | stream1.freetv.fun | <https://stream1.freetv.fun/9eea168bf2305a66b23da8ee026d20b36cdf2d6dca502822bd965aa5115b6fe4.ctv> |
 
-Updated at **Tue Jul 01 2025 16:20:52 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 01 2025 18:22:11 GMT+0000 (Coordinated Universal Time)**
