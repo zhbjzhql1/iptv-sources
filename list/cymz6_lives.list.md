@@ -97,4 +97,4 @@
 | 91 | 经济科教 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 92 | 金鹰卡通 | IPv4 直链 | <http://1.197.250.87:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Tue Jul 01 2025 03:27:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 01 2025 04:35:11 GMT+0000 (Coordinated Universal Time)**
