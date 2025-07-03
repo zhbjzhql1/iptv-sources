@@ -452,4 +452,4 @@
 | 446 | Harbin Movie Channel | stream.hrbtv.net | <https://stream.hrbtv.net/yspd/playlist.m3u8> |
 | 447 | CCTV-4 Asia | trn03.bozztv.com | <http://trn03.bozztv.com/gin-cctv4/index.m3u8> |
 
-Updated at **Thu Jul 03 2025 08:21:44 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 03 2025 10:17:54 GMT+0000 (Coordinated Universal Time)**
