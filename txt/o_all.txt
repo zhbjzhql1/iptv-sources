@@ -2596,7 +2596,6 @@ Vizyon_58_TV_(720p),https://live.artidijitalmedya.com/artidijital_vizyon58/vizyo
 VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 Vocea_Basarabiei_TV_(720p)_[Not_24/7],https://storage.voceabasarabiei.md/vocea/vocea.m3u8
 Vogue_Europe,https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883060
-Voice_of_Lebanon_(1080p),https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 Voll_Vergeistert,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63905bf62892fc0007b5ba7b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b218264-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=20126671-0297-4419-a7f1-a924a045c2a8
 Vosges_Télévision_(576p)_[Not_24/7],https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
 VOX,http://lafamilia2024.direct.quickconnect.to:9981/stream/channelid/44434500?profile=pass
@@ -4659,6 +4658,7 @@ Orange_TV3,https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/cityoforange/G1025_004/play
 ORBIT_TV_(480p)_[Not_24/7],https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 ORF_1_HD,https://s6.hopslan.com/orfx11/index.m3u8
 ORF_2_(720p),https://strm.hdtvizlecanli.com/live/orf2.m3u8
+ORF_2_NO_HD_(720p),http://80.108.23.68:9999/stream/channelid/39599149?profile=pass
 ORF_2_Tirol_HD_(720p),https://cachehsi1a.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
 Oromar_TV_(720p),https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 Oroszlányi_Városi_Televízió_(720p),https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
@@ -6587,6 +6587,7 @@ VNP,https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 VOA_Persian,https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 VOA_TV_Africa_(1080p),https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 Voice_News_(720p),https://cdn.bmstudiopk.com/vop/live/playlist.m3u8
+Voice_of_Lebanon_(1080p),https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 Vouli_TV_(1080p)_[Not_24/7],https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
 VPItv_(1080p),https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 VTV_News_(720p),https://5b48d7e1b4bce.streamlock.net/myapp/vtvlive/playlist.m3u8
