@@ -3624,7 +3624,6 @@ Canal_4_Catalunya_(1080p),https://limited35.todostreaming.es/live/mitjans-livest
 Canal_4_de_Matehuala_(360p)_[Not_24/7],https://stream.oursnetworktv.com/latin/encoder203/playlist.m3u8
 Canal_4_Mallorca_(1080p),https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 Canal_4_RD_(1080p),https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
-Canal_5,http://181.78.105.146:2000/play/a038/index.m3u8
 Canal_6_CDMX,https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 Canal_6_de_Tamazula_(480p)_[Not_24/7],https://stream.oursnetworktv.com/latin/encoder6/playlist.m3u8
 Canal_6_Nicaragüense_(480p)_[Not_24/7],http://138.117.4.70:8075/Canal06_CooTel/playlist.m3u8
@@ -4027,6 +4026,7 @@ FTV_One_(民视第一台)_(720p)_[Not_24/7],http://seb.sason.top/ptv/ftv.php?id=
 Fuengirola_TV_(360p)_[Not_24/7],https://secure.todostreaming.es/live/nerja-livestream.m3u8
 Fuerteventura_TV_(1080p),https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
 Future_TV_(1080p),https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
+Gabon_1ere_(1080p),https://vps112773.serveur-vps.net/hls/stream.m3u8
 Galavision,http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/3793.m3u8
 Galicia_TV_América_(720p),https://america-crtvg.flumotion.com/playlist.m3u8
 Galicia_TV_Europa_(720p),https://europa-crtvg.flumotion.com/playlist.m3u8
@@ -6887,6 +6887,7 @@ Freebie_TV_(720p)_[Not_24/7],https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d0
 Freedom_Love_Zone_TV_(720p),https://panel.freedomflixtv.org:3665/hybrid/play.m3u8
 Friday!,https://livetv.mylifeisgood.net.ru/channels/fridayhd.m3u8
 Fujairah_TV_(720p),https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
+Funoon_TV_(720p),https://241600.global.ssl.fastly.net/68175ce05c21676cb509f713/live_8bd95a1028e311f0898871faeff321ef/index.m3u8
 Fuse_East_(720p),https://fl3.moveonjoy.com/FUSE/index.m3u8
 FX_East,https://fl5.moveonjoy.com/FX/index.m3u8
 FX_TV_1,https://fxtvhls.wns.live/hls/stream.m3u8
@@ -6985,7 +6986,7 @@ KTIV-DT6,http://txc4-swbb-mn.fibernet-tv.com/KABY-CW-2364/index.m3u8
 KTVO-DT3_(720p),https://cvtv.cvalley.net/hls/KTVOComet/KTVOComet.m3u8
 KurdMax_Show_(720p),https://6476e46b58f91.streamlock.net/liveTrans/SHOW2/playlist.m3u8
 KurdMax_Sorani_(1080p),https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8
-Kurdsat_HD,https://kurdsat.akamaized.net/hls/kurdsat.m3u8
+Kurdsat,http://trn03.bozztv.com/gin-kurdsat/index.m3u8
 KVVB-TV_33_Victor_Valley_(1080p)_[Not_24/7],https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
 KYOU-DT4_(720p),https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
 KYOU-DT5_(720p),https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
@@ -9482,7 +9483,6 @@ Anime_Zone_TV_(480p),http://animezonetv.net/hls/stream.m3u8
 Blues_TV,https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 DreikoTv_(720p)_[Not_24/7],https://cloudvideo.servers10.com:8081/8138/index.m3u8
 EnerGeek_(720p)_[Not_24/7],https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
-EnerGeek_FAN_(1080p),https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=ZZDemoIPTVGH&password=mdo96EuqMkTR
 Gaming_TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eccd81062c300078a11df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e050353-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1020d719-457b-4030-b4a2-b5301461d381
 Geekdot_(720p),https://stream.ichibantv.com:3764/hybrid/play.m3u8
 Locomotion_TV_(480p)_[Not_24/7],http://51.222.85.85:81/hls/loco/index.m3u8
