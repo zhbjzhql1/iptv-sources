@@ -4312,7 +4312,7 @@
 | 4306 | M5 (1080p) | IPv4 直链 | <http://146.59.85.40:89/m5/index.m3u8> |
 | 4307 | M95 Televisión Marbella (1080p) [Not 24/7] | limited2.todostreaming.es | <https://limited2.todostreaming.es/live/m95-livestream.m3u8> |
 | 4308 | M Sign Media (720p) [Not 24/7] | rtmp2.logicwebs.in:1935 | <http://rtmp2.logicwebs.in:1935/msign/msignmedia/playlist.m3u8> |
-| 4309 | M+ (1080p) | d35j504z0x2vu2.cloudfront.net | <https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/playlist.m3u8> |
+| 4309 | M+ (1080p) | d35j504z0x2vu2.cloudfront.net | <https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/master.m3u8> |
 | 4310 | M-Net HD (720p) | ares.mnet.mk | <http://ares.mnet.mk/hls/mnet.m3u8> |
 | 4311 | M-Net Info (720p) | giganet.mk | <https://giganet.mk/hls/mnet-info.m3u8> |
 | 4312 | M-Net Kids (720p) | ares.mnet.mk | <http://ares.mnet.mk/hls/mnet-kids.m3u8> |
@@ -5823,7 +5823,7 @@
 | 5817 | PMC Royale (720p) | rohls.pmc.live | <https://rohls.pmc.live/hls/stream.m3u8> |
 | 5818 | PMCS TV (720p) | cdn.streamhispanatv.net:3787 | <https://cdn.streamhispanatv.net:3787/live/pmcstvlive.m3u8> |
 | 5819 | PMI TV (720p) [Not 24/7] | cdn.live247stream.com | <https://cdn.live247stream.com/pmi/tv/playlist.m3u8> |
-| 5820 | PNC Drama (1080p) | d35j504z0x2vu2.cloudfront.net | <https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/playlist.m3u8> |
+| 5820 | PNC Drama (1080p) | d35j504z0x2vu2.cloudfront.net | <https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8> |
 | 5821 | PNN (720p) | live.kh.malimarcdn.com | <https://live.kh.malimarcdn.com/live/pnntvhd.stream/playlist.m3u8> |
 | 5822 | PNN News (720p) | cdn.bmstudiopk.com | <https://cdn.bmstudiopk.com/pnn/smil:PNN.smil/playlist.m3u8> |
 | 5823 | PNTV (720p) | livefta.malimarcdn.com | <https://livefta.malimarcdn.com/ftaedge00/pntv.sdp/playlist.m3u8> |
@@ -6434,7 +6434,7 @@
 | 6428 | RomCom K-Drama (1080p) | 7488d45c.wurl.com | <https://7488d45c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JvbUNvbUtEcmFtYV9ITFM/playlist.m3u8> |
 | 6429 | Ronahi TV | ronahi-tv.akamaized.net | <https://ronahi-tv.akamaized.net/hls/ronahi-tv.m3u8> |
 | 6430 | Rossini TV (720p) | 5cbd3bc28341f.streamlock.net:444 | <https://5cbd3bc28341f.streamlock.net:444/rossinitv_live/944A-63A6-9EB8-4492/playlist.m3u8> |
-| 6431 | Rotana Aflam+ (1080p) | d35j504z0x2vu2.cloudfront.net | <https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/playlist.m3u8> |
+| 6431 | Rotana Aflam+ (1080p) | d35j504z0x2vu2.cloudfront.net | <https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8> |
 | 6432 | Rotana Cinema KSA (1080p) | bcovlive-a.akamaihd.net | <https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8> |
 | 6433 | Rotana Classic (1080p) | bcovlive-a.akamaihd.net | <https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8> |
 | 6434 | Rotana FM KSA (720p) | live.restream.io | <rtmp://live.restream.io/pull/play_320121_94512612fd0e084bd284> |
@@ -9662,4 +9662,4 @@
 | 9656 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
 | 9657 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
 
-Updated at **Mon Jul 07 2025 22:16:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 08 2025 01:18:39 GMT+0000 (Coordinated Universal Time)**
