@@ -1991,4 +1991,4 @@
 | 1985 | [BD]龙华日韩 | stream1.freetv.fun | <https://stream1.freetv.fun/596a80af31a5b492aa0f37072703f44371db9f90c7ec6f551d8f1f660a3a0673.m3u8> |
 | 1986 | [BD]龙华电影 *0 | stream1.freetv.fun | <https://stream1.freetv.fun/1f2ea8218b980122052c5215391b5ff490a4a09985fdfffc2977a92836a07cd1.ctv> |
 
-Updated at **Thu Jul 10 2025 14:17:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 10 2025 16:20:57 GMT+0000 (Coordinated Universal Time)**
