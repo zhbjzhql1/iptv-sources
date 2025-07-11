@@ -281,6 +281,7 @@
 [HD]绍兴文化影院,https://stream1.freetv.fun/096a591970c993bd6990d4f2924866f28d3908dd2dbf815c0eb11c491cdafac6.m3u8
 [HD]苏州电影娱乐信息,https://stream1.freetv.fun/0faeeec0463ede210864e21d5ca302b9b7401325149c4fc63f661f02ba9574a4.m3u8
 [BD]辽宁影视剧,https://stream1.freetv.fun/e5424278851426ee35b7de4274381532c04008f667e218f8ab983b6593058c7a.m3u8
+[HD]陕西西部电影,https://stream1.freetv.fun/cc7a2af8c63190b1e012b8ca8addeb39c29e5cabe23c3d465e37b22887e1a4f6.m3u8
 [HD]云南影视,rtmp://hwzbout.yntv.net/62hdvf/utrat7
 
 儿童,#genre#
