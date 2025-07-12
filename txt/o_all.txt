@@ -4384,7 +4384,6 @@ Lotus_Macau_HD_(1080p)_[Not_24/7],https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA
 Louga_TV_(480p),https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
 Loveland_TV_(Loveland_CO)_(1080p),https://reflect-cityofloveland-co.cablecast.tv/live-3/live/live.m3u8
 LOZ_(Lokale_Omroep_Zeewolde)_(720p),https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8
-LRT_Lituanica,https://stream-live.lrt.lt/lituanica/stream03/streamPlaylist.m3u8
 Lucania_Channel_(720p),http://wms.shared.streamshow.it/lucaniatv/lucaniatv/playlist.m3u8
 Lugansk_24_(1084p),https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
 Luna_TV,https://5f22d76e220e1.streamlock.net/lunatv/lunatv/playlist.m3u8
