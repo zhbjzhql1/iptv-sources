@@ -15,4 +15,4 @@
 | 9 | 重庆卫视 | IPv4 直链 | <http://223.241.247.214:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 10 | 马鞍山新闻 | IPv4 直链 | <http://223.241.247.214:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sat Jul 12 2025 06:23:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jul 12 2025 08:19:36 GMT+0000 (Coordinated Universal Time)**
