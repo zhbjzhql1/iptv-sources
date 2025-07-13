@@ -370,7 +370,7 @@ https://stream1.freetv.fun/53800b472ac1869f0e75f5c2b17fdee144590e10b746f523425fd
 #EXTINF:-1 tvg-name="河北农民" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531145755560747_44.jpg" group-title="综合",[HD]河北农民
 https://stream1.freetv.fun/9bbe61c3b5d654e981e8256c9d3524467065dc700aa117f2e973bfec74ccea0e.m3u8
 #EXTINF:-1 tvg-name="河南公共" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531143142546670_12.jpg" group-title="综合",[BD]河南公共
-https://stream1.freetv.fun/25429e3636ea9c6a9442299d4320ca8f0ced8234584f8281621d47bd04f880f6.m3u8
+https://stream1.freetv.fun/d6baee9f23c767f785db7f03023ea35a540e8aedfc3dc4208c2ce9241ee1c3e9.m3u8
 #EXTINF:-1 tvg-name="河南新闻" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530234035010681_21.jpg" group-title="新闻",[BD]河南新闻
 https://stream1.freetv.fun/8e29f64d99103ce461bf6231556f47046bab5f109f1074fcd6e5e4a03fc20c3a.m3u8
 #EXTINF:-1 tvg-name="河南法治" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531143304259937_54.jpg" group-title="综合",[BD]河南法治
@@ -571,8 +571,6 @@ https://stream1.freetv.fun/cc54b485fc3912265c9dbb24fe2b6d1ba2b65412d0ff45b904bc4
 https://stream1.freetv.fun/4509b28aa6870b6723880c39a01a00ab539461605d227f22a85ba3d105592ad9.m3u8
 #EXTINF:-1 tvg-name="连云港新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101022805784877_41.jpg" group-title="新闻",[SD]连云港新闻综合
 https://stream1.freetv.fun/c026e00e084889aff791df402170b37bbdf55244f8f595ea61c37416e94b5c1e.ctv
-#EXTINF:-1 tvg-name="辽宁公共" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531155932261297_92.jpg" group-title="综合",[BD]辽宁公共
-https://stream1.freetv.fun/c847cb98e9c1a6e222395ceea5b23181ad7d7ac74bc5523ddb979b34c0dbd8ab.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-id="378853" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128060733782674_48.jpg" group-title="综合",[BD]辽宁卫视
 https://stream1.freetv.fun/b2bebbb6d53b62ec21c3dca43f81123f14218a573e3986c8d65755142700cba7.m3u8
 #EXTINF:-1 tvg-name="辽宁都市" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531160427828013_65.jpg" group-title="综合",[BD]辽宁都市

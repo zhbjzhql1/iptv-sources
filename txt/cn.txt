@@ -66,7 +66,7 @@
 [HD]淮北经济生活,https://stream1.freetv.fun/3c6e99064cb6116c2dd03648f895a91b936609e0800bc9ae5c9c7b617338bff5.ctv
 [BD]河北卫视,https://stream1.freetv.fun/53800b472ac1869f0e75f5c2b17fdee144590e10b746f523425fd6ee5cc9b490.ctv
 [HD]河北农民,https://stream1.freetv.fun/9bbe61c3b5d654e981e8256c9d3524467065dc700aa117f2e973bfec74ccea0e.m3u8
-[BD]河南公共,https://stream1.freetv.fun/25429e3636ea9c6a9442299d4320ca8f0ced8234584f8281621d47bd04f880f6.m3u8
+[BD]河南公共,https://stream1.freetv.fun/d6baee9f23c767f785db7f03023ea35a540e8aedfc3dc4208c2ce9241ee1c3e9.m3u8
 [BD]河南法治,https://stream1.freetv.fun/59b159197caae280f8142d2621cc23121a72b04c8b1efd8c830c7f00be0e5962.m3u8
 [BD]河南卫视,https://stream1.freetv.fun/ea842ab34e6da31e0eae5bd8be6c4b7d67f0b0c214efaca7ff2c5a1718f7fe55.m3u8
 [VGA]浙江国际,https://stream1.freetv.fun/85946246ab7fd0c04a997e854c5a6a90f9f74f0fec769c6bfb77a60526c6d729.m3u8
@@ -99,7 +99,6 @@
 [SD]西藏卫视,https://stream1.freetv.fun/0520182fdda930a14ef73fa2ed6221ba95c6ae2ddffa8c93f4b08562ea71c777.m3u8
 [BD]贵州卫视,https://stream1.freetv.fun/cc54b485fc3912265c9dbb24fe2b6d1ba2b65412d0ff45b904bc4d53ea02bf67.ctv
 [SD]农林卫视,https://stream1.freetv.fun/4509b28aa6870b6723880c39a01a00ab539461605d227f22a85ba3d105592ad9.m3u8
-[BD]辽宁公共,https://stream1.freetv.fun/c847cb98e9c1a6e222395ceea5b23181ad7d7ac74bc5523ddb979b34c0dbd8ab.m3u8
 [BD]辽宁卫视,https://stream1.freetv.fun/b2bebbb6d53b62ec21c3dca43f81123f14218a573e3986c8d65755142700cba7.m3u8
 [BD]辽宁都市,https://stream1.freetv.fun/fa8b58ee3501c160604b5a5a15296a14470b5db205df813bc39040a88bd167c0.m3u8
 [HD]邢台综合频道,https://stream1.freetv.fun/2458746ec43606d168e6e5a6e8902d3dfce08a87a9ea842e12e8d060af9c4054.m3u8
