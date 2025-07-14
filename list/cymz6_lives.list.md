@@ -19,4 +19,4 @@
 | 13 | 电视剧 | IPv4 直链 | <http://182.126.119.43:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 14 | 都市 | IPv4 直链 | <http://182.126.119.43:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Mon Jul 14 2025 01:23:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jul 14 2025 03:37:55 GMT+0000 (Coordinated Universal Time)**
