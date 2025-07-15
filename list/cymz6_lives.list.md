@@ -57,4 +57,4 @@
 | 51 | 秦皇岛新闻 | IPv4 直链 | <http://106.118.70.231:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 52 | 金鹰卡通 | IPv4 直链 | <http://101.66.194.103:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **Tue Jul 15 2025 01:24:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 15 2025 03:27:06 GMT+0000 (Coordinated Universal Time)**
