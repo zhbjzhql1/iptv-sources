@@ -33,7 +33,7 @@
 | 27 | [SD]5 star uk *s | stream1.freetv.fun | <https://stream1.freetv.fun/9ed69173e92554ede9a148e5c7a839a844c3994dfe6a892d6122f1200ecfd5fd.m3u8> |
 | 28 | [BD]tastemade australia | stream1.freetv.fun | <https://stream1.freetv.fun/2fb4b7ca76e795b79af482fcb8d88354467c0d5f5ee43999620c4f7e0349708a.m3u8> |
 | 29 | [HD]пятый канал | stream1.freetv.fun | <https://stream1.freetv.fun/5da7459763ca8761e9fa20865737c88e65ce2a54e488cfeee7b86872988d9d10.m3u8> |
-| 30 | [BD]mediacorp 8 *wj | stream1.freetv.fun | <https://stream1.freetv.fun/dfc17cb838c636772035bcb4e2c5d461d24c12f018a0051e56aab36b6a5a89b1.ctv> |
+| 30 | [BD]mediacorp u *wj | stream1.freetv.fun | <https://stream1.freetv.fun/2b15a74302577b81699df54eec74e92c2602f88a01c30f71fa3c86446da3df72.ctv> |
 | 31 | [SD]video calabria | stream1.freetv.fun | <https://stream1.freetv.fun/d1cf714a50c73d75afc5d23f7d6db153b71eb204d9c3b076220e84cb6f2123e2.m3u8> |
 | 32 | [BD]8tv | stream1.freetv.fun | <https://stream1.freetv.fun/12a6bfefe592e1705114638cfe68a1bb9444aeedd5067993eff292970c007fb4.m3u8> |
 | 33 | [SD]9 волна | stream1.freetv.fun | <https://stream1.freetv.fun/d9363f56b6f21d34e8b0b65ec527ccb0e7e7d71e706dba1b5b66b3c88ddaccf0.m3u8> |
@@ -2015,11 +2015,12 @@
 | 2009 | [HD]盐城新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/ee730abf7f00cf19da98b49f0f8cfe02c2c6a9ce62eaa9b1e3a5ba0510bc4168.m3u8> |
 | 2010 | [HD]盐城法制生活 | stream1.freetv.fun | <https://stream1.freetv.fun/6bcd9c2342c87236ecb7159f98e4377a5b2b9e1ad3215982e71b34be08ede917.m3u8> |
 | 2011 | [BD]溧水新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/1a079c059eb130d33f8a0b23c616b77e1390d13bed99002dda920d83163b8808.m3u8> |
-| 2012 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.m3u8> |
-| 2013 | [BD]龙华偶像 | stream1.freetv.fun | <https://stream1.freetv.fun/0573c868b50d77a847b27aac5aae897863bb74e836b008b421ed1b9d2375a88a.m3u8> |
-| 2014 | [HD]龙华卡通 | stream1.freetv.fun | <https://stream1.freetv.fun/cd8dc05ba5ec6edbbf004bcbeffeabb30eaca27fe1150e2c0e5411e4c7f88a01.m3u8> |
-| 2015 | [HD]龙华戏剧 | stream1.freetv.fun | <https://stream1.freetv.fun/ffc42cad6b5011b62dc1a03b818aafd5124546bd6ec578051fff251f69e6e684.m3u8> |
-| 2016 | [BD]龙华日韩 | stream1.freetv.fun | <https://stream1.freetv.fun/9c2920df490df6a08c307894de50ccb79ac68fb82eebf6b8d6e8f2b1a3dc3509.m3u8> |
-| 2017 | [HD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/f3e4792919e603bd0eb00254eb263931dbab92a22578853745d8dbe977714338.ctv> |
+| 2012 | [HD]-黄金华剧 | stream1.freetv.fun | <https://stream1.freetv.fun/0e89328b106293900591bba51b74c3334a6e205048684c6da7e186b6f8990fff.ctv> |
+| 2013 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.m3u8> |
+| 2014 | [BD]龙华偶像 | stream1.freetv.fun | <https://stream1.freetv.fun/0573c868b50d77a847b27aac5aae897863bb74e836b008b421ed1b9d2375a88a.m3u8> |
+| 2015 | [HD]龙华卡通 | stream1.freetv.fun | <https://stream1.freetv.fun/cd8dc05ba5ec6edbbf004bcbeffeabb30eaca27fe1150e2c0e5411e4c7f88a01.m3u8> |
+| 2016 | [HD]龙华戏剧 | stream1.freetv.fun | <https://stream1.freetv.fun/ffc42cad6b5011b62dc1a03b818aafd5124546bd6ec578051fff251f69e6e684.m3u8> |
+| 2017 | [BD]龙华日韩 | stream1.freetv.fun | <https://stream1.freetv.fun/9c2920df490df6a08c307894de50ccb79ac68fb82eebf6b8d6e8f2b1a3dc3509.m3u8> |
+| 2018 | [HD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/f3e4792919e603bd0eb00254eb263931dbab92a22578853745d8dbe977714338.ctv> |
 
-Updated at **Mon Jul 14 2025 22:16:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 15 2025 01:24:04 GMT+0000 (Coordinated Universal Time)**

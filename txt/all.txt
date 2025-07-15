@@ -3,7 +3,7 @@ Movies,#genre#
 [HD]астрахань_24,https://stream1.freetv.fun/ebb11e4df55de6fa19f7ea397bf48902be55049a084519465879aad56dd4ae89.m3u8
 [SD]tv_25,https://stream1.freetv.fun/b4ca108a12d38f0137920b6969597a3ae9f24583d63188b8ef099b86a26fb68b.m3u8
 [HD]5_star_max_usa_*e,https://stream1.freetv.fun/9eb1a1265adaa40e82b4204070502ade17f3105884e4df8f5888b3bb9c0d340d.ctv
-[BD]mediacorp_8_*wj,https://stream1.freetv.fun/dfc17cb838c636772035bcb4e2c5d461d24c12f018a0051e56aab36b6a5a89b1.ctv
+[BD]mediacorp_u_*wj,https://stream1.freetv.fun/2b15a74302577b81699df54eec74e92c2602f88a01c30f71fa3c86446da3df72.ctv
 [SD]amc_*e,https://stream1.freetv.fun/95dd93dd3b8e213717f71a114d6a67442af0793788d651dda080a1d827eb74b9.ctv
 [HD]thrillers_365,https://stream1.freetv.fun/5d78953bfa8a435a3e9136cc8cb0a5b2a03ec64da14110a85d9ac77d329cf198.m3u8
 [HD]astro_aod,https://stream1.freetv.fun/ff883f597294eff85484b9209e6d48154e7a3d4b11af42a2f473606ae9395a77.ctv
@@ -241,6 +241,7 @@ Movies,#genre#
 [BD]靖天戏剧,https://stream1.freetv.fun/b4f15adf935f16285a2c2ef88df0d5a58dd7934a03a8ec7d9f4e57ca2206faf6.ctv
 [BD]靖天映画,https://stream1.freetv.fun/0864058ec04ec30d97650ab00f4f78c094c0c88f5c79f141c0292f525cf29ea1.ctv
 [SD]凤凰电影,https://stream1.freetv.fun/75cf3fd3b2e39cb22ee433381aeafdfabd12682b75b524b21992dc0b7284fcaa.m3u8
+[HD]-黄金华剧,https://stream1.freetv.fun/0e89328b106293900591bba51b74c3334a6e205048684c6da7e186b6f8990fff.ctv
 [BD]龙华偶像,https://stream1.freetv.fun/0573c868b50d77a847b27aac5aae897863bb74e836b008b421ed1b9d2375a88a.m3u8
 [HD]龙华戏剧,https://stream1.freetv.fun/ffc42cad6b5011b62dc1a03b818aafd5124546bd6ec578051fff251f69e6e684.m3u8
 [BD]龙华日韩,https://stream1.freetv.fun/9c2920df490df6a08c307894de50ccb79ac68fb82eebf6b8d6e8f2b1a3dc3509.m3u8

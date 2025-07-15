@@ -453,4 +453,4 @@
 | 447 | CCTV-4 Asia | trn03.bozztv.com | <http://trn03.bozztv.com/gin-cctv4/index.m3u8> |
 | 448 | Shenzhen Satellite TV (2160p) | livepull-tcms.sztv.com.cn | <https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8> |
 
-Updated at **Mon Jul 14 2025 22:16:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 15 2025 01:24:05 GMT+0000 (Coordinated Universal Time)**
