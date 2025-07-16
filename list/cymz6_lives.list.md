@@ -108,4 +108,4 @@
 | 102 | 福建东南 | IPv4 直链 | <http://1.195.131.81:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 103 | 金鹰卡通 | IPv4 直链 | <http://125.114.241.226:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Wed Jul 16 2025 12:35:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 16 2025 14:16:05 GMT+0000 (Coordinated Universal Time)**
