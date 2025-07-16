@@ -320,7 +320,7 @@
 
 知识,#genre#
 [BD]cctv9,https://stream1.freetv.fun/ea81fc0f2fac864a17a10c1a7f4d1a32258b45f78172eb9177e7b60db8c9e9b2.m3u8
-[BD]asharq_documentary,https://stream1.freetv.fun/8ab5f603f7d5a9e5c37a07736f309c981277dd2250416023994aaff9ef4bd2ac.m3u8
+[HD]asharq_documentary,https://stream1.freetv.fun/8ab5f603f7d5a9e5c37a07736f309c981277dd2250416023994aaff9ef4bd2ac.m3u8
 [BD]湖南金鹰纪实,https://stream1.freetv.fun/3ed6c7a70769e3909a6449b135591999845268f4114838766d97321cb2f0436b.m3u8
 
 测试,#genre#
