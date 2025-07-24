@@ -4996,6 +4996,7 @@ Telesol_TV_(720p),https://vcp15.myplaytv.com/telesoltv/telesoltv/playlist.m3u8
 Telestense_(720p),https://5e73cf528f404.streamlock.net/TeleEstense/livestream/playlist.m3u8
 Telesud_(720p),https://webtv.pugliaservice.it:1936/telesud-webtv/telesud-webtv/playlist.m3u8
 Televallo_(576p),https://5cbd3bc28341f.streamlock.net:444/televallo/live/playlist.m3u8
+like_Gecko)_Chrome/92.0.4515.131_Safari/537.36",Televiaducto_Canal_14_(576p)_[Not_24/7],https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_35cdedd0092a11f089a6e578a102a00d/index.fmp4.m3u8
 Television_Espoir_47_(720p),https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8
 Télévision_La_Brise_(Ch._28_Les_Cayes)_(720p),http://lakay.online/public/telelabrise/index.m3u8
 Televisión_Metrópolis_19.1_(1080p)_[Not_24/7],https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
@@ -5021,7 +5022,7 @@ TIVER_(576p),https://cdn.live.br1.jmvstream.com/w/AVJ-13550/playlist/playlist.m3
 Tivi_6_(720p),https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 TLT_Molise_(1080p),https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
 TM1_(360p)_[Not_24/7],http://69.64.57.208/tm1/playlist.m3u8
-TM_TV_(720p),https://hls.tmtv.live/hls/stream.m3u8
+TM_TV_(720p),https://cdn3.skygo.mn/live/disk1/TM/HLS-FTA/TM.m3u8
 TMT_(1080p),https://live.teleradiocom.tj/9/3m.m3u8
 TNO_Radio_(720p),https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
 TNTV_(1080p),https://tntv-samsung-fr.amagi.tv/playlist.m3u8
@@ -5807,7 +5808,6 @@ RFPtv_(360p),https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
 RHT_Guadeloupe_(720p),https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
 Rock_TV_(720p),https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 Rotana_FM_KSA_(720p),rtmp://live.restream.io/pull/play_320121_94512612fd0e084bd284
-Rotana_Music_(1080p),https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
 RTL_Today_Radio_(720p),https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
 RTSH_Muzike_(576i),http://77.83.120.135:8001/play/a1a0
 RTV_Vida_(1080p),https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
