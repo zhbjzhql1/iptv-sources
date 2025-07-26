@@ -409,7 +409,6 @@ CNN_HEADLINES,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/
 CNV/Montreal,https://media1.radioservers.biz:1936/cnv/cnv/playlist.m3u8
 Coast_Guard,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64eddd96abcba80008d03b74/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d1592-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3be8d0f6-8bc2-4821-8e4e-430339ab67d7
 CoastTV_NBC_(WRDE-LD)_(720p)_[Not_24/7],https://live.field59.com/wrde/wrde1/playlist.m3u8
-Codigo_TV,https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8
 Coeur_Océan,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3dd1c2f29ce0007e18596/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06b102-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0031c60f-4d94-4726-b1ae-5054583e82c7
 Coeur_Ocean_TV,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2240abcf-afe5-4416-9631-fa9c29b7d0e6/manifest.m3u8
 Cold_Blood,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656064752c46f300087e9c99/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d1593-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4e98d1a8-bfb1-4e2c-a957-60357c97ba15
@@ -994,7 +993,6 @@ Melrose_Place,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/
 Mercan_TV_(576p),http://185.234.111.229:8000/play/a04k
 Mercury+,https://streams2.sofast.tv/sofastplayout/b7867c83-0c17-4de2-a74b-beb972c4f342_1000015693_HLS/master.m3u8
 MGR_TV_(1080p)_[Not_24/7],https://vod.streams.ovh:3876/stream/play.m3u8
-Miavision_TV,https://rdn.essastream.com:3550/live/miavisiontvlive.m3u8
 Midpen_Media_Center_Government_etc_Channel_26_(720p),https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8
 Milennio_TV_(720p),https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
 MilitaryTimes_(720p),https://naviofrequency-sightline-klowdtv.amagi.tv/playlist.m3u8
@@ -3310,6 +3308,7 @@ General,#genre#
 101tv_Ronda_(1080p),https://streaming101tv.es/hls/webronda.m3u8
 111_TV_(720p),https://5db313b643fd8.streamlock.net/111TV/111TV/playlist.m3u8
 360°_(1080p)_[Not_24/7],https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+360_RFTV_(576p),https://acceso.radiosportstv.online:3417/live/360rftvcrlive.m3u8
 A1_TV_(1080p)_[Not_24/7],https://stream.a1mediagroep.nl/hls/a1tv.m3u8
 A2i_TV_(1080p),https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
 A2TV,https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
@@ -3791,6 +3790,7 @@ CNC_Pasto_(720p),https://hvtraficonew.ddns.net/pastocnc9/cnc9/playlist.m3u8
 CNC_Santander_de_Quilichao_(480p),https://movil.ejeserver.com/live/cncsantander.m3u8
 CNM_TV_(720p)_[Not_24/7],https://stream.sen-gt.com/cnmtv/myStream/playlist.m3u8
 CNR_Televisión_(1080p),https://stream.oursnetworktv.com/latin/cnrtelevision/playlist.m3u8
+Codigo_TV_[Not_24/7],https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8
 Color_Visión_(576p)_[Not_24/7],https://cors-proxy.cooks.fyi/http://190.123.76.22:8000/play/a024/index.m3u8
 Columna_TV_(720p),http://live.columnatv.ro:1935/columnatv/live/playlist.m3u8
 COM_Brasil_(1080p)_[Not_24/7],https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
@@ -4177,7 +4177,7 @@ Jek_TV_(720p)_[Not_24/7],http://61.8.64.138:1935/jektv/myStream/playlist.m3u8
 Jiangxi_City_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8
 Jiangxi_Public_&_Agriculture_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8
 Jihočeská_televize_(1080p),https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
-Jimani_TV_(360p),https://tvdatta.com:3957/hybrid/play.m3u8
+Jimani_TV_(360p),https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8
 JN19_TV2_(1080p)_[Not_24/7],https://servilive.com:3224/live/jn19tv2live.m3u8
 Jogja_Istimewa_TV_(720p),http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 Jogja_TV_(720p)_[Not_24/7],https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
@@ -4448,6 +4448,7 @@ Mezőkövesdi_Televízió_(360p),https://cloudfront44.lexanetwork.com:1344/freer
 MGS_TV_(720p)_[Not_24/7],https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
 Mi_Canal_(576p)_[Not_24/7],http://ms.android-iptv.com/live/V7rA1feOk3/FkGkEh8Spe/6671.m3u8
 MI_Turno_TV,https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
+Miavision_TV_[Not_24/7],https://rdn.essastream.com:3550/live/miavisiontvlive.m3u8
 Microvision_10_(720p)_[Not_24/7],https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 Micto_(360p),http://93.78.206.172:8080/stream3/stream.m3u8
 MierschTV_(1080p),https://streamer20.multimedia.blue/Eltrona/merschTV/playlist.m3u8
@@ -6780,8 +6781,8 @@ Entertainment,#genre#
 247_Box_TV,https://hls.247box.live/hls/stream.m3u8
 312_ТВ_(406p),http://176.126.166.43:1935/live/312musik/playlist.m3u8
 504_TV_(720p),https://mediacp.us:8081/504tvhn/index.m3u8
-¡OPA!_(1080i),https://5fc584f3f19c9.streamlock.net:443/genteopa/videogenteopa/playlist.m3u8
 .black,http://s1.merlive.am/black/index.m3u8
+¡OPA!_(1080i),https://5fc584f3f19c9.streamlock.net:443/genteopa/videogenteopa/playlist.m3u8
 A&E_East_(720p),https://tvpass.org/live/AEEast/hd
 Aathavan_TV_(720p)_[Not_24/7],http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 ABC_TV_Plus_(720p),https://c.mjh.nz/abc-tv-plus.m3u8
@@ -9886,6 +9887,9 @@ TV_Modelo_(720p),https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3
 
 Animation;Classic,#genre#
 Retro_Crush,https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/playlist.m3u8
+
+Family;Kids,#genre#
+RiC_(1080p),https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
 
 Music;Sports,#genre#
 RTI_La_3_(1080p)_[Not_24/7],http://69.64.57.208/la3/index.m3u8

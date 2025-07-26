@@ -619,8 +619,8 @@ https://stream1.freetv.fun/31e5bd5c05941af99ca693a72b09790ccca2a4ec8378172fd90b2
 https://stream1.freetv.fun/79834e11f92f2d6a40ee7474e2f8f01a88c85e5d84b33a7f0ab13d67b0604a88.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-id="378827" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001717964200_12.png" group-title="Movies",[BD]cctv8
 https://stream1.freetv.fun/4bdb622b9323106fefcd68479b8ae140c393fc8a50e6fb82832591e9505f90f7.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-id="378828" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001710136564_30.png" group-title="Knowledge",[VGA]cctv9
-https://stream1.freetv.fun/8eceda551df80b2fa7d5e0f4187a16dc7245aa6202dc8d2db97108730d4eff1a.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="378828" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001710136564_30.png" group-title="Knowledge",[BD]cctv9
+https://stream1.freetv.fun/ea81fc0f2fac864a17a10c1a7f4d1a32258b45f78172eb9177e7b60db8c9e9b2.ctv
 #EXTINF:-1 tvg-name="CDN Deportes" tvg-id="" tvg-country="Dominican Republic" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205539113006_19.png" group-title="Sports",[VGA]cdn deportes
 https://stream1.freetv.fun/2a5813c5627e0bdea96973105b8cdbaf35f93ec35e099b930fddf6d30548b858.m3u8
 #EXTINF:-1 tvg-name="CELESTIAL CLASSIC MOVIES" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/02265b36c6f6577f93879d5bd87123ee.jpg" group-title="Movies",[SD]celestial classic *0
@@ -1113,8 +1113,8 @@ https://stream1.freetv.fun/417942fdec7af69490903b3628ea29cdd0c8f83bdba21a615198d
 https://stream1.freetv.fun/20a5ddfcd9e581d7cf2706b33d0cf25479d3ddf2d1139bc8dde28c6d8dcdb6d4.m3u8
 #EXTINF:-1 tvg-name="Fashion TV" tvg-id="55949" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/25/large/20220425141945869569_85.jpg" group-title="Entertainment",[BD]fashion tv
 https://stream1.freetv.fun/466804074e0bde1281d81de3d40f4af283fba65630afe0d15480d13aec03de2a.m3u8
-#EXTINF:-1 tvg-name="Fashion World" tvg-id="" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/03/03/large/20200303232008412011_84.png" group-title="Entertainment",[HD]world fashion
-https://stream1.freetv.fun/0de8dd6a5c1e1db384165707874bd22c526f877abc5b69581ab39424ee3b4806.m3u8
+#EXTINF:-1 tvg-name="Fashion World" tvg-id="" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/03/03/large/20200303232008412011_84.png" group-title="Entertainment",[BD]world fashion channel en
+https://stream1.freetv.fun/aa253df227b3e555e8028aff83c024d739c4547d9ad8d7c1c73d7f797b1a74b8.m3u8
 #EXTINF:-1 tvg-name="Fenerbahce TV" tvg-id="" tvg-country="Turkey" tvg-language="Turkish" tvg-logo="https://epg.pw/media/" group-title="Sports",[HD]fenerbahçe tv
 https://stream1.freetv.fun/af9e7908ac8cc0d1cb208ce535fd8de25df70a242ac9055e258b4c81e50a0beb.m3u8
 #EXTINF:-1 tvg-name="Feniks+Kino" tvg-id="" tvg-country="Russia" tvg-language="Russian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/11/26/20151126211757211668_70.png" group-title="Generic",[SD]feniks plus kino
@@ -1233,6 +1233,8 @@ https://stream1.freetv.fun/027cd356ec6b03bd62d4ccb17fc487c1dca3fd05bdbec771634fa
 https://stream1.freetv.fun/ca55672805b49090e590fb0285f494efbadab9b67a19f43f2a70c3199b684454.m3u8
 #EXTINF:-1 tvg-name="H1" tvg-id="" tvg-country="Germany" tvg-language="German" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174636823772_47.png" group-title="Generic",[BD]h1
 https://stream1.freetv.fun/abd5d23117197544a37142f15f54e9a6e6ebd034e79a301bd4625cb8c9f5e09d.ctv
+#EXTINF:-1 tvg-name="HBO" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/01/08/large/20170108215315326281_50.png" group-title="Movies",[BD]hbo
+https://stream1.freetv.fun/7e154d3ba0994a6d902f0a03ae0ac260fd826712e7b1b5077b3d086c8fc7cb8e.ctv
 #EXTINF:-1 tvg-name="HBO 2 HD" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/18/large/20160618150034715461_79.jpg" group-title="Movies",[HD]hbo 2 *3
 https://stream1.freetv.fun/14d8b73ed3edf5e8191d92fd9f1c7ea789852f3c68bd3d7da7103cdceab5ec50.ctv
 #EXTINF:-1 tvg-name="HBO 3" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/12/31/large/20161231230641871436_98.png" group-title="Movies",[BD]hbo *3
@@ -3482,7 +3484,7 @@ https://stream1.freetv.fun/039e1ba71e52af4dc60920c30cf124cbd0db69b2dd672c6550c5d
 #EXTINF:-1 tvg-name="广东综艺4K" tvg-id="" tvg-country="China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719064646595865_81.jpg" group-title="Entertainment",[BD]广东综艺
 https://stream1.freetv.fun/897c24cef72f6e357ce1f6651c05c25083f859f8379cce5f6c2bce04932a2811.ctv
 #EXTINF:-1 tvg-name="广东卫视" tvg-id="378850" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="Generic",[BD]广东卫视
-https://stream1.freetv.fun/6787e35b48df7529fb25c86cd92936335e75d68881015ff99c3e969f57177987.ctv
+https://stream1.freetv.fun/aff16c21768db1d338b768ad24bd76dd3faaa45a34844f5928b0de29d7d5ace2.ctv
 #EXTINF:-1 tvg-name="广东体育" tvg-id="" tvg-country="China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130318634112_23.png" group-title="Sports",[BD]广东体育
 https://stream1.freetv.fun/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.ctv
 #EXTINF:-1 tvg-name="广东体育HD" tvg-id="" tvg-country="China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130358843013_66.png" group-title="Sports",[SD]广东体育
@@ -3617,14 +3619,14 @@ https://stream1.freetv.fun/ff51b87d5cd5bd439c8c794400e57cef00030333c15716915efdb
 https://stream1.freetv.fun/38c52ac794874983f6d5f2df6443cb38df0ce082d1484f231b7147b7d3bae3c2.ctv
 #EXTINF:-1 tvg-name="江苏综艺" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530230738460353_80.jpg" group-title="Entertainment",[HD]江苏综艺
 https://stream1.freetv.fun/f8ef469943662bed2abc6609d9ef1720b9e93a8a0bd6f5789133461e36763f37.ctv
-#EXTINF:-1 tvg-name="江苏卫视" tvg-id="378846" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530225651709500_84.jpg" group-title="Generic",[HD]江苏卫视
-https://stream1.freetv.fun/d603dff9bd97cd0af111d22f7e7559d5811119df07427c3896440285361868da.ctv
+#EXTINF:-1 tvg-name="江苏卫视" tvg-id="378846" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530225651709500_84.jpg" group-title="Generic",[VGA]江苏卫视
+https://stream1.freetv.fun/4b3a79c01c9ae45646cd792c7c7818c22a58ed5cb47262cfd65e9895464207bf.ctv
 #EXTINF:-1 tvg-name="江苏体育休闲" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530230519981125_89.jpg" group-title="Sports",[HD]江苏体育
 https://stream1.freetv.fun/e9b0607a6ad54ba676d9bb046555ef959e983d1f66e584dd05e2c58424945b7e.ctv
 #EXTINF:-1 tvg-name="江西教育" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531144058195235_70.jpg" group-title="Other",[SD]江西教育
 https://stream1.freetv.fun/40c837a803a4ee4624f4d75fc4bd7c32835e47f7e6db647cc8219eaf49d768dd.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531144408646863_42.jpg" group-title="Generic",[BD]江西卫视
-https://stream1.freetv.fun/1d56b395bdb00424c44f8dbff39c9b2606472caa25b9328fb7231f8a97643de7.ctv
+https://stream1.freetv.fun/bc4d49bde015fc24aafb924423536d9ec2f09ad3d55313e4a482ba85ae48b175.m3u8
 #EXTINF:-1 tvg-name="河北经济生活" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531150116203512_52.jpg" group-title="Generic",[HD]淮北经济生活
 https://stream1.freetv.fun/3c6e99064cb6116c2dd03648f895a91b936609e0800bc9ae5c9c7b617338bff5.ctv
 #EXTINF:-1 tvg-name="河北卫视" tvg-id="13886" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531145616881844_72.jpg" group-title="Generic",[BD]河北卫视
@@ -3678,7 +3680,7 @@ https://stream1.freetv.fun/c2370b8a11519e11d24fe67dced2eddc7ea79a53c0dd318ffcb3c
 #EXTINF:-1 tvg-name="海南新闻" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530224744314446_96.jpg" group-title="News",[HD]海南新闻
 https://stream1.freetv.fun/8b98df967ed168dec0a6ccaa4e186dc27c2ffb698be5ef9c00bf6a5c30345a02.ctv
 #EXTINF:-1 tvg-name="海南卫视" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2021/09/13/large/20210913004059839717_73.png" group-title="Generic",[BD]海南卫视
-https://stream1.freetv.fun/b49eb8c449c75b34dae48f7cba8d8e63de58ca8e034c3095819a17688dd68e10.m3u8
+https://stream1.freetv.fun/468b29e1bee51764e3cf09ee70bf730e44aaeead942f39c43e9010e9da7b7a4a.ctv
 #EXTINF:-1 tvg-name="海口新闻综合" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/img/logo/2_55.jpg" group-title="Other",[BD]乌海新闻综合
 rtmp://play1-qk.nmtv.cn/live/1735546358166026
 #EXTINF:-1 tvg-name="海峡卫视" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128060839855238_81.jpg" group-title="Generic",[BD]海峡卫视
@@ -3919,8 +3921,8 @@ https://stream1.freetv.fun/5b81ab36a237c87b361817259db04b2a8d645fb46e2a264169ba9
 https://stream1.freetv.fun/1e519db50efc47898d28b361b278dd74438de87cd84222210bb38c2e60968666.m3u8
 #EXTINF:-1 tvg-name="云南影视" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531145247906980_49.jpg" group-title="Movies",[HD]云南影视
 rtmp://hwzbout.yntv.net/62hdvf/utrat7
-#EXTINF:-1 tvg-name="云南卫视" tvg-id="13899" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531145024469645_82.jpg" group-title="Other",[SD]云南卫视
-https://stream1.freetv.fun/ec6460f3951bfbaef38cc68bfe9248e1a90afea1f9ff73dfcc3b93812a11b519.m3u8
+#EXTINF:-1 tvg-name="云南卫视" tvg-id="13899" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531145024469645_82.jpg" group-title="Other",[BD]云南卫视
+https://stream1.freetv.fun/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.m3u8
 #EXTINF:-1 tvg-name="云南都市" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2021/10/12/large/20211012202751642735_81.png" group-title="News",[HD]云南都市
 https://stream1.freetv.fun/c7f89783268c13760aff864a0e464360ea9335ac3ef8a5ef52a354d7fd305ef2.m3u8
 #EXTINF:-1 tvg-name="电影频道" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/" group-title="Test",[BD]电影
