@@ -4402,7 +4402,7 @@ Mayavisión_(720p),https://www.amixtv.com:8081/mayavision/index.m3u8
 Mayyazhi_(720p)_[Not_24/7],http://131.153.22.8:1935/MAYYAZHI/live/playlist.m3u8
 Mazandaran_TV,https://lenz.splus.ir/PLTV/88888888/224/3221226786/index.m3u8
 MBC_1,https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel1/index.m3u8
-MBC_1_USA_(1080p),https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+MBC_1_USA_(1080p),https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
 MBC_Andong_(안동_MBC)_(360p)_[Not_24/7],http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
 MBC_Busan_(부산MBC)_(360p)_[Not_24/7],https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
 MBC_Chuncheon_(춘천_MBC)_(480p)_[Not_24/7],https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
@@ -8152,7 +8152,6 @@ Lovetoons_TV_(720p),https://kali1.everestcast.com:3674/stream/play.m3u8
 M-Net_Kids_(720p),http://ares.mnet.mk/hls/mnet-kids.m3u8
 Majid_(1080p),https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 Mama,http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
-MBC_3_KSA_(1080p),https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 MBC_3_USA_(1080p),https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 MBC_5,https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel5/index.m3u8
 Minika_Cocuk,https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8
