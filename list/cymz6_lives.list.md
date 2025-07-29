@@ -330,4 +330,4 @@
 | 324 | 金鹰卡通 | IPv4 直链 | <http://101.66.198.105:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 325 | 金鹰卡通 | IPv4 直链 | <http://101.66.198.146:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **Tue Jul 29 2025 08:23:45 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 29 2025 10:18:41 GMT+0000 (Coordinated Universal Time)**
