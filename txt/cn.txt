@@ -31,7 +31,6 @@
 [BD]安徽经济生活,https://stream1.freetv.fun/f3dfa1d34a0f8168914de5adf6d9e8bad20eca344cb88dba00a3240067eadf09.m3u8
 [BD]安徽卫视,https://stream1.freetv.fun/aa9b31c1dbeffb511830532e0b8f1413b48dd2c61e59e843d19ba9fc3a073241.ctv
 [HD]山东教育卫视,https://stream1.freetv.fun/8596262d4deaa9e82de7276248b7b996d7f7c42f07ed5996e3daa8373a18a0ac.ctv
-[SD]山东生活,https://stream1.freetv.fun/ef9e9bebfa93c3159329e47117883dba884d51d8bd5f3c3552e322da36cb7218.m3u8
 [BD]山东卫视,https://stream1.freetv.fun/3b97ca6daa3a8451a385b7db783b1c5622e979ec500532a2ff7145e99e78fab5.m3u8
 [HD]山西社会与法,https://stream1.freetv.fun/25f48f7cf5ed3d987cf8ee36a0adc9be9a86d09cd09d11a2b1ef555e10178169.ctv
 [SD]山西卫视,https://stream1.freetv.fun/2f538e8c3c3dc60b99799fb3331f5f05b5a9c3c574544b4178a57a7de78f6884.m3u8
