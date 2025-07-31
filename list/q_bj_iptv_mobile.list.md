@@ -1,4 +1,4 @@
-# List for **qwerttvv/Beijing-IPTV IPTV Mobile**
+# List for **qwerttvv/Beijing-IPTV IPTV Mobile**(Rollback)
 
 > M3U: [q_bj_iptv_mobile.m3u](/q_bj_iptv_mobile.m3u), TXT: [q_bj_iptv_mobile.txt](/txt/q_bj_iptv_mobile.txt)
 
@@ -134,4 +134,4 @@
 | 128 | 山东教育 | IPv4 直链 | <http://192.168.123.1:23234/rtp/228.1.1.96:4120> |
 | 129 | 财富天下 | IPv4 直链 | <http://192.168.123.1:23234/rtp/228.1.1.90:9136> |
 
-Updated at **Wed Jul 30 2025 22:17:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 31 2025 01:23:35 GMT+0000 (Coordinated Universal Time)**
