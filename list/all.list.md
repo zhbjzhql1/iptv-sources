@@ -1987,4 +1987,4 @@
 | 1981 | [HD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv> |
 | 1982 | [HD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/66c2819a6d6159881e8bdfe88f1bd048bbae6df9ceaa34472d317615c13f15cf.ctv> |
 
-Updated at **Sat Aug 02 2025 14:15:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 02 2025 16:19:43 GMT+0000 (Coordinated Universal Time)**
