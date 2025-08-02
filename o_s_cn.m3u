@@ -153,8 +153,6 @@ http://49.113.179.174:4022/udp/238.125.3.181:5140
 http://49.113.179.174:4022/udp/238.125.7.153:5140
 #EXTINF:-1 tvg-id="XinjiangTV12.cn",Xinjiang TV 12
 http://49.113.179.174:4022/udp/238.125.3.185:5140
-#EXTINF:-1 tvg-id="XizangTVChinese.cn",Xizang TV Chinese
-http://php.jdshipin.com/xztv.php?id=ws
 #EXTINF:-1 tvg-id="XizangTVTibetan.cn",Xizang TV Tibetan
 http://49.113.179.174:4022/udp/238.125.3.94:5140
 #EXTINF:-1 tvg-id="YanbianCineseComprehensiveChannel.cn",Yanbian Cinese Comprehensive Channel
