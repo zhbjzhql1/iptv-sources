@@ -449,7 +449,7 @@
 | 443 | Jilin City Channel | lsfb.avap.jilintv.cn | <https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8> |
 | 444 | Guangzhou TV | tencentplaybusiness.gztv.com | <https://tencentplaybusiness.gztv.com/live/zonghes.m3u8> |
 | 445 | Harbin Movie Channel | stream.hrbtv.net | <https://stream.hrbtv.net/yspd/playlist.m3u8> |
-| 446 | CCTV-4 Asia | trn03.bozztv.com | <http://trn03.bozztv.com/gin-cctv4/index.m3u8> |
-| 447 | Shenzhen Satellite TV (2160p) | livepull-tcms.sztv.com.cn | <https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8> |
+| 446 | Shenzhen Satellite TV (2160p) | livepull-tcms.sztv.com.cn | <https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8> |
+| 447 | Siping TV | 吉林广播电视台 | <http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598> |
 
-Updated at **Sat Aug 02 2025 01:20:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 02 2025 03:23:15 GMT+0000 (Coordinated Universal Time)**
