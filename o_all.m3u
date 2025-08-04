@@ -901,6 +901,8 @@ https://streamer3.premio.link/alqamar/playlist.m3u8
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 #EXTINF:-1 tvg-id="AlRafidainTV.tr" tvg-logo="https://i.imgur.com/rjXDCN5.png" group-title="Religious",Al Rafidain (720p) [Not 24/7]
 https://arrafidain.tvplayer.online/arrafidaintv/source2/playlist.m3u8
+#EXTINF:-1 tvg-id="AlRahma.eg@SD" tvg-logo="https://i.imgur.com/bK9LWJp.png" group-title="Religious",Al Rahma (480p)
+https://rumble.com/live-hls-dvr/6u42de/playlist.m3u8
 #EXTINF:-1 tvg-id="AlRasheedTV.iq" tvg-logo="https://i.imgur.com/ltyRjPK.png" group-title="General",Al Rasheed TV (1080p) [Not 24/7]
 https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
 #EXTINF:-1 tvg-id="AlRayyanTV.qa" tvg-logo="https://i.imgur.com/Ts3RjTV.png" group-title="General",Al Rayyan (1080p)
@@ -6253,6 +6255,8 @@ https://stream.medialive.hu/gran/grantvlive/playlist.m3u8
 https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Grandeish.us" tvg-logo="https://i.imgur.com/NxE3kX3.png" group-title="Kids",Grande-ish
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fafef7c2440500071266e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291883-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cee74994-231a-4a51-b141-e2e69c070aee
+#EXTINF:-1 tvg-id="GraphiteHD.us@West" tvg-logo="https://i.ibb.co/v6Lgng1s/Graphite-HD-Logo.png" group-title="Animation",Graphite HD (720p) [Not 24/7]
+https://live20.bozztv.com/giatv/giatv-gooderisgooder/gooderisgooder/chunks.m3u8
 #EXTINF:-1 tvg-id="GreatAmericanCountry.us" tvg-logo="https://i.imgur.com/TzvnHDn.png" group-title="Outdoor",Great American Country
 https://fl3.moveonjoy.com/Great_American_Country/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Great British Menu (720p)
