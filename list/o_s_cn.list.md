@@ -452,4 +452,4 @@
 | 446 | Shenzhen Satellite TV (2160p) | livepull-tcms.sztv.com.cn | <https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8> |
 | 447 | Siping TV | 吉林广播电视台 | <http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598> |
 
-Updated at **Mon Aug 04 2025 10:20:25 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Aug 04 2025 12:37:52 GMT+0000 (Coordinated Universal Time)**
