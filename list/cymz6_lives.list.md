@@ -167,4 +167,4 @@
 | 161 | 风云音乐 | IPv4 直链 | <http://221.193.168.219:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 162 | 风云音乐 | IPv4 直链 | <http://221.193.168.234:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Wed Aug 06 2025 10:19:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Aug 06 2025 12:37:20 GMT+0000 (Coordinated Universal Time)**
