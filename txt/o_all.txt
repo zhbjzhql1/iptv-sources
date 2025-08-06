@@ -6211,7 +6211,7 @@ DHA_(720p)_[Not_24/7],https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/pl
 Di_TV_(1080p),https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8
 Didgah_TV_(576p),https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
 Dighvijay_(240p)_[Not_24/7],https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
-Digi_24_(1080p),http://62.233.57.226:8001/play/a00k00
+Digi_24_(720p),https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 Dijlah_TV_(1080p),https://ghaasiflu.online/Dijlah/index.m3u8
 DİM_TV_(720p),https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8
 Dotto_TV_(720p),https://dotto.edvr.ro/live/index.m3u8

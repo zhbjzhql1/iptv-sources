@@ -2237,7 +2237,7 @@
 | 2231 | Diez TV Úbeda (1080p) | streaming.cloud.innovasur.es | <https://streaming.cloud.innovasur.es/mmj/index.m3u8> |
 | 2232 | DiezTV Encarnación (1080p) | stream.oursnetworktv.com | <https://stream.oursnetworktv.com/latin/encoder87/playlist.m3u8> |
 | 2233 | Dighvijay (240p) [Not 24/7] | vidcdn.vidgyor.com | <https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8> |
-| 2234 | Digi 24 (1080p) | IPv4 直链 | <http://62.233.57.226:8001/play/a00k00> |
+| 2234 | Digi 24 (720p) | edge-ar.rcs-rds.ro | <https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8> |
 | 2235 | Digi Movie [Not 24/7] | fastdehost.com | <https://fastdehost.com/live/digimovie.m3u8> |
 | 2236 | Digimon Adventure | cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv | <http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/617bae1d69bca3000729561e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0662e2-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d081da78-acbb-459e-9034-63720548296e> |
 | 2237 | DigiOne (720p) | cdn-telkomsel-01.akamaized.net | <https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8> |
@@ -9751,4 +9751,4 @@
 | 9745 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
 | 9746 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
 
-Updated at **Tue Aug 05 2025 22:17:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Aug 06 2025 01:23:56 GMT+0000 (Coordinated Universal Time)**
