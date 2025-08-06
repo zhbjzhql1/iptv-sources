@@ -91,4 +91,4 @@
 | 85 | 聚鲨精选 | IPv4 直链 | <rtp://239.3.1.179:8001> |
 | 86 | 中国交通 | IPv4 直链 | <rtp://239.3.1.188:8001> |
 
-Updated at **Wed Aug 06 2025 12:37:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Aug 06 2025 14:20:40 GMT+0000 (Coordinated Universal Time)**
