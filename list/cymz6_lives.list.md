@@ -270,4 +270,4 @@
 | 264 | 金鹰卡通 | IPv4 直链 | <http://1.195.131.69:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 265 | 金鹰卡通 | IPv4 直链 | <http://1.197.251.119:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Fri Aug 08 2025 04:40:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Aug 08 2025 06:27:46 GMT+0000 (Coordinated Universal Time)**
