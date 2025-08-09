@@ -19,7 +19,7 @@
 | 13 | [BD]cctv16 | stream1.freetv.fun | <https://stream1.freetv.fun/e48a1dccf8e46a6ff6d6c3f16ecb266622e67ea7ad05003389743c7c6a988b5b.m3u8> |
 | 14 | [BD]cctv17 | stream1.freetv.fun | <https://stream1.freetv.fun/d8b7ff5633a3ddbce9eaa0ff2431fa601b88302391aa01a7e37fbd2d940a7079.m3u8> |
 | 15 | [BD]cctv2 | stream1.freetv.fun | <https://stream1.freetv.fun/11624a2b3b906e8cf3d5dbba63815541796c032f336cf0b8e79b94734cb7cd55.m3u8> |
-| 16 | [BD]cctv3 | stream1.freetv.fun | <https://stream1.freetv.fun/c5ff859d44804f094aedf2bce212963895c709b2f0eba94b9648490afee2f356.m3u8> |
+| 16 | [BD]cctv3 | stream1.freetv.fun | <https://stream1.freetv.fun/c50fdff43b47739107159b5e23f33d5bfcefc40042e648e6d263ff3f952208e6.m3u8> |
 | 17 | [BD]cctv4 | stream1.freetv.fun | <https://stream1.freetv.fun/edf47a1155e85caeb7f16a8e02dddfb5579e7edb9c93d0e452a233b6ef352575.m3u8> |
 | 18 | [BD]cctv4 | stream1.freetv.fun | <https://stream1.freetv.fun/15a4180e12b35249c7b2bc9d2b5d2feed983b66d309ca216fc6d8782766a349f.m3u8> |
 | 19 | [BD]cctv4中文国际欧洲 | stream1.freetv.fun | <https://stream1.freetv.fun/a2ed661a78a56612b57fac4cb28f7edb1d3930e3173eddb1fc07918d66e35c86.ctv> |
@@ -30,7 +30,7 @@
 | 24 | [HD]cctv-5 plus体育赛事 | stream1.freetv.fun | <https://stream1.freetv.fun/46426c5508230b3191d6e2f8741db45084d30a8dff4b789fbcf7ec48bdce110a.m3u8> |
 | 25 | [BD]cctv6 | stream1.freetv.fun | <https://stream1.freetv.fun/fbe6c405877cbbd0d330d7858fc46218de4d7a13dc574d2fae67a63becc91f91.m3u8> |
 | 26 | [BD]cctv7 | stream1.freetv.fun | <https://stream1.freetv.fun/79834e11f92f2d6a40ee7474e2f8f01a88c85e5d84b33a7f0ab13d67b0604a88.m3u8> |
-| 27 | [BD]cctv8 | stream1.freetv.fun | <https://stream1.freetv.fun/a15c826cb06f60854c3c203da5848c1cfb80ea188ddfd7ca83bd845f170ca2a1.m3u8> |
+| 27 | [SD]cctv8 | stream1.freetv.fun | <https://stream1.freetv.fun/4bdb622b9323106fefcd68479b8ae140c393fc8a50e6fb82832591e9505f90f7.ctv> |
 | 28 | [HD]cctv9 | stream1.freetv.fun | <https://stream1.freetv.fun/ea81fc0f2fac864a17a10c1a7f4d1a32258b45f78172eb9177e7b60db8c9e9b2.ctv> |
 | 29 | [SD]celestial classic *0 | stream1.freetv.fun | <https://stream1.freetv.fun/58ec41f1ea27b3c6a6d1a6d433cbb060e2430497a319028af85fedf34ae4efe0.ctv> |
 | 30 | [HD]cgtn *tv | stream1.freetv.fun | <https://stream1.freetv.fun/2f83382e8ba5ce27945ea9fd4abdb3423edf9ce609683363ec1120fb37822aad.ctv> |
@@ -307,4 +307,4 @@
 | 301 | [BD]溧水新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/1a079c059eb130d33f8a0b23c616b77e1390d13bed99002dda920d83163b8808.m3u8> |
 | 302 | [BD]黑龙江卫视高清 | stream1.freetv.fun | <https://stream1.freetv.fun/0342355911b1783929522a5f6ba3f359188afd79f7b1e837d5cf6a9a9050f085.ctv> |
 
-Updated at **Sat Aug 09 2025 04:25:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 09 2025 06:23:51 GMT+0000 (Coordinated Universal Time)**
