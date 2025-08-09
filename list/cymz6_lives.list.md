@@ -238,4 +238,4 @@
 | 232 | 风云音乐 | IPv4 直链 | <http://221.193.168.156:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 233 | 风云音乐 | IPv4 直链 | <http://221.193.168.247:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sat Aug 09 2025 16:19:17 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 09 2025 18:22:10 GMT+0000 (Coordinated Universal Time)**
