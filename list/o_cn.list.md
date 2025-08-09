@@ -29,7 +29,7 @@
 | 23 | CCTV 风云音乐 | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_FENGYUNYY-CQ/G_FENGYUNYY-CQ.m3u8?p=GITV> |
 | 24 | CCTV+ 1 (600p) [Not 24/7] | CCTV+ | <https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8> |
 | 25 | CCTV+ 2 (600p) [Not 24/7] | CCTV+ | <https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8> |
-| 26 | CCTV-5体育 (1080p) | IPv4 直链 | <http://1.85.0.62:808/hls/503/index.m3u8> |
+| 26 | CCTV-5体育 (1080p) | IPv4 直链 | <http://220.178.228.153:1935/live/cctv5/playlist.m3u8> |
 | 27 | CCTV-6电影 (1080p) | IPv4 直链 | <http://1.85.0.62:808/hls/6/index.m3u8> |
 | 28 | CCTV-13新闻 (1080p) | CCTV | <https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8> |
 | 29 | CETV1 (576p) | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV> |
@@ -179,4 +179,4 @@
 | 173 | 鹤壁新闻综合 (480p) [Not 24/7] | pili-live-hls.hebitv.com | <http://pili-live-hls.hebitv.com/hebi/hebi.m3u8> |
 | 174 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
 
-Updated at **Sat Aug 09 2025 18:22:10 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 09 2025 20:17:27 GMT+0000 (Coordinated Universal Time)**
