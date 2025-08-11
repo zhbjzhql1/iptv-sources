@@ -4,7 +4,7 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | [BD]cctv-8高清 | stream1.freetv.fun | <https://stream1.freetv.fun/d4e41340653ef3bc5e2b559cce1953ba68c56106f7afad9c4b9245f2c426d1fb.ctv> |
+| 1 | [BD]cctv-8[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/2e306ebe387de83590a676b156f6db16f86d4c598cb04b945d3a9deb2a2f5f68.m3u8> |
 | 2 | [BD]rt documentary | stream1.freetv.fun | <https://stream1.freetv.fun/2457bb78e02877ba9fc32e4dc055508deeff4084ca3fc8fc4d0e49ad5ce9cfe3.m3u8> |
 | 3 | [BD]cctv俄语 | stream1.freetv.fun | <https://stream1.freetv.fun/64be70c8173273b7c3e790bd3b3e5a5ec61d3b52b6ecec23f401248e220e1d76.ctv> |
 | 4 | [BD]cctv阿拉伯语 | stream1.freetv.fun | <https://stream1.freetv.fun/00378b05e789f52538fa39a8746b9caf8e7fc62111006d9132ffd472feef5a01.ctv> |
@@ -168,7 +168,7 @@
 | 162 | [HD]公共新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/e75a7b1239c940d061ddbc788d8b084b69c49e30e9b67202859a0c2bba08491b.m3u8> |
 | 163 | [HD]江苏影视 | stream1.freetv.fun | <https://stream1.freetv.fun/d45fb60cfaf15ccae31cd7a60a0e35dde99da0f4252201b293525152d95dd6ea.m3u8> |
 | 164 | [BD]江苏卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/d603dff9bd97cd0af111d22f7e7559d5811119df07427c3896440285361868da.m3u8> |
-| 165 | [BD]江苏卫视高清 | stream1.freetv.fun | <https://stream1.freetv.fun/201bc6a223bdc6a156faed559f05f3b9fa676c987f5f44cbdf62123f6977d5e9.ctv> |
+| 165 | [HD]江苏卫视 *r | stream1.freetv.fun | <https://stream1.freetv.fun/35c4a687dd8ddc932cd436e25502e29ccfcc036c6537cf1d726244cfe0f80da8.ctv> |
 | 166 | [SD]江西教育 | stream1.freetv.fun | <https://stream1.freetv.fun/78eb120e5003e4c379e182cc7b7c8abe0fcd835c3d9e33cc58a04b1648b184a7.ctv> |
 | 167 | [BD]江西卫视[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/bc4d49bde015fc24aafb924423536d9ec2f09ad3d55313e4a482ba85ae48b175.m3u8> |
 | 168 | [BD]河北少儿科教高清 | stream1.freetv.fun | <https://stream1.freetv.fun/1ceaa984a66066f452856a969fd8c6f9b7cabf517f6c5c9bd239882dfb72c386.ctv> |
@@ -296,4 +296,4 @@
 | 290 | [BD]溧水新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/1a079c059eb130d33f8a0b23c616b77e1390d13bed99002dda920d83163b8808.m3u8> |
 | 291 | [BD]黑龙江卫视高清 | stream1.freetv.fun | <https://stream1.freetv.fun/0342355911b1783929522a5f6ba3f359188afd79f7b1e837d5cf6a9a9050f085.ctv> |
 
-Updated at **Mon Aug 11 2025 20:17:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Aug 11 2025 22:15:42 GMT+0000 (Coordinated Universal Time)**
