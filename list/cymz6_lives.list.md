@@ -228,4 +228,4 @@
 | 222 | 金鹰卡通 | IPv4 直链 | <http://101.66.199.144:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 223 | 金鹰卡通 | IPv4 直链 | <http://101.66.199.251:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **Fri Aug 15 2025 10:17:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Aug 15 2025 12:32:37 GMT+0000 (Coordinated Universal Time)**
