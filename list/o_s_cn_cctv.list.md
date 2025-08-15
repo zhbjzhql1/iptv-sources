@@ -10,4 +10,4 @@
 | 4 | CCTV-6电影 (1080p) | IPv4 直链 | <http://1.85.0.62:808/hls/6/index.m3u8> |
 | 5 | CCTV-13新闻 (1080p) | CCTV | <https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8> |
 
-Updated at **Fri Aug 15 2025 06:25:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Aug 15 2025 08:21:52 GMT+0000 (Coordinated Universal Time)**
