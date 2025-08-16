@@ -53,4 +53,4 @@
 | 47 | 新闻 | IPv4 直链 | <http://182.113.6.210:9901/tsfile/live/0109_7.m3u8?key=txiptv&playlive=1&authid=0> |
 | 48 | 电视剧 | IPv4 直链 | <http://182.113.6.210:9901/tsfile/live/0109_6.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sat Aug 16 2025 08:19:39 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 16 2025 10:14:56 GMT+0000 (Coordinated Universal Time)**
